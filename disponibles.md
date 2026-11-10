@@ -17,10 +17,14 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - [Todas las portátiles](portatiles.md) — 83 anuncios (Game Boy, Game Boy Color, Game Boy Advance, Game Boy SP, PSP, PS Vita, Nintendo DS, Nintendo 3DS, Game Gear, Nokia N-Gage)
 - [6ta generación](6ta-generacion.md) — 25 anuncios (GameCube, Dreamcast, PlayStation 2, Xbox Clásico)
 - [7ma generación](7ma-generacion.md) — 51 anuncios (Wii, PlayStation 3, Xbox 360)
-- [8va generación](8va-generacion.md) — 256 anuncios (Wii U, PlayStation 4, Xbox One)
-- [9na generación](9na-generacion.md) — 588 anuncios (Nintendo Switch, PlayStation 5, Xbox Series X/S)
+- [Wii U](wii-u.md) — 6 anuncios
+- [PlayStation 4 (PS4)](ps4.md) — 243 anuncios
+- [Xbox One](xbox-one.md) — 6 anuncios
+- [Nintendo Switch](nintendo-switch.md) — 565 anuncios
+- [PlayStation 5 (PS5)](ps5.md) — 17 anuncios
+- [Xbox Series X/S](xbox-series.md) — 1 anuncios
 - [10ma generación](10ma-generacion.md) — 26 anuncios (Nintendo Switch 2)
-- [Otros — Multiplataforma o sin plataforma clara](otros-multiplataforma-y-sin-clasificar.md) — 279 anuncios
+- [Otros — Multiplataforma o sin plataforma clara](otros-multiplataforma-y-sin-clasificar.md) — 285 anuncios
 
 ## Disponibles (de más actual a más viejo)
 
