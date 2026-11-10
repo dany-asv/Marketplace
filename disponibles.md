@@ -12,11 +12,30 @@ Total: 1338 anuncios disponibles.
 
 Cada anuncio está clasificado en un solo archivo según la plataforma que nombra su título. Los anuncios que abarcan varias generaciones o no nombran una plataforma clara están en Otros.
 
-- [1ra, 2da y 3ra generación](1ra-2da-3ra-generacion.md) — 5 anuncios (Atari 2600, Intellivision, Atari 5200, NES, Sega Master System)
-- [4ta y 5ta generación](4ta-5ta-generacion.md) — 25 anuncios (SNES, Sega Génesis, Nintendo 64, Sega Saturn, PlayStation 1)
-- [Todas las portátiles](portatiles.md) — 83 anuncios (Game Boy, Game Boy Color, Game Boy Advance, Game Boy SP, PSP, PS Vita, Nintendo DS, Nintendo 3DS, Game Gear, Nokia N-Gage)
-- [6ta generación](6ta-generacion.md) — 25 anuncios (GameCube, Dreamcast, PlayStation 2, Xbox Clásico)
-- [7ma generación](7ma-generacion.md) — 51 anuncios (Wii, PlayStation 3, Xbox 360)
+- 1ra, 2da y 3ra generación:
+  - [NES](3ra-nes.md) — 5 anuncios
+- 4ta y 5ta generación:
+  - [Super Nintendo (SNES)](4ta-snes.md) — 5 anuncios
+  - [Nintendo 64 (N64)](5ta-nintendo-64.md) — 16 anuncios
+  - [PlayStation 1 (PS1)](5ta-ps1.md) — 4 anuncios
+- Portátiles:
+  - [Game Boy](portatiles-game-boy.md) — 5 anuncios
+  - [Game Boy Advance (GBA)](portatiles-game-boy-advance.md) — 1 anuncios
+  - [Game Boy Advance SP (GBA SP)](portatiles-game-boy-advance-sp.md) — 2 anuncios
+  - [PSP](portatiles-psp.md) — 11 anuncios
+  - [PS Vita](portatiles-ps-vita.md) — 6 anuncios
+  - [Nintendo DS](portatiles-nintendo-ds.md) — 22 anuncios
+  - [Nintendo 2DS](portatiles-nintendo-2ds.md) — 2 anuncios
+  - [Nintendo 3DS](portatiles-nintendo-3ds.md) — 20 anuncios
+- 6ta generación:
+  - [GameCube](6ta-gamecube.md) — 7 anuncios
+  - [Dreamcast](6ta-dreamcast.md) — 2 anuncios
+  - [PlayStation 2 (PS2)](6ta-ps2.md) — 15 anuncios
+  - [Xbox Clásico](6ta-xbox-clasico.md) — 1 anuncios
+- 7ma generación:
+  - [Wii](7ma-wii.md) — 27 anuncios
+  - [PlayStation 3 (PS3)](7ma-ps3.md) — 20 anuncios
+  - [Xbox 360](7ma-xbox-360.md) — 4 anuncios
 - 8va generación:
   - [Wii U](8va-wii-u.md) — 6 anuncios
   - [PlayStation 4 (PS4)](8va-ps4.md) — 243 anuncios
@@ -25,8 +44,9 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - [Nintendo Switch](9na-nintendo-switch.md) — 565 anuncios
   - [PlayStation 5 (PS5)](9na-ps5.md) — 17 anuncios
   - [Xbox Series X/S](9na-xbox-series.md) — 1 anuncio
-- [10ma generación](10ma-generacion.md) — 26 anuncios (Nintendo Switch 2)
-- [Otros — Multiplataforma o sin plataforma clara](otros-multiplataforma-y-sin-clasificar.md) — 285 anuncios
+- 10ma generación:
+  - [Nintendo Switch 2](10ma-nintendo-switch-2.md) — 26 anuncios
+- [Otros — Multiplataforma o sin plataforma clara](otros-multiplataforma-y-sin-clasificar.md) — 299 anuncios
 
 ## Disponibles (de más actual a más viejo)
 
