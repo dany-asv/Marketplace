@@ -1,0 +1,261 @@
+# Otros — Multiplataforma o sin plataforma clara — Marketplace Los Mochis (videojuegos)
+
+Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa, clasificados según las reglas del grupo Mundo Retro.
+
+- Anuncios que abarcan varias generaciones, consolas emuladoras retro (Game Stick, M14 Pro, X9, Mákina), accesorios genéricos o títulos que no nombran una plataforma clara.
+- Ordenados de más actual a más viejo según la fecha y hora de publicación (hora de Los Mochis).
+- Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
+
+Total: 249 anuncios disponibles.
+
+## Disponibles (de más actual a más viejo)
+
+- 2026-11-10 11:42 — [Consola M14 Pro 4K +20000 Juegos](https://www.facebook.com/marketplace/item/2179267716185712) — $650 — Los Mochis
+- 2026-11-09 19:18 — [Vendo Zelda Ocarina Of Time NUEVO](https://www.facebook.com/marketplace/item/1635009411463921) — GRATIS — Nuevo — Los Mochis
+- 2026-11-09 11:43 — [Starfox remake](https://www.facebook.com/marketplace/item/983785638119233) — $1.000 — Usado - Como nuevo — Los Mochis
+- 2026-11-08 18:11 — [Nintendo y juegos](https://www.facebook.com/marketplace/item/3666305270213132) — $2.000 — Usado - Buen estado — Los Mochis
+- 2026-11-07 04:55 — [Nintendo 64 o cambio por Nintendo NES](https://www.facebook.com/marketplace/item/1151707693869630) — $1.500 — Usado - Buen estado — Los Mochis
+- 2026-11-05 20:07 — [The legend of Zelda ocarina of time](https://www.facebook.com/marketplace/item/2232672043957860) — $2.500 — Nuevo — Los Mochis
+- 2026-11-05 19:37 — [Sonic 2 y ni no kuni](https://www.facebook.com/marketplace/item/2149935728978567) — GRATIS — Usado — Los Mochis
+- 2026-11-05 19:29 — [Combo para escritorio, tapete 80x60, teclado mecanico, soporte para laptop, y audifonos inalambricos](https://www.facebook.com/marketplace/item/1454994946562510) — $123 — Los Mochis
+- 2026-11-05 16:28 — [Juegos de PlayStation $300c/u](https://www.facebook.com/marketplace/item/1521965226383474) — $300 — Usado - Como nuevo — Los Mochis
+- 2026-11-05 13:49 — [Consolas Nintendo retro](https://www.facebook.com/marketplace/item/1808346203699556) — $1.500 — Usado - Buen estado — Los Mochis
+- 2026-11-05 07:36 — [Volante Logitech G920](https://www.facebook.com/marketplace/item/1893501318563958) — $4.000 — Los Mochis
+- 2026-11-04 13:52 — [Nendoroid Kirby Robobot & Kirby - Good Smile Company - Sellado Original](https://www.facebook.com/marketplace/item/1125340696809093) — $2.000 — Usado — Los Mochis
+- 2026-11-04 12:56 — [venta](https://www.facebook.com/marketplace/item/1151352550678434) — $1.100 — Nuevo — Los Mochis
+- 2026-11-03 21:31 — [FIFA 23 y call of duty ghosts](https://www.facebook.com/marketplace/item/1795979078286100) — $1 — Usado - Como nuevo — Los Mochis
+- 2026-11-03 16:43 — [Controles para ps4, Game cube y super nintendo](https://www.facebook.com/marketplace/item/2222182731673283) — $400 — Nuevo — Los Mochis
+- 2026-11-02 11:59 — [COMPRO TU CONSOLA NINTENDOO VIDEOJUEGOS](https://www.facebook.com/marketplace/item/4662104024069000) — GRATIS — Usado — Los Mochis
+- 2026-11-01 15:33 — [8bitdo](https://www.facebook.com/marketplace/item/1833935207753499) — $550 — Usado - Como nuevo — Los Mochis
+- 2026-11-01 14:27 — [vendo o cambio por iPad](https://www.facebook.com/marketplace/item/2326220478130133) — $6.000 — Usado - Como nuevo — Los Mochis
+- 2026-10-31 20:26 — [Dragon quest reimagined](https://www.facebook.com/marketplace/item/1778598743420576) — $850 — Nuevo — Los Mochis
+- 2026-10-31 11:24 — [Controles para consolas](https://www.facebook.com/marketplace/item/1521016003190029) — $399 — Nuevo — Los Mochis
+- 2026-10-30 12:01 — [Control Xbox Elite Core 2](https://www.facebook.com/marketplace/item/1103033145935488) — $2.000 — Los Mochis — vendedor CONFIABLE de Daniel: Miguel Armenta
+- 2026-10-30 11:17 — [Juegos](https://www.facebook.com/marketplace/item/867518563084625) — $200 — Usado - Como nuevo — Los Mochis
+- 2026-10-30 04:16 — [Se venden 3 juegos para play 4por $1300](https://www.facebook.com/marketplace/item/2739396749825358) — $1.300 — Usado - Como nuevo — Los Mochis
+- 2026-10-29 16:42 — [Juegos](https://www.facebook.com/marketplace/item/1762895271426187) — $1 — Usado - Como nuevo — Los Mochis
+- 2026-10-29 15:32 — [Nuevos para Nintendo](https://www.facebook.com/marketplace/item/1591474245626325) — $900 — Nuevo — Los Mochis
+- 2026-10-28 21:55 — [Zelda](https://www.facebook.com/marketplace/item/4696253194028504) — $1 — Usado - Como nuevo — Los Mochis
+- 2026-10-27 23:32 — [Plumas para consolas DS, Dsi, Dsi XL, 3ds, 3ds XL, New 3dsxl y 2ds, New 2ds XL , Wii u](https://www.facebook.com/marketplace/item/1144531488090080) — $50 — Nuevo — Los Mochis — vendedor CONFIABLE de Daniel: Star Games
+- 2026-10-27 18:15 — [Audífonos Xbox](https://www.facebook.com/marketplace/item/1820455375868718) — $5 — Usado - Como nuevo — Los Mochis — precio a confirmar: $5 parece error
+- 2026-10-27 07:55 — [Mákina con muchos juegos clásicos y modernos..miles..$3500 tel.6681993508](https://www.facebook.com/marketplace/item/1584985079561237) — $350 — Los Mochis — precio a confirmar: el título dice $3,500 y el precio publicado es $350
+- 2026-10-26 23:31 — [Vendo xbox con sus cables y un control no está chipiado](https://www.facebook.com/marketplace/item/1822248852108388) — $500 — Usado - Como nuevo — Los Mochis
+- 2026-10-26 16:18 — [Crash insane trilogy](https://www.facebook.com/marketplace/item/1834198177918370) — $500 — Usado - Como nuevo — Los Mochis
+- 2026-10-25 23:56 — [Nintendo baratos 600 cada uno](https://www.facebook.com/marketplace/item/2502894996867525) — $650 — Nuevo — Los Mochis
+- 2026-10-25 22:20 — [Consola de videojuegos X9 para niños, pantalla de 5.5", más de 5 mil juegos y multimedia](https://www.facebook.com/marketplace/item/1776038363513362) — $650 — Nuevo — Los Mochis
+- 2026-10-25 15:38 — [Consola xbox](https://www.facebook.com/marketplace/item/991728247327616) — $500 — Usado — Los Mochis
+- 2026-10-25 08:35 — [Dragón ball sparking Zero](https://www.facebook.com/marketplace/item/1601077308367036) — GRATIS — Nuevo — Los Mochis
+- 2026-10-23 18:48 — [Juegos $500 los dos](https://www.facebook.com/marketplace/item/990200120084191) — $500 — Usado - Como nuevo — Los Mochis
+- 2026-10-23 00:16 — [Juegos nuevos baratos](https://www.facebook.com/marketplace/item/1736880077411137) — $599 — Usado - Como nuevo — Los Mochis
+- 2026-10-22 10:49 — [Convertídor hdmi para nintendo 64,super nes gamecube](https://www.facebook.com/marketplace/item/1464828052261025) — $300 — Usado - Como nuevo — Los Mochis
+- 2026-10-21 11:32 — [Kit Simracing Logitech G29 (Volante + Pedales + Palanca Shifter + Freno de Mano USB + Soporte)](https://www.facebook.com/marketplace/item/28718905404424957) — $6.000 — Los Mochis
+- 2026-10-21 10:45 — [Mortal Kombat 1](https://www.facebook.com/marketplace/item/1423279409961562) — $600 — Nuevo — Los Mochis
+- 2026-10-20 16:53 — [Kit simulación de manejo para videojuegos](https://www.facebook.com/marketplace/item/1016915540808394) — $3.500 — Usado - Como nuevo — Los Mochis
+- 2026-10-19 18:31 — [Volante Logitech con palanca y Base](https://www.facebook.com/marketplace/item/1123981040007585) — $4.800 — Los Mochis
+- 2026-10-19 14:27 — [🔴GAME STICK PRO🔴 ✅️25 MIL JUEGOS ✅️2 CONTROLES ✅️RESOLUCION 4K ✅️ENVIOS A DOMICILIO🏡🛵💨](https://www.facebook.com/marketplace/item/4613212418961115) — $500 — Nuevo — Los Mochis
+- 2026-10-19 14:21 — [‼️GAME STICK 25 MIL JUEGOS‼️ ✅️2 CONTROLES TIPO PS ✅️RESOLUCION 4K ✅️3 MESES GARANTIA ✅️ENVIOS🏡🛵💨](https://www.facebook.com/marketplace/item/1412871073805374) — $500 — Nuevo — Los Mochis
+- 2026-10-19 14:20 — [GAME STICK PRO🔴HD 25 MIL JUEGOS 2 CONTROLES TIPO PS🎮 PUEDES AGREGAR JUEGOS DE TU PREFERENCIA‼️](https://www.facebook.com/marketplace/item/1575406110556871) — $500 — Los Mochis
+- 2026-10-17 23:25 — [Teclado Gaming 75%, Mause AOC y Atack Shark L60(Incluye el Mausepad)](https://www.facebook.com/marketplace/item/2442549629864107) — $1.200 — Los Mochis
+- 2026-10-17 03:34 — [Artículos varios](https://www.facebook.com/marketplace/item/28352557621112946) — $1 — Nuevo — Los Mochis — vendedor CONFIABLE de Daniel: Chito Hernández Moso. Precio publicado $1 a confirmar, los precios reales están en la descripción
+- 2026-10-16 19:24 — [Volante Logitech G920 entrego en Alamos country perfectas condiciones](https://www.facebook.com/marketplace/item/2897779090584136) — $3.200 — Los Mochis
+- 2026-10-16 11:21 — [Controles Nintendo y Pc](https://www.facebook.com/marketplace/item/1311639088486440) — $400 — Usado - Buen estado — Los Mochis — vendedor CONFIABLE de Daniel: Miguel Armenta
+- 2026-10-16 11:14 — [Televisor pantalla plana Sony Triniton](https://www.facebook.com/marketplace/item/1617412973211754) — $1.240 — Usado - Como nuevo — Los Mochis
+- 2026-10-14 19:34 — [Juegos switcv 3ds ps5](https://www.facebook.com/marketplace/item/1656544522798672) — $5.858 — Usado - Como nuevo — Los Mochis
+- 2026-10-13 19:08 — [Venta o cambio por iPhone Inf 6681162962](https://www.facebook.com/marketplace/item/1288970010003221) — $123.456 — Usado - Como nuevo — Los Mochis
+- 2026-10-12 18:25 — [Auriculares Logitech g335](https://www.facebook.com/marketplace/item/2908835376154076) — $500 — Los Mochis
+- 2026-10-12 10:50 — [Juegos+de+psp4](https://www.facebook.com/marketplace/item/1110698565263173) — GRATIS — Usado — Los Mochis
+- 2026-10-11 17:03 — [Nintendo](https://www.facebook.com/marketplace/item/1637986604347005) — $3.500 — Usado - Buen estado — Los Mochis
+- 2026-10-02 13:40 — [Para refacciones](https://www.facebook.com/marketplace/item/1419485216289737) — $300 — Usado - Buen estado — Los Mochis
+- 2026-10-01 19:02 — [Monster hunter rise [venta o cambio]](https://www.facebook.com/marketplace/item/1724342732013497) — $400 — Usado - Como nuevo — Los Mochis
+- 2026-09-30 09:27 — [Varios venta](https://www.facebook.com/marketplace/item/2426023891136626) — $5 — Nuevo — Los Mochis
+- 2026-09-29 21:30 — [Dragón ball sparking Zero](https://www.facebook.com/marketplace/item/1128304506816271) — GRATIS — Nuevo — Los Mochis
+- 2026-09-27 18:14 — [Venta juegos usados](https://www.facebook.com/marketplace/item/1384779526693061) — $500 — Usado - Buen estado — Los Mochis
+- 2026-09-26 10:53 — [Pokémon black](https://www.facebook.com/marketplace/item/1633000018621871) — $2.000 — Usado - Buen estado — Los Mochis
+- 2026-09-24 12:59 — [Super Mario 3D Word](https://www.facebook.com/marketplace/item/1357876882825481) — GRATIS — Nuevo — Los Mochis
+- 2026-09-21 19:52 — [Súper Mario maker2](https://www.facebook.com/marketplace/item/937524275637505) — $600 — Nuevo — Los Mochis
+- 2026-09-18 18:58 — [Juegos](https://www.facebook.com/marketplace/item/1517373977088273) — $3.500 — Nuevo — Los Mochis
+- 2026-09-17 18:15 — [Videojuegos](https://www.facebook.com/marketplace/item/2666630777086599) — $5.858 — Nuevo — Los Mochis
+- 2026-09-16 20:18 — [Pokémon white version (SOLO CAJA)](https://www.facebook.com/marketplace/item/2618173425310456) — GRATIS — Usado - Como nuevo — Los Mochis
+- 2026-09-16 10:07 — [Juego Nintendo 3ds manual, juego de Xbox one y PS3](https://www.facebook.com/marketplace/item/1571863904394106) — $111 — Usado - Buen estado — Los Mochis
+- 2026-09-14 20:51 — [Juegos de pley 3](https://www.facebook.com/marketplace/item/1562580961713625) — $100 — Usado - Como nuevo — Los Mochis
+- 2026-09-14 09:43 — [Mario Party Jamboree + Jamboree TV](https://www.facebook.com/marketplace/item/4102901823336515) — $1.100 — Usado - Como nuevo — Los Mochis
+- 2026-09-12 11:29 — [Videojuegos ya sea para colección o jugarlos en su consola](https://www.facebook.com/marketplace/item/858561213908353) — $50 — Usado - Aceptable — Los Mochis
+- 2026-09-12 00:37 — [Instalacion de juegos consolas](https://www.facebook.com/marketplace/item/943945678142729) — GRATIS — Nuevo — Los Mochis
+- 2026-09-12 00:15 — [Mario kart8 deluxe](https://www.facebook.com/marketplace/item/2089036908652380) — $850 — Usado - Buen estado — Los Mochis
+- 2026-09-10 09:20 — [Control PS One Drift](https://www.facebook.com/marketplace/item/1614185220147251) — $150 — Usado - Aceptable — Los Mochis
+- 2026-09-10 00:18 — [Juegos](https://www.facebook.com/marketplace/item/1598658118333400) — $500 — Usado - Como nuevo — Los Mochis
+- 2026-09-09 16:03 — [Juego Mario](https://www.facebook.com/marketplace/item/1048291228029638) — $111 — Usado - Como nuevo — Los Mochis
+- 2026-09-09 15:49 — [Vendo o cambio urgencia](https://www.facebook.com/marketplace/item/1428091072531227) — $550 — Usado - Como nuevo — Los Mochis
+- 2026-09-09 14:51 — [Juegos PS1 PS2 PS3 PS4 NDS](https://www.facebook.com/marketplace/item/1813364033343254) — $150 — Usado - Buen estado — Los Mochis
+- 2026-09-08 20:01 — [Video juego](https://www.facebook.com/marketplace/item/1056326770336017) — $3.000 — Usado - Buen estado — Los Mochis
+- 2026-09-07 07:14 — [Howarts legacy deluxe edition](https://www.facebook.com/marketplace/item/1117989594221404) — $500 — Usado - Como nuevo — Los Mochis
+- 2026-09-06 18:41 — [Gt5](https://www.facebook.com/marketplace/item/1578353787662492) — $300 — Usado - Como nuevo — Los Mochis
+- 2026-09-06 18:40 — [Spiderman miles morales](https://www.facebook.com/marketplace/item/3446274895539708) — $400 — Usado - Como nuevo — Los Mochis
+- 2026-09-06 13:12 — [Cambio por una laptop](https://www.facebook.com/marketplace/item/1431416285583812) — $1 — Usado - Como nuevo — Los Mochis
+- 2026-09-06 00:20 — [Maletín para guardar Nintendo y sus accesorios](https://www.facebook.com/marketplace/item/2117470195646406) — $450 — Usado - Como nuevo — Los Mochis
+- 2026-09-05 21:11 — [Pro Controller Edición Super Smash Bros](https://www.facebook.com/marketplace/item/1043240421865349) — $400 — Usado - Buen estado — Los Mochis
+- 2026-09-04 23:07 — [Asaasins credd orings](https://www.facebook.com/marketplace/item/1630370878684729) — $200 — Usado - Como nuevo — Los Mochis
+- 2026-09-04 23:07 — [Assassins cred unity](https://www.facebook.com/marketplace/item/2609561686180826) — $200 — Usado - Como nuevo — Los Mochis
+- 2026-09-04 23:06 — [FIFA 21](https://www.facebook.com/marketplace/item/38087170387598334) — $200 — Usado - Como nuevo — Los Mochis
+- 2026-09-04 23:06 — [Horizon zero dawn](https://www.facebook.com/marketplace/item/1683883649380903) — $200 — Usado - Como nuevo — Los Mochis
+- 2026-09-04 23:05 — [Call of duty mordern warfare](https://www.facebook.com/marketplace/item/1389074929329932) — $300 — Usado - Como nuevo — Los Mochis
+- 2026-09-04 23:04 — [God of war](https://www.facebook.com/marketplace/item/2253820885377915) — $200 — Usado - Como nuevo — Los Mochis
+- 2026-09-04 23:02 — [Battlefield 2042](https://www.facebook.com/marketplace/item/1965405371513322) — $300 — Usado - Como nuevo — Los Mochis
+- 2026-09-04 23:01 — [FIFA 22](https://www.facebook.com/marketplace/item/2169584800636415) — $200 — Usado - Como nuevo — Los Mochis
+- 2026-09-04 23:01 — [FIFA 23](https://www.facebook.com/marketplace/item/1534087138765795) — $200 — Usado - Como nuevo — Los Mochis
+- 2026-09-04 13:57 — [Juegos de video $100 c/u](https://www.facebook.com/marketplace/item/2490347631456861) — $100 — Usado - Buen estado — Los Mochis
+- 2026-09-03 17:10 — [Nintendo+](https://www.facebook.com/marketplace/item/1009490228774146) — $4.000 — Usado - Como nuevo — Los Mochis
+- 2026-09-01 21:24 — [Juegos para Playstation](https://www.facebook.com/marketplace/item/1003688652686728) — GRATIS — Usado - Como nuevo — Los Mochis
+- 2026-09-01 09:12 — [Horizon zero dawn](https://www.facebook.com/marketplace/item/4639015783035457) — $300 — Usado - Como nuevo — Los Mochis
+- 2026-08-30 15:48 — [Juegos Nintendo](https://www.facebook.com/marketplace/item/923048830875391) — $1.200 — Usado - Como nuevo — Los Mochis
+- 2026-08-29 14:06 — [Resident Evil 4 nuevecito](https://www.facebook.com/marketplace/item/2279037292948739) — $750 — Nuevo — Los Mochis
+- 2026-08-28 18:16 — [Control de nintento](https://www.facebook.com/marketplace/item/2533099033779714) — $200 — Usado - Buen estado — Los Mochis
+- 2026-08-28 16:23 — [Control de Nintendo](https://www.facebook.com/marketplace/item/1083992344102863) — $300 — Usado - Buen estado — Los Mochis
+- 2026-08-23 21:39 — [Cargador Nintendo](https://www.facebook.com/marketplace/item/3021081854894810) — $555 — Usado - Como nuevo — Los Mochis
+- 2026-08-23 12:14 — [Nintendo](https://www.facebook.com/marketplace/item/1327023036171339) — GRATIS — Usado - Como nuevo — Los Mochis
+- 2026-08-22 18:44 — [Consola retro game stick](https://www.facebook.com/marketplace/item/1653171876379569) — $450 — Nuevo — Los Mochis
+- 2026-08-20 11:08 — [Nintendo con un juego y un control](https://www.facebook.com/marketplace/item/1071608498708028) — $1.500 — Usado - Como nuevo — Los Mochis
+- 2026-08-17 14:25 — [Video juegos el precio es por  pieza](https://www.facebook.com/marketplace/item/27922304210731601) — $250 — Usado - Buen estado — Los Mochis
+- 2026-08-15 15:44 — [Todos los cables originales info al 6681732757](https://www.facebook.com/marketplace/item/1052687540955432) — $3.500 — Usado - Como nuevo — Los Mochis
+- 2026-08-12 20:55 — [Nintendo](https://www.facebook.com/marketplace/item/2024918761484228) — $2.000 — Usado - Como nuevo — Los Mochis
+- 2026-08-12 20:08 — [Discos para pa4](https://www.facebook.com/marketplace/item/4142844812672649) — $111 — Usado - Buen estado — Los Mochis
+- 2026-08-12 00:35 — [Juego Crash](https://www.facebook.com/marketplace/item/3279780668885187) — $350 — Usado - Como nuevo — Los Mochis
+- 2026-08-09 13:03 — [Base de carga para tableta wiiu](https://www.facebook.com/marketplace/item/2107532947306173) — $111 — Usado - Como nuevo — Los Mochis
+- 2026-08-08 14:54 — [Juego de nintento](https://www.facebook.com/marketplace/item/1051821510585594) — $1.000 — Usado - Buen estado — Los Mochis
+- 2026-08-08 10:46 — [Se cambia por una bisicleta](https://www.facebook.com/marketplace/item/1039635458937359) — GRATIS — Usado - Como nuevo — Los Mochis
+- 2026-08-07 15:33 — [Cargadores laptop, Apple MacBookz HP, DELL.](https://www.facebook.com/marketplace/item/902611872905481) — $150 — Usado - Como nuevo — Los Mochis
+- 2026-08-07 14:12 — [Cuánto dan por ella ofrezcan](https://www.facebook.com/marketplace/item/4639441746293094) — GRATIS — Usado - Buen estado — Los Mochis
+- 2026-08-05 19:34 — [Vendo Mario odyssey](https://www.facebook.com/marketplace/item/4387121621603058) — $500 — Usado - Buen estado — Los Mochis
+- 2026-08-04 11:50 — [Funda para nintendo switch y 3ds barato](https://www.facebook.com/marketplace/item/939919522470089) — $120 — Usado - Buen estado — Los Mochis
+- 2026-08-04 01:34 — [Vendo o cambio](https://www.facebook.com/marketplace/item/3367653220061910) — $3.500 — Usado - Buen estado — Los Mochis
+- 2026-08-03 13:17 — [Luigi Mansión 3, resident evil sellado, ff12](https://www.facebook.com/marketplace/item/1956747341673471) — $6.000 — Nuevo — Los Mochis
+- 2026-08-02 15:16 — [Coleccion Resident](https://www.facebook.com/marketplace/item/1360612665533261) — $450 — Nuevo — Los Mochis
+- 2026-08-02 11:28 — [Dock para Nintendo](https://www.facebook.com/marketplace/item/2088648235192630) — $111 — Usado - Como nuevo — Los Mochis
+- 2026-07-28 16:09 — [Juego de mario bros](https://www.facebook.com/marketplace/item/2095819434665387) — $450 — Nuevo — Los Mochis
+- 2026-07-27 15:32 — [Cable para diferentes consolas todo en uno](https://www.facebook.com/marketplace/item/1805304460832061) — $300 — Usado - Como nuevo — Los Mochis
+- 2026-07-27 15:32 — [Juegos diferentes precios](https://www.facebook.com/marketplace/item/1085349680819048) — $111 — Usado - Buen estado — Los Mochis
+- 2026-07-27 15:32 — [Juegos para Playstation baratos](https://www.facebook.com/marketplace/item/1883767236342701) — $111 — Usado - Buen estado — Los Mochis
+- 2026-07-27 15:32 — [Cargador para consola Nintendo](https://www.facebook.com/marketplace/item/2589144904871344) — $250 — Usado - Como nuevo — Los Mochis
+- 2026-07-26 17:27 — [550$ cada uno](https://www.facebook.com/marketplace/item/1541851637439403) — $550 — Usado - Como nuevo — Los Mochis
+- 2026-07-24 08:39 — [Super Bomberman](https://www.facebook.com/marketplace/item/1056377450062241) — $1 — Usado - Como nuevo — Los Mochis
+- 2026-07-22 21:50 — [Cable Hdmi Nintendo original speed  360hz](https://www.facebook.com/marketplace/item/1782433266115664) — $100 — Nuevo — Los Mochis
+- 2026-07-22 18:12 — [Will juegos y mas](https://www.facebook.com/marketplace/item/1027628266647740) — $350 — Usado - Buen estado — Los Mochis
+- 2026-07-22 17:22 — [Videojuego](https://www.facebook.com/marketplace/item/1346620207536454) — $900 — Usado - Como nuevo — Los Mochis
+- 2026-07-18 21:36 — [Mario & Luigi Brothership](https://www.facebook.com/marketplace/item/2208349300021464) — $800 — Usado - Como nuevo — Los Mochis
+- 2026-07-14 16:12 — [Short Deportivos](https://www.facebook.com/marketplace/item/27204616672554931) — $200 — Nuevo — Los Mochis
+- 2026-07-14 16:10 — [Mario Rabbids Kingdom Battle](https://www.facebook.com/marketplace/item/3386168638222761) — $550 — Usado - Buen estado — Los Mochis
+- 2026-07-14 14:27 — [Star wars jedi Fallen Order](https://www.facebook.com/marketplace/item/1031125246547786) — $300 — Usado - Como nuevo — Los Mochis
+- 2026-07-12 16:54 — [Vendo](https://www.facebook.com/marketplace/item/4478280349059659) — GRATIS — Nuevo — Los Mochis
+- 2026-07-12 12:16 — [Vendi](https://www.facebook.com/marketplace/item/1024432466842912) — GRATIS — Nuevo — Los Mochis
+- 2026-07-12 11:12 — [Vendo](https://www.facebook.com/marketplace/item/2093952844550588) — GRATIS — Nuevo — Los Mochis
+- 2026-07-12 08:26 — [Vendo](https://www.facebook.com/marketplace/item/3450390785136255) — GRATIS — Nuevo — Los Mochis
+- 2026-07-08 16:00 — [Vendo](https://www.facebook.com/marketplace/item/1750825869437880) — GRATIS — Nuevo — Los Mochis
+- 2026-07-08 08:01 — [Vendi](https://www.facebook.com/marketplace/item/1527673465467690) — GRATIS — Nuevo — Los Mochis
+- 2026-07-07 22:01 — [Juego PlayStation Call of Duty WW2](https://www.facebook.com/marketplace/item/1990993595116282) — $700 — Usado - Buen estado — Los Mochis
+- 2026-07-07 21:59 — [Juego PlayStation Spiderman Miles Morales](https://www.facebook.com/marketplace/item/3128693940673835) — $700 — Usado - Buen estado — Los Mochis
+- 2026-07-07 21:54 — [Juego PlayStation MineCraft Edición Especial](https://www.facebook.com/marketplace/item/1006672368829737) — $700 — Usado - Buen estado — Los Mochis
+- 2026-07-07 10:02 — [Vendo](https://www.facebook.com/marketplace/item/1435020065342293) — GRATIS — Nuevo — Los Mochis
+- 2026-07-07 08:57 — [Nintendo enterito  10 de 10 ☑️ Sin detalles  Con cargador original 💥 $3500📲](https://www.facebook.com/marketplace/item/2526877594391894) — $3.500 — Usado - Como nuevo — Los Mochis
+- 2026-07-07 05:55 — [Vendi](https://www.facebook.com/marketplace/item/1749513013156328) — GRATIS — Nuevo — Los Mochis
+- 2026-07-06 18:25 — [Juego de Mario odyseey](https://www.facebook.com/marketplace/item/1905271443498326) — $750 — Usado - Como nuevo — Los Mochis
+- 2026-07-06 18:21 — [Juego de Mario deluxe infinito](https://www.facebook.com/marketplace/item/3278009505740327) — $1.000 — Usado - Como nuevo — Los Mochis
+- 2026-07-06 11:38 — [Nintendo enterito  10 de 10 ☑️ Sin detalles  Con cargador original 💥 $3500📲](https://www.facebook.com/marketplace/item/1015790897828133) — $3.500 — Usado - Como nuevo — Los Mochis
+- 2026-07-03 17:44 — [Juego para play](https://www.facebook.com/marketplace/item/27024987773864236) — $350 — Usado - Buen estado — Los Mochis
+- 2026-07-02 16:57 — [God of War Ragnarök (con código de armadura)](https://www.facebook.com/marketplace/item/2121660778396649) — $700 — Nuevo — Los Mochis
+- 2026-07-02 16:46 — [The last of us remastered](https://www.facebook.com/marketplace/item/1021230187054809) — $280 — Usado - Como nuevo — Los Mochis
+- 2026-07-01 21:59 — [Nintendo  Enterito](https://www.facebook.com/marketplace/item/1343872493818376) — $3.500 — Usado - Como nuevo — Los Mochis
+- 2026-07-01 20:51 — [Mario y Sonic Olympic games](https://www.facebook.com/marketplace/item/1482931430518623) — $240 — Nuevo — Los Mochis
+- 2026-06-29 12:01 — [Pikmin 1 + 2](https://www.facebook.com/marketplace/item/3198797993664037) — $240 — Nuevo — Los Mochis
+- 2026-06-27 15:35 — [Nintendo  Usado  Buen estado  Con cargador  3500$](https://www.facebook.com/marketplace/item/1576136327418639) — $3.500 — Usado - Como nuevo — Los Mochis
+- 2026-06-27 07:31 — [Zelda BOTW](https://www.facebook.com/marketplace/item/1851653635815332) — $850 — Usado - Como nuevo — Los Mochis
+- 2026-06-26 16:55 — [Discos para para play station 3 y cassette para Game boy](https://www.facebook.com/marketplace/item/36489005200743834) — $100 — Usado - Como nuevo — Los Mochis
+- 2026-06-23 10:47 — [Vendo](https://www.facebook.com/marketplace/item/761713400338338) — GRATIS — Nuevo — Los Mochis
+- 2026-06-22 20:22 — [Five nigths ay freddys security breach](https://www.facebook.com/marketplace/item/1260324412655356) — $700 — Usado - Como nuevo — Los Mochis
+- 2026-06-22 20:19 — [Minecraft](https://www.facebook.com/marketplace/item/1152801440389098) — $500 — Usado - Como nuevo — Los Mochis
+- 2026-06-22 20:17 — [Luigis mansión 3](https://www.facebook.com/marketplace/item/27242296318769031) — $700 — Usado - Como nuevo — Los Mochis
+- 2026-06-22 19:56 — [Controles hori split pad pro](https://www.facebook.com/marketplace/item/1773597353808712) — $900 — Usado - Como nuevo — Los Mochis
+- 2026-06-22 15:17 — [Cambio pokemon violet por super smash bros](https://www.facebook.com/marketplace/item/1306163944831031) — $700 — Usado - Como nuevo — Los Mochis
+- 2026-06-20 10:17 — [JUEGOS NINTENDO 64 GAMECUBE GAMEBOY SNES](https://www.facebook.com/marketplace/item/1029319096283332) — $500 — Usado - Aceptable — Los Mochis
+- 2026-06-18 10:55 — [Mario Rabbids](https://www.facebook.com/marketplace/item/2469117890261097) — $400 — Usado - Como nuevo — Los Mochis
+- 2026-06-12 15:52 — [CRASH NTRILOGY](https://www.facebook.com/marketplace/item/1289606846495326) — $450 — Usado - Como nuevo — Los Mochis
+- 2026-06-11 08:57 — [Rainbow six siege](https://www.facebook.com/marketplace/item/1985771682070748) — $250 — Nuevo — Los Mochis
+- 2026-06-08 00:10 — [Nintendo swich oled blanca con mortal kombat 1 todos los dlc y tomodachi life](https://www.facebook.com/marketplace/item/27586306701008854) — $4.000 — Usado - Como nuevo — Los Mochis
+- 2026-06-07 17:47 — [LEAPSTER VIDEO JUEGOS](https://www.facebook.com/marketplace/item/946972158372125) — $1.300 — Usado - Como nuevo — Los Mochis
+- 2026-06-03 01:37 — [300 cada uno](https://www.facebook.com/marketplace/item/1693450738361510) — $300 — Usado - Como nuevo — Los Mochis
+- 2026-06-01 16:07 — [Super mario maker 2](https://www.facebook.com/marketplace/item/26737475489288736) — $600 — Usado - Como nuevo — Los Mochis
+- 2026-06-01 16:02 — [Fifa 23 ea sports](https://www.facebook.com/marketplace/item/967995829386058) — $500 — Usado - Como nuevo — Los Mochis
+- 2026-05-31 13:41 — [Televisor Panasonic](https://www.facebook.com/marketplace/item/27245231865096143) — $400 — Usado - Buen estado — Los Mochis
+- 2026-05-25 13:02 — [Juegos ps4,ps5,ps4, wii](https://www.facebook.com/marketplace/item/1518277919970178) — $500 — Usado - Como nuevo — Los Mochis
+- 2026-05-24 17:09 — [Juegos de Nintendo en 650 cada uno](https://www.facebook.com/marketplace/item/1442491020983996) — $650 — Usado - Como nuevo — Los Mochis
+- 2026-05-21 16:28 — [pokemon za](https://www.facebook.com/marketplace/item/1711578480022788) — $1.000 — Usado - Como nuevo — Los Mochis
+- 2026-05-20 20:32 — [Contro nintendo 2](https://www.facebook.com/marketplace/item/27360580343539257) — $1.000 — Nuevo — Los Mochis
+- 2026-05-19 20:04 — [SUPER MARIO ODYSSEY](https://www.facebook.com/marketplace/item/1964384157780377) — $600 — Usado - Buen estado — Los Mochis
+- 2026-05-10 21:17 — [Se venden juegos...](https://www.facebook.com/marketplace/item/1339795008037387) — $1.234 — Usado - Como nuevo — Los Mochis
+- 2026-05-09 13:38 — [Videojyego](https://www.facebook.com/marketplace/item/1291355856309439) — $1 — Usado — Los Mochis
+- 2026-05-08 05:57 — [Video juego](https://www.facebook.com/marketplace/item/989772040370020) — $1 — Usado — Los Mochis
+- 2026-05-07 05:51 — [Varias cosas](https://www.facebook.com/marketplace/item/992815073246378) — $1 — Usado — Los Mochis
+- 2026-05-06 16:01 — [Varias cosas](https://www.facebook.com/marketplace/item/2129141027876831) — $1 — Usado — Los Mochis
+- 2026-05-05 13:29 — [Varias cosas](https://www.facebook.com/marketplace/item/1271117348230393) — $1 — Usado — Los Mochis
+- 2026-05-04 08:57 — [Bideojuego de nintendo siuchw](https://www.facebook.com/marketplace/item/817317547703446) — $600 — Usado - Como nuevo — Los Mochis
+- 2026-05-03 15:47 — [Juegos](https://www.facebook.com/marketplace/item/3615936568544702) — $500 — Usado - Como nuevo — Los Mochis
+- 2026-05-03 04:12 — [Psvita Oled con 6 juegos físicos](https://www.facebook.com/marketplace/item/1483485260123131) — $4.000 — Usado - Buen estado — Los Mochis
+- 2026-05-01 11:41 — [$$$$](https://www.facebook.com/marketplace/item/3218172231722440) — $3.500 — Usado — Los Mochis
+- 2026-04-27 17:17 — [Juegos de Nintendo](https://www.facebook.com/marketplace/item/1342065097975792) — GRATIS — Usado - Como nuevo — Los Mochis
+- 2026-04-23 09:58 — [Nintendo](https://www.facebook.com/marketplace/item/1619571499268061) — GRATIS — Nuevo — Los Mochis
+- 2026-04-21 16:55 — [Amiibo y figuras de colección de videojuegos](https://www.facebook.com/marketplace/item/848565951611208) — GRATIS — Nuevo — Los Mochis
+- 2026-04-20 09:07 — [Video juegos](https://www.facebook.com/marketplace/item/929714203165807) — $100 — Usado - Buen estado — Los Mochis
+- 2026-04-18 21:27 — [Play Station](https://www.facebook.com/marketplace/item/1522281949427159) — $1.300 — Usado — Los Mochis
+- 2026-04-16 20:16 — [Métroid , Zelda ,no Mario no Pokémon](https://www.facebook.com/marketplace/item/1262453598880728) — $700 — Usado - Como nuevo — Los Mochis
+- 2026-04-16 11:46 — [Juegos de play](https://www.facebook.com/marketplace/item/934317096237786) — $400 — Usado - Como nuevo — Los Mochis
+- 2026-04-10 22:03 — [Sekiro](https://www.facebook.com/marketplace/item/4430478487278849) — $4.000 — Usado — Los Mochis
+- 2026-04-10 07:35 — [Se vende](https://www.facebook.com/marketplace/item/2961666277375929) — $1 — Usado — Los Mochis
+- 2026-04-09 22:27 — [New súper Mario bros](https://www.facebook.com/marketplace/item/2121459471921421) — $800 — Usado - Como nuevo — Los Mochis
+- 2026-04-09 21:27 — [Varias cosas](https://www.facebook.com/marketplace/item/2296367840772153) — $1 — Usado — Los Mochis
+- 2026-04-09 12:52 — [Varias cosas ojo por separado](https://www.facebook.com/marketplace/item/964420249417963) — $1 — Usado — Los Mochis
+- 2026-04-08 13:28 — [The witcher , BTF V y red dead redemption 2 ( caja metálica )](https://www.facebook.com/marketplace/item/1982612592625486) — $1.100 — Usado - Como nuevo — Los Mochis
+- 2026-04-06 12:31 — [Varias cosas por separado](https://www.facebook.com/marketplace/item/946079094573032) — $1 — Usado — Los Mochis
+- 2026-04-06 06:28 — [Varias cosas (se venden separados)](https://www.facebook.com/marketplace/item/2783421001995502) — $1 — Usado — Los Mochis
+- 2026-04-05 20:28 — [Se venden varias cosas](https://www.facebook.com/marketplace/item/1669384617402559) — $1 — Usado — Los Mochis
+- 2026-04-03 15:50 — [Sonic SuperStars Nintendo](https://www.facebook.com/marketplace/item/2041194206803556) — $500 — Nuevo — Los Mochis
+- 2026-04-02 13:27 — [Grand Theft Auto V (GTA 5)](https://www.facebook.com/marketplace/item/25576878495321053) — $400 — Usado - Como nuevo — Los Mochis
+- 2026-04-02 13:25 — [FIFA 16](https://www.facebook.com/marketplace/item/966556406321627) — $350 — Usado - Como nuevo — Los Mochis
+- 2026-03-31 15:53 — [Nitendo 64 completo](https://www.facebook.com/marketplace/item/3131399780382611) — $1.199 — Nuevo — Los Mochis
+- 2026-03-19 00:23 — [Bloodstained ,no Mario no Zelda no Pokémon](https://www.facebook.com/marketplace/item/1409793727131506) — $650 — Nuevo — Los Mochis
+- 2026-03-18 20:46 — [Consola de videos juegos](https://www.facebook.com/marketplace/item/903801625978587) — $2.100 — Usado - Como nuevo — Los Mochis
+- 2026-03-16 21:46 — [Juegos](https://www.facebook.com/marketplace/item/1249308707164012) — $1 — Usado - Como nuevo — Los Mochis
+- 2026-03-16 20:52 — [Venta Nintendo swtch 2](https://www.facebook.com/marketplace/item/26034555929547901) — $8.500 — Nuevo — Los Mochis
+- 2026-03-04 14:06 — [Videojuegos](https://www.facebook.com/marketplace/item/5009893595904143) — $300 — Usado — Los Mochis
+- 2026-02-27 10:42 — [Mario rpg](https://www.facebook.com/marketplace/item/1654313306011562) — $500 — Nuevo — Los Mochis
+- 2026-02-24 15:47 — [Gta v](https://www.facebook.com/marketplace/item/1977082312886759) — $300 — Usado - Como nuevo — Los Mochis
+- 2026-02-22 15:42 — [Juegos retro y actuales](https://www.facebook.com/marketplace/item/907439325022259) — $5.858 — Nuevo — Los Mochis
+- 2026-02-20 14:42 — [Mario & Sonic - At The Olympic Games](https://www.facebook.com/marketplace/item/1992731911650295) — $550 — Nuevo — Los Mochis
+- 2026-02-19 17:48 — [en venta](https://www.facebook.com/marketplace/item/2670565656632331) — $5.000 — Usado - Buen estado — Los Mochis
+- 2026-02-15 17:18 — [Juegos Wii y Wii U](https://www.facebook.com/marketplace/item/4062317350569297) — $1.234 — Usado - Buen estado — Los Mochis
+- 2026-02-10 19:22 — [Mario kart World](https://www.facebook.com/marketplace/item/1410520820621448) — $1.500 — Nuevo — Los Mochis
+- 2026-02-07 14:07 — [250por cadauno](https://www.facebook.com/marketplace/item/1434701544993544) — $250 — Usado - Como nuevo — Los Mochis
+- 2026-02-01 18:15 — [Juegos de Nintendo](https://www.facebook.com/marketplace/item/853742464199575) — $1 — Usado - Como nuevo — Los Mochis
+- 2026-01-26 19:31 — [juegos de Nintendo](https://www.facebook.com/marketplace/item/2086639831741144) — $500 — Usado - Como nuevo — Los Mochis
+- 2026-01-15 23:49 — [Discos de juego Pley 3 Uno de pley 50 pesos cada 1 al que venga por el  BATMAN y WOLFENSTEIN VENDIDO](https://www.facebook.com/marketplace/item/1813741709587226) — $50 — Usado - Como nuevo — Los Mochis
+- 2026-01-15 17:46 — [Super Mario RPG](https://www.facebook.com/marketplace/item/1379155663656073) — $550 — Usado - Como nuevo — Los Mochis
+- 2026-01-13 11:07 — [VENDO](https://www.facebook.com/marketplace/item/912474898011017) — $6.000 — Usado - Como nuevo — Los Mochis
+- 2026-01-12 21:45 — [Video juegos](https://www.facebook.com/marketplace/item/1211134600516116) — $200 — Usado - Buen estado — Los Mochis
+- 2026-01-11 19:28 — [Mortal Kombat XL](https://www.facebook.com/marketplace/item/1624070775254403) — $600 — Usado - Buen estado — Los Mochis
+- 2026-01-07 16:14 — [Vendo God of War](https://www.facebook.com/marketplace/item/1522729392329848) — $453 — Usado - Como nuevo — Los Mochis
+- 2026-01-06 13:56 — [Vendo INJUSTICE 2](https://www.facebook.com/marketplace/item/1427416099010088) — $315 — Usado - Como nuevo — Los Mochis
+- 2026-01-05 18:19 — [Psp4 slim con 2 controles y u. Video juego $ 4200](https://www.facebook.com/marketplace/item/861627213142993) — $4.200 — Usado — Los Mochis
+- 2025-12-29 17:48 — [Juegos PlayStation](https://www.facebook.com/marketplace/item/1914264792632225) — $350 — Usado - Como nuevo — Los Mochis
+- 2025-12-25 11:59 — [Venta PostNavideña 25Dic2025](https://www.facebook.com/marketplace/item/886274910461386) — $5.555.555 — Usado - Como nuevo — Los Mochis
+- 2025-12-24 12:54 — [Compra Venta Navideña en remate en la plazuela de El Carrizo 24Dic2023](https://www.facebook.com/marketplace/item/1855360348416221) — $7.777.777 — Usado - Como nuevo — Los Mochis
+- 2025-12-23 11:47 — [- HUMAN FALL FLAT](https://www.facebook.com/marketplace/item/1412438200297784) — $200 — Usado - Como nuevo — Los Mochis
+- 2025-12-10 14:30 — [Venta instalación de magia](https://www.facebook.com/marketplace/item/1145253867592240) — $1.500 — Usado - Como nuevo — Los Mochis
+- 2025-12-01 18:37 — [Televisión análoga](https://www.facebook.com/marketplace/item/1623570255272841) — $1.500 — Usado - Como nuevo — Los Mochis
+- 2025-11-29 10:59 — [Vendo o cambio por algo mejor ofrezcan por lo que sea](https://www.facebook.com/marketplace/item/833801036171724) — $7 — Usado - Como nuevo — Los Mochis
+- 2025-11-26 13:16 — [Variedad de videojuegos](https://www.facebook.com/marketplace/item/1231910995478061) — $7.200 — Usado - Como nuevo — Los Mochis
+- 2025-11-16 23:18 — [Videojuegos](https://www.facebook.com/marketplace/item/1491506838754471) — $150 — Usado - Como nuevo — Los Mochis
+- 2025-11-08 16:39 — [Venta juegos](https://www.facebook.com/marketplace/item/1326001235663928) — $5.888 — Nuevo — Los Mochis
+- 2025-10-13 20:23 — [Consolas y Juegos Nintendo y Pokemon](https://www.facebook.com/marketplace/item/1849471845937409) — GRATIS — Usado - Como nuevo — Los Mochis
+- 2025-05-17 00:40 — [Estuche de Nintendo](https://www.facebook.com/marketplace/item/696382659444016) — GRATIS — Usado - Buen estado — Los Mochis
+- 2024-12-07 19:33 — [Assassin crid](https://www.facebook.com/marketplace/item/1113036633788571) — $250 — Nuevo — Los Mochis
+- 2024-12-07 19:32 — [Viernes 13](https://www.facebook.com/marketplace/item/942217030654708) — $250 — Nuevo — Los Mochis
+- 2024-12-07 19:29 — [Juego horizon](https://www.facebook.com/marketplace/item/3971873476468264) — $250 — Nuevo — Los Mochis
+- 2023-08-19 20:50 — [RED DEAD REDEMPTION II](https://www.facebook.com/marketplace/item/634168878515828) — $450 — Usado - Como nuevo — Los Mochis
