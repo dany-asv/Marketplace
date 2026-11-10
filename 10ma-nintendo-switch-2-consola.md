@@ -1,4 +1,4 @@
-# # 10ma generación — Nintendo Switch 2 — Consola — Marketplace Los Mochis (videojuegos)
+# 10ma generación — Nintendo Switch 2 — Consola — Marketplace Los Mochis (videojuegos)
 
 Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa, clasificados según las reglas del grupo Mundo Retro.
 

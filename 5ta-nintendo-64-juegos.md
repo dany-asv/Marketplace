@@ -1,4 +1,4 @@
-# # 5ta generación — Nintendo 64 (N64) — Juegos — Marketplace Los Mochis (videojuegos)
+# 5ta generación — Nintendo 64 (N64) — Juegos — Marketplace Los Mochis (videojuegos)
 
 Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa, clasificados según las reglas del grupo Mundo Retro.
 

@@ -1,4 +1,4 @@
-# # 4ta generación — Super Nintendo (SNES) — Juegos — Marketplace Los Mochis (videojuegos)
+# 4ta generación — Super Nintendo (SNES) — Juegos — Marketplace Los Mochis (videojuegos)
 
 Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa, clasificados según las reglas del grupo Mundo Retro.
 

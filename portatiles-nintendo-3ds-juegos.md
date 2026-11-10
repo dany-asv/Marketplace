@@ -1,4 +1,4 @@
-# # Portátiles — Nintendo 3DS — Juegos — Marketplace Los Mochis (videojuegos)
+# Portátiles — Nintendo 3DS — Juegos — Marketplace Los Mochis (videojuegos)
 
 Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa, clasificados según las reglas del grupo Mundo Retro.
 

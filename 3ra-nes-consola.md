@@ -1,4 +1,4 @@
-# # 3ra generación — NES — Consola — Marketplace Los Mochis (videojuegos)
+# 3ra generación — NES — Consola — Marketplace Los Mochis (videojuegos)
 
 Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa, clasificados según las reglas del grupo Mundo Retro.
 

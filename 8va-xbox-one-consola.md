@@ -1,4 +1,4 @@
-# # 8va generación — Xbox One — Consola — Marketplace Los Mochis (videojuegos)
+# 8va generación — Xbox One — Consola — Marketplace Los Mochis (videojuegos)
 
 Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa, clasificados según las reglas del grupo Mundo Retro.
 

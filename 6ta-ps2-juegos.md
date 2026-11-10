@@ -1,4 +1,4 @@
-# # 6ta generación — PlayStation 2 (PS2) — Juegos — Marketplace Los Mochis (videojuegos)
+# 6ta generación — PlayStation 2 (PS2) — Juegos — Marketplace Los Mochis (videojuegos)
 
 Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa, clasificados según las reglas del grupo Mundo Retro.
 

@@ -1,4 +1,4 @@
-# # 7ma generación — Xbox 360 — Consola — Marketplace Los Mochis (videojuegos)
+# 7ma generación — Xbox 360 — Consola — Marketplace Los Mochis (videojuegos)
 
 Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa, clasificados según las reglas del grupo Mundo Retro.
 
