@@ -6,7 +6,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Más los anuncios nuevos verificados como disponibles en las revisiones de vigilancia del 10 de noviembre de 2026.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 1345 anuncios disponibles.
+Total: 1343 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -42,7 +42,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - Nintendo DS:
     - [Consolas](portatiles-nintendo-ds-consolas.md) — 10 anuncios
     - [Juegos](portatiles-nintendo-ds-juegos.md) — 9 anuncios
-    - [Accesorios](portatiles-nintendo-ds-accesorios.md) — 3 anuncios
+    - [Accesorios](portatiles-nintendo-ds-accesorios.md) — 2 anuncios
   - Nintendo 2DS:
     - [Consolas](portatiles-nintendo-2ds-consolas.md) — 2 anuncios
   - Nintendo 3DS:
@@ -88,7 +88,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - Nintendo Switch:
     - Consolas:
       - [OLED](9na-nintendo-switch-oled-consolas.md) — 110 anuncios
-      - [Lite](9na-nintendo-switch-lite-consolas.md) — 27 anuncios
+      - [Lite](9na-nintendo-switch-lite-consolas.md) — 26 anuncios
       - [Normal](9na-nintendo-switch-normal-consolas.md) — 130 anuncios
     - [Juegos](9na-nintendo-switch-juegos.md) — 239 anuncios
     - [Accesorios](9na-nintendo-switch-accesorios.md) — 60 anuncios
@@ -989,12 +989,10 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-07-06 18:25 — [Juego de Mario odyseey](https://www.facebook.com/marketplace/item/1905271443498326) — $750 — Usado - Como nuevo — Los Mochis
 - 2026-07-06 18:21 — [Juego de Mario deluxe infinito](https://www.facebook.com/marketplace/item/3278009505740327) — $1.000 — Usado - Como nuevo — Los Mochis
 - 2026-07-06 17:17 — [Juego PS4 Song of the Deep](https://www.facebook.com/marketplace/item/1673473623934913) — $100 — Usado - Como nuevo — Los Mochis
-- 2026-07-06 15:27 — [Cargador DS Lite 👾 🧬](https://www.facebook.com/marketplace/item/2659692477882192) — $200 — Usado - Buen estado — Los Mochis
 - 2026-07-06 14:17 — [Nintendo SWITCH](https://www.facebook.com/marketplace/item/1314242077492479) — $2.500 — Usado - Buen estado — Los Mochis
 - 2026-07-06 14:15 — [Nintendo Switch Chipeada 128gb](https://www.facebook.com/marketplace/item/1000258752611983) — $3.799 — Usado - Buen estado — Los Mochis
 - 2026-07-06 11:38 — [Nintendo enterito  10 de 10 ☑️ Sin detalles  Con cargador original 💥 $3500📲](https://www.facebook.com/marketplace/item/1015790897828133) — $3.500 — Usado - Como nuevo — Los Mochis
 - 2026-07-05 22:10 — [Juego Nintendo Switch](https://www.facebook.com/marketplace/item/3155387814659816) — $1 — Usado - Como nuevo — Los Mochis
-- 2026-07-05 19:52 — [Switch Lite 👾 Nintendo](https://www.facebook.com/marketplace/item/2232618230896162) — $2.500 — Usado — Los Mochis
 - 2026-07-03 22:11 — [Nintendo ds i con cargador y 1 juego físico, solo detalles estéticos y l y r no funcionan](https://www.facebook.com/marketplace/item/986011240729454) — $900 — Usado - Como nuevo — Los Mochis
 - 2026-07-03 22:00 — [Switch oled con los accesorios de la foto y estuche](https://www.facebook.com/marketplace/item/2038584110365489) — $3.300 — Usado - Como nuevo — Los Mochis
 - 2026-07-03 21:56 — [Nintendo switch oled, se entrega en caja con todos los accesorios que se ven](https://www.facebook.com/marketplace/item/1564811655171459) — $3.500 — Usado - Como nuevo — Los Mochis
