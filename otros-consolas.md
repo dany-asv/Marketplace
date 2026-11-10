@@ -11,7 +11,7 @@ Total: 102 anuncios disponibles.
 ## Disponibles (de más actual a más viejo)
 
 - 2026-11-10 11:42 — [Consola M14 Pro 4K +20000 Juegos](https://www.facebook.com/marketplace/item/2179267716185712)
-- 2026-11-09 18:20 — [Mini Consola Retro con 620 Juegos](https://www.facebook.com/marketplace/item/1736654974693805)
+- 2026-11-09 18:20 — [Mini Consola Retro con 620 Juegos](https://www.facebook.com/marketplace/item/1736654974693805) — Vendedor: Ariagna Armenta
 - 2026-11-07 04:55 — [Nintendo 64 o cambio por Nintendo NES](https://www.facebook.com/marketplace/item/1151707693869630)
 - 2026-11-05 13:49 — [Consolas Nintendo retro](https://www.facebook.com/marketplace/item/1808346203699556)
 - 2026-11-04 12:56 — [venta](https://www.facebook.com/marketplace/item/1151352550678434)
