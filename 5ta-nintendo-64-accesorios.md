@@ -1,0 +1,14 @@
+# # 5ta generación — Nintendo 64 (N64) — Accesorios — Marketplace Los Mochis (videojuegos)
+
+Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa, clasificados según las reglas del grupo Mundo Retro.
+
+- Accesorios: controles, cables, cargadores, audífonos, volantes, fundas y más.
+- Ordenados de más actual a más viejo según la fecha y hora de publicación (hora de Los Mochis).
+- Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
+
+Total: 2 anuncios disponibles.
+
+## Disponibles (de más actual a más viejo)
+
+- 2026-10-23 13:36 — [Nintendo 64 todos sus cables un control un juego en físico](https://www.facebook.com/marketplace/item/1789927362129536) — $1.500 — Usado - Buen estado — Los Mochis
+- 2026-07-27 15:32 — [Fuente para Nintendo 64](https://www.facebook.com/marketplace/item/1358223929614953) — $111 — Usado - Buen estado — Los Mochis

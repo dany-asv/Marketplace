@@ -1,0 +1,69 @@
+# # 9na generación — Nintendo Switch — Accesorios — Marketplace Los Mochis (videojuegos)
+
+Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa, clasificados según las reglas del grupo Mundo Retro.
+
+- Accesorios: controles, cables, cargadores, audífonos, volantes, fundas y más.
+- Ordenados de más actual a más viejo según la fecha y hora de publicación (hora de Los Mochis).
+- Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
+
+Total: 57 anuncios disponibles.
+
+## Disponibles (de más actual a más viejo)
+
+- 2026-11-10 10:41 — [Control y estuche para Nintendo switch](https://www.facebook.com/marketplace/item/1723438702823225) — $450 — Los Mochis
+- 2026-11-07 19:55 — [Gamesir control PC y nintendo switch](https://www.facebook.com/marketplace/item/1559326676095449) — $1.700 — Nuevo — Los Mochis
+- 2026-11-07 19:55 — [Control gamesir nintendo switch 1 y 2, iPhone, Android, celulares, tablet y pc.](https://www.facebook.com/marketplace/item/1625484619312650) — $1.500 — Nuevo — Los Mochis
+- 2026-10-31 17:25 — [Dock para Nintendo Switch v1](https://www.facebook.com/marketplace/item/1113138388237829) — $500 — Usado - Buen estado — Los Mochis
+- 2026-10-29 14:17 — [Control switch 1/2/oled /lite original de Nintendo $700](https://www.facebook.com/marketplace/item/1128422099638414) — $700 — Nuevo — Los Mochis
+- 2026-10-27 16:12 — [Control pro original de nintendo switch edicion especial zelda](https://www.facebook.com/marketplace/item/2000786184551657) — $700 — Usado - Como nuevo — Los Mochis
+- 2026-10-26 09:31 — [Accesorios para nintendo swich](https://www.facebook.com/marketplace/item/1441577298107304) — $111 — Usado - Como nuevo — Los Mochis
+- 2026-10-25 10:31 — [Grip para joycon nintendo switch](https://www.facebook.com/marketplace/item/2608802699622938) — $300 — Usado - Como nuevo — Los Mochis
+- 2026-10-24 13:25 — [Control de videojuegos compatible con Nintendo switch y computadora](https://www.facebook.com/marketplace/item/1049255571505794) — $300 — Usado - Buen estado — Los Mochis
+- 2026-10-23 20:52 — [Nintendo Switch Oled + Pro Controller](https://www.facebook.com/marketplace/item/1328956549238855) — $3.999 — Usado - Como nuevo — Los Mochis
+- 2026-10-23 20:09 — [Funda para Nintendo Switch Lite](https://www.facebook.com/marketplace/item/996232606852477) — $200 — Usado - Como nuevo — Los Mochis
+- 2026-10-23 18:50 — [Adaptador para nintendo Switch](https://www.facebook.com/marketplace/item/1583286243549923) — $600 — Nuevo — Los Mochis
+- 2026-10-21 10:59 — [Nintendo Switch + Juego Crash Bandicoot 4 + Accesorios Originales](https://www.facebook.com/marketplace/item/1611977610623455) — $3.500 — Usado - Como nuevo — Los Mochis
+- 2026-10-19 16:30 — [Nintendo switch oled edición Pokémon trae todos sus accesorios originales solo falta cable HMDI](https://www.facebook.com/marketplace/item/1482832740416290) — $4.000 — Usado - Buen estado — Los Mochis
+- 2026-10-17 01:08 — [Control+de+nintendo+switch](https://www.facebook.com/marketplace/item/2187288591862246) — $600 — Usado - Buen estado — Los Mochis
+- 2026-10-16 21:53 — [Juego + control de Nintendo switch](https://www.facebook.com/marketplace/item/1088916497222457) — $800 — Usado - Como nuevo — Los Mochis
+- 2026-10-16 18:50 — [Control gamer para PC, Android, iOS y Nintendo switch (precio negociable)](https://www.facebook.com/marketplace/item/1151989644059603) — $800 — Usado - Como nuevo — Los Mochis
+- 2026-10-14 02:31 — [Switch lite todo le funciona sin detalles entrego con cargador original, estuche y 1 juego físico](https://www.facebook.com/marketplace/item/3708005469381714) — $2.150 — Usado - Como nuevo — Los Mochis
+- 2026-10-09 20:26 — [Cargador nintendo Swich generico](https://www.facebook.com/marketplace/item/4478131282398391) — $390 — Nuevo — Los Mochis
+- 2026-10-07 17:48 — [Nintendo switch normal sin detalles con joycons originales y estuche](https://www.facebook.com/marketplace/item/991775117288773) — $1.999 — Usado - Como nuevo — Los Mochis
+- 2026-10-03 09:05 — [Tarjeta de Minecraft de Nintendo swicht](https://www.facebook.com/marketplace/item/1658644056272787) — $500 — Usado - Como nuevo — Los Mochis
+- 2026-10-02 17:31 — [Accesorios de nintendo switch Oled juntos o por separado](https://www.facebook.com/marketplace/item/1102417495828019) — $2.000 — Usado - Como nuevo — Los Mochis
+- 2026-09-22 12:39 — [Nintendo switch + control inalámbrico recargable y estuche](https://www.facebook.com/marketplace/item/2134324963784446) — $4.000 — Usado - Como nuevo — Los Mochis
+- 2026-09-17 21:20 — [Funda uso rudo nintendo Swich](https://www.facebook.com/marketplace/item/1870834753885268) — $350 — Nuevo — Los Mochis
+- 2026-09-12 14:32 — [🔥 Nintendo Switch + 6 controles + estuche | $5,000 🎮](https://www.facebook.com/marketplace/item/3148562975349444) — $5.000 — Usado - Buen estado — Los Mochis
+- 2026-09-06 14:59 — [Juegos Nintendo Switch, control y micro sd.](https://www.facebook.com/marketplace/item/1371307245215369) — $500 — Usado - Como nuevo — Los Mochis
+- 2026-09-06 00:15 — [Nintendo swict oled y procontroller](https://www.facebook.com/marketplace/item/2200348684246789) — $6.600 — Usado - Como nuevo — Los Mochis
+- 2026-09-04 18:41 — [Nintendo switch oled con dock de animal crossing y joycons](https://www.facebook.com/marketplace/item/1572472404621908) — $5.800 — Usado - Como nuevo — Los Mochis
+- 2026-08-28 15:41 — [Nintendo switch oled edición Pokémon funciona todo al 100 y trae todos sus accesorios originales](https://www.facebook.com/marketplace/item/814867475016521) — $4.000 — Usado - Como nuevo — Los Mochis
+- 2026-08-26 12:43 — [Nintendo switch 01 32 GB con doc, HDMI, correas, cargador y joycon grip](https://www.facebook.com/marketplace/item/1390020969773794) — $2.900 — Usado - Buen estado — Los Mochis
+- 2026-08-20 11:42 — [Par de correas para joycons/controles nintendo Switch - Joycons](https://www.facebook.com/marketplace/item/1610268643846929) — $150 — Nuevo — Los Mochis
+- 2026-08-19 18:14 — [Nintendo switch oled como nueva perfecto estado con caja y accesorios edición pokemon](https://www.facebook.com/marketplace/item/38947571568175199) — $6.000 — Usado - Como nuevo — Los Mochis
+- 2026-08-19 15:16 — [Grip para Nintendo switch](https://www.facebook.com/marketplace/item/1060892116344128) — $200 — Usado - Como nuevo — Los Mochis
+- 2026-08-19 02:26 — [Grip Para Nintendo Switch](https://www.facebook.com/marketplace/item/1850511762335433) — $200 — Usado - Buen estado — Los Mochis
+- 2026-08-16 10:36 — [Joycon Grip Nintendo Switch 1](https://www.facebook.com/marketplace/item/1742649733647492) — $200 — Nuevo — Los Mochis
+- 2026-08-05 17:59 — [Dock blanco para nintendo switch](https://www.facebook.com/marketplace/item/1443267880945157) — $111 — Usado - Buen estado — Los Mochis
+- 2026-07-29 08:28 — [Funda protectora para switch](https://www.facebook.com/marketplace/item/1284719873583643) — $200 — Nuevo — Los Mochis
+- 2026-07-27 15:36 — [Accesorios para cargar Nintendo switch](https://www.facebook.com/marketplace/item/1049915067433242) — $111 — Usado - Como nuevo — Los Mochis
+- 2026-07-23 06:38 — [Funda Viaje Switch/Switch Oled](https://www.facebook.com/marketplace/item/1019935304201385) — $200 — Usado - Como nuevo — Los Mochis
+- 2026-07-13 15:41 — [Nintendo Switch standard con estuche](https://www.facebook.com/marketplace/item/1722003672149876) — $3.000 — Usado - Buen estado — Los Mochis
+- 2026-07-08 21:40 — [Accesorios para Nintendo switch](https://www.facebook.com/marketplace/item/1344661641154844) — $9 — Nuevo — Los Mochis
+- 2026-07-03 22:00 — [Switch oled con los accesorios de la foto y estuche](https://www.facebook.com/marketplace/item/2038584110365489) — $3.300 — Usado - Como nuevo — Los Mochis
+- 2026-07-03 21:56 — [Nintendo switch oled, se entrega en caja con todos los accesorios que se ven](https://www.facebook.com/marketplace/item/1564811655171459) — $3.500 — Usado - Como nuevo — Los Mochis
+- 2026-06-30 17:21 — [Nintendo switch con sus accesorios y estuche](https://www.facebook.com/marketplace/item/1343294977157166) — $2.500 — Usado - Como nuevo — Los Mochis
+- 2026-06-30 15:26 — [ACCESORIOS NINTENDO SWITCH](https://www.facebook.com/marketplace/item/2200005714172987) — $2.500 — Usado - Como nuevo — Los Mochis
+- 2026-06-29 22:45 — [Nintendo switch con todos sus accesorios](https://www.facebook.com/marketplace/item/2514538425684497) — $2.700 — Usado - Como nuevo — Los Mochis
+- 2026-06-09 16:19 — [Dock, cargador y control para Nintendo switch todo original y en buenas condiciones en $800$ todo](https://www.facebook.com/marketplace/item/1373130771358437) — $800 — Usado - Como nuevo — Los Mochis
+- 2026-06-03 01:37 — [Dock, cargador y grips originales para Nintendo switch, 400 Dock o cargador y 100 los grips](https://www.facebook.com/marketplace/item/26314380001570791) — $400 — Usado - Como nuevo — Los Mochis
+- 2026-04-17 18:38 — [Estuche Nintendo switch muy buen estado $280](https://www.facebook.com/marketplace/item/1680377603116707) — $200 — Usado - Como nuevo — Los Mochis
+- 2026-04-05 15:37 — [Se vende Dock de nintendo Switch OLED y Mario Party superstars](https://www.facebook.com/marketplace/item/2696903357354176) — $1 — Usado — Los Mochis
+- 2026-03-17 11:11 — [Juego y accesorios Nintendo switch](https://www.facebook.com/marketplace/item/4446315345657843) — $600 — Usado - Como nuevo — Los Mochis
+- 2026-03-07 17:54 — [se vende nintendo switch oled hakeado  agarra juegos originales y  hack trai todo sus accesorios](https://www.facebook.com/marketplace/item/4443454319216533) — $5.000 — Usado - Como nuevo — Los Mochis
+- 2026-02-23 13:37 — [Control para Switch](https://www.facebook.com/marketplace/item/1130578819101816) — GRATIS — Nuevo — Los Mochis
+- 2026-02-11 14:14 — [Nintendo switch lite con cargador $2900](https://www.facebook.com/marketplace/item/4352084805111657) — $2.900 — Usado - Buen estado — Los Mochis
+- 2026-01-28 12:51 — [🎮Se vende Nintendo Switch EN CAJA + estuche, accesorios 🎮](https://www.facebook.com/marketplace/item/1443981450606997) — $5.000 — Usado - Como nuevo — Los Mochis
+- 2025-10-13 19:33 — [Funda para el Nintendo switch 1](https://www.facebook.com/marketplace/item/1387449993384792) — $200 — Nuevo — Los Mochis
+- 2024-08-05 16:56 — [Control pro Nintendo switch](https://www.facebook.com/marketplace/item/2173331779714464) — $1.400 — Usado - Como nuevo — Los Mochis

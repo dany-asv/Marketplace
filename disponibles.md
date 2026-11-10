@@ -10,44 +10,94 @@ Total: 1345 anuncios disponibles.
 
 ## Anuncios por plataforma
 
-Cada anuncio está clasificado en un solo archivo según la plataforma que nombra su título. Los anuncios que abarcan varias generaciones o no nombran una plataforma clara están en Otros.
+Cada anuncio está clasificado en un solo archivo según la plataforma que nombra su título, y dentro de cada consola en consola, juegos o accesorios. Los anuncios que abarcan varias generaciones o no nombran una plataforma clara están en Otros.
 
 - 1ra, 2da y 3ra generación:
-  - [NES](3ra-nes.md) — 5 anuncios
+  - NES:
+    - [Consola](3ra-nes-consola.md) — 3 anuncios
+    - [Juegos](3ra-nes-juegos.md) — 2 anuncios
 - 4ta y 5ta generación:
-  - [Super Nintendo (SNES)](4ta-snes.md) — 5 anuncios
-  - [Nintendo 64 (N64)](5ta-nintendo-64.md) — 17 anuncios
-  - [PlayStation 1 (PS1)](5ta-ps1.md) — 4 anuncios
+  - Super Nintendo (SNES):
+    - [Consola](4ta-snes-consola.md) — 2 anuncios
+    - [Juegos](4ta-snes-juegos.md) — 3 anuncios
+  - Nintendo 64 (N64):
+    - [Consola](5ta-nintendo-64-consola.md) — 7 anuncios
+    - [Juegos](5ta-nintendo-64-juegos.md) — 8 anuncios
+    - [Accesorios](5ta-nintendo-64-accesorios.md) — 2 anuncios
+  - PlayStation 1 (PS1):
+    - [Consola](5ta-ps1-consola.md) — 4 anuncios
 - Portátiles:
-  - [Game Boy](portatiles-game-boy.md) — 5 anuncios
-  - [Game Boy Advance (GBA)](portatiles-game-boy-advance.md) — 1 anuncios
-  - [Game Boy Advance SP (GBA SP)](portatiles-game-boy-advance-sp.md) — 2 anuncios
-  - [PSP](portatiles-psp.md) — 11 anuncios
-  - [PS Vita](portatiles-ps-vita.md) — 6 anuncios
-  - [Nintendo DS](portatiles-nintendo-ds.md) — 22 anuncios
-  - [Nintendo 2DS](portatiles-nintendo-2ds.md) — 2 anuncios
-  - [Nintendo 3DS](portatiles-nintendo-3ds.md) — 20 anuncios
+  - Game Boy:
+    - [Consola](portatiles-game-boy-consola.md) — 3 anuncios
+    - [Juegos](portatiles-game-boy-juegos.md) — 2 anuncios
+  - Game Boy Advance (GBA):
+    - [Consola](portatiles-game-boy-advance-consola.md) — 1 anuncios
+  - Game Boy Advance SP (GBA SP):
+    - [Consola](portatiles-game-boy-advance-sp-consola.md) — 2 anuncios
+  - PSP:
+    - [Consola](portatiles-psp-consola.md) — 10 anuncios
+    - [Accesorios](portatiles-psp-accesorios.md) — 1 anuncios
+  - PS Vita:
+    - [Consola](portatiles-ps-vita-consola.md) — 6 anuncios
+  - Nintendo DS:
+    - [Consola](portatiles-nintendo-ds-consola.md) — 11 anuncios
+    - [Juegos](portatiles-nintendo-ds-juegos.md) — 9 anuncios
+    - [Accesorios](portatiles-nintendo-ds-accesorios.md) — 2 anuncios
+  - Nintendo 2DS:
+    - [Consola](portatiles-nintendo-2ds-consola.md) — 2 anuncios
+  - Nintendo 3DS:
+    - [Consola](portatiles-nintendo-3ds-consola.md) — 9 anuncios
+    - [Juegos](portatiles-nintendo-3ds-juegos.md) — 11 anuncios
 - 6ta generación:
-  - [GameCube](6ta-gamecube.md) — 7 anuncios
-  - [Dreamcast](6ta-dreamcast.md) — 2 anuncios
-  - [PlayStation 2 (PS2)](6ta-ps2.md) — 15 anuncios
-  - [Xbox Clásico](6ta-xbox-clasico.md) — 1 anuncios
+  - GameCube:
+    - [Consola](6ta-gamecube-consola.md) — 2 anuncios
+    - [Juegos](6ta-gamecube-juegos.md) — 3 anuncios
+    - [Accesorios](6ta-gamecube-accesorios.md) — 2 anuncios
+  - Dreamcast:
+    - [Accesorios](6ta-dreamcast-accesorios.md) — 2 anuncios
+  - PlayStation 2 (PS2):
+    - [Consola](6ta-ps2-consola.md) — 10 anuncios
+    - [Juegos](6ta-ps2-juegos.md) — 4 anuncios
+    - [Accesorios](6ta-ps2-accesorios.md) — 1 anuncios
+  - Xbox Clásico:
+    - [Accesorios](6ta-xbox-clasico-accesorios.md) — 1 anuncios
 - 7ma generación:
-  - [Wii](7ma-wii.md) — 27 anuncios
-  - [PlayStation 3 (PS3)](7ma-ps3.md) — 20 anuncios
-  - [Xbox 360](7ma-xbox-360.md) — 4 anuncios
+  - Wii:
+    - [Consola](7ma-wii-consola.md) — 17 anuncios
+    - [Juegos](7ma-wii-juegos.md) — 5 anuncios
+    - [Accesorios](7ma-wii-accesorios.md) — 5 anuncios
+  - PlayStation 3 (PS3):
+    - [Consola](7ma-ps3-consola.md) — 9 anuncios
+    - [Juegos](7ma-ps3-juegos.md) — 10 anuncios
+    - [Accesorios](7ma-ps3-accesorios.md) — 1 anuncios
+  - Xbox 360:
+    - [Consola](7ma-xbox-360-consola.md) — 4 anuncios
 - 8va generación:
-  - [Wii U](8va-wii-u.md) — 6 anuncios
-  - [PlayStation 4 (PS4)](8va-ps4.md) — 243 anuncios
-  - [Xbox One](8va-xbox-one.md) — 7 anuncios
+  - Wii U:
+    - [Consola](8va-wii-u-consola.md) — 2 anuncios
+    - [Juegos](8va-wii-u-juegos.md) — 4 anuncios
+  - PlayStation 4 (PS4):
+    - [Consola](8va-ps4-consola.md) — 110 anuncios
+    - [Juegos](8va-ps4-juegos.md) — 111 anuncios
+    - [Accesorios](8va-ps4-accesorios.md) — 22 anuncios
+  - Xbox One:
+    - [Consola](8va-xbox-one-consola.md) — 6 anuncios
+    - [Accesorios](8va-xbox-one-accesorios.md) — 1 anuncios
 - 9na generación:
-  - [Nintendo Switch](9na-nintendo-switch.md) — 566 anuncios
-  - [PlayStation 5 (PS5)](9na-ps5.md) — 17 anuncios
-  - [Xbox Series X/S](9na-xbox-series.md) — 2 anuncios
+  - Nintendo Switch:
+    - [Consola](9na-nintendo-switch-consola.md) — 268 anuncios
+    - [Juegos](9na-nintendo-switch-juegos.md) — 241 anuncios
+    - [Accesorios](9na-nintendo-switch-accesorios.md) — 57 anuncios
+  - PlayStation 5 (PS5):
+    - [Consola](9na-ps5-consola.md) — 6 anuncios
+    - [Juegos](9na-ps5-juegos.md) — 11 anuncios
+  - Xbox Series X/S:
+    - [Consola](9na-xbox-series-consola.md) — 2 anuncios
 - 10ma generación:
-  - [Nintendo Switch 2](10ma-nintendo-switch-2.md) — 26 anuncios
+  - Nintendo Switch 2:
+    - [Consola](10ma-nintendo-switch-2-consola.md) — 16 anuncios
+    - [Juegos](10ma-nintendo-switch-2-juegos.md) — 10 anuncios
 - [Otros — Multiplataforma o sin plataforma clara](otros-multiplataforma-y-sin-clasificar.md) — 302 anuncios
-
 ## Disponibles (de más actual a más viejo)
 
 - 2026-11-10 14:34 — [Nintendo switch oled](https://www.facebook.com/marketplace/item/1618213209772179) — $4.000 — Usado - Como nuevo — Los Mochis
