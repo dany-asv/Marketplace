@@ -6,13 +6,15 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de más actual a más viejo según la fecha y hora de publicación (hora de Los Mochis).
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 299 anuncios disponibles.
+Total: 302 anuncios disponibles.
 
 ## Disponibles (de más actual a más viejo)
 
+- 2026-11-10 12:26 — [Nintendo super mario bros](https://www.facebook.com/marketplace/item/1085566247817446) — $1 — Usado - Como nuevo — Los Mochis
 - 2026-11-10 11:42 — [Consola M14 Pro 4K +20000 Juegos](https://www.facebook.com/marketplace/item/2179267716185712) — $650 — Los Mochis
 - 2026-11-10 11:38 — [Control inalambrico para xbox one / series S X](https://www.facebook.com/marketplace/item/982711948242170) — $800 — Los Mochis
 - 2026-11-09 19:18 — [Vendo Zelda Ocarina Of Time NUEVO](https://www.facebook.com/marketplace/item/1635009411463921) — GRATIS — Nuevo — Los Mochis
+- 2026-11-09 18:20 — [Mini Consola Retro con 620 Juegos](https://www.facebook.com/marketplace/item/1736654974693805) — $250 — Nuevo — Los Mochis
 - 2026-11-09 11:43 — [Starfox remake](https://www.facebook.com/marketplace/item/983785638119233) — $1.000 — Usado - Como nuevo — Los Mochis
 - 2026-11-09 10:33 — [Pokemon rojo](https://www.facebook.com/marketplace/item/1440300110943806) — $800 — Usado - Buen estado — Los Mochis
 - 2026-11-09 08:35 — [Videojuegos de PS5 y PS4](https://www.facebook.com/marketplace/item/1024110227346826) — $1.000 — Usado — Los Mochis
@@ -75,6 +77,7 @@ Total: 299 anuncios disponibles.
 - 2026-10-16 19:24 — [Volante Logitech G920 entrego en Alamos country perfectas condiciones](https://www.facebook.com/marketplace/item/2897779090584136) — $3.200 — Los Mochis
 - 2026-10-16 11:21 — [Controles Nintendo y Pc](https://www.facebook.com/marketplace/item/1311639088486440) — $400 — Usado - Buen estado — Los Mochis — vendedor CONFIABLE de Daniel: Miguel Armenta
 - 2026-10-16 11:14 — [Televisor pantalla plana Sony Triniton](https://www.facebook.com/marketplace/item/1617412973211754) — $1.240 — Usado - Como nuevo — Los Mochis
+- 2026-10-15 17:30 — [Control Xbox pro](https://www.facebook.com/marketplace/item/2624830337945887) — $1.200 — Nuevo — Los Mochis
 - 2026-10-14 19:34 — [Juegos switcv 3ds ps5](https://www.facebook.com/marketplace/item/1656544522798672) — $5.858 — Usado - Como nuevo — Los Mochis
 - 2026-10-14 15:10 — [Volante de Carreras HORI RWA (Racing Wheel Apex) para PlayStation 5, PlayStation 4 y PC](https://www.facebook.com/marketplace/item/1781708116470573) — $3.700 — Nuevo — Los Mochis
 - 2026-10-13 19:08 — [Venta o cambio por iPhone Inf 6681162962](https://www.facebook.com/marketplace/item/1288970010003221) — $123.456 — Usado - Como nuevo — Los Mochis

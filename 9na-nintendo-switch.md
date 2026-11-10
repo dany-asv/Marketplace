@@ -6,10 +6,11 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de más actual a más viejo según la fecha y hora de publicación (hora de Los Mochis).
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 565 anuncios disponibles.
+Total: 566 anuncios disponibles.
 
 ## Disponibles (de más actual a más viejo)
 
+- 2026-11-10 14:34 — [Nintendo switch oled](https://www.facebook.com/marketplace/item/1618213209772179) — $4.000 — Usado - Como nuevo — Los Mochis
 - 2026-11-10 10:41 — [Control y estuche para Nintendo switch](https://www.facebook.com/marketplace/item/1723438702823225) — $450 — Los Mochis
 - 2026-11-10 01:31 — [Super Smash Bros Ultimate](https://www.facebook.com/marketplace/item/919927587752968) — $700 — Los Mochis
 - 2026-11-09 22:02 — [Pokémon sword](https://www.facebook.com/marketplace/item/2583687232099404) — $500 — Usado - Como nuevo — Los Mochis

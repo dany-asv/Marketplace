@@ -6,10 +6,11 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de más actual a más viejo según la fecha y hora de publicación (hora de Los Mochis).
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 16 anuncios disponibles.
+Total: 17 anuncios disponibles.
 
 ## Disponibles (de más actual a más viejo)
 
+- 2026-11-10 13:12 — [Nintendo 64 más juego](https://www.facebook.com/marketplace/item/2001639840502768) — $1.500 — Usado — Los Mochis
 - 2026-11-09 14:13 — [Nintendo 64 con todos sus accesorios juego 007 GoldenEye](https://www.facebook.com/marketplace/item/1462160299208169) — $18 — Usado - Buen estado — Los Mochis
 - 2026-11-02 11:54 — [Busco Nintendo 64](https://www.facebook.com/marketplace/item/2491543011375366) — $500 — Usado — Los Mochis
 - 2026-10-25 10:11 — [Turok N64](https://www.facebook.com/marketplace/item/1801351704248679) — $200 — Usado - Buen estado — Los Mochis
