@@ -8,20 +8,17 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 
 Total: 1336 anuncios disponibles.
 
-## Anuncios por plataforma (reglas del grupo Mundo Retro)
+## Anuncios por plataforma
 
 Cada anuncio está clasificado en un solo archivo según la plataforma que nombra su título. Los anuncios que abarcan varias generaciones o no nombran una plataforma clara están en Otros.
 
-- [Lunes — 1ra, 2da y 3ra generación](lunes-1ra-2da-3ra-generacion.md) — 5 anuncios (Atari 2600, Intellivision, Atari 5200, NES, Sega Master System)
-- [Martes — 4ta y 5ta generación](martes-4ta-5ta-generacion.md) — 25 anuncios (SNES, Sega Génesis, Nintendo 64, Sega Saturn, PlayStation 1)
-- [Miércoles — Todas las portátiles](miercoles-portatiles.md) — 83 anuncios (Game Boy, Game Boy Color, Game Boy Advance, Game Boy SP, PSP, PS Vita, Nintendo DS, Nintendo 3DS, Game Gear, Nokia N-Gage)
-- [Jueves — 6ta generación](jueves-6ta-generacion.md) — 25 anuncios (GameCube, Dreamcast, PlayStation 2, Xbox Clásico)
-- [Viernes — 7ma generación](viernes-7ma-generacion.md) — 51 anuncios (Wii, PlayStation 3, Xbox 360)
-- [Domingo — 8va, 9na y 10ma generación](domingo-8va-9na-10ma-generacion.md) — 898 anuncios (Wii U, PlayStation 4, Xbox One, Nintendo Switch, PlayStation 5, Xbox Series X/S, Nintendo Switch 2)
+- [1ra, 2da y 3ra generación](1ra-2da-3ra-generacion.md) — 5 anuncios (Atari 2600, Intellivision, Atari 5200, NES, Sega Master System)
+- [4ta y 5ta generación](4ta-5ta-generacion.md) — 25 anuncios (SNES, Sega Génesis, Nintendo 64, Sega Saturn, PlayStation 1)
+- [Todas las portátiles](portatiles.md) — 83 anuncios (Game Boy, Game Boy Color, Game Boy Advance, Game Boy SP, PSP, PS Vita, Nintendo DS, Nintendo 3DS, Game Gear, Nokia N-Gage)
+- [6ta generación](6ta-generacion.md) — 25 anuncios (GameCube, Dreamcast, PlayStation 2, Xbox Clásico)
+- [7ma generación](7ma-generacion.md) — 51 anuncios (Wii, PlayStation 3, Xbox 360)
+- [8va, 9na y 10ma generación](8va-9na-10ma-generacion.md) — 898 anuncios (Wii U, PlayStation 4, Xbox One, Nintendo Switch, PlayStation 5, Xbox Series X/S, Nintendo Switch 2)
 - [Otros — Multiplataforma o sin plataforma clara](otros-multiplataforma-y-sin-clasificar.md) — 249 anuncios
-
-El sábado es de tianguis (todo retro), así que no tiene archivo propio.
-
 
 ## Disponibles (de más actual a más viejo)
 
