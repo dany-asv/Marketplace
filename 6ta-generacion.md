@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de más actual a más viejo según la fecha y hora de publicación (hora de Los Mochis).
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 25 anuncios disponibles.
+Total: 26 anuncios disponibles.
 
 ## Disponibles (de más actual a más viejo)
 
@@ -20,6 +20,7 @@ Total: 25 anuncios disponibles.
 - 2026-11-02 11:56 — [Busco Nintendo Gamecube](https://www.facebook.com/marketplace/item/2227839654444071) — $500 — Usado — Los Mochis
 - 2026-10-30 08:57 — [Vendo control Original de sega Dreamcast](https://www.facebook.com/marketplace/item/1649066540011681) — $1.500 — Usado — Los Mochis
 - 2026-10-27 16:12 — [Cables originales para nintendo Gamecube](https://www.facebook.com/marketplace/item/1009082828890218) — $500 — Usado - Como nuevo — Los Mochis
+- 2026-10-20 21:13 — [Volante para Xbox original sin uso](https://www.facebook.com/marketplace/item/4491282314468033) — $1.500 — Nuevo — Los Mochis
 - 2026-10-17 17:55 — [Play station 2](https://www.facebook.com/marketplace/item/1631177562120985) — $500 — Usado - Buen estado — Los Mochis
 - 2026-10-13 20:43 — [Control gamecube edición Smash](https://www.facebook.com/marketplace/item/2358222034918945) — $750 — Usado - Como nuevo — Los Mochis
 - 2026-10-10 22:11 — [Pokémon XD Gale of Darkness para Nintendo Gamecube](https://www.facebook.com/marketplace/item/2222903098617847) — $1.500 — Usado - Buen estado — Los Mochis
