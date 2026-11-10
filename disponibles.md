@@ -253,7 +253,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-10-31 20:28 — [Dragon quest  1,2 y 3 Dragon quest monsters switch Nintendo](https://www.facebook.com/marketplace/item/993081613199277) — $800 — Nuevo — Los Mochis — Vendedor: Iram A. Payan
 - 2026-10-31 20:27 — [Switch 2 juegos nuevos Hades 2 Ciber punk pokopia street figther 6 orbitals metroid](https://www.facebook.com/marketplace/item/1812846470034930) — $1 — Nuevo — Los Mochis — Vendedor: Iram A. Payan
 - 2026-10-31 20:26 — [Dragon quest reimagined](https://www.facebook.com/marketplace/item/1778598743420576) — $850 — Nuevo — Los Mochis — Vendedor: Iram A. Payan
-- 2026-10-31 19:47 — [NINTENDO NEW 3ds xl](https://www.facebook.com/marketplace/item/4723905931174660) — $3.900 — Usado - Aceptable — Los Mochis — vendedor en Whitelist de Daniel: Marte Verdugo Gil GamesCel — Vendedor: Marte Verdugo Gil
+- 2026-10-31 19:47 — [NINTENDO NEW 3ds xl](https://www.facebook.com/marketplace/item/4723905931174660) — $3.900 — Usado - Aceptable — Los Mochis — vendedor en Whitelist de Daniel: Marte Verdugo Gil GamesCel
 - 2026-10-31 18:10 — [Ps3 Chipeado (250gb)](https://www.facebook.com/marketplace/item/1130637489425901) — $1.600 — Usado - Buen estado — Los Mochis — Vendedor: Daniela Trejo
 - 2026-10-31 17:27 — [Switch oled con juegos](https://www.facebook.com/marketplace/item/28825900040408344) — $5.500 — Usado - Como nuevo — Los Mochis — Vendedor: Abimael Lopez
 - 2026-10-31 17:25 — [Dock para Nintendo Switch v1](https://www.facebook.com/marketplace/item/1113138388237829) — $500 — Usado - Buen estado — Los Mochis — Vendedor: Bryan Luna
@@ -269,7 +269,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-10-30 15:25 — [Psp 3000💥](https://www.facebook.com/marketplace/item/1618295946436535) — $1.900 — Los Mochis — Vendedor: Saul Romanviggo
 - 2026-10-30 14:48 — [Cambio juego Marvel vs capcom infinite ps4](https://www.facebook.com/marketplace/item/1151470453900477) — GRATIS — Usado - Como nuevo — Los Mochis — Vendedor: Mariano Armenta
 - 2026-10-30 13:48 — [Juegos de switch disponibles $$](https://www.facebook.com/marketplace/item/1768389297548637) — GRATIS — Usado - Como nuevo — Los Mochis — Vendedor: Andrea Lopez
-- 2026-10-30 12:01 — [Control Xbox Elite Core 2](https://www.facebook.com/marketplace/item/1103033145935488) — $2.000 — Los Mochis — vendedor en Whitelist de Daniel: Miguel Armenta — Vendedor: Miguel Armenta
+- 2026-10-30 12:01 — [Control Xbox Elite Core 2](https://www.facebook.com/marketplace/item/1103033145935488) — $2.000 — Los Mochis — vendedor en Whitelist de Daniel: Miguel Armenta
 - 2026-10-30 11:17 — [Juego Arceus](https://www.facebook.com/marketplace/item/2185199718871499) — $750 — Usado - Como nuevo — Los Mochis — Vendedor: Day Tec
 - 2026-10-30 10:08 — [Nintendo switch](https://www.facebook.com/marketplace/item/4408432062743524) — $2.520 — Usado - Buen estado — Los Mochis — Vendedor: Martha Igareda
 - 2026-10-30 08:57 — [Vendo control Original de sega Dreamcast](https://www.facebook.com/marketplace/item/1649066540011681) — $1.500 — Usado — Los Mochis — Vendedor: Alonso Vlz
@@ -289,7 +289,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-10-28 17:54 — [Omori juego Nintendo switch](https://www.facebook.com/marketplace/item/1098333916379914) — $750 — Usado - Como nuevo — Los Mochis — Vendedor: Janeth Gutierrez
 - 2026-10-28 15:17 — [Juegos ps4](https://www.facebook.com/marketplace/item/1809377183612967) — $250 — Usado - Buen estado — Los Mochis — Vendedor: Brayan Chacon
 - 2026-10-28 11:18 — [Se vende Nintendo switch 1](https://www.facebook.com/marketplace/item/3352731141581786) — $4.500 — Usado - Buen estado — Los Mochis — Vendedor: レルマ イエス
-- 2026-10-27 23:32 — [Plumas para consolas DS, Dsi, Dsi XL, 3ds, 3ds XL, New 3dsxl y 2ds, New 2ds XL , Wii u](https://www.facebook.com/marketplace/item/1144531488090080) — $50 — Nuevo — Los Mochis — vendedor en Whitelist de Daniel: Star Games — Vendedor: Star Games
+- 2026-10-27 23:32 — [Plumas para consolas DS, Dsi, Dsi XL, 3ds, 3ds XL, New 3dsxl y 2ds, New 2ds XL , Wii u](https://www.facebook.com/marketplace/item/1144531488090080) — $50 — Nuevo — Los Mochis — vendedor en Whitelist de Daniel: Star Games
 - 2026-10-27 21:43 — [Nintendo switch oled](https://www.facebook.com/marketplace/item/1010999845374803) — GRATIS — Usado - Como nuevo — Los Mochis — Vendedor: Carlos Gastelum
 - 2026-10-27 19:29 — [Xbox one s 512 gb](https://www.facebook.com/marketplace/item/3794627564019723) — $2.300 — Usado - Buen estado — Los Mochis — Vendedor: Carlos Niño
 - 2026-10-27 18:15 — [Audífonos Xbox](https://www.facebook.com/marketplace/item/1820455375868718) — $5 — Usado - Como nuevo — Los Mochis — precio a confirmar: $5 parece error — Vendedor: Ramiro Ramirez
@@ -396,18 +396,18 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-10-17 12:24 — [Juegos de PS3](https://www.facebook.com/marketplace/item/1106085868457386) — $800 — Usado - Buen estado — Los Mochis — Vendedor: Esthela Limon
 - 2026-10-17 12:18 — [Nintendo switch](https://www.facebook.com/marketplace/item/1844710606692153) — $2.200 — Usado - Aceptable — Los Mochis — Vendedor: Empeña Facil Canteras
 - 2026-10-17 10:06 — [Xbox one fat](https://www.facebook.com/marketplace/item/2200525530899259) — $1.800 — Usado - Buen estado — Los Mochis — Vendedor: Jesus Bojorquez
-- 2026-10-17 07:47 — [Call of Duty MW3 ps5](https://www.facebook.com/marketplace/item/1871113177656811) — $1.234 — Los Mochis — vendedor en Whitelist de Daniel: José Guadalupe Guerrero Bojorquez — Vendedor: Jose Guadalupe Guerrero Bojorquez
-- 2026-10-17 06:46 — [Lies of P play5](https://www.facebook.com/marketplace/item/1420992386908645) — $1.234 — Los Mochis — vendedor en Whitelist de Daniel: José Guadalupe Guerrero Bojorquez — Vendedor: Jose Guadalupe Guerrero Bojorquez
-- 2026-10-17 03:34 — [Artículos varios](https://www.facebook.com/marketplace/item/28352557621112946) — $1 — Nuevo — Los Mochis — vendedor en Whitelist de Daniel: Chito Hernández Moso. Precio publicado $1 a confirmar, los precios reales están en la descripción — Vendedor: Chito Hernandez
+- 2026-10-17 07:47 — [Call of Duty MW3 ps5](https://www.facebook.com/marketplace/item/1871113177656811) — $1.234 — Los Mochis — vendedor en Whitelist de Daniel: José Guadalupe Guerrero Bojorquez
+- 2026-10-17 06:46 — [Lies of P play5](https://www.facebook.com/marketplace/item/1420992386908645) — $1.234 — Los Mochis — vendedor en Whitelist de Daniel: José Guadalupe Guerrero Bojorquez
+- 2026-10-17 03:34 — [Artículos varios](https://www.facebook.com/marketplace/item/28352557621112946) — $1 — Nuevo — Los Mochis — vendedor en Whitelist de Daniel: Chito Hernández Moso. Precio publicado $1 a confirmar, los precios reales están en la descripción
 - 2026-10-17 01:08 — [Control+de+nintendo+switch](https://www.facebook.com/marketplace/item/2187288591862246) — $600 — Usado - Buen estado — Los Mochis — Vendedor: Yunibia Solis Yiyita
 - 2026-10-16 21:53 — [Juego + control de Nintendo switch](https://www.facebook.com/marketplace/item/1088916497222457) — $800 — Usado - Como nuevo — Los Mochis — Vendedor: Iván Sánchez Burgueño
 - 2026-10-16 19:24 — [Volante Logitech G920 entrego en Alamos country perfectas condiciones](https://www.facebook.com/marketplace/item/2897779090584136) — $3.200 — Los Mochis — Vendedor: Karla Morales
 - 2026-10-16 18:50 — [Control gamer para PC, Android, iOS y Nintendo switch (precio negociable)](https://www.facebook.com/marketplace/item/1151989644059603) — $800 — Usado - Como nuevo — Los Mochis — Vendedor: Armando Armenta
 - 2026-10-16 17:03 — [Super Mario 3D world + Bowser fury](https://www.facebook.com/marketplace/item/1769880007424268) — $750 — Usado - Buen estado — Los Mochis — Vendedor: Miguel Serrano
 - 2026-10-16 15:25 — [🎮 PS4 Slim 1TB + Control + 2 Juegos | Excelente Precio](https://www.facebook.com/marketplace/item/1613773810402852) — GRATIS — Usado - Como nuevo — Los Mochis — Vendedor: Carlos Espinoza
-- 2026-10-16 12:45 — [Danganronpa 2 Ps Vita](https://www.facebook.com/marketplace/item/1632128528298690) — $500 — Los Mochis — vendedor en Whitelist de Daniel: Miguel Armenta — Vendedor: Miguel Armenta
+- 2026-10-16 12:45 — [Danganronpa 2 Ps Vita](https://www.facebook.com/marketplace/item/1632128528298690) — $500 — Los Mochis — vendedor en Whitelist de Daniel: Miguel Armenta
 - 2026-10-16 12:34 — [Juegos ps4 nuevo y seminuevos](https://www.facebook.com/marketplace/item/2241172466440453) — $600 — Usado - Como nuevo — Los Mochis — Vendedor: Miguel Armenta
-- 2026-10-16 11:21 — [Controles Nintendo y Pc](https://www.facebook.com/marketplace/item/1311639088486440) — $400 — Usado - Buen estado — Los Mochis — vendedor en Whitelist de Daniel: Miguel Armenta — Vendedor: Miguel Armenta
+- 2026-10-16 11:21 — [Controles Nintendo y Pc](https://www.facebook.com/marketplace/item/1311639088486440) — $400 — Usado - Buen estado — Los Mochis — vendedor en Whitelist de Daniel: Miguel Armenta
 - 2026-10-16 11:14 — [Televisor pantalla plana Sony Triniton](https://www.facebook.com/marketplace/item/1617412973211754) — $1.240 — Usado - Como nuevo — Los Mochis — Vendedor: Angel Alberto Quijada Soto
 - 2026-10-15 20:46 — [JUEGOS PS4 PLAYSTATION 4](https://www.facebook.com/marketplace/item/1656820959286192) — $300 — Usado - Como nuevo — Los Mochis — Vendedor: Zaid Sebastián
 - 2026-10-15 17:30 — [Control Xbox pro](https://www.facebook.com/marketplace/item/2624830337945887) — $1.200 — Nuevo — Los Mochis — Vendedor: Jesus Valenzuela
@@ -436,7 +436,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-10-13 20:43 — [Control gamecube edición Smash](https://www.facebook.com/marketplace/item/2358222034918945) — $750 — Usado - Como nuevo — Los Mochis — Vendedor: Sylveon Evie Camila Valdez
 - 2026-10-13 19:08 — [Venta o cambio por iPhone Inf 6681162962](https://www.facebook.com/marketplace/item/1288970010003221) — $123.456 — Usado - Como nuevo — Los Mochis — Vendedor: Pablo Altamirano
 - 2026-10-13 14:39 — [Nintendo switch](https://www.facebook.com/marketplace/item/1983211035701346) — $2.000 — Usado - Como nuevo — Los Mochis — Vendedor: Yis Leyva
-- 2026-10-13 14:09 — [Volante Wii Blanco y Negro Originales Como nuevos](https://www.facebook.com/marketplace/item/1110579641565244) — $300 — Usado - Como nuevo — Los Mochis — vendedor en Whitelist de Daniel: Sergio Castro Félix — Vendedor: Sergio Castro Félix
+- 2026-10-13 14:09 — [Volante Wii Blanco y Negro Originales Como nuevos](https://www.facebook.com/marketplace/item/1110579641565244) — $300 — Usado - Como nuevo — Los Mochis — vendedor en Whitelist de Daniel: Sergio Castro Félix
 - 2026-10-12 19:11 — [Playstation 4](https://www.facebook.com/marketplace/item/1578636587070851) — $4.000 — Usado - Buen estado — Los Mochis — Vendedor: Karla Villaseñor
 - 2026-10-12 18:25 — [Auriculares Logitech g335](https://www.facebook.com/marketplace/item/2908835376154076) — $500 — Los Mochis — Vendedor: Natanael Verdugo
 - 2026-10-12 11:08 — [Xbox series S](https://www.facebook.com/marketplace/item/2001903044099661) — $4.000 — Usado - Como nuevo — Los Mochis — Vendedor: Fernando Espinoza
