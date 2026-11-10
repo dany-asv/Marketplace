@@ -6,7 +6,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Más los anuncios nuevos verificados como disponibles en las revisiones de vigilancia del 10 de noviembre de 2026.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 1334 anuncios disponibles.
+Total: 1336 anuncios disponibles.
 
 ## Disponibles (de más actual a más viejo)
 
@@ -100,6 +100,7 @@ Total: 1334 anuncios disponibles.
 - 2026-11-05 07:36 — [Volante Logitech G920](https://www.facebook.com/marketplace/item/1893501318563958) — $4.000 — Los Mochis
 - 2026-11-04 18:35 — [Pokemon Legends Arceus](https://www.facebook.com/marketplace/item/1848807702788550) — $650 — Usado - Como nuevo — Los Mochis
 - 2026-11-04 17:00 — [Se venden Juegos para Nintendo switch](https://www.facebook.com/marketplace/item/1956339339080429) — $800 — Usado - Buen estado — Los Mochis
+- 2026-11-04 16:51 — [Se vende Nintendo switch](https://www.facebook.com/marketplace/item/1125836460037268) — $4.500 — Usado - Buen estado — Los Mochis
 - 2026-11-04 16:50 — [Juegos para Nintendo switch](https://www.facebook.com/marketplace/item/1491051216291993) — $800 — Usado - Buen estado — Los Mochis
 - 2026-11-04 16:17 — [Súper Mario Party Jamboree para Nintendo switch](https://www.facebook.com/marketplace/item/2172840269969046) — $600 — Usado - Como nuevo — Los Mochis
 - 2026-11-04 14:42 — [Vendo nintendo swich](https://www.facebook.com/marketplace/item/1503042918332359) — $4.000 — Usado — Los Mochis
@@ -215,6 +216,7 @@ Total: 1334 anuncios disponibles.
 - 2026-10-25 15:25 — [Vendo lote Game boy pocket original rosa- hecho en japon](https://www.facebook.com/marketplace/item/4013755732253016) — $3.000 — Nuevo — Los Mochis
 - 2026-10-25 13:36 — [Read Dead Redeption 2 PS4 ✅🕹️](https://www.facebook.com/marketplace/item/1455937176461320) — $300 — Usado - Buen estado — Los Mochis
 - 2026-10-25 11:54 — [Super smash bros ultimate y super mario party!](https://www.facebook.com/marketplace/item/1948170879483296) — $600 — Usado - Como nuevo — Los Mochis
+- 2026-10-25 11:44 — [Ps Portal](https://www.facebook.com/marketplace/item/1437359874541976) — $2.500 — Usado - Como nuevo — Los Mochis
 - 2026-10-25 10:31 — [Grip para joycon nintendo switch](https://www.facebook.com/marketplace/item/2608802699622938) — $300 — Usado - Como nuevo — Los Mochis
 - 2026-10-25 10:27 — [Drive Club PS4](https://www.facebook.com/marketplace/item/2489714314893629) — $300 — Usado - Como nuevo — Los Mochis
 - 2026-10-25 10:19 — [PS4 SLIM DE 1TB. LISTO PARA JUGAR !](https://www.facebook.com/marketplace/item/1556850456208427) — $3.500 — Usado - Buen estado — Los Mochis
