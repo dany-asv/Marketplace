@@ -5,6 +5,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Base: lista de guardados de Daniel, páginas 1 a 128 (2,540 anuncios revisados; la página 129 falló con error 500 de Facebook, así que la lista sigue incompleta después de enero de 2026).
 - Más los anuncios nuevos verificados como disponibles en las revisiones de vigilancia del 10 de noviembre de 2026.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
+- Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
 Total: 1335 anuncios disponibles.
 
