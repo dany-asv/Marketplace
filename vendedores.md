@@ -6,7 +6,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook; en la Whitelist de Daniel algunos aparecen con otro nombre (por ejemplo, Antonio Lopez es Jesus Luque en su lista).
 
-Total: 816 vendedores, 1332 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
+Total: 818 vendedores, 1334 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
 
 ## Vendedores (de mayor a menor número de publicaciones)
 
@@ -423,6 +423,7 @@ Total: 816 vendedores, 1332 anuncios con vendedor identificado (3 anuncios de la
 - [Felipe Mendoza](https://www.facebook.com/marketplace/profile/61563004041410) — 1 publicación
 - [Felix Guadalupe](https://www.facebook.com/marketplace/profile/100003525830978) — 1 publicación
 - [Fenix Igua](https://www.facebook.com/marketplace/profile/100038977042371) — 1 publicación
+- [Fer Laurean](https://www.facebook.com/marketplace/profile/61593706300245) — 1 publicación
 - [Fermin Enrique Soto](https://www.facebook.com/marketplace/profile/100000383878455) — 1 publicación
 - [Fernanda EH](https://www.facebook.com/marketplace/profile/100008664572811) — 1 publicación
 - [Fernando Espinoza](https://www.facebook.com/marketplace/profile/100007572457314) — 1 publicación
@@ -530,6 +531,7 @@ Total: 816 vendedores, 1332 anuncios con vendedor identificado (3 anuncios de la
 - [Jhosephina Zemag](https://www.facebook.com/marketplace/profile/100001598862113) — 1 publicación
 - [Jimena Enriquez](https://www.facebook.com/marketplace/profile/100002626385926) — 1 publicación
 - [JL GC](https://www.facebook.com/marketplace/profile/100009209022851) — 1 publicación
+- [Jisus Escalante](https://www.facebook.com/marketplace/profile/61584245725286) — 1 publicación
 - [Joaquin L Beltran](https://www.facebook.com/marketplace/profile/100007023091753) — 1 publicación
 - [Jonh Lopez](https://www.facebook.com/marketplace/profile/61584315791962) — 1 publicación
 - [Jorge A Armenta Payan](https://www.facebook.com/marketplace/profile/100003813694311) — 1 publicación

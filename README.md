@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1335 anuncios disponibles.
+Total: 1337 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -83,7 +83,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](8va-ps4-juegos.md) — 111 anuncios
     - [Accesorios](8va-ps4-accesorios.md) — 21 anuncios
   - Xbox One:
-    - [Consolas](8va-xbox-one-consolas.md) — 6 anuncios
+    - [Consolas](8va-xbox-one-consolas.md) — 7 anuncios
     - [Accesorios](8va-xbox-one-accesorios.md) — 1 anuncios
 - 9na generación:
   - Nintendo Switch:
@@ -105,9 +105,10 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - Otros — Multiplataforma o sin plataforma clara:
   - [Consolas](otros-consolas.md) — 102 anuncios
   - [Juegos](otros-juegos.md) — 159 anuncios
-  - [Accesorios](otros-accesorios.md) — 39 anuncios
+  - [Accesorios](otros-accesorios.md) — 40 anuncios
 ## Disponibles (de más actual a más viejo)
 
+- 2026-11-10 16:27 — [Volante para videojuegos](https://www.facebook.com/marketplace/item/1465493755011389) — $1.200 — Usado - Como nuevo — Los Mochis — Vendedor: Fer Laurean
 - 2026-11-10 14:34 — [Nintendo switch oled](https://www.facebook.com/marketplace/item/1618213209772179) — $4.000 — Usado - Como nuevo — Los Mochis — Vendedor: Beli Bet
 - 2026-11-10 13:12 — [Nintendo 64 más juego](https://www.facebook.com/marketplace/item/2001639840502768) — $1.500 — Usado — Los Mochis — Vendedor: Ivan Gortarez
 - 2026-11-10 12:26 — [Nintendo super mario bros](https://www.facebook.com/marketplace/item/1085566247817446) — $1 — Usado - Como nuevo — Los Mochis — Vendedor: Daniel Ochoa
@@ -172,6 +173,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-07 01:55 — [Nintendo Switch OLED](https://www.facebook.com/marketplace/item/1139701418605120) — $6.500 — Usado - Como nuevo — Los Mochis — Vendedor: Uriel Quintero
 - 2026-11-06 20:21 — [Play 4 jalando bien](https://www.facebook.com/marketplace/item/1663348121900071) — $3.500 — Usado - Buen estado — Los Mochis — Vendedor: Alan Lopez
 - 2026-11-06 17:52 — [Play station 4 en venta sin fallas dos controles](https://www.facebook.com/marketplace/item/1129822423273774) — $3.000 — Usado - Aceptable — Los Mochis — Vendedor: Adan Uribe
+- 2026-11-06 15:14 — [Xbox One](https://www.facebook.com/marketplace/item/1001660172998720) — $1.900 — Usado - Como nuevo — Los Mochis — Vendedor: Jisus Escalante
 - 2026-11-06 15:10 — [Nintendo Swich Oled](https://www.facebook.com/marketplace/item/1831643834646021) — $4.200 — Usado - Buen estado — Los Mochis — Vendedor: Omar De la Vega
 - 2026-11-06 14:20 — [Days Gone](https://www.facebook.com/marketplace/item/1583914160207078) — $400 — Usado - Como nuevo — Los Mochis — Vendedor: Ulises Valenzuela Ochoa
 - 2026-11-06 13:06 — [Ps4 1tb](https://www.facebook.com/marketplace/item/2216358428948379) — $2.000 — Usado - Como nuevo — Los Mochis — Vendedor: Ruben Archivaldo
