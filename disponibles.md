@@ -86,7 +86,10 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Accesorios](8va-xbox-one-accesorios.md) — 1 anuncios
 - 9na generación:
   - Nintendo Switch:
-    - [Consolas](9na-nintendo-switch-consolas.md) — 267 anuncios
+    - Consolas:
+      - [OLED](9na-nintendo-switch-oled-consolas.md) — 110 anuncios
+      - [Lite](9na-nintendo-switch-lite-consolas.md) — 27 anuncios
+      - [Normal](9na-nintendo-switch-normal-consolas.md) — 130 anuncios
     - [Juegos](9na-nintendo-switch-juegos.md) — 239 anuncios
     - [Accesorios](9na-nintendo-switch-accesorios.md) — 60 anuncios
   - PlayStation 5 (PS5):
