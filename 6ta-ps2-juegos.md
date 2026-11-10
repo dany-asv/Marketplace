@@ -10,7 +10,7 @@ Total: 4 anuncios disponibles.
 
 ## Disponibles (de más actual a más viejo)
 
-- 2026-11-08 18:36 — [JUEGOS PARA PLAYSTATION 2](https://www.facebook.com/marketplace/item/2209967619917749)
-- 2026-11-07 05:00 — [Juegos para PS2](https://www.facebook.com/marketplace/item/1092374926968032)
-- 2026-09-12 14:22 — [Juegos de play2](https://www.facebook.com/marketplace/item/2801944930189497)
-- 2026-04-28 07:39 — [juegos de ps2](https://www.facebook.com/marketplace/item/963603962743761)
+- 2026-11-08 18:36 — [JUEGOS PARA PLAYSTATION 2](https://www.facebook.com/marketplace/item/2209967619917749) — Vendedor: Mario Aguilar
+- 2026-11-07 05:00 — [Juegos para PS2](https://www.facebook.com/marketplace/item/1092374926968032) — Vendedor: Chito Hernandez
+- 2026-09-12 14:22 — [Juegos de play2](https://www.facebook.com/marketplace/item/2801944930189497) — Vendedor: Fer Miranda
+- 2026-04-28 07:39 — [juegos de ps2](https://www.facebook.com/marketplace/item/963603962743761) — Vendedor: Fer Gomez

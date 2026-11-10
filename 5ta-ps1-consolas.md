@@ -10,7 +10,7 @@ Total: 4 anuncios disponibles.
 
 ## Disponibles (de más actual a más viejo)
 
-- 2026-09-17 20:06 — [PlayStation 1](https://www.facebook.com/marketplace/item/1948070155863354)
-- 2026-08-11 10:35 — [Ps1 fat sin detalles jalando al cien](https://www.facebook.com/marketplace/item/1969857373716309)
-- 2026-07-27 15:32 — [Mini arcade y ps1](https://www.facebook.com/marketplace/item/1219672110972050)
-- 2026-01-04 19:34 — [Playstation 1](https://www.facebook.com/marketplace/item/25889306014022716)
+- 2026-09-17 20:06 — [PlayStation 1](https://www.facebook.com/marketplace/item/1948070155863354) — Vendedor: Wonk Walker
+- 2026-08-11 10:35 — [Ps1 fat sin detalles jalando al cien](https://www.facebook.com/marketplace/item/1969857373716309) — Vendedor: Chappy Chappy
+- 2026-07-27 15:32 — [Mini arcade y ps1](https://www.facebook.com/marketplace/item/1219672110972050) — Vendedor: Ivan Lopez
+- 2026-01-04 19:34 — [Playstation 1](https://www.facebook.com/marketplace/item/25889306014022716) — Vendedor: Jose Martinez Rivera

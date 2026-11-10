@@ -6,168 +6,166 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de más actual a más viejo según la fecha y hora de publicación (hora de Los Mochis).
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 161 anuncios disponibles.
+Total: 159 anuncios disponibles.
 
 ## Disponibles (de más actual a más viejo)
 
 - 2026-11-10 12:26 — [Nintendo super mario bros](https://www.facebook.com/marketplace/item/1085566247817446) — Vendedor: Daniel Ochoa
-- 2026-11-09 19:18 — [Vendo Zelda Ocarina Of Time NUEVO](https://www.facebook.com/marketplace/item/1635009411463921)
-- 2026-11-09 11:43 — [Starfox remake](https://www.facebook.com/marketplace/item/983785638119233)
-- 2026-11-09 10:33 — [Pokemon rojo](https://www.facebook.com/marketplace/item/1440300110943806)
-- 2026-11-09 08:35 — [Videojuegos de PS5 y PS4](https://www.facebook.com/marketplace/item/1024110227346826)
-- 2026-11-08 18:23 — [Juegos+de+nintendo+switch+y+nintendo+switch+2](https://www.facebook.com/marketplace/item/2458993241509145)
-- 2026-11-08 18:11 — [Nintendo y juegos](https://www.facebook.com/marketplace/item/3666305270213132)
-- 2026-11-08 14:32 — [Videojuegos 🎮 PS5 y Nintendo switch](https://www.facebook.com/marketplace/item/1678842957089134)
-- 2026-11-07 19:12 — [Tomodachi life](https://www.facebook.com/marketplace/item/1122831433790999)
-- 2026-11-06 14:20 — [Days Gone](https://www.facebook.com/marketplace/item/1583914160207078)
-- 2026-11-05 20:07 — [The legend of Zelda ocarina of time](https://www.facebook.com/marketplace/item/2232672043957860)
-- 2026-11-05 19:37 — [Sonic 2 y ni no kuni](https://www.facebook.com/marketplace/item/2149935728978567)
-- 2026-11-05 16:28 — [Juegos de PlayStation $300c/u](https://www.facebook.com/marketplace/item/1521965226383474)
-- 2026-11-04 13:52 — [Nendoroid Kirby Robobot & Kirby - Good Smile Company - Sellado Original](https://www.facebook.com/marketplace/item/1125340696809093)
-- 2026-11-03 21:31 — [FIFA 23 y call of duty ghosts](https://www.facebook.com/marketplace/item/1795979078286100)
-- 2026-11-03 18:55 — [Videojuegos play station 5 ps4 split fiction , elden ring, the división 2 , sonic , Naruto resident](https://www.facebook.com/marketplace/item/1455200049881264)
-- 2026-11-03 00:17 — [Se vende Nintendo switch, juegos y PS5](https://www.facebook.com/marketplace/item/1863078911521983)
-- 2026-10-31 20:26 — [Dragon quest reimagined](https://www.facebook.com/marketplace/item/1778598743420576)
-- 2026-10-31 10:55 — [Videojuego Arcade](https://www.facebook.com/marketplace/item/1827245588283533)
-- 2026-10-30 11:17 — [Juegos](https://www.facebook.com/marketplace/item/867518563084625)
-- 2026-10-30 04:16 — [Se venden 3 juegos para play 4por $1300](https://www.facebook.com/marketplace/item/2739396749825358)
-- 2026-10-29 16:42 — [Juegos](https://www.facebook.com/marketplace/item/1762895271426187)
-- 2026-10-28 21:55 — [Zelda](https://www.facebook.com/marketplace/item/4696253194028504)
-- 2026-10-26 16:18 — [Crash insane trilogy](https://www.facebook.com/marketplace/item/1834198177918370)
-- 2026-10-25 08:35 — [Dragón ball sparking Zero](https://www.facebook.com/marketplace/item/1601077308367036)
-- 2026-10-23 18:48 — [Juegos $500 los dos](https://www.facebook.com/marketplace/item/990200120084191)
-- 2026-10-23 00:16 — [Juegos nuevos baratos](https://www.facebook.com/marketplace/item/1736880077411137)
-- 2026-10-21 10:45 — [Mortal Kombat 1](https://www.facebook.com/marketplace/item/1423279409961562)
-- 2026-10-14 19:34 — [Juegos switcv 3ds ps5](https://www.facebook.com/marketplace/item/1656544522798672)
-- 2026-10-12 10:50 — [Juegos+de+psp4](https://www.facebook.com/marketplace/item/1110698565263173)
-- 2026-09-29 21:30 — [Dragón ball sparking Zero](https://www.facebook.com/marketplace/item/1128304506816271)
-- 2026-09-27 18:14 — [Venta juegos usados](https://www.facebook.com/marketplace/item/1384779526693061)
-- 2026-09-26 10:53 — [Pokémon black](https://www.facebook.com/marketplace/item/1633000018621871)
-- 2026-09-24 12:59 — [Super Mario 3D Word](https://www.facebook.com/marketplace/item/1357876882825481)
-- 2026-09-21 19:52 — [Súper Mario maker2](https://www.facebook.com/marketplace/item/937524275637505)
-- 2026-09-18 18:58 — [Juegos](https://www.facebook.com/marketplace/item/1517373977088273)
-- 2026-09-17 22:44 — [Juegos para ps4 y ps5](https://www.facebook.com/marketplace/item/2214007749525805)
-- 2026-09-17 18:15 — [Videojuegos](https://www.facebook.com/marketplace/item/2666630777086599)
-- 2026-09-16 20:18 — [Pokémon white version (SOLO CAJA)](https://www.facebook.com/marketplace/item/2618173425310456)
-- 2026-09-16 10:07 — [Juego Nintendo 3ds manual, juego de Xbox one y PS3](https://www.facebook.com/marketplace/item/1571863904394106)
-- 2026-09-14 20:51 — [Juegos de pley 3](https://www.facebook.com/marketplace/item/1562580961713625)
-- 2026-09-14 09:43 — [Mario Party Jamboree + Jamboree TV](https://www.facebook.com/marketplace/item/4102901823336515)
-- 2026-09-13 17:04 — [Videojuegos nuevos nintendo switch 2 Nintendo switch y play station 5](https://www.facebook.com/marketplace/item/939163175376802)
-- 2026-09-12 00:15 — [Mario kart8 deluxe](https://www.facebook.com/marketplace/item/2089036908652380)
-- 2026-09-10 00:18 — [Juegos](https://www.facebook.com/marketplace/item/1598658118333400)
-- 2026-09-09 16:03 — [Juego Mario](https://www.facebook.com/marketplace/item/1048291228029638)
-- 2026-09-09 14:51 — [Juegos PS1 PS2 PS3 PS4 NDS](https://www.facebook.com/marketplace/item/1813364033343254)
-- 2026-09-08 22:09 — [Juegos de ps5 y PS4](https://www.facebook.com/marketplace/item/1011386768579014)
-- 2026-09-08 20:01 — [Video juego](https://www.facebook.com/marketplace/item/1056326770336017)
-- 2026-09-07 18:44 — [Juegos de Nintendo ds y 3ds 700 por los 3](https://www.facebook.com/marketplace/item/1086436467247358)
-- 2026-09-06 18:40 — [Spiderman miles morales](https://www.facebook.com/marketplace/item/3446274895539708)
-- 2026-09-04 23:07 — [Assassins cred unity](https://www.facebook.com/marketplace/item/2609561686180826)
-- 2026-09-04 23:06 — [FIFA 21](https://www.facebook.com/marketplace/item/38087170387598334)
-- 2026-09-04 23:06 — [Horizon zero dawn](https://www.facebook.com/marketplace/item/1683883649380903)
-- 2026-09-04 23:05 — [Call of duty mordern warfare](https://www.facebook.com/marketplace/item/1389074929329932)
-- 2026-09-04 23:04 — [God of war](https://www.facebook.com/marketplace/item/2253820885377915)
-- 2026-09-04 23:02 — [Battlefield 2042](https://www.facebook.com/marketplace/item/1965405371513322)
-- 2026-09-04 23:01 — [FIFA 22](https://www.facebook.com/marketplace/item/2169584800636415)
-- 2026-09-04 23:01 — [FIFA 23](https://www.facebook.com/marketplace/item/1534087138765795)
-- 2026-09-04 13:57 — [Juegos de video $100 c/u](https://www.facebook.com/marketplace/item/2490347631456861)
-- 2026-09-01 21:24 — [Juegos para Playstation](https://www.facebook.com/marketplace/item/1003688652686728)
-- 2026-09-01 09:12 — [Horizon zero dawn](https://www.facebook.com/marketplace/item/4639015783035457)
-- 2026-08-30 15:48 — [Juegos Nintendo](https://www.facebook.com/marketplace/item/923048830875391)
-- 2026-08-29 14:06 — [Resident Evil 4 nuevecito](https://www.facebook.com/marketplace/item/2279037292948739)
-- 2026-08-27 16:04 — [Juegos de switch, ps5 y xbox](https://www.facebook.com/marketplace/item/1422661659727518)
-- 2026-08-22 16:33 — [Juegos PS4-PS5](https://www.facebook.com/marketplace/item/1378227907769303)
-- 2026-08-17 14:25 — [Video juegos el precio es por  pieza](https://www.facebook.com/marketplace/item/27922304210731601)
-- 2026-08-12 00:35 — [Juego Crash](https://www.facebook.com/marketplace/item/3279780668885187)
-- 2026-08-11 12:10 — [JUEGOS PS4-PS5](https://www.facebook.com/marketplace/item/4327230754088479)
-- 2026-08-10 10:45 — [Juegos para PS4 y PS5](https://www.facebook.com/marketplace/item/1057886853444073)
-- 2026-08-08 14:54 — [Juego de nintento](https://www.facebook.com/marketplace/item/1051821510585594)
-- 2026-08-05 22:38 — [Minecraft edicion Mario Bros Nintendo Switch Nuevo sellado compatible Switch 2](https://www.facebook.com/marketplace/item/1692369952062867)
-- 2026-08-05 19:34 — [Vendo Mario odyssey](https://www.facebook.com/marketplace/item/4387121621603058)
-- 2026-08-03 13:17 — [Luigi Mansión 3, resident evil sellado, ff12](https://www.facebook.com/marketplace/item/1956747341673471)
-- 2026-07-28 16:51 — [Juegos de switch y play 5](https://www.facebook.com/marketplace/item/1041335918502925)
-- 2026-07-28 16:09 — [Juego de mario bros](https://www.facebook.com/marketplace/item/2095819434665387)
-- 2026-07-27 15:32 — [Juegos diferentes precios](https://www.facebook.com/marketplace/item/1085349680819048)
-- 2026-07-27 15:32 — [Juegos para Playstation baratos](https://www.facebook.com/marketplace/item/1883767236342701)
-- 2026-07-27 15:32 — [Juegos para Nintendo 3ds y ds](https://www.facebook.com/marketplace/item/1005436722321581)
-- 2026-07-24 13:14 — [Juegos de PS4 , PS5 Y XBOX ONE](https://www.facebook.com/marketplace/item/2619162841874186)
-- 2026-07-22 18:12 — [Will juegos y mas](https://www.facebook.com/marketplace/item/1027628266647740)
-- 2026-07-22 17:22 — [Videojuego](https://www.facebook.com/marketplace/item/1346620207536454)
-- 2026-07-18 21:36 — [Mario & Luigi Brothership](https://www.facebook.com/marketplace/item/2208349300021464)
-- 2026-07-14 16:10 — [Mario Rabbids Kingdom Battle](https://www.facebook.com/marketplace/item/3386168638222761)
-- 2026-07-07 22:01 — [Juego PlayStation Call of Duty WW2](https://www.facebook.com/marketplace/item/1990993595116282)
-- 2026-07-07 21:59 — [Juego PlayStation Spiderman Miles Morales](https://www.facebook.com/marketplace/item/3128693940673835)
-- 2026-07-07 21:54 — [Juego PlayStation MineCraft Edición Especial](https://www.facebook.com/marketplace/item/1006672368829737)
-- 2026-07-06 18:25 — [Juego de Mario odyseey](https://www.facebook.com/marketplace/item/1905271443498326)
-- 2026-07-06 18:21 — [Juego de Mario deluxe infinito](https://www.facebook.com/marketplace/item/3278009505740327)
-- 2026-07-03 17:44 — [Juego para play](https://www.facebook.com/marketplace/item/27024987773864236)
-- 2026-07-02 16:57 — [God of War Ragnarök (con código de armadura)](https://www.facebook.com/marketplace/item/2121660778396649)
-- 2026-07-02 16:46 — [The last of us remastered](https://www.facebook.com/marketplace/item/1021230187054809)
-- 2026-07-01 20:51 — [Mario y Sonic Olympic games](https://www.facebook.com/marketplace/item/1482931430518623)
-- 2026-06-29 12:01 — [Pikmin 1 + 2](https://www.facebook.com/marketplace/item/3198797993664037)
-- 2026-06-27 07:31 — [Zelda BOTW](https://www.facebook.com/marketplace/item/1851653635815332)
-- 2026-06-22 20:19 — [Minecraft](https://www.facebook.com/marketplace/item/1152801440389098)
-- 2026-06-22 20:17 — [Luigis mansión 3](https://www.facebook.com/marketplace/item/27242296318769031)
-- 2026-06-22 15:17 — [Cambio pokemon violet por super smash bros](https://www.facebook.com/marketplace/item/1306163944831031)
-- 2026-06-20 10:17 — [JUEGOS NINTENDO 64 GAMECUBE GAMEBOY SNES](https://www.facebook.com/marketplace/item/1029319096283332)
-- 2026-06-18 10:55 — [Mario Rabbids](https://www.facebook.com/marketplace/item/2469117890261097)
-- 2026-06-12 18:01 — [Juegos Ps4-Ps5](https://www.facebook.com/marketplace/item/1552417576245577)
-- 2026-06-12 15:52 — [CRASH NTRILOGY](https://www.facebook.com/marketplace/item/1289606846495326)
-- 2026-06-11 08:57 — [Rainbow six siege](https://www.facebook.com/marketplace/item/1985771682070748)
-- 2026-06-08 21:23 — [Juegos Ps4-Ps5](https://www.facebook.com/marketplace/item/3061640007364823)
-- 2026-06-08 00:10 — [Nintendo swich oled blanca con mortal kombat 1 todos los dlc y tomodachi life](https://www.facebook.com/marketplace/item/27586306701008854)
-- 2026-06-07 17:47 — [LEAPSTER VIDEO JUEGOS](https://www.facebook.com/marketplace/item/946972158372125)
-- 2026-06-03 23:59 — [Juego de Ds y 3DS](https://www.facebook.com/marketplace/item/939227589171106)
-- 2026-06-01 16:07 — [Super mario maker 2](https://www.facebook.com/marketplace/item/26737475489288736)
-- 2026-06-01 16:02 — [Fifa 23 ea sports](https://www.facebook.com/marketplace/item/967995829386058)
-- 2026-05-31 13:41 — [Televisor Panasonic](https://www.facebook.com/marketplace/item/27245231865096143)
-- 2026-05-25 13:02 — [Juegos ps4,ps5,ps4, wii](https://www.facebook.com/marketplace/item/1518277919970178)
-- 2026-05-24 17:09 — [Juegos de Nintendo en 650 cada uno](https://www.facebook.com/marketplace/item/1442491020983996)
-- 2026-05-21 16:28 — [pokemon za](https://www.facebook.com/marketplace/item/1711578480022788)
-- 2026-05-19 20:04 — [SUPER MARIO ODYSSEY](https://www.facebook.com/marketplace/item/1964384157780377)
-- 2026-05-10 21:17 — [Se venden juegos...](https://www.facebook.com/marketplace/item/1339795008037387)
-- 2026-05-08 05:57 — [Video juego](https://www.facebook.com/marketplace/item/989772040370020)
-- 2026-05-04 08:57 — [Bideojuego de nintendo siuchw](https://www.facebook.com/marketplace/item/817317547703446)
-- 2026-05-03 15:47 — [Juegos](https://www.facebook.com/marketplace/item/3615936568544702)
-- 2026-05-01 16:05 — [Juegos ps4-ps5](https://www.facebook.com/marketplace/item/961200043061215)
-- 2026-04-27 17:17 — [Juegos de Nintendo](https://www.facebook.com/marketplace/item/1342065097975792)
-- 2026-04-27 13:57 — [Juegos de ps4 y ps5🔥](https://www.facebook.com/marketplace/item/803629019153954)
-- 2026-04-21 16:55 — [Amiibo y figuras de colección de videojuegos](https://www.facebook.com/marketplace/item/848565951611208)
-- 2026-04-20 09:07 — [Video juegos](https://www.facebook.com/marketplace/item/929714203165807)
-- 2026-04-16 20:19 — [Juegos Playstation 4 y Playstation 5 no Pokémon no Zelda](https://www.facebook.com/marketplace/item/969540405419287)
-- 2026-04-16 20:16 — [Métroid , Zelda ,no Mario no Pokémon](https://www.facebook.com/marketplace/item/1262453598880728)
-- 2026-04-16 11:46 — [Juegos de play](https://www.facebook.com/marketplace/item/934317096237786)
-- 2026-04-09 22:27 — [New súper Mario bros](https://www.facebook.com/marketplace/item/2121459471921421)
-- 2026-04-08 13:28 — [The witcher , BTF V y red dead redemption 2 ( caja metálica )](https://www.facebook.com/marketplace/item/1982612592625486)
-- 2026-04-03 15:50 — [Sonic SuperStars Nintendo](https://www.facebook.com/marketplace/item/2041194206803556)
-- 2026-04-02 13:27 — [Grand Theft Auto V (GTA 5)](https://www.facebook.com/marketplace/item/25576878495321053)
-- 2026-04-02 13:25 — [FIFA 16](https://www.facebook.com/marketplace/item/966556406321627)
-- 2026-03-19 00:23 — [Bloodstained ,no Mario no Zelda no Pokémon](https://www.facebook.com/marketplace/item/1409793727131506)
-- 2026-03-16 21:46 — [Juegos](https://www.facebook.com/marketplace/item/1249308707164012)
-- 2026-03-15 17:04 — [Juegos de ps4 y ps5](https://www.facebook.com/marketplace/item/2395477627568502)
-- 2026-03-04 14:06 — [Videojuegos](https://www.facebook.com/marketplace/item/5009893595904143)
-- 2026-02-27 10:42 — [Mario rpg](https://www.facebook.com/marketplace/item/1654313306011562)
-- 2026-02-24 15:47 — [Gta v](https://www.facebook.com/marketplace/item/1977082312886759)
-- 2026-02-22 15:42 — [Juegos retro y actuales](https://www.facebook.com/marketplace/item/907439325022259)
-- 2026-02-20 14:42 — [Mario & Sonic - At The Olympic Games](https://www.facebook.com/marketplace/item/1992731911650295)
-- 2026-02-15 17:18 — [Juegos Wii y Wii U](https://www.facebook.com/marketplace/item/4062317350569297)
-- 2026-02-10 19:22 — [Mario kart World](https://www.facebook.com/marketplace/item/1410520820621448)
-- 2026-02-03 13:17 — [Juegos Nintendo 3DS y DS](https://www.facebook.com/marketplace/item/2103133420511235)
-- 2026-02-01 18:15 — [Juegos de Nintendo](https://www.facebook.com/marketplace/item/853742464199575)
-- 2026-01-26 19:31 — [juegos de Nintendo](https://www.facebook.com/marketplace/item/2086639831741144)
-- 2026-01-15 23:49 — [Discos de juego Pley 3 Uno de pley 50 pesos cada 1 al que venga por el  BATMAN y WOLFENSTEIN VENDIDO](https://www.facebook.com/marketplace/item/1813741709587226)
-- 2026-01-15 17:46 — [Super Mario RPG](https://www.facebook.com/marketplace/item/1379155663656073)
-- 2026-01-12 21:45 — [Video juegos](https://www.facebook.com/marketplace/item/1211134600516116)
-- 2026-01-11 19:28 — [Mortal Kombat XL](https://www.facebook.com/marketplace/item/1624070775254403)
-- 2026-01-07 16:14 — [Vendo God of War](https://www.facebook.com/marketplace/item/1522729392329848)
-- 2026-01-07 13:13 — [Juegos ps4 y ps5](https://www.facebook.com/marketplace/item/1166013721968545)
-- 2025-12-30 12:47 — [juegos ps4 y ps5](https://www.facebook.com/marketplace/item/1336923668209965)
-- 2025-12-29 17:48 — [Juegos PlayStation](https://www.facebook.com/marketplace/item/1914264792632225)
-- 2025-11-26 13:16 — [Variedad de videojuegos](https://www.facebook.com/marketplace/item/1231910995478061)
-- 2025-11-24 17:00 — [Juegos de ps5  y ps4](https://www.facebook.com/marketplace/item/844127654668962)
-- 2025-11-16 23:18 — [Videojuegos](https://www.facebook.com/marketplace/item/1491506838754471)
-- 2025-11-08 16:39 — [Venta juegos](https://www.facebook.com/marketplace/item/1326001235663928)
-- 2025-11-04 10:44 — [Juegos ps4 y ps5](https://www.facebook.com/marketplace/item/826567806450664)
-- 2025-10-07 15:43 — [Juegos de ps4 y 1 de ps5](https://www.facebook.com/marketplace/item/687787003766194)
-- 2024-12-07 19:33 — [Assassin crid](https://www.facebook.com/marketplace/item/1113036633788571)
-- 2024-12-07 19:29 — [Juego horizon](https://www.facebook.com/marketplace/item/3971873476468264)
-- 2023-08-19 20:50 — [RED DEAD REDEMPTION II](https://www.facebook.com/marketplace/item/634168878515828)
+- 2026-11-09 19:18 — [Vendo Zelda Ocarina Of Time NUEVO](https://www.facebook.com/marketplace/item/1635009411463921) — Vendedor: Albano Souza Recio
+- 2026-11-09 11:43 — [Starfox remake](https://www.facebook.com/marketplace/item/983785638119233) — Vendedor: Eduardo Infante
+- 2026-11-09 10:33 — [Pokemon rojo](https://www.facebook.com/marketplace/item/1440300110943806) — Vendedor: Pf Clothin
+- 2026-11-09 08:35 — [Videojuegos de PS5 y PS4](https://www.facebook.com/marketplace/item/1024110227346826) — Vendedor: Sebastián Valdez
+- 2026-11-08 18:23 — [Juegos+de+nintendo+switch+y+nintendo+switch+2](https://www.facebook.com/marketplace/item/2458993241509145) — Vendedor: Rguez Nore
+- 2026-11-08 18:11 — [Nintendo y juegos](https://www.facebook.com/marketplace/item/3666305270213132) — Vendedor: Alejandra Mochis
+- 2026-11-08 14:32 — [Videojuegos 🎮 PS5 y Nintendo switch](https://www.facebook.com/marketplace/item/1678842957089134) — Vendedor: Karla Rodriguez
+- 2026-11-07 19:12 — [Tomodachi life](https://www.facebook.com/marketplace/item/1122831433790999) — Vendedor: Mike Chichario
+- 2026-11-06 14:20 — [Days Gone](https://www.facebook.com/marketplace/item/1583914160207078) — Vendedor: Ulises Valenzuela Ochoa
+- 2026-11-05 20:07 — [The legend of Zelda ocarina of time](https://www.facebook.com/marketplace/item/2232672043957860) — Vendedor: Chrono Trigger
+- 2026-11-05 19:37 — [Sonic 2 y ni no kuni](https://www.facebook.com/marketplace/item/2149935728978567) — Vendedor: Antonio Rodriguez
+- 2026-11-05 16:28 — [Juegos de PlayStation $300c/u](https://www.facebook.com/marketplace/item/1521965226383474) — Vendedor: Dulce Palma
+- 2026-11-04 13:52 — [Nendoroid Kirby Robobot & Kirby - Good Smile Company - Sellado Original](https://www.facebook.com/marketplace/item/1125340696809093) — Vendedor: Alonso Vlz
+- 2026-11-03 21:31 — [FIFA 23 y call of duty ghosts](https://www.facebook.com/marketplace/item/1795979078286100) — Vendedor: Nh Ponce
+- 2026-11-03 18:55 — [Videojuegos play station 5 ps4 split fiction , elden ring, the división 2 , sonic , Naruto resident](https://www.facebook.com/marketplace/item/1455200049881264) — Vendedor: Iram A. Payan
+- 2026-11-03 00:17 — [Se vende Nintendo switch, juegos y PS5](https://www.facebook.com/marketplace/item/1863078911521983) — Vendedor: Pau Almada
+- 2026-10-31 20:26 — [Dragon quest reimagined](https://www.facebook.com/marketplace/item/1778598743420576) — Vendedor: Iram A. Payan
+- 2026-10-31 10:55 — [Videojuego Arcade](https://www.facebook.com/marketplace/item/1827245588283533) — Vendedor: Adiel Tamayo Beltran
+- 2026-10-30 04:16 — [Se venden 3 juegos para play 4por $1300](https://www.facebook.com/marketplace/item/2739396749825358) — Vendedor: José Santos
+- 2026-10-29 16:42 — [Juegos](https://www.facebook.com/marketplace/item/1762895271426187) — Vendedor: Yahir Sanchez
+- 2026-10-28 21:55 — [Zelda](https://www.facebook.com/marketplace/item/4696253194028504) — Vendedor: Marcelo Gabriel
+- 2026-10-26 16:18 — [Crash insane trilogy](https://www.facebook.com/marketplace/item/1834198177918370) — Vendedor: Enrique Garcia
+- 2026-10-25 08:35 — [Dragón ball sparking Zero](https://www.facebook.com/marketplace/item/1601077308367036) — Vendedor: Briann A Morales
+- 2026-10-23 00:16 — [Juegos nuevos baratos](https://www.facebook.com/marketplace/item/1736880077411137) — Vendedor: Daniel Eg
+- 2026-10-21 10:45 — [Mortal Kombat 1](https://www.facebook.com/marketplace/item/1423279409961562) — Vendedor: Manuel Borquez
+- 2026-10-14 19:34 — [Juegos switcv 3ds ps5](https://www.facebook.com/marketplace/item/1656544522798672) — Vendedor: Sebastian Souza
+- 2026-10-12 10:50 — [Juegos+de+psp4](https://www.facebook.com/marketplace/item/1110698565263173) — Vendedor: David Alvarez
+- 2026-09-29 21:30 — [Dragón ball sparking Zero](https://www.facebook.com/marketplace/item/1128304506816271) — Vendedor: Briann A Morales
+- 2026-09-27 18:14 — [Venta juegos usados](https://www.facebook.com/marketplace/item/1384779526693061) — Vendedor: Hector Padilla
+- 2026-09-26 10:53 — [Pokémon black](https://www.facebook.com/marketplace/item/1633000018621871) — Vendedor: Alan Inzunza
+- 2026-09-24 12:59 — [Super Mario 3D Word](https://www.facebook.com/marketplace/item/1357876882825481) — Vendedor: Briann A Morales
+- 2026-09-21 19:52 — [Súper Mario maker2](https://www.facebook.com/marketplace/item/937524275637505) — Vendedor: Franklin Gamez Rocha
+- 2026-09-18 18:58 — [Juegos](https://www.facebook.com/marketplace/item/1517373977088273) — Vendedor: Elvira Palazuelos
+- 2026-09-17 22:44 — [Juegos para ps4 y ps5](https://www.facebook.com/marketplace/item/2214007749525805) — Vendedor: Movil Brillo
+- 2026-09-17 18:15 — [Videojuegos](https://www.facebook.com/marketplace/item/2666630777086599) — Vendedor: Sebastian Souza
+- 2026-09-16 20:18 — [Pokémon white version (SOLO CAJA)](https://www.facebook.com/marketplace/item/2618173425310456) — Vendedor: Eros Celis
+- 2026-09-16 10:07 — [Juego Nintendo 3ds manual, juego de Xbox one y PS3](https://www.facebook.com/marketplace/item/1571863904394106) — Vendedor: José Miguel
+- 2026-09-14 20:51 — [Juegos de pley 3](https://www.facebook.com/marketplace/item/1562580961713625) — Vendedor: Angel Sauceda
+- 2026-09-14 09:43 — [Mario Party Jamboree + Jamboree TV](https://www.facebook.com/marketplace/item/4102901823336515) — Vendedor: Juan Guillen Castro
+- 2026-09-13 17:04 — [Videojuegos nuevos nintendo switch 2 Nintendo switch y play station 5](https://www.facebook.com/marketplace/item/939163175376802) — Vendedor: Iram A. Payan
+- 2026-09-12 00:15 — [Mario kart8 deluxe](https://www.facebook.com/marketplace/item/2089036908652380) — Vendedor: Carolina Burgos
+- 2026-09-10 00:18 — [Juegos](https://www.facebook.com/marketplace/item/1598658118333400) — Vendedor: Karlita Martinez
+- 2026-09-09 16:03 — [Juego Mario](https://www.facebook.com/marketplace/item/1048291228029638) — Vendedor: Poka Luz
+- 2026-09-09 14:51 — [Juegos PS1 PS2 PS3 PS4 NDS](https://www.facebook.com/marketplace/item/1813364033343254) — Vendedor: Bogard Santos Zazueta
+- 2026-09-08 22:09 — [Juegos de ps5 y PS4](https://www.facebook.com/marketplace/item/1011386768579014) — Vendedor: Cristopher Valdez
+- 2026-09-08 20:01 — [Video juego](https://www.facebook.com/marketplace/item/1056326770336017) — Vendedor: Julián Cadena
+- 2026-09-07 18:44 — [Juegos de Nintendo ds y 3ds 700 por los 3](https://www.facebook.com/marketplace/item/1086436467247358) — Vendedor: Antonio Lopez
+- 2026-09-06 18:40 — [Spiderman miles morales](https://www.facebook.com/marketplace/item/3446274895539708) — Vendedor: Ivan Aguero
+- 2026-09-04 23:07 — [Assassins cred unity](https://www.facebook.com/marketplace/item/2609561686180826) — Vendedor: Ivan Aguero
+- 2026-09-04 23:06 — [FIFA 21](https://www.facebook.com/marketplace/item/38087170387598334) — Vendedor: Ivan Aguero
+- 2026-09-04 23:06 — [Horizon zero dawn](https://www.facebook.com/marketplace/item/1683883649380903) — Vendedor: Ivan Aguero
+- 2026-09-04 23:05 — [Call of duty mordern warfare](https://www.facebook.com/marketplace/item/1389074929329932) — Vendedor: Ivan Aguero
+- 2026-09-04 23:04 — [God of war](https://www.facebook.com/marketplace/item/2253820885377915) — Vendedor: Ivan Aguero
+- 2026-09-04 23:02 — [Battlefield 2042](https://www.facebook.com/marketplace/item/1965405371513322) — Vendedor: Ivan Aguero
+- 2026-09-04 23:01 — [FIFA 22](https://www.facebook.com/marketplace/item/2169584800636415) — Vendedor: Ivan Aguero
+- 2026-09-04 23:01 — [FIFA 23](https://www.facebook.com/marketplace/item/1534087138765795) — Vendedor: Ivan Aguero
+- 2026-09-04 13:57 — [Juegos de video $100 c/u](https://www.facebook.com/marketplace/item/2490347631456861) — Vendedor: Dulce Palma
+- 2026-09-01 21:24 — [Juegos para Playstation](https://www.facebook.com/marketplace/item/1003688652686728) — Vendedor: Maria CL
+- 2026-09-01 09:12 — [Horizon zero dawn](https://www.facebook.com/marketplace/item/4639015783035457) — Vendedor: Armando Martinez
+- 2026-08-30 15:48 — [Juegos Nintendo](https://www.facebook.com/marketplace/item/923048830875391) — Vendedor: Angel Eden
+- 2026-08-29 14:06 — [Resident Evil 4 nuevecito](https://www.facebook.com/marketplace/item/2279037292948739) — Vendedor: Jose Luis Luna
+- 2026-08-27 16:04 — [Juegos de switch, ps5 y xbox](https://www.facebook.com/marketplace/item/1422661659727518) — Vendedor: Ivan Delval
+- 2026-08-22 16:33 — [Juegos PS4-PS5](https://www.facebook.com/marketplace/item/1378227907769303) — Vendedor: Ulises Valenzuela Ochoa
+- 2026-08-17 14:25 — [Video juegos el precio es por  pieza](https://www.facebook.com/marketplace/item/27922304210731601) — Vendedor: Julio Cesar Ibarra Rodríguez
+- 2026-08-12 00:35 — [Juego Crash](https://www.facebook.com/marketplace/item/3279780668885187) — Vendedor: Dany Herrera Fong
+- 2026-08-11 12:10 — [JUEGOS PS4-PS5](https://www.facebook.com/marketplace/item/4327230754088479) — Vendedor: Ulises Valenzuela Ochoa
+- 2026-08-10 10:45 — [Juegos para PS4 y PS5](https://www.facebook.com/marketplace/item/1057886853444073) — Vendedor: Yessenia Villaseñor
+- 2026-08-08 14:54 — [Juego de nintento](https://www.facebook.com/marketplace/item/1051821510585594) — Vendedor: Elvira Palazuelos
+- 2026-08-05 22:38 — [Minecraft edicion Mario Bros Nintendo Switch Nuevo sellado compatible Switch 2](https://www.facebook.com/marketplace/item/1692369952062867) — Vendedor: Vicente Munguia
+- 2026-08-05 19:34 — [Vendo Mario odyssey](https://www.facebook.com/marketplace/item/4387121621603058) — Vendedor: Victor Dejesus
+- 2026-08-03 13:17 — [Luigi Mansión 3, resident evil sellado, ff12](https://www.facebook.com/marketplace/item/1956747341673471) — Vendedor: Sebastian Souza
+- 2026-07-28 16:51 — [Juegos de switch y play 5](https://www.facebook.com/marketplace/item/1041335918502925) — Vendedor: Arthur Morgan
+- 2026-07-28 16:09 — [Juego de mario bros](https://www.facebook.com/marketplace/item/2095819434665387) — Vendedor: Saul Felix
+- 2026-07-27 15:32 — [Juegos diferentes precios](https://www.facebook.com/marketplace/item/1085349680819048) — Vendedor: Ivan Lopez
+- 2026-07-27 15:32 — [Juegos para Playstation baratos](https://www.facebook.com/marketplace/item/1883767236342701) — Vendedor: Ivan Lopez
+- 2026-07-27 15:32 — [Juegos para Nintendo 3ds y ds](https://www.facebook.com/marketplace/item/1005436722321581) — Vendedor: Ivan Lopez
+- 2026-07-24 13:14 — [Juegos de PS4 , PS5 Y XBOX ONE](https://www.facebook.com/marketplace/item/2619162841874186) — Vendedor: Ulises Valenzuela Ochoa
+- 2026-07-22 18:12 — [Will juegos y mas](https://www.facebook.com/marketplace/item/1027628266647740) — Vendedor: Ventura Miranda Gomez
+- 2026-07-22 17:22 — [Videojuego](https://www.facebook.com/marketplace/item/1346620207536454) — Vendedor: Daniel Osuna
+- 2026-07-18 21:36 — [Mario & Luigi Brothership](https://www.facebook.com/marketplace/item/2208349300021464) — Vendedor: Adrian K-ztro
+- 2026-07-14 16:10 — [Mario Rabbids Kingdom Battle](https://www.facebook.com/marketplace/item/3386168638222761) — Vendedor: Mauricio Bismarck Murillo Valle
+- 2026-07-07 22:01 — [Juego PlayStation Call of Duty WW2](https://www.facebook.com/marketplace/item/1990993595116282) — Vendedor: Semilla Césped Bermuda Pasto
+- 2026-07-07 21:59 — [Juego PlayStation Spiderman Miles Morales](https://www.facebook.com/marketplace/item/3128693940673835) — Vendedor: Semilla Césped Bermuda Pasto
+- 2026-07-07 21:54 — [Juego PlayStation MineCraft Edición Especial](https://www.facebook.com/marketplace/item/1006672368829737) — Vendedor: Semilla Césped Bermuda Pasto
+- 2026-07-06 18:25 — [Juego de Mario odyseey](https://www.facebook.com/marketplace/item/1905271443498326) — Vendedor: Abimael Lopez
+- 2026-07-06 18:21 — [Juego de Mario deluxe infinito](https://www.facebook.com/marketplace/item/3278009505740327) — Vendedor: Abimael Lopez
+- 2026-07-03 17:44 — [Juego para play](https://www.facebook.com/marketplace/item/27024987773864236) — Vendedor: Javier Vlza Cota
+- 2026-07-02 16:57 — [God of War Ragnarök (con código de armadura)](https://www.facebook.com/marketplace/item/2121660778396649) — Vendedor: Jesus VC
+- 2026-07-02 16:46 — [The last of us remastered](https://www.facebook.com/marketplace/item/1021230187054809) — Vendedor: Jesus VC
+- 2026-07-01 20:51 — [Mario y Sonic Olympic games](https://www.facebook.com/marketplace/item/1482931430518623) — Vendedor: Daniela Hernández
+- 2026-06-29 12:01 — [Pikmin 1 + 2](https://www.facebook.com/marketplace/item/3198797993664037) — Vendedor: Daniela Hernández
+- 2026-06-27 07:31 — [Zelda BOTW](https://www.facebook.com/marketplace/item/1851653635815332) — Vendedor: Raul Bonifant
+- 2026-06-22 20:19 — [Minecraft](https://www.facebook.com/marketplace/item/1152801440389098) — Vendedor: Bianey Alejandra Muñoz Herrera
+- 2026-06-22 20:17 — [Luigis mansión 3](https://www.facebook.com/marketplace/item/27242296318769031) — Vendedor: Bianey Alejandra Muñoz Herrera
+- 2026-06-22 15:17 — [Cambio pokemon violet por super smash bros](https://www.facebook.com/marketplace/item/1306163944831031) — Vendedor: Jose Villegas
+- 2026-06-20 10:17 — [JUEGOS NINTENDO 64 GAMECUBE GAMEBOY SNES](https://www.facebook.com/marketplace/item/1029319096283332) — Vendedor: Espinoza Alejandro
+- 2026-06-18 10:55 — [Mario Rabbids](https://www.facebook.com/marketplace/item/2469117890261097) — Vendedor: Jorge Luis Ramirez
+- 2026-06-12 18:01 — [Juegos Ps4-Ps5](https://www.facebook.com/marketplace/item/1552417576245577) — Vendedor: Maria CL
+- 2026-06-12 15:52 — [CRASH NTRILOGY](https://www.facebook.com/marketplace/item/1289606846495326) — Vendedor: Saneli Daniel
+- 2026-06-11 08:57 — [Rainbow six siege](https://www.facebook.com/marketplace/item/1985771682070748) — Vendedor: Cesar Gamez Cruz
+- 2026-06-08 21:23 — [Juegos Ps4-Ps5](https://www.facebook.com/marketplace/item/3061640007364823) — Vendedor: Maria CL
+- 2026-06-08 00:10 — [Nintendo swich oled blanca con mortal kombat 1 todos los dlc y tomodachi life](https://www.facebook.com/marketplace/item/27586306701008854) — Vendedor: Yoshi Matt
+- 2026-06-07 17:47 — [LEAPSTER VIDEO JUEGOS](https://www.facebook.com/marketplace/item/946972158372125) — Vendedor: Antonio Zavala
+- 2026-06-03 23:59 — [Juego de Ds y 3DS](https://www.facebook.com/marketplace/item/939227589171106) — Vendedor: Nauj Bojórquez de la Cruz
+- 2026-06-01 16:07 — [Super mario maker 2](https://www.facebook.com/marketplace/item/26737475489288736) — Vendedor: Lupita Morales
+- 2026-06-01 16:02 — [Fifa 23 ea sports](https://www.facebook.com/marketplace/item/967995829386058) — Vendedor: Lupita Morales
+- 2026-05-31 13:41 — [Televisor Panasonic](https://www.facebook.com/marketplace/item/27245231865096143) — Vendedor: Lizeth Perez
+- 2026-05-25 13:02 — [Juegos ps4,ps5,ps4, wii](https://www.facebook.com/marketplace/item/1518277919970178) — Vendedor: Mauricio Verduzco
+- 2026-05-24 17:09 — [Juegos de Nintendo en 650 cada uno](https://www.facebook.com/marketplace/item/1442491020983996) — Vendedor: Serrano Guadalupe
+- 2026-05-21 16:28 — [pokemon za](https://www.facebook.com/marketplace/item/1711578480022788) — Vendedor: Jorge M Gonzalez
+- 2026-05-19 20:04 — [SUPER MARIO ODYSSEY](https://www.facebook.com/marketplace/item/1964384157780377) — Vendedor: Efrén Olivas Domínguez
+- 2026-05-10 21:17 — [Se venden juegos...](https://www.facebook.com/marketplace/item/1339795008037387) — Vendedor: Carlos Fierro
+- 2026-05-08 05:57 — [Video juego](https://www.facebook.com/marketplace/item/989772040370020) — Vendedor: Carla Lopez
+- 2026-05-04 08:57 — [Bideojuego de nintendo siuchw](https://www.facebook.com/marketplace/item/817317547703446) — Vendedor: Lorenia Leon
+- 2026-05-03 15:47 — [Juegos](https://www.facebook.com/marketplace/item/3615936568544702) — Vendedor: Sofia Ram
+- 2026-05-01 16:05 — [Juegos ps4-ps5](https://www.facebook.com/marketplace/item/961200043061215) — Vendedor: Felix Guadalupe
+- 2026-04-27 17:17 — [Juegos de Nintendo](https://www.facebook.com/marketplace/item/1342065097975792) — Vendedor: Iris Martinez
+- 2026-04-27 13:57 — [Juegos de ps4 y ps5🔥](https://www.facebook.com/marketplace/item/803629019153954) — Vendedor: Andres Acosta
+- 2026-04-21 16:55 — [Amiibo y figuras de colección de videojuegos](https://www.facebook.com/marketplace/item/848565951611208) — Vendedor: Lizarraga Maria
+- 2026-04-20 09:07 — [Video juegos](https://www.facebook.com/marketplace/item/929714203165807) — Vendedor: Luiz Castro Quiñones
+- 2026-04-16 20:19 — [Juegos Playstation 4 y Playstation 5 no Pokémon no Zelda](https://www.facebook.com/marketplace/item/969540405419287) — Vendedor: Orlando Alfredo Souza
+- 2026-04-16 20:16 — [Métroid , Zelda ,no Mario no Pokémon](https://www.facebook.com/marketplace/item/1262453598880728) — Vendedor: Orlando Alfredo Souza
+- 2026-04-16 11:46 — [Juegos de play](https://www.facebook.com/marketplace/item/934317096237786) — Vendedor: Gael Ramos
+- 2026-04-09 22:27 — [New súper Mario bros](https://www.facebook.com/marketplace/item/2121459471921421) — Vendedor: Angel Reyes
+- 2026-04-08 13:28 — [The witcher , BTF V y red dead redemption 2 ( caja metálica )](https://www.facebook.com/marketplace/item/1982612592625486) — Vendedor: JP RG
+- 2026-04-03 15:50 — [Sonic SuperStars Nintendo](https://www.facebook.com/marketplace/item/2041194206803556) — Vendedor: Mayra Salazar
+- 2026-04-02 13:27 — [Grand Theft Auto V (GTA 5)](https://www.facebook.com/marketplace/item/25576878495321053) — Vendedor: Pedro Soto
+- 2026-04-02 13:25 — [FIFA 16](https://www.facebook.com/marketplace/item/966556406321627) — Vendedor: Pedro Soto
+- 2026-03-19 00:23 — [Bloodstained ,no Mario no Zelda no Pokémon](https://www.facebook.com/marketplace/item/1409793727131506) — Vendedor: Orlando Alfredo Souza
+- 2026-03-16 21:46 — [Juegos](https://www.facebook.com/marketplace/item/1249308707164012) — Vendedor: Luis Ricardo Peraza
+- 2026-03-15 17:04 — [Juegos de ps4 y ps5](https://www.facebook.com/marketplace/item/2395477627568502) — Vendedor: LC JG
+- 2026-03-04 14:06 — [Videojuegos](https://www.facebook.com/marketplace/item/5009893595904143) — Vendedor: Kevin Rodriges
+- 2026-02-27 10:42 — [Mario rpg](https://www.facebook.com/marketplace/item/1654313306011562) — Vendedor: Cinthya Olguin
+- 2026-02-24 15:47 — [Gta v](https://www.facebook.com/marketplace/item/1977082312886759) — Vendedor: Santiago Leal
+- 2026-02-22 15:42 — [Juegos retro y actuales](https://www.facebook.com/marketplace/item/907439325022259) — Vendedor: Dio Brando
+- 2026-02-20 14:42 — [Mario & Sonic - At The Olympic Games](https://www.facebook.com/marketplace/item/1992731911650295) — Vendedor: Maria Herrera
+- 2026-02-15 17:18 — [Juegos Wii y Wii U](https://www.facebook.com/marketplace/item/4062317350569297) — Vendedor: Janeth Lara Torres
+- 2026-02-10 19:22 — [Mario kart World](https://www.facebook.com/marketplace/item/1410520820621448) — Vendedor: Jose Garcia
+- 2026-02-03 13:17 — [Juegos Nintendo 3DS y DS](https://www.facebook.com/marketplace/item/2103133420511235) — Vendedor: Janeth Lara Torres
+- 2026-02-01 18:15 — [Juegos de Nintendo](https://www.facebook.com/marketplace/item/853742464199575) — Vendedor: Alma Renteria Acosta
+- 2026-01-26 19:31 — [juegos de Nintendo](https://www.facebook.com/marketplace/item/2086639831741144) — Vendedor: Ya Manciillass
+- 2026-01-15 23:49 — [Discos de juego Pley 3 Uno de pley 50 pesos cada 1 al que venga por el  BATMAN y WOLFENSTEIN VENDIDO](https://www.facebook.com/marketplace/item/1813741709587226) — Vendedor: Aaron Guzman
+- 2026-01-15 17:46 — [Super Mario RPG](https://www.facebook.com/marketplace/item/1379155663656073) — Vendedor: Eduardo Infante
+- 2026-01-12 21:45 — [Video juegos](https://www.facebook.com/marketplace/item/1211134600516116) — Vendedor: Irene ZT
+- 2026-01-11 19:28 — [Mortal Kombat XL](https://www.facebook.com/marketplace/item/1624070775254403) — Vendedor: Martha Elena Baez
+- 2026-01-07 16:14 — [Vendo God of War](https://www.facebook.com/marketplace/item/1522729392329848) — Vendedor: Luis Higuera
+- 2026-01-07 13:13 — [Juegos ps4 y ps5](https://www.facebook.com/marketplace/item/1166013721968545) — Vendedor: Sebastian Souza
+- 2025-12-30 12:47 — [juegos ps4 y ps5](https://www.facebook.com/marketplace/item/1336923668209965) — Vendedor: Sebastian Souza
+- 2025-12-29 17:48 — [Juegos PlayStation](https://www.facebook.com/marketplace/item/1914264792632225) — Vendedor: Angel Valenzuela Peña
+- 2025-11-26 13:16 — [Variedad de videojuegos](https://www.facebook.com/marketplace/item/1231910995478061) — Vendedor: Yessika Hurtado
+- 2025-11-24 17:00 — [Juegos de ps5  y ps4](https://www.facebook.com/marketplace/item/844127654668962) — Vendedor: Sebastian Souza
+- 2025-11-16 23:18 — [Videojuegos](https://www.facebook.com/marketplace/item/1491506838754471) — Vendedor: Carmen Bernardo
+- 2025-11-08 16:39 — [Venta juegos](https://www.facebook.com/marketplace/item/1326001235663928) — Vendedor: Sebastian Souza
+- 2025-11-04 10:44 — [Juegos ps4 y ps5](https://www.facebook.com/marketplace/item/826567806450664) — Vendedor: Alquimia AD
+- 2025-10-07 15:43 — [Juegos de ps4 y 1 de ps5](https://www.facebook.com/marketplace/item/687787003766194) — Vendedor: Joss Etzo
+- 2024-12-07 19:33 — [Assassin crid](https://www.facebook.com/marketplace/item/1113036633788571) — Vendedor: Aldo Ceballos Cubedo
+- 2024-12-07 19:29 — [Juego horizon](https://www.facebook.com/marketplace/item/3971873476468264) — Vendedor: Aldo Ceballos Cubedo
+- 2023-08-19 20:50 — [RED DEAD REDEMPTION II](https://www.facebook.com/marketplace/item/634168878515828) — Vendedor: Marcela M Galaviz

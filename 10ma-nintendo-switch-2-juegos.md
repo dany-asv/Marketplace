@@ -10,13 +10,13 @@ Total: 10 anuncios disponibles.
 
 ## Disponibles (de más actual a más viejo)
 
-- 2026-11-10 07:42 — [Zelda foil Nintendo switch 2](https://www.facebook.com/marketplace/item/1544480564402064)
-- 2026-11-07 06:59 — [Zelda Ocarina Of Time Nintendo Switch 2 Sellado Nuevo vendo o cambio](https://www.facebook.com/marketplace/item/1825970468604372)
-- 2026-11-01 16:56 — [Vendo o cambio juegos por de switch 2 y 1](https://www.facebook.com/marketplace/item/1556796989800019)
-- 2026-10-31 20:27 — [Switch 2 juegos nuevos Hades 2 Ciber punk pokopia street figther 6 orbitals metroid](https://www.facebook.com/marketplace/item/1812846470034930)
+- 2026-11-10 07:42 — [Zelda foil Nintendo switch 2](https://www.facebook.com/marketplace/item/1544480564402064) — Vendedor: Iram A. Payan
+- 2026-11-07 06:59 — [Zelda Ocarina Of Time Nintendo Switch 2 Sellado Nuevo vendo o cambio](https://www.facebook.com/marketplace/item/1825970468604372) — Vendedor: Jurguen Camacho
+- 2026-11-01 16:56 — [Vendo o cambio juegos por de switch 2 y 1](https://www.facebook.com/marketplace/item/1556796989800019) — Vendedor: Jose Rios
+- 2026-10-31 20:27 — [Switch 2 juegos nuevos Hades 2 Ciber punk pokopia street figther 6 orbitals metroid](https://www.facebook.com/marketplace/item/1812846470034930) — Vendedor: Iram A. Payan
 - 2026-10-30 21:51 — [Se vende juego de swich 2](https://www.facebook.com/marketplace/item/1692943958957878)
-- 2026-10-10 12:51 — [Pokémon pokopia nintendo switch 2](https://www.facebook.com/marketplace/item/1683097609824513)
-- 2026-08-27 16:09 — [Juegos de nintendo switch 2](https://www.facebook.com/marketplace/item/1609294647512187)
-- 2026-08-25 19:55 — [Daemon x machín Nintendo switch 2 , no Mario no Zelda](https://www.facebook.com/marketplace/item/2301118587345865)
-- 2026-08-03 10:29 — [✨️Mario Kart World Nintendo Switch 2 Físico✨️](https://www.facebook.com/marketplace/item/1051017834137912)
-- 2026-06-26 15:47 — [Star Fox para nintendo switch 2 (código digital)](https://www.facebook.com/marketplace/item/1054365930489769)
+- 2026-10-10 12:51 — [Pokémon pokopia nintendo switch 2](https://www.facebook.com/marketplace/item/1683097609824513) — Vendedor: Carlos Miranda
+- 2026-08-27 16:09 — [Juegos de nintendo switch 2](https://www.facebook.com/marketplace/item/1609294647512187) — Vendedor: Ivan Delval
+- 2026-08-25 19:55 — [Daemon x machín Nintendo switch 2 , no Mario no Zelda](https://www.facebook.com/marketplace/item/2301118587345865) — Vendedor: Orlando Alfredo Souza
+- 2026-08-03 10:29 — [✨️Mario Kart World Nintendo Switch 2 Físico✨️](https://www.facebook.com/marketplace/item/1051017834137912) — Vendedor: Abraham Berrelleza
+- 2026-06-26 15:47 — [Star Fox para nintendo switch 2 (código digital)](https://www.facebook.com/marketplace/item/1054365930489769) — Vendedor: Luis Joestar

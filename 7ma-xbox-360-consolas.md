@@ -10,7 +10,7 @@ Total: 4 anuncios disponibles.
 
 ## Disponibles (de más actual a más viejo)
 
-- 2026-11-10 09:36 — [Xbox 360 con 3 controles](https://www.facebook.com/marketplace/item/1164042349821312)
-- 2026-11-10 08:14 — [Xbox 360](https://www.facebook.com/marketplace/item/1177511701267302)
-- 2026-11-03 03:04 — [Xbox 360 chipeado](https://www.facebook.com/marketplace/item/802610282947465)
-- 2026-10-29 00:56 — [Xbox 360 Slim Chipeado](https://www.facebook.com/marketplace/item/1879794700043625)
+- 2026-11-10 09:36 — [Xbox 360 con 3 controles](https://www.facebook.com/marketplace/item/1164042349821312) — Vendedor: Javier Solano Limon
+- 2026-11-10 08:14 — [Xbox 360](https://www.facebook.com/marketplace/item/1177511701267302) — Vendedor: Uriel Antuna
+- 2026-11-03 03:04 — [Xbox 360 chipeado](https://www.facebook.com/marketplace/item/802610282947465) — Vendedor: America Ruiz
+- 2026-10-29 00:56 — [Xbox 360 Slim Chipeado](https://www.facebook.com/marketplace/item/1879794700043625) — Vendedor: Daniela Trejo

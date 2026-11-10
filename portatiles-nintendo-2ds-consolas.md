@@ -10,5 +10,5 @@ Total: 2 anuncios disponibles.
 
 ## Disponibles (de más actual a más viejo)
 
-- 2026-06-06 21:57 — [Nintendo 2ds  Hackeada juegos ya instalados](https://www.facebook.com/marketplace/item/2473654403142998)
-- 2026-05-09 21:16 — [Nintendo 2DS + Catálogo Increíble (Liberada) 🎮✨](https://www.facebook.com/marketplace/item/1494080025500832)
+- 2026-06-06 21:57 — [Nintendo 2ds  Hackeada juegos ya instalados](https://www.facebook.com/marketplace/item/2473654403142998) — Vendedor: Apodaca Karla Marisol
+- 2026-05-09 21:16 — [Nintendo 2DS + Catálogo Increíble (Liberada) 🎮✨](https://www.facebook.com/marketplace/item/1494080025500832) — Vendedor: Aleks Figueroa

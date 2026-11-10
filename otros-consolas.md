@@ -10,105 +10,105 @@ Total: 102 anuncios disponibles.
 
 ## Disponibles (de más actual a más viejo)
 
-- 2026-11-10 11:42 — [Consola M14 Pro 4K +20000 Juegos](https://www.facebook.com/marketplace/item/2179267716185712)
+- 2026-11-10 11:42 — [Consola M14 Pro 4K +20000 Juegos](https://www.facebook.com/marketplace/item/2179267716185712) — Vendedor: Charly J Acosta
 - 2026-11-09 18:20 — [Mini Consola Retro con 620 Juegos](https://www.facebook.com/marketplace/item/1736654974693805) — Vendedor: Ariagna Armenta
-- 2026-11-07 04:55 — [Nintendo 64 o cambio por Nintendo NES](https://www.facebook.com/marketplace/item/1151707693869630)
-- 2026-11-05 13:49 — [Consolas Nintendo retro](https://www.facebook.com/marketplace/item/1808346203699556)
-- 2026-11-04 12:56 — [venta](https://www.facebook.com/marketplace/item/1151352550678434)
-- 2026-11-03 22:11 — [PS Portal, vendo o cambio por switch oled](https://www.facebook.com/marketplace/item/1883063236211418)
-- 2026-11-02 11:59 — [COMPRO TU CONSOLA NINTENDOO VIDEOJUEGOS](https://www.facebook.com/marketplace/item/4662104024069000)
-- 2026-11-02 11:57 — [busco Nintendo 3ds, 2ds, XL, new.](https://www.facebook.com/marketplace/item/1874642674160395)
-- 2026-11-02 11:56 — [Busco Gameboy SP, Color, dvvance, Clasic](https://www.facebook.com/marketplace/item/1916760772816326)
-- 2026-11-01 14:27 — [vendo o cambio por iPad](https://www.facebook.com/marketplace/item/2326220478130133)
-- 2026-10-29 15:32 — [Nuevos para Nintendo](https://www.facebook.com/marketplace/item/1591474245626325)
-- 2026-10-27 07:55 — [Mákina con muchos juegos clásicos y modernos..miles..$3500 tel.6681993508](https://www.facebook.com/marketplace/item/1584985079561237)
-- 2026-10-26 23:31 — [Vendo xbox con sus cables y un control no está chipiado](https://www.facebook.com/marketplace/item/1822248852108388)
-- 2026-10-25 23:56 — [Nintendo baratos 600 cada uno](https://www.facebook.com/marketplace/item/2502894996867525)
-- 2026-10-25 22:20 — [Consola de videojuegos X9 para niños, pantalla de 5.5", más de 5 mil juegos y multimedia](https://www.facebook.com/marketplace/item/1776038363513362)
-- 2026-10-25 15:38 — [Consola xbox](https://www.facebook.com/marketplace/item/991728247327616)
-- 2026-10-22 13:03 — [CONSOLA PORTÁTIL Anbernic RG 477M versión 256 GB](https://www.facebook.com/marketplace/item/1620423736248537)
-- 2026-10-21 11:32 — [Kit Simracing Logitech G29 (Volante + Pedales + Palanca Shifter + Freno de Mano USB + Soporte)](https://www.facebook.com/marketplace/item/28718905404424957)
-- 2026-10-20 16:53 — [Kit simulación de manejo para videojuegos](https://www.facebook.com/marketplace/item/1016915540808394)
-- 2026-10-19 14:27 — [🔴GAME STICK PRO🔴 ✅️25 MIL JUEGOS ✅️2 CONTROLES ✅️RESOLUCION 4K ✅️ENVIOS A DOMICILIO🏡🛵💨](https://www.facebook.com/marketplace/item/4613212418961115)
-- 2026-10-19 14:21 — [‼️GAME STICK 25 MIL JUEGOS‼️ ✅️2 CONTROLES TIPO PS ✅️RESOLUCION 4K ✅️3 MESES GARANTIA ✅️ENVIOS🏡🛵💨](https://www.facebook.com/marketplace/item/1412871073805374)
-- 2026-10-19 14:20 — [GAME STICK PRO🔴HD 25 MIL JUEGOS 2 CONTROLES TIPO PS🎮 PUEDES AGREGAR JUEGOS DE TU PREFERENCIA‼️](https://www.facebook.com/marketplace/item/1575406110556871)
-- 2026-10-17 23:25 — [Teclado Gaming 75%, Mause AOC y Atack Shark L60(Incluye el Mausepad)](https://www.facebook.com/marketplace/item/2442549629864107)
-- 2026-10-17 03:34 — [Artículos varios](https://www.facebook.com/marketplace/item/28352557621112946)
-- 2026-10-16 11:14 — [Televisor pantalla plana Sony Triniton](https://www.facebook.com/marketplace/item/1617412973211754)
-- 2026-10-13 19:08 — [Venta o cambio por iPhone Inf 6681162962](https://www.facebook.com/marketplace/item/1288970010003221)
-- 2026-10-11 17:03 — [Nintendo](https://www.facebook.com/marketplace/item/1637986604347005)
-- 2026-10-02 13:40 — [Para refacciones](https://www.facebook.com/marketplace/item/1419485216289737)
-- 2026-10-01 19:02 — [Monster hunter rise [venta o cambio]](https://www.facebook.com/marketplace/item/1724342732013497)
-- 2026-09-30 14:56 — [psp vita](https://www.facebook.com/marketplace/item/2989944078008730)
-- 2026-09-30 09:27 — [Varios venta](https://www.facebook.com/marketplace/item/2426023891136626)
-- 2026-09-19 16:26 — [PSP Vita](https://www.facebook.com/marketplace/item/1068717972441216)
-- 2026-09-12 11:29 — [Videojuegos ya sea para colección o jugarlos en su consola](https://www.facebook.com/marketplace/item/858561213908353)
-- 2026-09-12 00:37 — [Instalacion de juegos consolas](https://www.facebook.com/marketplace/item/943945678142729)
-- 2026-09-09 15:49 — [Vendo o cambio urgencia](https://www.facebook.com/marketplace/item/1428091072531227)
-- 2026-09-07 07:14 — [Howarts legacy deluxe edition](https://www.facebook.com/marketplace/item/1117989594221404)
-- 2026-09-06 18:41 — [Gt5](https://www.facebook.com/marketplace/item/1578353787662492)
-- 2026-09-06 13:12 — [Cambio por una laptop](https://www.facebook.com/marketplace/item/1431416285583812)
-- 2026-09-04 23:07 — [Asaasins credd orings](https://www.facebook.com/marketplace/item/1630370878684729)
-- 2026-09-03 17:10 — [Nintendo+](https://www.facebook.com/marketplace/item/1009490228774146)
-- 2026-08-31 21:52 — [Nintendo 3DS/2DS](https://www.facebook.com/marketplace/item/28105958682395646)
-- 2026-08-23 12:14 — [Nintendo](https://www.facebook.com/marketplace/item/1327023036171339)
-- 2026-08-22 18:44 — [Consola retro game stick](https://www.facebook.com/marketplace/item/1653171876379569)
-- 2026-08-20 11:08 — [Nintendo con un juego y un control](https://www.facebook.com/marketplace/item/1071608498708028)
-- 2026-08-12 20:55 — [Nintendo](https://www.facebook.com/marketplace/item/2024918761484228)
-- 2026-08-12 20:08 — [Discos para pa4](https://www.facebook.com/marketplace/item/4142844812672649)
-- 2026-08-08 10:46 — [Se cambia por una bisicleta](https://www.facebook.com/marketplace/item/1039635458937359)
-- 2026-08-07 14:12 — [Cuánto dan por ella ofrezcan](https://www.facebook.com/marketplace/item/4639441746293094)
-- 2026-08-04 01:34 — [Vendo o cambio](https://www.facebook.com/marketplace/item/3367653220061910)
-- 2026-08-02 15:16 — [Coleccion Resident](https://www.facebook.com/marketplace/item/1360612665533261)
-- 2026-07-26 17:27 — [550$ cada uno](https://www.facebook.com/marketplace/item/1541851637439403)
-- 2026-07-24 08:39 — [Super Bomberman](https://www.facebook.com/marketplace/item/1056377450062241)
-- 2026-07-14 16:12 — [Short Deportivos](https://www.facebook.com/marketplace/item/27204616672554931)
-- 2026-07-14 14:27 — [Star wars jedi Fallen Order](https://www.facebook.com/marketplace/item/1031125246547786)
-- 2026-07-12 16:54 — [Vendo](https://www.facebook.com/marketplace/item/4478280349059659)
-- 2026-07-12 12:16 — [Vendi](https://www.facebook.com/marketplace/item/1024432466842912)
-- 2026-07-12 11:12 — [Vendo](https://www.facebook.com/marketplace/item/2093952844550588)
-- 2026-07-12 08:26 — [Vendo](https://www.facebook.com/marketplace/item/3450390785136255)
-- 2026-07-08 16:00 — [Vendo](https://www.facebook.com/marketplace/item/1750825869437880)
-- 2026-07-08 08:01 — [Vendi](https://www.facebook.com/marketplace/item/1527673465467690)
-- 2026-07-07 10:02 — [Vendo](https://www.facebook.com/marketplace/item/1435020065342293)
-- 2026-07-07 05:55 — [Vendi](https://www.facebook.com/marketplace/item/1749513013156328)
-- 2026-07-01 21:59 — [Nintendo  Enterito](https://www.facebook.com/marketplace/item/1343872493818376)
-- 2026-06-26 16:55 — [Discos para para play station 3 y cassette para Game boy](https://www.facebook.com/marketplace/item/36489005200743834)
-- 2026-06-23 10:47 — [Vendo](https://www.facebook.com/marketplace/item/761713400338338)
-- 2026-06-22 20:22 — [Five nigths ay freddys security breach](https://www.facebook.com/marketplace/item/1260324412655356)
-- 2026-06-03 01:37 — [300 cada uno](https://www.facebook.com/marketplace/item/1693450738361510)
-- 2026-05-20 20:32 — [Contro nintendo 2](https://www.facebook.com/marketplace/item/27360580343539257)
-- 2026-05-09 13:38 — [Videojyego](https://www.facebook.com/marketplace/item/1291355856309439)
-- 2026-05-07 05:51 — [Varias cosas](https://www.facebook.com/marketplace/item/992815073246378)
-- 2026-05-06 16:01 — [Varias cosas](https://www.facebook.com/marketplace/item/2129141027876831)
-- 2026-05-05 13:29 — [Varias cosas](https://www.facebook.com/marketplace/item/1271117348230393)
-- 2026-05-03 04:12 — [Psvita Oled con 6 juegos físicos](https://www.facebook.com/marketplace/item/1483485260123131)
-- 2026-05-01 11:41 — [$$$$](https://www.facebook.com/marketplace/item/3218172231722440)
-- 2026-04-23 09:58 — [Nintendo](https://www.facebook.com/marketplace/item/1619571499268061)
-- 2026-04-18 21:27 — [Play Station](https://www.facebook.com/marketplace/item/1522281949427159)
-- 2026-04-10 22:03 — [Sekiro](https://www.facebook.com/marketplace/item/4430478487278849)
-- 2026-04-10 07:35 — [Se vende](https://www.facebook.com/marketplace/item/2961666277375929)
-- 2026-04-09 21:27 — [Varias cosas](https://www.facebook.com/marketplace/item/2296367840772153)
-- 2026-04-09 12:52 — [Varias cosas ojo por separado](https://www.facebook.com/marketplace/item/964420249417963)
-- 2026-04-06 12:31 — [Varias cosas por separado](https://www.facebook.com/marketplace/item/946079094573032)
-- 2026-04-06 06:28 — [Varias cosas (se venden separados)](https://www.facebook.com/marketplace/item/2783421001995502)
-- 2026-04-05 20:28 — [Se venden varias cosas](https://www.facebook.com/marketplace/item/1669384617402559)
-- 2026-03-31 15:53 — [Nitendo 64 completo](https://www.facebook.com/marketplace/item/3131399780382611)
-- 2026-03-25 14:12 — [Discos para ps4 y ps5](https://www.facebook.com/marketplace/item/917200844543373)
-- 2026-03-18 20:46 — [Consola de videos juegos](https://www.facebook.com/marketplace/item/903801625978587)
-- 2026-03-16 20:52 — [Venta Nintendo swtch 2](https://www.facebook.com/marketplace/item/26034555929547901)
-- 2026-03-02 16:48 — [Consolas y juegos PS4 y NINTENDO SWITCH ￼](https://www.facebook.com/marketplace/item/893811733425442)
-- 2026-02-19 17:48 — [en venta](https://www.facebook.com/marketplace/item/2670565656632331)
-- 2026-02-17 12:03 — [Xbox one fat y ps4](https://www.facebook.com/marketplace/item/1968159517448551)
-- 2026-02-07 14:07 — [250por cadauno](https://www.facebook.com/marketplace/item/1434701544993544)
-- 2026-01-13 11:07 — [VENDO](https://www.facebook.com/marketplace/item/912474898011017)
-- 2026-01-06 13:56 — [Vendo INJUSTICE 2](https://www.facebook.com/marketplace/item/1427416099010088)
-- 2026-01-05 18:19 — [Psp4 slim con 2 controles y u. Video juego $ 4200](https://www.facebook.com/marketplace/item/861627213142993)
-- 2025-12-25 11:59 — [Venta PostNavideña 25Dic2025](https://www.facebook.com/marketplace/item/886274910461386)
-- 2025-12-24 12:54 — [Compra Venta Navideña en remate en la plazuela de El Carrizo 24Dic2023](https://www.facebook.com/marketplace/item/1855360348416221)
-- 2025-12-23 11:47 — [- HUMAN FALL FLAT](https://www.facebook.com/marketplace/item/1412438200297784)
-- 2025-12-10 14:30 — [Venta instalación de magia](https://www.facebook.com/marketplace/item/1145253867592240)
-- 2025-12-01 18:37 — [Televisión análoga](https://www.facebook.com/marketplace/item/1623570255272841)
-- 2025-11-29 10:59 — [Vendo o cambio por algo mejor ofrezcan por lo que sea](https://www.facebook.com/marketplace/item/833801036171724)
-- 2025-10-13 20:23 — [Consolas y Juegos Nintendo y Pokemon](https://www.facebook.com/marketplace/item/1849471845937409)
-- 2024-12-07 19:32 — [Viernes 13](https://www.facebook.com/marketplace/item/942217030654708)
+- 2026-11-07 04:55 — [Nintendo 64 o cambio por Nintendo NES](https://www.facebook.com/marketplace/item/1151707693869630) — Vendedor: Chito Hernandez
+- 2026-11-05 13:49 — [Consolas Nintendo retro](https://www.facebook.com/marketplace/item/1808346203699556) — Vendedor: Héctor Peñuelas
+- 2026-11-04 12:56 — [venta](https://www.facebook.com/marketplace/item/1151352550678434) — Vendedor: Roy Roger
+- 2026-11-03 22:11 — [PS Portal, vendo o cambio por switch oled](https://www.facebook.com/marketplace/item/1883063236211418) — Vendedor: Diego Edel
+- 2026-11-02 11:59 — [COMPRO TU CONSOLA NINTENDOO VIDEOJUEGOS](https://www.facebook.com/marketplace/item/4662104024069000) — Vendedor: Miguel Ruiz Chavez
+- 2026-11-02 11:57 — [busco Nintendo 3ds, 2ds, XL, new.](https://www.facebook.com/marketplace/item/1874642674160395) — Vendedor: Miguel Ruiz Chavez
+- 2026-11-02 11:56 — [Busco Gameboy SP, Color, dvvance, Clasic](https://www.facebook.com/marketplace/item/1916760772816326) — Vendedor: Miguel Ruiz Chavez
+- 2026-11-01 14:27 — [vendo o cambio por iPad](https://www.facebook.com/marketplace/item/2326220478130133) — Vendedor: Jesus Reynaldo Valenzuela
+- 2026-10-29 15:32 — [Nuevos para Nintendo](https://www.facebook.com/marketplace/item/1591474245626325) — Vendedor: Denisse Vargas
+- 2026-10-27 07:55 — [Mákina con muchos juegos clásicos y modernos..miles..$3500 tel.6681993508](https://www.facebook.com/marketplace/item/1584985079561237) — Vendedor: Daniel López
+- 2026-10-26 23:31 — [Vendo xbox con sus cables y un control no está chipiado](https://www.facebook.com/marketplace/item/1822248852108388) — Vendedor: Alan Valenzuela
+- 2026-10-25 23:56 — [Nintendo baratos 600 cada uno](https://www.facebook.com/marketplace/item/2502894996867525) — Vendedor: Daniela Veg
+- 2026-10-25 22:20 — [Consola de videojuegos X9 para niños, pantalla de 5.5", más de 5 mil juegos y multimedia](https://www.facebook.com/marketplace/item/1776038363513362) — Vendedor: Angel SG
+- 2026-10-25 15:38 — [Consola xbox](https://www.facebook.com/marketplace/item/991728247327616) — Vendedor: Asis Romaas
+- 2026-10-22 13:03 — [CONSOLA PORTÁTIL Anbernic RG 477M versión 256 GB](https://www.facebook.com/marketplace/item/1620423736248537) — Vendedor: Paulette Montoya
+- 2026-10-21 11:32 — [Kit Simracing Logitech G29 (Volante + Pedales + Palanca Shifter + Freno de Mano USB + Soporte)](https://www.facebook.com/marketplace/item/28718905404424957) — Vendedor: TechNova LM
+- 2026-10-20 16:53 — [Kit simulación de manejo para videojuegos](https://www.facebook.com/marketplace/item/1016915540808394) — Vendedor: Gerardo Salazar
+- 2026-10-19 14:27 — [🔴GAME STICK PRO🔴 ✅️25 MIL JUEGOS ✅️2 CONTROLES ✅️RESOLUCION 4K ✅️ENVIOS A DOMICILIO🏡🛵💨](https://www.facebook.com/marketplace/item/4613212418961115) — Vendedor: Nutrijugos LA Selva
+- 2026-10-19 14:21 — [‼️GAME STICK 25 MIL JUEGOS‼️ ✅️2 CONTROLES TIPO PS ✅️RESOLUCION 4K ✅️3 MESES GARANTIA ✅️ENVIOS🏡🛵💨](https://www.facebook.com/marketplace/item/1412871073805374) — Vendedor: Nutrijugos LA Selva
+- 2026-10-19 14:20 — [GAME STICK PRO🔴HD 25 MIL JUEGOS 2 CONTROLES TIPO PS🎮 PUEDES AGREGAR JUEGOS DE TU PREFERENCIA‼️](https://www.facebook.com/marketplace/item/1575406110556871) — Vendedor: Nutrijugos LA Selva
+- 2026-10-17 23:25 — [Teclado Gaming 75%, Mause AOC y Atack Shark L60(Incluye el Mausepad)](https://www.facebook.com/marketplace/item/2442549629864107) — Vendedor: Sebastian C. Falomir
+- 2026-10-17 03:34 — [Artículos varios](https://www.facebook.com/marketplace/item/28352557621112946) — Vendedor: Chito Hernandez
+- 2026-10-16 11:14 — [Televisor pantalla plana Sony Triniton](https://www.facebook.com/marketplace/item/1617412973211754) — Vendedor: Angel Alberto Quijada Soto
+- 2026-10-13 19:08 — [Venta o cambio por iPhone Inf 6681162962](https://www.facebook.com/marketplace/item/1288970010003221) — Vendedor: Pablo Altamirano
+- 2026-10-11 17:03 — [Nintendo](https://www.facebook.com/marketplace/item/1637986604347005) — Vendedor: Alondra AR Cam
+- 2026-10-02 13:40 — [Para refacciones](https://www.facebook.com/marketplace/item/1419485216289737) — Vendedor: Daniel Espinoza
+- 2026-10-01 19:02 — [Monster hunter rise [venta o cambio]](https://www.facebook.com/marketplace/item/1724342732013497) — Vendedor: Jose Antonio Beltran
+- 2026-09-30 14:56 — [psp vita](https://www.facebook.com/marketplace/item/2989944078008730) — Vendedor: Frida Soto
+- 2026-09-30 09:27 — [Varios venta](https://www.facebook.com/marketplace/item/2426023891136626) — Vendedor: Daniela Lopez
+- 2026-09-19 16:26 — [PSP Vita](https://www.facebook.com/marketplace/item/1068717972441216) — Vendedor: Daniel Tarin
+- 2026-09-12 11:29 — [Videojuegos ya sea para colección o jugarlos en su consola](https://www.facebook.com/marketplace/item/858561213908353) — Vendedor: Jesus Ferrer
+- 2026-09-12 00:37 — [Instalacion de juegos consolas](https://www.facebook.com/marketplace/item/943945678142729) — Vendedor: Michele Forni
+- 2026-09-09 15:49 — [Vendo o cambio urgencia](https://www.facebook.com/marketplace/item/1428091072531227) — Vendedor: Fernando Gonzales
+- 2026-09-07 07:14 — [Howarts legacy deluxe edition](https://www.facebook.com/marketplace/item/1117989594221404) — Vendedor: Adrian K-ztro
+- 2026-09-06 18:41 — [Gt5](https://www.facebook.com/marketplace/item/1578353787662492) — Vendedor: Ivan Aguero
+- 2026-09-06 13:12 — [Cambio por una laptop](https://www.facebook.com/marketplace/item/1431416285583812) — Vendedor: Jose Rivera
+- 2026-09-04 23:07 — [Asaasins credd orings](https://www.facebook.com/marketplace/item/1630370878684729) — Vendedor: Ivan Aguero
+- 2026-09-03 17:10 — [Nintendo+](https://www.facebook.com/marketplace/item/1009490228774146) — Vendedor: Teresa Rojas
+- 2026-08-31 21:52 — [Nintendo 3DS/2DS](https://www.facebook.com/marketplace/item/28105958682395646) — Vendedor: Plays Hacks
+- 2026-08-23 12:14 — [Nintendo](https://www.facebook.com/marketplace/item/1327023036171339) — Vendedor: Katia Jacqueline Betancourt
+- 2026-08-22 18:44 — [Consola retro game stick](https://www.facebook.com/marketplace/item/1653171876379569) — Vendedor: Josue Navarro
+- 2026-08-20 11:08 — [Nintendo con un juego y un control](https://www.facebook.com/marketplace/item/1071608498708028) — Vendedor: Juan Velazquez
+- 2026-08-12 20:55 — [Nintendo](https://www.facebook.com/marketplace/item/2024918761484228) — Vendedor: Yis Leyva
+- 2026-08-12 20:08 — [Discos para pa4](https://www.facebook.com/marketplace/item/4142844812672649) — Vendedor: Ivan Lopez
+- 2026-08-08 10:46 — [Se cambia por una bisicleta](https://www.facebook.com/marketplace/item/1039635458937359) — Vendedor: Renato Tirado
+- 2026-08-07 14:12 — [Cuánto dan por ella ofrezcan](https://www.facebook.com/marketplace/item/4639441746293094) — Vendedor: Manuel Sandoval
+- 2026-08-04 01:34 — [Vendo o cambio](https://www.facebook.com/marketplace/item/3367653220061910) — Vendedor: Ventura Miranda Gomez
+- 2026-08-02 15:16 — [Coleccion Resident](https://www.facebook.com/marketplace/item/1360612665533261) — Vendedor: Ulises Valenzuela Ochoa
+- 2026-07-26 17:27 — [550$ cada uno](https://www.facebook.com/marketplace/item/1541851637439403) — Vendedor: Antonio Lopez
+- 2026-07-24 08:39 — [Super Bomberman](https://www.facebook.com/marketplace/item/1056377450062241) — Vendedor: Cesar Walker
+- 2026-07-14 16:12 — [Short Deportivos](https://www.facebook.com/marketplace/item/27204616672554931) — Vendedor: Manuel Ed
+- 2026-07-14 14:27 — [Star wars jedi Fallen Order](https://www.facebook.com/marketplace/item/1031125246547786) — Vendedor: Eduardo Infante
+- 2026-07-12 16:54 — [Vendo](https://www.facebook.com/marketplace/item/4478280349059659) — Vendedor: Gwendoline Palafox Almanza
+- 2026-07-12 12:16 — [Vendi](https://www.facebook.com/marketplace/item/1024432466842912) — Vendedor: Gwendoline Palafox Almanza
+- 2026-07-12 11:12 — [Vendo](https://www.facebook.com/marketplace/item/2093952844550588) — Vendedor: Gwendoline Palafox Almanza
+- 2026-07-12 08:26 — [Vendo](https://www.facebook.com/marketplace/item/3450390785136255) — Vendedor: Gwendoline Palafox Almanza
+- 2026-07-08 16:00 — [Vendo](https://www.facebook.com/marketplace/item/1750825869437880) — Vendedor: Gwendoline Palafox Almanza
+- 2026-07-08 08:01 — [Vendi](https://www.facebook.com/marketplace/item/1527673465467690) — Vendedor: Gwendoline Palafox Almanza
+- 2026-07-07 10:02 — [Vendo](https://www.facebook.com/marketplace/item/1435020065342293) — Vendedor: Gwendoline Palafox Almanza
+- 2026-07-07 05:55 — [Vendi](https://www.facebook.com/marketplace/item/1749513013156328) — Vendedor: Gwendoline Palafox Almanza
+- 2026-07-01 21:59 — [Nintendo  Enterito](https://www.facebook.com/marketplace/item/1343872493818376) — Vendedor: Karely DK
+- 2026-06-26 16:55 — [Discos para para play station 3 y cassette para Game boy](https://www.facebook.com/marketplace/item/36489005200743834) — Vendedor: Juan Velazquez
+- 2026-06-23 10:47 — [Vendo](https://www.facebook.com/marketplace/item/761713400338338) — Vendedor: Gwendoline Palafox Almanza
+- 2026-06-22 20:22 — [Five nigths ay freddys security breach](https://www.facebook.com/marketplace/item/1260324412655356) — Vendedor: Bianey Alejandra Muñoz Herrera
+- 2026-06-03 01:37 — [300 cada uno](https://www.facebook.com/marketplace/item/1693450738361510) — Vendedor: Antonio Lopez
+- 2026-05-20 20:32 — [Contro nintendo 2](https://www.facebook.com/marketplace/item/27360580343539257) — Vendedor: Juan Carlos Vega
+- 2026-05-09 13:38 — [Videojyego](https://www.facebook.com/marketplace/item/1291355856309439) — Vendedor: Carla Lopez
+- 2026-05-07 05:51 — [Varias cosas](https://www.facebook.com/marketplace/item/992815073246378) — Vendedor: Carla Lopez
+- 2026-05-06 16:01 — [Varias cosas](https://www.facebook.com/marketplace/item/2129141027876831) — Vendedor: Carla Lopez
+- 2026-05-05 13:29 — [Varias cosas](https://www.facebook.com/marketplace/item/1271117348230393) — Vendedor: Carla Lopez
+- 2026-05-03 04:12 — [Psvita Oled con 6 juegos físicos](https://www.facebook.com/marketplace/item/1483485260123131) — Vendedor: Jessica Leyva
+- 2026-05-01 11:41 — [$$$$](https://www.facebook.com/marketplace/item/3218172231722440) — Vendedor: Karla Delgado Valdez
+- 2026-04-23 09:58 — [Nintendo](https://www.facebook.com/marketplace/item/1619571499268061) — Vendedor: Cinthya Avila
+- 2026-04-18 21:27 — [Play Station](https://www.facebook.com/marketplace/item/1522281949427159) — Vendedor: Aremi Valdez
+- 2026-04-10 22:03 — [Sekiro](https://www.facebook.com/marketplace/item/4430478487278849) — Vendedor: Luis Sanchez
+- 2026-04-10 07:35 — [Se vende](https://www.facebook.com/marketplace/item/2961666277375929) — Vendedor: Carla Lopez
+- 2026-04-09 21:27 — [Varias cosas](https://www.facebook.com/marketplace/item/2296367840772153) — Vendedor: Carla Lopez
+- 2026-04-09 12:52 — [Varias cosas ojo por separado](https://www.facebook.com/marketplace/item/964420249417963) — Vendedor: Carla Lopez
+- 2026-04-06 12:31 — [Varias cosas por separado](https://www.facebook.com/marketplace/item/946079094573032) — Vendedor: Carla Lopez
+- 2026-04-06 06:28 — [Varias cosas (se venden separados)](https://www.facebook.com/marketplace/item/2783421001995502) — Vendedor: Carla Lopez
+- 2026-04-05 20:28 — [Se venden varias cosas](https://www.facebook.com/marketplace/item/1669384617402559) — Vendedor: Carla Lopez
+- 2026-03-31 15:53 — [Nitendo 64 completo](https://www.facebook.com/marketplace/item/3131399780382611) — Vendedor: Juan Velazquez
+- 2026-03-25 14:12 — [Discos para ps4 y ps5](https://www.facebook.com/marketplace/item/917200844543373) — Vendedor: Ramiro Flores
+- 2026-03-18 20:46 — [Consola de videos juegos](https://www.facebook.com/marketplace/item/903801625978587) — Vendedor: Rosario Guadalupe
+- 2026-03-16 20:52 — [Venta Nintendo swtch 2](https://www.facebook.com/marketplace/item/26034555929547901) — Vendedor: Mario Chavez
+- 2026-03-02 16:48 — [Consolas y juegos PS4 y NINTENDO SWITCH ￼](https://www.facebook.com/marketplace/item/893811733425442) — Vendedor: Rafa Villegas
+- 2026-02-19 17:48 — [en venta](https://www.facebook.com/marketplace/item/2670565656632331) — Vendedor: Daniel Navarro
+- 2026-02-17 12:03 — [Xbox one fat y ps4](https://www.facebook.com/marketplace/item/1968159517448551) — Vendedor: Alan Figueroa
+- 2026-02-07 14:07 — [250por cadauno](https://www.facebook.com/marketplace/item/1434701544993544) — Vendedor: Cristian Ahumada
+- 2026-01-13 11:07 — [VENDO](https://www.facebook.com/marketplace/item/912474898011017) — Vendedor: Alis Robles
+- 2026-01-06 13:56 — [Vendo INJUSTICE 2](https://www.facebook.com/marketplace/item/1427416099010088) — Vendedor: Luis Higuera
+- 2026-01-05 18:19 — [Psp4 slim con 2 controles y u. Video juego $ 4200](https://www.facebook.com/marketplace/item/861627213142993) — Vendedor: Jose Garcia
+- 2025-12-25 11:59 — [Venta PostNavideña 25Dic2025](https://www.facebook.com/marketplace/item/886274910461386) — Vendedor: Mi Ge Ru
+- 2025-12-24 12:54 — [Compra Venta Navideña en remate en la plazuela de El Carrizo 24Dic2023](https://www.facebook.com/marketplace/item/1855360348416221) — Vendedor: Mi Ge Ru
+- 2025-12-23 11:47 — [- HUMAN FALL FLAT](https://www.facebook.com/marketplace/item/1412438200297784) — Vendedor: Víctor Iván Araujo
+- 2025-12-10 14:30 — [Venta instalación de magia](https://www.facebook.com/marketplace/item/1145253867592240) — Vendedor: Jesus Acosta Mendivil
+- 2025-12-01 18:37 — [Televisión análoga](https://www.facebook.com/marketplace/item/1623570255272841) — Vendedor: Mara Soto
+- 2025-11-29 10:59 — [Vendo o cambio por algo mejor ofrezcan por lo que sea](https://www.facebook.com/marketplace/item/833801036171724) — Vendedor: Lupita Felix
+- 2025-10-13 20:23 — [Consolas y Juegos Nintendo y Pokemon](https://www.facebook.com/marketplace/item/1849471845937409) — Vendedor: Alejandro Lopez
+- 2024-12-07 19:32 — [Viernes 13](https://www.facebook.com/marketplace/item/942217030654708) — Vendedor: Aldo Ceballos Cubedo

@@ -10,8 +10,8 @@ Total: 5 anuncios disponibles.
 
 ## Disponibles (de más actual a más viejo)
 
-- 2026-11-02 14:19 — [Juegos Wii](https://www.facebook.com/marketplace/item/1787105372546816)
-- 2026-09-30 16:58 — [Mario party 8 para nintendo wii](https://www.facebook.com/marketplace/item/1812000966586598)
-- 2026-09-28 20:39 — [Juegos de wiii](https://www.facebook.com/marketplace/item/1908018043889533)
-- 2026-08-04 12:18 — [Wii Donkey kong](https://www.facebook.com/marketplace/item/989249184108253)
-- 2026-06-03 16:54 — [Nintendo wii con smash](https://www.facebook.com/marketplace/item/28381494694770744)
+- 2026-11-02 14:19 — [Juegos Wii](https://www.facebook.com/marketplace/item/1787105372546816) — Vendedor: Audrey Baillet
+- 2026-09-30 16:58 — [Mario party 8 para nintendo wii](https://www.facebook.com/marketplace/item/1812000966586598) — Vendedor: Stargames Valenzuela
+- 2026-09-28 20:39 — [Juegos de wiii](https://www.facebook.com/marketplace/item/1908018043889533) — Vendedor: Alexander Montes
+- 2026-08-04 12:18 — [Wii Donkey kong](https://www.facebook.com/marketplace/item/989249184108253) — Vendedor: Fer Miranda
+- 2026-06-03 16:54 — [Nintendo wii con smash](https://www.facebook.com/marketplace/item/28381494694770744) — Vendedor: Jamaicas Las Jamaicas

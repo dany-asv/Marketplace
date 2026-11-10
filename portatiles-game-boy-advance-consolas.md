@@ -10,4 +10,4 @@ Total: 1 anuncios disponibles.
 
 ## Disponibles (de más actual a más viejo)
 
-- 2026-01-04 23:14 — [Gameboy advance](https://www.facebook.com/marketplace/item/1238128581525946)
+- 2026-01-04 23:14 — [Gameboy advance](https://www.facebook.com/marketplace/item/1238128581525946) — Vendedor: Jose Martinez Rivera

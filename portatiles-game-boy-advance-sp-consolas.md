@@ -10,5 +10,5 @@ Total: 2 anuncios disponibles.
 
 ## Disponibles (de más actual a más viejo)
 
-- 2026-11-09 10:32 — [Gameboy advance sp](https://www.facebook.com/marketplace/item/1126898040308032)
-- 2026-07-31 12:45 — [Gameboy Advance SP](https://www.facebook.com/marketplace/item/2322295538588235)
+- 2026-11-09 10:32 — [Gameboy advance sp](https://www.facebook.com/marketplace/item/1126898040308032) — Vendedor: Pf Clothin
+- 2026-07-31 12:45 — [Gameboy Advance SP](https://www.facebook.com/marketplace/item/2322295538588235) — Vendedor: Walker Galaviz

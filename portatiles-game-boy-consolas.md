@@ -10,6 +10,6 @@ Total: 3 anuncios disponibles.
 
 ## Disponibles (de más actual a más viejo)
 
-- 2026-10-25 15:25 — [Vendo lote Game boy pocket original rosa- hecho en japon](https://www.facebook.com/marketplace/item/4013755732253016)
-- 2026-09-22 01:00 — [busco una gameboy en buen estado](https://www.facebook.com/marketplace/item/2602859346901455)
-- 2026-09-15 10:57 — [BUSCO GAMEBOY BUEN ESTADO](https://www.facebook.com/marketplace/item/1811839499988229)
+- 2026-10-25 15:25 — [Vendo lote Game boy pocket original rosa- hecho en japon](https://www.facebook.com/marketplace/item/4013755732253016) — Vendedor: Alonso Vlz
+- 2026-09-22 01:00 — [busco una gameboy en buen estado](https://www.facebook.com/marketplace/item/2602859346901455) — Vendedor: Rodrigo Camacho Montes
+- 2026-09-15 10:57 — [BUSCO GAMEBOY BUEN ESTADO](https://www.facebook.com/marketplace/item/1811839499988229) — Vendedor: Rodrigo Camacho Montes

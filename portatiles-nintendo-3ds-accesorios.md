@@ -10,4 +10,4 @@ Total: 1 anuncios disponibles.
 
 ## Disponibles (de más actual a más viejo)
 
-- 2026-07-27 15:32 — [Casét para Nintendo 3ds barato](https://www.facebook.com/marketplace/item/1652384329190178)
+- 2026-07-27 15:32 — [Casét para Nintendo 3ds barato](https://www.facebook.com/marketplace/item/1652384329190178) — Vendedor: Ivan Lopez

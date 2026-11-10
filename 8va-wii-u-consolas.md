@@ -10,5 +10,5 @@ Total: 2 anuncios disponibles.
 
 ## Disponibles (de más actual a más viejo)
 
-- 2026-07-28 20:31 — [Wii U](https://www.facebook.com/marketplace/item/1025411873440245)
-- 2026-01-24 14:16 — [Nintendo Wii u](https://www.facebook.com/marketplace/item/863458489805074)
+- 2026-07-28 20:31 — [Wii U](https://www.facebook.com/marketplace/item/1025411873440245) — Vendedor: Esteban Olguin Avila
+- 2026-01-24 14:16 — [Nintendo Wii u](https://www.facebook.com/marketplace/item/863458489805074) — Vendedor: Tecnohybrid Autis

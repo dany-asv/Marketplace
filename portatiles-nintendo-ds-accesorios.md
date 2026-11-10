@@ -10,5 +10,5 @@ Total: 2 anuncios disponibles.
 
 ## Disponibles (de más actual a más viejo)
 
-- 2026-08-16 12:13 — [NINTENDO DS – GUITAR HERO ON TOUR + GUITAR GRIP](https://www.facebook.com/marketplace/item/1455508049780921)
-- 2026-08-11 13:23 — [Caset para ds](https://www.facebook.com/marketplace/item/1034149139254585)
+- 2026-08-16 12:13 — [NINTENDO DS – GUITAR HERO ON TOUR + GUITAR GRIP](https://www.facebook.com/marketplace/item/1455508049780921) — Vendedor: Rolando Valdez
+- 2026-08-11 13:23 — [Caset para ds](https://www.facebook.com/marketplace/item/1034149139254585) — Vendedor: Chappy Chappy

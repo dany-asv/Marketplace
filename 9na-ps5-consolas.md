@@ -10,9 +10,9 @@ Total: 6 anuncios disponibles.
 
 ## Disponibles (de más actual a más viejo)
 
-- 2026-11-08 00:31 — [Simulador ps5 pc](https://www.facebook.com/marketplace/item/1673047067786336)
-- 2026-10-25 11:44 — [Ps Portal](https://www.facebook.com/marketplace/item/1437359874541976)
-- 2026-10-17 06:46 — [Lies of P play5](https://www.facebook.com/marketplace/item/1420992386908645)
-- 2026-10-14 12:39 — [Paquete de juegos para PS5 por $1000](https://www.facebook.com/marketplace/item/1100358862736889)
-- 2026-10-11 12:03 — [Sillent hill Townfall PS5](https://www.facebook.com/marketplace/item/1115472197556304)
-- 2026-07-08 21:40 — [🎮"UFC 5 (PS5) o Cambio "🎮 leer descripción.....](https://www.facebook.com/marketplace/item/1674624370288619)
+- 2026-11-08 00:31 — [Simulador ps5 pc](https://www.facebook.com/marketplace/item/1673047067786336) — Vendedor: Carlos Orduño
+- 2026-10-25 11:44 — [Ps Portal](https://www.facebook.com/marketplace/item/1437359874541976) — Vendedor: Angel Meza
+- 2026-10-17 06:46 — [Lies of P play5](https://www.facebook.com/marketplace/item/1420992386908645) — Vendedor: Jose Guadalupe Guerrero Bojorquez
+- 2026-10-14 12:39 — [Paquete de juegos para PS5 por $1000](https://www.facebook.com/marketplace/item/1100358862736889) — Vendedor: Iván Castro León
+- 2026-10-11 12:03 — [Sillent hill Townfall PS5](https://www.facebook.com/marketplace/item/1115472197556304) — Vendedor: Roberto Ortega
+- 2026-07-08 21:40 — [🎮"UFC 5 (PS5) o Cambio "🎮 leer descripción.....](https://www.facebook.com/marketplace/item/1674624370288619) — Vendedor: Jose Luis Bravo

@@ -10,5 +10,5 @@ Total: 2 anuncios disponibles.
 
 ## Disponibles (de más actual a más viejo)
 
-- 2026-11-02 11:56 — [Busco Nintendo Gamecube](https://www.facebook.com/marketplace/item/2227839654444071)
-- 2026-02-07 20:30 — [Gamecube Para piezas o refacciones](https://www.facebook.com/marketplace/item/1528549718241242)
+- 2026-11-02 11:56 — [Busco Nintendo Gamecube](https://www.facebook.com/marketplace/item/2227839654444071) — Vendedor: Miguel Ruiz Chavez
+- 2026-02-07 20:30 — [Gamecube Para piezas o refacciones](https://www.facebook.com/marketplace/item/1528549718241242) — Vendedor: Nelson Chang
