@@ -10,4 +10,4 @@ Total: 1 anuncios disponibles.
 
 ## Disponibles (de más actual a más viejo)
 
-- 2026-10-20 21:13 — [Volante para Xbox original sin uso](https://www.facebook.com/marketplace/item/4491282314468033) — $1.500 — Nuevo — Los Mochis
+- 2026-10-20 21:13 — [Volante para Xbox original sin uso](https://www.facebook.com/marketplace/item/4491282314468033)

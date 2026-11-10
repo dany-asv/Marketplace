@@ -10,5 +10,5 @@ Total: 2 anuncios disponibles.
 
 ## Disponibles (de más actual a más viejo)
 
-- 2026-10-27 16:12 — [Cables originales para nintendo Gamecube](https://www.facebook.com/marketplace/item/1009082828890218) — $500 — Usado - Como nuevo — Los Mochis
-- 2026-10-13 20:43 — [Control gamecube edición Smash](https://www.facebook.com/marketplace/item/2358222034918945) — $750 — Usado - Como nuevo — Los Mochis
+- 2026-10-27 16:12 — [Cables originales para nintendo Gamecube](https://www.facebook.com/marketplace/item/1009082828890218)
+- 2026-10-13 20:43 — [Control gamecube edición Smash](https://www.facebook.com/marketplace/item/2358222034918945)

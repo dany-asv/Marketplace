@@ -10,4 +10,4 @@ Total: 1 anuncios disponibles.
 
 ## Disponibles (de más actual a más viejo)
 
-- 2026-09-22 16:39 — [Control ps3 para reparar](https://www.facebook.com/marketplace/item/1634066568290530) — $50 — Usado - Aceptable — Los Mochis
+- 2026-09-22 16:39 — [Control ps3 para reparar](https://www.facebook.com/marketplace/item/1634066568290530)
