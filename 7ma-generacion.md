@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de más actual a más viejo según la fecha y hora de publicación (hora de Los Mochis).
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 52 anuncios disponibles.
+Total: 51 anuncios disponibles.
 
 ## Disponibles (de más actual a más viejo)
 
@@ -14,7 +14,6 @@ Total: 52 anuncios disponibles.
 - 2026-11-10 08:14 — [Xbox 360](https://www.facebook.com/marketplace/item/1177511701267302) — $1.100 — Los Mochis
 - 2026-11-08 20:40 — [Wii](https://www.facebook.com/marketplace/item/1668462661597766) — $1 — Nuevo — Los Mochis
 - 2026-11-06 12:27 — [No more héroes (Wii)](https://www.facebook.com/marketplace/item/1099936772835109) — GRATIS — Usado — Los Mochis
-- 2026-11-03 22:52 — [GTA V PS3](https://www.facebook.com/marketplace/item/29368505696077637) — $250 — Los Mochis — ADVERTENCIA: vendedor marcado como TRANZAS por Daniel: Elelebelv Elwitch
 - 2026-11-03 03:04 — [Xbox 360 chipeado](https://www.facebook.com/marketplace/item/802610282947465) — $1.600 — Usado - Como nuevo — Los Mochis
 - 2026-11-02 14:19 — [Juegos Wii](https://www.facebook.com/marketplace/item/1787105372546816) — $1 — Usado - Como nuevo — Los Mochis
 - 2026-11-02 14:18 — [Wii](https://www.facebook.com/marketplace/item/1692110809146392) — $1.800 — Usado - Buen estado — Los Mochis

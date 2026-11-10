@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de más actual a más viejo según la fecha y hora de publicación (hora de Los Mochis).
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 590 anuncios disponibles.
+Total: 588 anuncios disponibles.
 
 ## Disponibles (de más actual a más viejo)
 
@@ -30,7 +30,6 @@ Total: 590 anuncios disponibles.
 - 2026-11-07 11:13 — [Consola de videojuegos Nintendo Switch](https://www.facebook.com/marketplace/item/1648807713289928) — $2.000 — Usado - Como nuevo — Los Mochis
 - 2026-11-07 01:55 — [Nintendo Switch OLED](https://www.facebook.com/marketplace/item/1139701418605120) — $6.500 — Usado - Como nuevo — Los Mochis
 - 2026-11-06 15:10 — [Nintendo Swich Oled](https://www.facebook.com/marketplace/item/1831643834646021) — $4.200 — Usado - Buen estado — Los Mochis
-- 2026-11-06 15:00 — [Ps5 slim](https://www.facebook.com/marketplace/item/1673039031091978) — $9.500 — Los Mochis — ADVERTENCIA: vendedor marcado como TRANZAS por Daniel: Irelda Gaxiola / Lopez Fernando GAMERS NAO
 - 2026-11-06 12:46 — [NINTENDO SWITCH](https://www.facebook.com/marketplace/item/1172179005378802) — $2.800 — Usado - Como nuevo — Los Mochis
 - 2026-11-05 19:38 — [Legends of zelda tears of the kingdom](https://www.facebook.com/marketplace/item/1932708384376872) — $800 — Usado - Como nuevo — Los Mochis
 - 2026-11-05 18:49 — [Nintendo Switch OLED Blanco](https://www.facebook.com/marketplace/item/2204331920497091) — $3.800 — Usado - Como nuevo — Los Mochis
@@ -54,7 +53,6 @@ Total: 590 anuncios disponibles.
 - 2026-11-03 14:21 — [Vendo Nintendo switch Lite](https://www.facebook.com/marketplace/item/1798141628120850) — $1.200 — Usado - Aceptable — Los Mochis
 - 2026-11-03 13:28 — [Nintendo switch oled Zelda edición](https://www.facebook.com/marketplace/item/1428575159447513) — $5.000 — Usado - Como nuevo — Los Mochis
 - 2026-11-03 12:47 — [Animal Crossing: New Horizons](https://www.facebook.com/marketplace/item/1870903497444882) — $550 — Usado - Como nuevo — Los Mochis
-- 2026-11-03 06:57 — [Nintendo Switch 💎✨ Blackedition](https://www.facebook.com/marketplace/item/1682359676841893) — $2.500 — Usado — Los Mochis
 - 2026-11-03 00:17 — [Se vende Nintendo switch, juegos y PS5](https://www.facebook.com/marketplace/item/1863078911521983) — $4.800 — Usado - Buen estado — Los Mochis
 - 2026-11-02 23:34 — [Nintendo switch](https://www.facebook.com/marketplace/item/1831359884873018) — $4.800 — Usado - Buen estado — Los Mochis
 - 2026-11-02 22:59 — [Súper mario 3D all stars](https://www.facebook.com/marketplace/item/2193035664626799) — $1.500 — Usado - Como nuevo — Los Mochis

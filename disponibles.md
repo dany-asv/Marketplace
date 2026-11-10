@@ -6,7 +6,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Más los anuncios nuevos verificados como disponibles en las revisiones de vigilancia del 10 de noviembre de 2026.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 1342 anuncios disponibles.
+Total: 1338 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -15,10 +15,10 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - [1ra, 2da y 3ra generación](1ra-2da-3ra-generacion.md) — 5 anuncios (Atari 2600, Intellivision, Atari 5200, NES, Sega Master System)
 - [4ta y 5ta generación](4ta-5ta-generacion.md) — 25 anuncios (SNES, Sega Génesis, Nintendo 64, Sega Saturn, PlayStation 1)
 - [Todas las portátiles](portatiles.md) — 83 anuncios (Game Boy, Game Boy Color, Game Boy Advance, Game Boy SP, PSP, PS Vita, Nintendo DS, Nintendo 3DS, Game Gear, Nokia N-Gage)
-- [6ta generación](6ta-generacion.md) — 26 anuncios (GameCube, Dreamcast, PlayStation 2, Xbox Clásico)
-- [7ma generación](7ma-generacion.md) — 52 anuncios (Wii, PlayStation 3, Xbox 360)
+- [6ta generación](6ta-generacion.md) — 25 anuncios (GameCube, Dreamcast, PlayStation 2, Xbox Clásico)
+- [7ma generación](7ma-generacion.md) — 51 anuncios (Wii, PlayStation 3, Xbox 360)
 - [8va generación](8va-generacion.md) — 256 anuncios (Wii U, PlayStation 4, Xbox One)
-- [9na generación](9na-generacion.md) — 590 anuncios (Nintendo Switch, PlayStation 5, Xbox Series X/S)
+- [9na generación](9na-generacion.md) — 588 anuncios (Nintendo Switch, PlayStation 5, Xbox Series X/S)
 - [10ma generación](10ma-generacion.md) — 26 anuncios (Nintendo Switch 2)
 - [Otros — Multiplataforma o sin plataforma clara](otros-multiplataforma-y-sin-clasificar.md) — 279 anuncios
 
@@ -49,7 +49,6 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-09 10:32 — [Gameboy advance sp](https://www.facebook.com/marketplace/item/1126898040308032) — $700 — Usado - Buen estado — Los Mochis
 - 2026-11-09 10:14 — [Mario Party 4 gamecube](https://www.facebook.com/marketplace/item/1646235227092029) — $850 — Usado - Como nuevo — Los Mochis
 - 2026-11-09 08:35 — [Videojuegos de PS5 y PS4](https://www.facebook.com/marketplace/item/1024110227346826) — $1.000 — Usado — Los Mochis
-- 2026-11-09 00:44 — [Playstation2 Slim 👾](https://www.facebook.com/marketplace/item/4097690687200209) — $800 — Usado — Los Mochis
 - 2026-11-08 21:30 — [Fc24 ps5 nuevo](https://www.facebook.com/marketplace/item/1064257223332785) — $500 — Nuevo — Los Mochis
 - 2026-11-08 20:40 — [Wii](https://www.facebook.com/marketplace/item/1668462661597766) — $1 — Nuevo — Los Mochis
 - 2026-11-08 19:42 — [Switch](https://www.facebook.com/marketplace/item/4801133286797563) — $25 — Usado - Buen estado — Los Mochis
@@ -86,7 +85,6 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-06 20:21 — [Play 4 jalando bien](https://www.facebook.com/marketplace/item/1663348121900071) — $3.500 — Usado - Buen estado — Los Mochis
 - 2026-11-06 17:52 — [Play station 4 en venta sin fallas dos controles](https://www.facebook.com/marketplace/item/1129822423273774) — $3.000 — Usado - Aceptable — Los Mochis
 - 2026-11-06 15:10 — [Nintendo Swich Oled](https://www.facebook.com/marketplace/item/1831643834646021) — $4.200 — Usado - Buen estado — Los Mochis
-- 2026-11-06 15:00 — [Ps5 slim](https://www.facebook.com/marketplace/item/1673039031091978) — $9.500 — Los Mochis — ADVERTENCIA: vendedor marcado como TRANZAS por Daniel: Irelda Gaxiola / Lopez Fernando GAMERS NAO
 - 2026-11-06 14:20 — [Days Gone](https://www.facebook.com/marketplace/item/1583914160207078) — $400 — Usado - Como nuevo — Los Mochis
 - 2026-11-06 13:06 — [Ps4 1tb](https://www.facebook.com/marketplace/item/2216358428948379) — $2.000 — Usado - Como nuevo — Los Mochis
 - 2026-11-06 12:46 — [NINTENDO SWITCH](https://www.facebook.com/marketplace/item/1172179005378802) — $2.800 — Usado - Como nuevo — Los Mochis
@@ -124,7 +122,6 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-04 13:52 — [Nendoroid Kirby Robobot & Kirby - Good Smile Company - Sellado Original](https://www.facebook.com/marketplace/item/1125340696809093) — $2.000 — Usado — Los Mochis
 - 2026-11-04 12:56 — [venta](https://www.facebook.com/marketplace/item/1151352550678434) — $1.100 — Nuevo — Los Mochis
 - 2026-11-04 10:31 — [Play 4 Slim](https://www.facebook.com/marketplace/item/2770559736674717) — $2.100 — Usado - Buen estado — Los Mochis
-- 2026-11-03 22:52 — [GTA V PS3](https://www.facebook.com/marketplace/item/29368505696077637) — $250 — Los Mochis — ADVERTENCIA: vendedor marcado como TRANZAS por Daniel: Elelebelv Elwitch
 - 2026-11-03 22:31 — [Yooka Nintendo switch 2](https://www.facebook.com/marketplace/item/2207520786812958) — $830 — Nuevo — Los Mochis
 - 2026-11-03 22:11 — [PS Portal, vendo o cambio por switch oled](https://www.facebook.com/marketplace/item/1883063236211418) — $3.500 — Usado - Como nuevo — Los Mochis
 - 2026-11-03 22:09 — [Nintendo switch OLED](https://www.facebook.com/marketplace/item/2272331210290426) — $3.500 — Usado - Buen estado — Los Mochis
@@ -143,7 +140,6 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-03 13:28 — [Nintendo switch oled Zelda edición](https://www.facebook.com/marketplace/item/1428575159447513) — $5.000 — Usado - Como nuevo — Los Mochis
 - 2026-11-03 12:47 — [Animal Crossing: New Horizons](https://www.facebook.com/marketplace/item/1870903497444882) — $550 — Usado - Como nuevo — Los Mochis
 - 2026-11-03 08:52 — [PlayStation 4 slim y juegos](https://www.facebook.com/marketplace/item/1670923424542776) — $3.500 — Usado - Buen estado — Los Mochis
-- 2026-11-03 06:57 — [Nintendo Switch 💎✨ Blackedition](https://www.facebook.com/marketplace/item/1682359676841893) — $2.500 — Usado — Los Mochis
 - 2026-11-03 03:04 — [Xbox 360 chipeado](https://www.facebook.com/marketplace/item/802610282947465) — $1.600 — Usado - Como nuevo — Los Mochis
 - 2026-11-03 00:17 — [Se vende Nintendo switch, juegos y PS5](https://www.facebook.com/marketplace/item/1863078911521983) — $4.800 — Usado - Buen estado — Los Mochis
 - 2026-11-02 23:34 — [Nintendo switch](https://www.facebook.com/marketplace/item/1831359884873018) — $4.800 — Usado - Buen estado — Los Mochis

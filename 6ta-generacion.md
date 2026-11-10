@@ -6,14 +6,13 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de más actual a más viejo según la fecha y hora de publicación (hora de Los Mochis).
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 26 anuncios disponibles.
+Total: 25 anuncios disponibles.
 
 ## Disponibles (de más actual a más viejo)
 
 - 2026-11-09 15:26 — [God of wat playstation 2](https://www.facebook.com/marketplace/item/1455756676519459) — $99.999 — Usado - Como nuevo — Los Mochis
 - 2026-11-09 11:07 — [PLAY STATION 2 PARA REPARAR O PIEZAS](https://www.facebook.com/marketplace/item/1175953528272945) — $400 — Usado - Aceptable — Los Mochis
 - 2026-11-09 10:14 — [Mario Party 4 gamecube](https://www.facebook.com/marketplace/item/1646235227092029) — $850 — Usado - Como nuevo — Los Mochis
-- 2026-11-09 00:44 — [Playstation2 Slim 👾](https://www.facebook.com/marketplace/item/4097690687200209) — $800 — Usado — Los Mochis
 - 2026-11-08 18:36 — [JUEGOS PARA PLAYSTATION 2](https://www.facebook.com/marketplace/item/2209967619917749) — $250 — Usado - Buen estado — Los Mochis
 - 2026-11-08 16:02 — [PLAY STATION 2](https://www.facebook.com/marketplace/item/2980759965657039) — $600 — Usado - Aceptable — Los Mochis
 - 2026-11-07 05:00 — [Juegos para PS2](https://www.facebook.com/marketplace/item/1092374926968032) — $300 — Usado - Buen estado — Los Mochis
