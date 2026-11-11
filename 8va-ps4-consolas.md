@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 110 anuncios disponibles.
+Total: 101 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -18,16 +18,7 @@ Total: 110 anuncios disponibles.
 - 2026-07-31 13:11 — [PS4  excelentes condiciones](https://www.facebook.com/marketplace/item/1372476947595784) — $1 — Vendedor: Yunia Bañuelos
 - 2026-11-08 12:16 — [Ps4 Slim con 5 juegos y dos controles](https://www.facebook.com/marketplace/item/3264788557052068) — $4 — Vendedor: Armando López
 - 2026-09-07 07:12 — [Ps4](https://www.facebook.com/marketplace/item/1698594647911507) — $200 — Vendedor: Daniel Palacios
-- 2026-07-27 13:39 — [Dissidia NT ps4](https://www.facebook.com/marketplace/item/1068399376126405) — $200 — Vendedor: Luis Javier Valenzuela
-- 2026-07-27 13:38 — [God eater 2 ps4](https://www.facebook.com/marketplace/item/1010160758498099) — $200 — Vendedor: Luis Javier Valenzuela
-- 2026-06-14 15:12 — [Subnautica below Zero ps4/5](https://www.facebook.com/marketplace/item/1721054665584817) — $200 — Vendedor: David Lopez
-- 2026-10-01 13:38 — [Ctr play 4](https://www.facebook.com/marketplace/item/3161857270676781) — $250 — Vendedor: Jose Aramburo
-- 2026-10-25 13:36 — [Read Dead Redeption 2 PS4 ✅🕹️](https://www.facebook.com/marketplace/item/1455937176461320) — $300 — Vendedor: Ricardo Beltrán
-- 2026-10-25 10:27 — [Drive Club PS4](https://www.facebook.com/marketplace/item/2489714314893629) — $300 — Vendedor: Chito Hernandez
-- 2026-07-27 13:37 — [Megaman battle network legacy collection ps4](https://www.facebook.com/marketplace/item/1049598010980912) — $300 — Vendedor: Luis Javier Valenzuela
-- 2025-12-16 15:10 — [Lost judgement (tipo Yakuza) para Playstation 4](https://www.facebook.com/marketplace/item/1165194862351826) — $450 — Vendedor: Orlando Alfredo Souza
 - 2025-12-08 01:14 — [Video para ps4](https://www.facebook.com/marketplace/item/1425794382295880) — $950 — Vendedor: Alonso Vlz
-- 2026-03-23 14:48 — [JUEGOS PARA PS4 A BUEN PRECIO PRECIO INDIVIDUAL O LOTE COMPLETO](https://www.facebook.com/marketplace/item/904988649034330) — $1.234 — Vendedor: Saneli Daniel
 - 2026-11-08 12:04 — [Ps4](https://www.facebook.com/marketplace/item/1167132786270740) — $1.500 — Vendedor: Luis Rey
 - 2026-05-16 13:01 — [Ps4](https://www.facebook.com/marketplace/item/1678170283333636) — $1.500 — Vendedor: Axl Soto
 - 2026-04-17 21:53 — [Play 4](https://www.facebook.com/marketplace/item/1953168535591909) — $1.600 — Vendedor: Gabriel Lopez

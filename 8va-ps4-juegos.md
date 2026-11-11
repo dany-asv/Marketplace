@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 115 anuncios disponibles.
+Total: 124 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -51,6 +51,9 @@ Total: 115 anuncios disponibles.
 - 2026-08-19 18:04 — [Juegos de play4](https://www.facebook.com/marketplace/item/1066316089147605) — $200 — Vendedor: Tadeo Borq
 - 2026-07-27 13:46 — [Dragon ball fighterz ps4](https://www.facebook.com/marketplace/item/979519035132389) — $200 — Vendedor: Luis Javier Valenzuela
 - 2026-07-27 13:40 — [Dragon ball xenoverse 2 ps4](https://www.facebook.com/marketplace/item/1686231562607755) — $200 — Vendedor: Luis Javier Valenzuela
+- 2026-07-27 13:39 — [Dissidia NT ps4](https://www.facebook.com/marketplace/item/1068399376126405) — $200 — Vendedor: Luis Javier Valenzuela
+- 2026-07-27 13:38 — [God eater 2 ps4](https://www.facebook.com/marketplace/item/1010160758498099) — $200 — Vendedor: Luis Javier Valenzuela
+- 2026-06-14 15:12 — [Subnautica below Zero ps4/5](https://www.facebook.com/marketplace/item/1721054665584817) — $200 — Vendedor: David Lopez
 - 2026-06-03 01:37 — [Juegos de ps4 se van en 200 cada uno](https://www.facebook.com/marketplace/item/2035066090414626) — $200 — Vendedor: Antonio Lopez
 - 2026-06-01 10:12 — [Juegos ps4 diferentes precios desde 200 hasta 350](https://www.facebook.com/marketplace/item/1316980433207427) — $200 — Vendedor: Antonio Lopez
 - 2026-03-26 15:36 — [Horizon ps4](https://www.facebook.com/marketplace/item/2063466567926216) — $200 — Vendedor: Eduardo Infante
@@ -59,6 +62,7 @@ Total: 115 anuncios disponibles.
 - 2026-01-31 23:18 — [Juegos ps4](https://www.facebook.com/marketplace/item/876702565208121) — $200 — Vendedor: Yamileth Espinoza
 - 2026-01-23 15:02 — [Juegos ps4](https://www.facebook.com/marketplace/item/873505692060473) — $200 — Vendedor: Diai NG
 - 2026-10-28 15:17 — [Juegos ps4](https://www.facebook.com/marketplace/item/1809377183612967) — $250 — Vendedor: Brayan Chacon
+- 2026-10-01 13:38 — [Ctr play 4](https://www.facebook.com/marketplace/item/3161857270676781) — $250 — Vendedor: Jose Aramburo
 - 2026-09-16 17:40 — [Juegos PS4](https://www.facebook.com/marketplace/item/1375743954720684) — $250 — Vendedor: Luis Ramon Robles Lugo
 - 2026-08-17 02:48 — [Juegos de play 4](https://www.facebook.com/marketplace/item/27880928954891439) — $250 — Vendedor: Eduardo Medina
 - 2026-06-14 15:11 — [The last of us ps4/5](https://www.facebook.com/marketplace/item/951448927882600) — $250 — Vendedor: David Lopez
@@ -72,6 +76,8 @@ Total: 115 anuncios disponibles.
 - 2026-02-25 17:12 — [Cyberpunk 2077 Ps4](https://www.facebook.com/marketplace/item/1235231308200258) — $250 — Vendedor: Gerson Asael
 - 2025-09-07 16:52 — [Videojuegos de PS4](https://www.facebook.com/marketplace/item/1136389518367398) — $250 — Vendedor: Sami Lopez Martinez
 - 2025-05-28 08:31 — [Juegos para ps4](https://www.facebook.com/marketplace/item/1340596260371339) — $250 — Vendedor: Saúl Plata
+- 2026-10-25 13:36 — [Read Dead Redeption 2 PS4 ✅🕹️](https://www.facebook.com/marketplace/item/1455937176461320) — $300 — Vendedor: Ricardo Beltrán
+- 2026-10-25 10:27 — [Drive Club PS4](https://www.facebook.com/marketplace/item/2489714314893629) — $300 — Vendedor: Chito Hernandez
 - 2026-10-15 20:46 — [JUEGOS PS4 PLAYSTATION 4](https://www.facebook.com/marketplace/item/1656820959286192) — $300 — Vendedor: Zaid Sebastián
 - 2026-09-29 14:17 — [Juegos ps4 $300c/u](https://www.facebook.com/marketplace/item/1566677207947233) — $300 — Vendedor: Dulce Palma
 - 2026-09-16 14:47 — [Juegos de Ps4](https://www.facebook.com/marketplace/item/1115552607623102) — $300 — Vendedor: Jesus M. Lopez
@@ -79,6 +85,7 @@ Total: 115 anuncios disponibles.
 - 2026-08-19 18:15 — [Juego play 4](https://www.facebook.com/marketplace/item/1032813219535030) — $300 — Vendedor: Tadeo Borq
 - 2026-08-18 16:09 — [FIFA 19 PARA PS4](https://www.facebook.com/marketplace/item/1884408475853425) — $300 — Vendedor: Fernando Quintero
 - 2026-07-27 13:48 — [Tales of arise ps4](https://www.facebook.com/marketplace/item/1315980677190672) — $300 — Vendedor: Luis Javier Valenzuela
+- 2026-07-27 13:37 — [Megaman battle network legacy collection ps4](https://www.facebook.com/marketplace/item/1049598010980912) — $300 — Vendedor: Luis Javier Valenzuela
 - 2026-07-26 04:19 — [Juego+ps4](https://www.facebook.com/marketplace/item/1750194595978021) — $300 — Vendedor: Luis Lopez
 - 2026-06-22 08:54 — [Juegos para playstation 4.. PS4](https://www.facebook.com/marketplace/item/1526029748929549) — $300 — Vendedor: Erik Ruben Avila Corrales
 - 2026-06-03 01:37 — [Juegos de ps4 se van en 300 cada uno](https://www.facebook.com/marketplace/item/2013444520047441) — $300 — Vendedor: Antonio Lopez
@@ -101,6 +108,7 @@ Total: 115 anuncios disponibles.
 - 2026-08-19 10:37 — [Juegos de ps4](https://www.facebook.com/marketplace/item/3184174201776468) — $400 — Vendedor: Efren Verdugo
 - 2026-05-05 16:15 — [Juegos de play 4](https://www.facebook.com/marketplace/item/854796064319250) — $400 — Vendedor: Maria Lopez
 - 2026-02-01 09:04 — [Juegos PS4 en caja](https://www.facebook.com/marketplace/item/1615722469471502) — $400 — Vendedor: Oswaldo Orduño
+- 2025-12-16 15:10 — [Lost judgement (tipo Yakuza) para Playstation 4](https://www.facebook.com/marketplace/item/1165194862351826) — $450 — Vendedor: Orlando Alfredo Souza
 - 2026-09-20 13:25 — [Juegos de ps4](https://www.facebook.com/marketplace/item/1530161702471381) — $500 — Vendedor: Diego Moreno
 - 2026-07-18 23:50 — [SPIDER-MAN PS4 Y RESIDENT EVIL BIOHAZRD PS4](https://www.facebook.com/marketplace/item/1035111252229342) — $500 — $500
 - 2026-07-14 23:50 — [REMATE JUEGOS BARATOS PS4](https://www.facebook.com/marketplace/item/2426244804455776) — $500 — Vendedor: Gael Rodríguez
@@ -117,6 +125,7 @@ Total: 115 anuncios disponibles.
 - 2026-08-24 21:59 — [Juegos de PS4](https://www.facebook.com/marketplace/item/1639279850969109) — $980 — Vendedor: Jorge Armenta Almeida
 - 2026-10-27 16:10 — [Juegos para play 4 $1000 por todos](https://www.facebook.com/marketplace/item/2031883150822589) — $1.000 — Vendedor: Brian Woodill
 - 2026-10-11 10:14 — [Juego ps4](https://www.facebook.com/marketplace/item/1135263235509527) — $1.111 — Vendedor: Axel González
+- 2026-03-23 14:48 — [JUEGOS PARA PS4 A BUEN PRECIO PRECIO INDIVIDUAL O LOTE COMPLETO](https://www.facebook.com/marketplace/item/904988649034330) — $1.234 — Vendedor: Saneli Daniel
 - 2026-01-01 14:37 — [Juegos de ps4](https://www.facebook.com/marketplace/item/2931379323734070) — $1.234 — Vendedor: Luis Daniel Miranda Cota
 - 2026-11-05 22:10 — [World of Final Fantasy Collector’s Edition PS4, sin juego](https://www.facebook.com/marketplace/item/1802655614843365) — $1.400 — Vendedor: Francisco Arturo
 - 2026-02-10 09:50 — [Juegos ps4](https://www.facebook.com/marketplace/item/3394160537415025) — $2.000 — Vendedor: Sebastian Souza
