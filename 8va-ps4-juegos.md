@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 111 anuncios disponibles.
+Total: 115 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -32,8 +32,10 @@ Total: 111 anuncios disponibles.
 - 2026-04-08 10:34 — [Juegos de play 4](https://www.facebook.com/marketplace/item/1262323248811994) — $1 — Vendedor: Arturo Ramirez
 - 2026-04-02 15:30 — [Juegos del Play Station 4](https://www.facebook.com/marketplace/item/1626813821886477) — $1 — Vendedor: Ivana Vlz
 - 2025-10-16 22:18 — [Juegos de ps4](https://www.facebook.com/marketplace/item/3844786499150571) — $1 — Vendedor: Dominguez Acel
+- 2026-02-16 23:29 — [Discos originales ps4, sin uso(solo detalles del estuche) precios en la descripción](https://www.facebook.com/marketplace/item/2138128480262018) — $3 — Vendedor: Angel Lara Yucupicio
 - 2026-01-08 17:44 — [juegos de Playstation 4](https://www.facebook.com/marketplace/item/4419488805038177) — $3 — Vendedor: Kaka Leite
 - 2026-07-06 17:17 — [Juego PS4 Song of the Deep](https://www.facebook.com/marketplace/item/1673473623934913) — $100 — Vendedor: Eleazar Iribe Valdes
+- 2026-08-12 20:08 — [Discos para pa4](https://www.facebook.com/marketplace/item/4142844812672649) — $111 — Vendedor: Ivan Lopez
 - 2026-06-02 21:26 — [Juegos de play 4](https://www.facebook.com/marketplace/item/1629546064812623) — $111 — Vendedor: Antonio Castro
 - 2026-10-18 20:45 — [Juegos para Play Station 4](https://www.facebook.com/marketplace/item/28625835430415067) — $123 — Vendedor: Diego Armando Chavarin Sr.
 - 2026-06-03 19:30 — [Juegos para Xbox y PS4](https://www.facebook.com/marketplace/item/2242412143179390) — $123 — Vendedor: Dani HR
@@ -85,6 +87,7 @@ Total: 111 anuncios disponibles.
 - 2026-04-01 15:30 — [Horizon PS4](https://www.facebook.com/marketplace/item/1651425345857746) — $300 — Vendedor: Fabiola Cabrera
 - 2026-02-12 20:36 — [Juego ps4](https://www.facebook.com/marketplace/item/900082602718621) — $300 — Vendedor: Jaqueline Urias
 - 2026-01-30 15:35 — [Juegos PS4 $](https://www.facebook.com/marketplace/item/1608569350276173) — $300 — Vendedor: Dosc Sc
+- 2026-07-27 15:32 — [Discos ps4](https://www.facebook.com/marketplace/item/2026368941582435) — $333 — Vendedor: Ivan Lopez
 - 2026-10-10 10:45 — [Spiderman Miles Morales PS4](https://www.facebook.com/marketplace/item/1918874599093253) — $350 — Vendedor: Bosthon R. Vázquez
 - 2026-09-15 09:26 — [Juego de play 4   CTR Crash Team Racing Nitro Fueled](https://www.facebook.com/marketplace/item/1392548875800951) — $350 — Vendedor: Alma Gonzalez
 - 2026-07-13 12:14 — [The Order: 1886 PS4 / Cambio o Venta. Leer descripcion...](https://www.facebook.com/marketplace/item/28040289068922053) — $350 — Vendedor: Jose Luis Bravo
@@ -102,6 +105,7 @@ Total: 111 anuncios disponibles.
 - 2026-07-18 23:50 — [SPIDER-MAN PS4 Y RESIDENT EVIL BIOHAZRD PS4](https://www.facebook.com/marketplace/item/1035111252229342) — $500 — $500
 - 2026-07-14 23:50 — [REMATE JUEGOS BARATOS PS4](https://www.facebook.com/marketplace/item/2426244804455776) — $500 — Vendedor: Gael Rodríguez
 - 2026-07-03 15:48 — [Juegos para ps4](https://www.facebook.com/marketplace/item/957064144047757) — $500 — Vendedor: Karen Mayen
+- 2026-05-04 22:10 — [Discos de ps4](https://www.facebook.com/marketplace/item/1683765699428451) — $500 — Vendedor: Alex Rome
 - 2026-04-08 18:52 — [Juegos Ps4](https://www.facebook.com/marketplace/item/26814115861582610) — $500 — Vendedor: Patricio Lopez
 - 2026-03-18 18:48 — [Ni no Kuni 2 Revenant Kibgdom PS4](https://www.facebook.com/marketplace/item/803071805628526) — $500 — Vendedor: Lizarraga Maria
 - 2025-12-15 20:23 — [Juegos PS4](https://www.facebook.com/marketplace/item/1391538265658447) — $500 — Vendedor: Georgina Heredia Rodriguez

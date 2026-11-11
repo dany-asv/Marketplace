@@ -71,8 +71,8 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](7ma-wii-juegos.md) — 5 anuncios
     - [Accesorios](7ma-wii-accesorios.md) — 6 anuncios
   - PlayStation 3 (PS3):
-    - [Consolas](7ma-ps3-consolas.md) — 9 anuncios
-    - [Juegos](7ma-ps3-juegos.md) — 10 anuncios
+    - [Consolas](7ma-ps3-consolas.md) — 8 anuncios
+    - [Juegos](7ma-ps3-juegos.md) — 11 anuncios
     - [Accesorios](7ma-ps3-accesorios.md) — 1 anuncios
   - Xbox 360:
     - [Consolas](7ma-xbox-360-consolas.md) — 5 anuncios
@@ -83,9 +83,9 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Consolas](8va-wii-u-consolas.md) — 2 anuncios
     - [Juegos](8va-wii-u-juegos.md) — 4 anuncios
   - PlayStation 4 (PS4):
-    - [Consolas](8va-ps4-consolas.md) — 112 anuncios
-    - [Juegos](8va-ps4-juegos.md) — 111 anuncios
-    - [Accesorios](8va-ps4-accesorios.md) — 23 anuncios
+    - [Consolas](8va-ps4-consolas.md) — 110 anuncios
+    - [Juegos](8va-ps4-juegos.md) — 115 anuncios
+    - [Accesorios](8va-ps4-accesorios.md) — 22 anuncios
   - Xbox One:
     - [Consolas](8va-xbox-one-consolas.md) — 18 anuncios
     - [Juegos](8va-xbox-one-juegos.md) — 1 anuncios
@@ -110,8 +110,8 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Consolas](10ma-nintendo-switch-2-consolas.md) — 17 anuncios
     - [Juegos](10ma-nintendo-switch-2-juegos.md) — 11 anuncios
 - Otros — Multiplataforma o sin plataforma clara:
-  - [Consolas](otros-consolas.md) — 129 anuncios
-  - [Juegos](otros-juegos.md) — 166 anuncios
+  - [Consolas](otros-consolas.md) — 126 anuncios
+  - [Juegos](otros-juegos.md) — 168 anuncios
   - [Accesorios](otros-accesorios.md) — 44 anuncios
 ## Disponibles (de más actual a más viejo)
 

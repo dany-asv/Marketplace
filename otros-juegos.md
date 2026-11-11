@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 166 anuncios disponibles.
+Total: 168 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -36,6 +36,7 @@ Total: 166 anuncios disponibles.
 - 2026-09-14 20:51 — [Juegos de pley 3](https://www.facebook.com/marketplace/item/1562580961713625) — $100 — Vendedor: Angel Sauceda
 - 2026-09-04 13:57 — [Juegos de video $100 c/u](https://www.facebook.com/marketplace/item/2490347631456861) — $100 — Vendedor: Dulce Palma
 - 2026-07-27 15:33 — [Caset para Nintendo DS y gameboy](https://www.facebook.com/marketplace/item/1963174394397831) — $100 — Vendedor: Ivan Lopez
+- 2026-06-26 16:55 — [Discos para para play station 3 y cassette para Game boy](https://www.facebook.com/marketplace/item/36489005200743834) — $100 — Vendedor: Juan Velazquez
 - 2026-04-20 09:07 — [Video juegos](https://www.facebook.com/marketplace/item/929714203165807) — $100 — Vendedor: Luiz Castro Quiñones
 - 2026-09-16 10:07 — [Juego Nintendo 3ds manual, juego de Xbox one y PS3](https://www.facebook.com/marketplace/item/1571863904394106) — $111 — Vendedor: José Miguel
 - 2026-09-09 16:03 — [Juego Mario](https://www.facebook.com/marketplace/item/1048291228029638) — $111 — Vendedor: Poka Luz
@@ -152,6 +153,7 @@ Total: 166 anuncios disponibles.
 - 2026-08-30 15:48 — [Juegos Nintendo](https://www.facebook.com/marketplace/item/923048830875391) — $1.200 — Vendedor: Angel Eden
 - 2026-04-16 20:19 — [Juegos Playstation 4 y Playstation 5 no Pokémon no Zelda](https://www.facebook.com/marketplace/item/969540405419287) — $1.200 — Vendedor: Orlando Alfredo Souza
 - 2026-05-10 21:17 — [Se venden juegos...](https://www.facebook.com/marketplace/item/1339795008037387) — $1.234 — Vendedor: Carlos Fierro
+- 2026-03-25 14:12 — [Discos para ps4 y ps5](https://www.facebook.com/marketplace/item/917200844543373) — $1.234 — Vendedor: Ramiro Flores
 - 2026-02-15 17:18 — [Juegos Wii y Wii U](https://www.facebook.com/marketplace/item/4062317350569297) — $1.234 — Vendedor: Janeth Lara Torres
 - 2026-02-03 13:17 — [Juegos Nintendo 3DS y DS](https://www.facebook.com/marketplace/item/2103133420511235) — $1.234 — Vendedor: Janeth Lara Torres
 - 2026-10-30 04:16 — [Se venden 3 juegos para play 4por $1300](https://www.facebook.com/marketplace/item/2739396749825358) — $1.300 — Vendedor: José Santos

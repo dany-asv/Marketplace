@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 112 anuncios disponibles.
+Total: 110 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -25,9 +25,7 @@ Total: 112 anuncios disponibles.
 - 2026-10-25 13:36 — [Read Dead Redeption 2 PS4 ✅🕹️](https://www.facebook.com/marketplace/item/1455937176461320) — $300 — Vendedor: Ricardo Beltrán
 - 2026-10-25 10:27 — [Drive Club PS4](https://www.facebook.com/marketplace/item/2489714314893629) — $300 — Vendedor: Chito Hernandez
 - 2026-07-27 13:37 — [Megaman battle network legacy collection ps4](https://www.facebook.com/marketplace/item/1049598010980912) — $300 — Vendedor: Luis Javier Valenzuela
-- 2026-07-27 15:32 — [Discos ps4](https://www.facebook.com/marketplace/item/2026368941582435) — $333 — Vendedor: Ivan Lopez
 - 2025-12-16 15:10 — [Lost judgement (tipo Yakuza) para Playstation 4](https://www.facebook.com/marketplace/item/1165194862351826) — $450 — Vendedor: Orlando Alfredo Souza
-- 2026-05-04 22:10 — [Discos de ps4](https://www.facebook.com/marketplace/item/1683765699428451) — $500 — Vendedor: Alex Rome
 - 2025-12-08 01:14 — [Video para ps4](https://www.facebook.com/marketplace/item/1425794382295880) — $950 — Vendedor: Alonso Vlz
 - 2026-03-23 14:48 — [JUEGOS PARA PS4 A BUEN PRECIO PRECIO INDIVIDUAL O LOTE COMPLETO](https://www.facebook.com/marketplace/item/904988649034330) — $1.234 — Vendedor: Saneli Daniel
 - 2026-11-08 12:04 — [Ps4](https://www.facebook.com/marketplace/item/1167132786270740) — $1.500 — Vendedor: Luis Rey

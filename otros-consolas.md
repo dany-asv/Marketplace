@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 129 anuncios disponibles.
+Total: 126 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -47,8 +47,6 @@ Total: 129 anuncios disponibles.
 - 2025-11-29 10:59 — [Vendo o cambio por algo mejor ofrezcan por lo que sea](https://www.facebook.com/marketplace/item/833801036171724) — $7 — Vendedor: Lupita Felix
 - 2026-09-12 11:29 — [Videojuegos ya sea para colección o jugarlos en su consola](https://www.facebook.com/marketplace/item/858561213908353) — $50 — Vendedor: Jesus Ferrer
 - 2026-11-06 12:33 — [Nintendo Sup Doble control](https://www.facebook.com/marketplace/item/2124308205638398) — $80 — Vendedor: Daniel Sanchez
-- 2026-06-26 16:55 — [Discos para para play station 3 y cassette para Game boy](https://www.facebook.com/marketplace/item/36489005200743834) — $100 — Vendedor: Juan Velazquez
-- 2026-08-12 20:08 — [Discos para pa4](https://www.facebook.com/marketplace/item/4142844812672649) — $111 — Vendedor: Ivan Lopez
 - 2026-09-04 23:07 — [Asaasins credd orings](https://www.facebook.com/marketplace/item/1630370878684729) — $200 — Vendedor: Ivan Aguero
 - 2026-07-14 16:12 — [Short Deportivos](https://www.facebook.com/marketplace/item/27204616672554931) — $200 — Vendedor: Manuel Ed
 - 2025-12-23 11:47 — [- HUMAN FALL FLAT](https://www.facebook.com/marketplace/item/1412438200297784) — $200 — Vendedor: Víctor Iván Araujo
@@ -92,7 +90,6 @@ Total: 129 anuncios disponibles.
 - 2026-11-04 12:56 — [venta](https://www.facebook.com/marketplace/item/1151352550678434) — $1.100 — Vendedor: Roy Roger
 - 2026-03-31 15:53 — [Nitendo 64 completo](https://www.facebook.com/marketplace/item/3131399780382611) — $1.199 — Vendedor: Juan Velazquez
 - 2026-10-17 23:25 — [Teclado Gaming 75%, Mause AOC y Atack Shark L60(Incluye el Mausepad)](https://www.facebook.com/marketplace/item/2442549629864107) — $1.200 — Vendedor: Sebastian C. Falomir
-- 2026-03-25 14:12 — [Discos para ps4 y ps5](https://www.facebook.com/marketplace/item/917200844543373) — $1.234 — Vendedor: Ramiro Flores
 - 2026-10-16 11:14 — [Televisor pantalla plana Sony Triniton](https://www.facebook.com/marketplace/item/1617412973211754) — $1.240 — Vendedor: Angel Alberto Quijada Soto
 - 2026-04-18 21:27 — [Play Station](https://www.facebook.com/marketplace/item/1522281949427159) — $1.300 — Vendedor: Aremi Valdez
 - 2026-11-07 04:55 — [Nintendo 64 o cambio por Nintendo NES](https://www.facebook.com/marketplace/item/1151707693869630) — $1.500 — Vendedor: Chito Hernandez
