@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 240 anuncios disponibles.
+Total: 241 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -53,6 +53,7 @@ Total: 240 anuncios disponibles.
 - 2026-10-07 18:07 — [Juegos switch solo son el cartucho sin caja en 350$ cada uno](https://www.facebook.com/marketplace/item/1102496795855387) — $350 — Vendedor: Antonio Lopez
 - 2026-06-29 22:45 — [Juegos Nintendo switch sin caja en 350 cada uno](https://www.facebook.com/marketplace/item/1331141795266315) — $350 — Vendedor: Antonio Lopez
 - 2026-03-25 20:47 — [Mortal kombat switch](https://www.facebook.com/marketplace/item/1454866936340286) — $350 — Vendedor: Marco Antonio
+- 2026-11-07 11:54 — [Minecratf  juego para nintendo switch](https://www.facebook.com/marketplace/item/1446909470212087) — $400 — Vendedor: Axel Luna
 - 2026-11-05 14:04 — [🔥 **¡VIDEOJUEGOS PARA NINTENDO SWITCH EN VENTA!** 🔥](https://www.facebook.com/marketplace/item/1792197435384234) — $400 — Vendedor: Yahir Lerma
 - 2026-10-26 09:30 — [Minecratf juego para nintendo switch](https://www.facebook.com/marketplace/item/3011381202536563) — $400 — Vendedor: Jose Castr
 - 2026-10-26 07:57 — [Minecratf  juego para nintendo switch](https://www.facebook.com/marketplace/item/1096121753226088) — $400 — Vendedor: Jose Cass

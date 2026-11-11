@@ -6,7 +6,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
 
-Total: 858 vendedores, 1409 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
+Total: 859 vendedores, 1412 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
 
 ## Vendedores (de mayor a menor número de publicaciones)
 
@@ -36,6 +36,7 @@ Total: 858 vendedores, 1409 anuncios con vendedor identificado (3 anuncios de la
 - [Luis Javier Valenzuela](https://www.facebook.com/marketplace/profile/1278595199) — 6 publicaciones
 - [Orlando Alfredo Souza](https://www.facebook.com/marketplace/profile/620991199) — 6 publicaciones ✓
 - [Abimael Lopez](https://www.facebook.com/marketplace/profile/61582526799462) — 5 publicaciones
+- [Axel Luna](https://www.facebook.com/marketplace/profile/100041876418121) — 5 publicaciones
 - [Chito Hernandez](https://www.facebook.com/marketplace/profile/61573311437329) — 5 publicaciones ✓
 - [Dulce Palma](https://www.facebook.com/marketplace/profile/100002860850347) — 5 publicaciones
 - [Ele Gand](https://www.facebook.com/marketplace/profile/61593540557785) — 5 publicaciones
@@ -51,7 +52,6 @@ Total: 858 vendedores, 1409 anuncios con vendedor identificado (3 anuncios de la
 - [Alma Valdez](https://www.facebook.com/marketplace/profile/100000462968670) — 4 publicaciones
 - [Andrea Lopez](https://www.facebook.com/marketplace/profile/61553485727563) — 4 publicaciones
 - [Antonio Rodriguez](https://www.facebook.com/marketplace/profile/61581509220352) — 4 publicaciones
-- [Axel Luna](https://www.facebook.com/marketplace/profile/100041876418121) — 4 publicaciones
 - [Carlos Orduño](https://www.facebook.com/marketplace/profile/100005645436364) — 4 publicaciones
 - [Cinthya Olguin](https://www.facebook.com/marketplace/profile/100014333196532) — 4 publicaciones
 - [Jesus Cota](https://www.facebook.com/marketplace/profile/100001071364797) — 4 publicaciones
@@ -151,6 +151,7 @@ Total: 858 vendedores, 1409 anuncios con vendedor identificado (3 anuncios de la
 - [Jasiel Andrés Ruiz Ocampo](https://www.facebook.com/marketplace/profile/100085254884850) — 2 publicaciones
 - [Javier Solano Limon](https://www.facebook.com/marketplace/profile/100001463067303) — 2 publicaciones
 - [Jesus VC](https://www.facebook.com/marketplace/profile/100020936439592) — 2 publicaciones
+- [Jonh Lopez](https://www.facebook.com/marketplace/profile/61584315791962) — 2 publicaciones
 - [Jorge A Armenta Payan](https://www.facebook.com/marketplace/profile/100003813694311) — 2 publicaciones
 - [Jorge Armenta Almeida](https://www.facebook.com/marketplace/profile/574126795) — 2 publicaciones
 - [Jorge Trs](https://www.facebook.com/marketplace/profile/61579734809251) — 2 publicaciones
@@ -558,7 +559,6 @@ Total: 858 vendedores, 1409 anuncios con vendedor identificado (3 anuncios de la
 - [JL GC](https://www.facebook.com/marketplace/profile/100009209022851) — 1 publicaciones
 - [Joaquin L Beltran](https://www.facebook.com/marketplace/profile/100007023091753) — 1 publicaciones
 - [Jona Lopez](https://www.facebook.com/marketplace/profile/61555587823190) — 1 publicaciones
-- [Jonh Lopez](https://www.facebook.com/marketplace/profile/61584315791962) — 1 publicaciones
 - [Jorge Huerta](https://www.facebook.com/marketplace/profile/100065018015188) — 1 publicaciones
 - [Jorge Kevin Contreras](https://www.facebook.com/marketplace/profile/100049545274502) — 1 publicaciones
 - [Jorge Lopez](https://www.facebook.com/marketplace/profile/61584222146714) — 1 publicaciones
@@ -660,6 +660,7 @@ Total: 858 vendedores, 1409 anuncios con vendedor identificado (3 anuncios de la
 - [Luis Medina](https://www.facebook.com/marketplace/profile/100092252651289) — 1 publicaciones
 - [Luis Novoa](https://www.facebook.com/marketplace/profile/61589481477855) — 1 publicaciones
 - [Luis Peraza](https://www.facebook.com/marketplace/profile/100004306683662) — 1 publicaciones
+- [Luis Quintero Villegas](https://www.facebook.com/marketplace/profile/100052174953512) — 1 publicaciones
 - [Luis Ramon Robles Lugo](https://www.facebook.com/marketplace/profile/61560439958012) — 1 publicaciones
 - [Luis Ricardo](https://www.facebook.com/marketplace/profile/61582805368129) — 1 publicaciones
 - [Luis Ricardo Peraza](https://www.facebook.com/marketplace/profile/631039718) — 1 publicaciones
