@@ -6,7 +6,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
 
-Total: 855 vendedores, 1406 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
+Total: 858 vendedores, 1409 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
 
 ## Vendedores (de mayor a menor número de publicaciones)
 
@@ -420,6 +420,7 @@ Total: 855 vendedores, 1406 anuncios con vendedor identificado (3 anuncios de la
 - [Empeña Facil Canteras](https://www.facebook.com/marketplace/profile/100077917194992) — 1 publicaciones
 - [Empeña Facil Jiquilpan](https://www.facebook.com/marketplace/profile/61586654635984) — 1 publicaciones
 - [Enrique Garcia](https://www.facebook.com/marketplace/profile/100005902480360) — 1 publicaciones
+- [Enrique Padilla](https://www.facebook.com/marketplace/profile/631743058) — 1 publicaciones
 - [Erick Alberto Lugo Lizarraga](https://www.facebook.com/marketplace/profile/100043091613938) — 1 publicaciones
 - [Erick CE](https://www.facebook.com/marketplace/profile/100018487663797) — 1 publicaciones
 - [Erik Ruben Avila Corrales](https://www.facebook.com/marketplace/profile/100000598736226) — 1 publicaciones
@@ -803,6 +804,7 @@ Total: 855 vendedores, 1406 anuncios con vendedor identificado (3 anuncios de la
 - [Santiago Ruiz](https://www.facebook.com/marketplace/profile/100006273992419) — 1 publicaciones
 - [Saul Felix](https://www.facebook.com/marketplace/profile/100087794400507) — 1 publicaciones
 - [Saul Romanviggo](https://www.facebook.com/marketplace/profile/100092834417781) — 1 publicaciones
+- [Saul Sandoval](https://www.facebook.com/marketplace/profile/100002207614834) — 1 publicaciones
 - [Saúl Plata](https://www.facebook.com/marketplace/profile/100002324416812) — 1 publicaciones
 - [Sebastian C. Falomir](https://www.facebook.com/marketplace/profile/100042969694032) — 1 publicaciones
 - [Sebastian Cf](https://www.facebook.com/marketplace/profile/100035705948426) — 1 publicaciones
@@ -846,6 +848,7 @@ Total: 855 vendedores, 1406 anuncios con vendedor identificado (3 anuncios de la
 - [Víctor Iván Araujo](https://www.facebook.com/marketplace/profile/100000073051291) — 1 publicaciones
 - [Walker Galaviz](https://www.facebook.com/marketplace/profile/100070540881493) — 1 publicaciones
 - [Wonk Walker](https://www.facebook.com/marketplace/profile/61592531082669) — 1 publicaciones
+- [Xhavi Manzanarez](https://www.facebook.com/marketplace/profile/100007264414367) — 1 publicaciones
 - [Ya Manciillass](https://www.facebook.com/marketplace/profile/1047668093) — 1 publicaciones
 - [Yamil Aceves](https://www.facebook.com/marketplace/profile/100001427235068) — 1 publicaciones
 - [Yamileth Espinoza](https://www.facebook.com/marketplace/profile/100093717952860) — 1 publicaciones

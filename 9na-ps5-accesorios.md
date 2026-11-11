@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 5 anuncios disponibles.
+Total: 6 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -15,3 +15,4 @@ Total: 5 anuncios disponibles.
 - 2026-11-10 15:19 — [Control ps5 nuevo](https://www.facebook.com/marketplace/item/29338801355740917) — $900 — Vendedor: Carlos Orduño
 - 2026-10-19 18:38 — [Control para ps5 ¡Ambos joysticks magnéticos TMR con garantía de 5 meses! Imposible que les de drift](https://www.facebook.com/marketplace/item/1113047377756266) — $1.199 — Vendedor: Charo Buelna
 - 2026-11-07 23:45 — [Controles para ps5](https://www.facebook.com/marketplace/item/3245567702303816) — $3.400 — Vendedor: Carlos Orduño
+- 2026-10-15 10:41 — [Volante y pedales PS5](https://www.facebook.com/marketplace/item/1708317240624776) — $4.500 — Vendedor: Saul Sandoval
