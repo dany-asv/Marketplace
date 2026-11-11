@@ -38,8 +38,8 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Accesorios](portatiles-nintendo-3ds-accesorios.md) — 1 anuncios
 - 1ra, 2da y 3ra generación:
   - Nintendo Entertainment System (NES):
-    - [Consolas](3ra-nes-consolas.md) — 3 anuncios
-    - [Juegos](3ra-nes-juegos.md) — 2 anuncios
+    - [Consolas](3ra-nes-consolas.md) — 4 anuncios
+    - [Juegos](3ra-nes-juegos.md) — 1 anuncios
     - [Accesorios](3ra-nes-accesorios.md) — 1 anuncios
 - 4ta generación:
   - Super Nintendo (SNES):
