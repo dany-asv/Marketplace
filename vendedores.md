@@ -6,7 +6,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
 
-Total: 859 vendedores, 1412 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
+Total: 863 vendedores, 1416 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
 
 ## Vendedores (de mayor a menor número de publicaciones)
 
@@ -228,6 +228,7 @@ Total: 859 vendedores, 1412 anuncios con vendedor identificado (3 anuncios de la
 - [Adilene Dimas Rodriguez](https://www.facebook.com/marketplace/profile/1258000831) — 1 publicaciones
 - [Adrian Meraz](https://www.facebook.com/marketplace/profile/61590741239771) — 1 publicaciones
 - [Adriel D. Aguirre Lopez](https://www.facebook.com/marketplace/profile/100002957881045) — 1 publicaciones
+- [Adriel Roiz](https://www.facebook.com/marketplace/profile/810238134) — 1 publicaciones
 - [Agustin Jaime Izaguirre Valdez](https://www.facebook.com/marketplace/profile/100005685423658) — 1 publicaciones
 - [Akeem Espinoza](https://www.facebook.com/marketplace/profile/100001059458937) — 1 publicaciones ✓
 - [Alan Figueroa](https://www.facebook.com/marketplace/profile/100032041957889) — 1 publicaciones
@@ -418,6 +419,7 @@ Total: 859 vendedores, 1412 anuncios con vendedor identificado (3 anuncios de la
 - [Emiliano Rico](https://www.facebook.com/marketplace/profile/61568567006459) — 1 publicaciones
 - [Emisel Hoo](https://www.facebook.com/marketplace/profile/100005127664639) — 1 publicaciones
 - [Emmanuel Figueroa](https://www.facebook.com/marketplace/profile/100004352854296) — 1 publicaciones
+- [Emmanuel Vega](https://www.facebook.com/marketplace/profile/100010273540818) — 1 publicaciones
 - [Empeña Facil Canteras](https://www.facebook.com/marketplace/profile/100077917194992) — 1 publicaciones
 - [Empeña Facil Jiquilpan](https://www.facebook.com/marketplace/profile/61586654635984) — 1 publicaciones
 - [Enrique Garcia](https://www.facebook.com/marketplace/profile/100005902480360) — 1 publicaciones
@@ -576,6 +578,7 @@ Total: 859 vendedores, 1412 anuncios con vendedor identificado (3 anuncios de la
 - [Jose Garcia](https://www.facebook.com/marketplace/profile/100002491338692) — 1 publicaciones
 - [Jose Garrido Espinoza](https://www.facebook.com/marketplace/profile/100094239146260) — 1 publicaciones
 - [Jose Luis Luna](https://www.facebook.com/marketplace/profile/1218477957) — 1 publicaciones
+- [Jose Nava](https://www.facebook.com/marketplace/profile/100011080872316) — 1 publicaciones
 - [Jose Nose](https://www.facebook.com/marketplace/profile/61593459086933) — 1 publicaciones
 - [Jose Parra](https://www.facebook.com/marketplace/profile/100016548394068) — 1 publicaciones
 - [Jose Perez](https://www.facebook.com/marketplace/profile/100001225317536) — 1 publicaciones
@@ -653,6 +656,7 @@ Total: 859 vendedores, 1412 anuncios con vendedor identificado (3 anuncios de la
 - [Luis Daniel Miranda Cota](https://www.facebook.com/marketplace/profile/100002935972721) — 1 publicaciones
 - [Luis Eduardo](https://www.facebook.com/marketplace/profile/1081463677) — 1 publicaciones
 - [Luis Emiliano](https://www.facebook.com/marketplace/profile/61592278661895) — 1 publicaciones
+- [Luis Guerrero](https://www.facebook.com/marketplace/profile/61564257257429) — 1 publicaciones
 - [Luis Lopez](https://www.facebook.com/marketplace/profile/61561484685703) — 1 publicaciones
 - [Luis Lopez](https://www.facebook.com/marketplace/profile/100045811205510) — 1 publicaciones
 - [Luis Luis](https://www.facebook.com/marketplace/profile/100055382745212) — 1 publicaciones
