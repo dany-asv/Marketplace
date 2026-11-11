@@ -80,7 +80,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Accesorios](7ma-xbox-360-accesorios.md) — 1 anuncios
 - 8va generación:
   - Wii U:
-    - [Consolas](8va-wii-u-consolas.md) — 2 anuncios
+    - [Consolas](8va-wii-u-consolas.md) — 3 anuncios
     - [Juegos](8va-wii-u-juegos.md) — 4 anuncios
   - PlayStation 4 (PS4):
     - [Consolas](8va-ps4-consolas.md) — 110 anuncios
@@ -96,7 +96,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
       - [OLED](9na-nintendo-switch-oled-consolas.md) — 110 anuncios
       - [Lite](9na-nintendo-switch-lite-consolas.md) — 26 anuncios
       - [Normal](9na-nintendo-switch-normal-consolas.md) — 131 anuncios
-    - [Juegos](9na-nintendo-switch-juegos.md) — 246 anuncios
+    - [Juegos](9na-nintendo-switch-juegos.md) — 245 anuncios
     - [Accesorios](9na-nintendo-switch-accesorios.md) — 63 anuncios
   - PlayStation 5 (PS5):
     - [Consolas](9na-ps5-consolas.md) — 7 anuncios
