@@ -95,8 +95,8 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - Consolas:
       - [OLED](9na-nintendo-switch-oled-consolas.md) — 110 anuncios
       - [Lite](9na-nintendo-switch-lite-consolas.md) — 26 anuncios
-      - [Normal](9na-nintendo-switch-normal-consolas.md) — 132 anuncios
-    - [Juegos](9na-nintendo-switch-juegos.md) — 245 anuncios
+      - [Normal](9na-nintendo-switch-normal-consolas.md) — 131 anuncios
+    - [Juegos](9na-nintendo-switch-juegos.md) — 246 anuncios
     - [Accesorios](9na-nintendo-switch-accesorios.md) — 63 anuncios
   - PlayStation 5 (PS5):
     - [Consolas](9na-ps5-consolas.md) — 7 anuncios
