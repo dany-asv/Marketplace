@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1388 anuncios disponibles.
+Total: 1389 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -95,7 +95,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
       - [Lite](9na-nintendo-switch-lite-consolas.md) — 26 anuncios
       - [Normal](9na-nintendo-switch-normal-consolas.md) — 131 anuncios
     - [Juegos](9na-nintendo-switch-juegos.md) — 240 anuncios
-    - [Accesorios](9na-nintendo-switch-accesorios.md) — 61 anuncios
+    - [Accesorios](9na-nintendo-switch-accesorios.md) — 62 anuncios
   - PlayStation 5 (PS5):
     - [Consolas](9na-ps5-consolas.md) — 6 anuncios
     - [Juegos](9na-ps5-juegos.md) — 11 anuncios
@@ -380,6 +380,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-10-24 20:27 — [Playstation 4](https://www.facebook.com/marketplace/item/1780042829963759) — GRATIS — Usado - Como nuevo — Los Mochis — Vendedor: Allan Torres
 - 2026-10-24 14:42 — [NINTENDO SWITCH OLED](https://www.facebook.com/marketplace/item/1410757697896111) — $7.500 — Usado - Como nuevo — Los Mochis — Vendedor: Carlos Tabarez
 - 2026-10-24 13:25 — [Control de videojuegos compatible con Nintendo switch y computadora](https://www.facebook.com/marketplace/item/1049255571505794) — $300 — Usado - Buen estado — Los Mochis — Vendedor: Alan S. C. Sanchez
+- 2026-10-24 13:00 — [Nintendo switch Kirby goma palanca](https://www.facebook.com/marketplace/item/1665644361625108) — $60 — Nuevo — Los Mochis — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-10-24 11:39 — [Caset para Nintendo 64 barato](https://www.facebook.com/marketplace/item/1106057965644361) — $333 — Usado - Buen estado — Los Mochis — Vendedor: Chappy Chappy
 - 2026-10-24 10:56 — [Juegos de Nintendo 64 originales $350 c/u](https://www.facebook.com/marketplace/item/1100684352730381) — $350 — Usado - Aceptable — Los Mochis — Vendedor: Jano Sarabia
 - 2026-10-23 21:57 — [3 Juegos para nintendo switch en sus cajas los tres x $900 o 400 c/u](https://www.facebook.com/marketplace/item/28753549204313379) — $400 — Usado - Como nuevo — Los Mochis — Vendedor: Miguel A-c

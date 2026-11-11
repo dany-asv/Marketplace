@@ -6,13 +6,14 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 61 anuncios disponibles.
+Total: 62 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
 - 2026-02-23 13:37 — [Control para Switch](https://www.facebook.com/marketplace/item/1130578819101816) — GRATIS — Vendedor: Maria Herrera
 - 2026-04-05 15:37 — [Se vende Dock de nintendo Switch OLED y Mario Party superstars](https://www.facebook.com/marketplace/item/2696903357354176) — $1 — Vendedor: Carla Lopez
 - 2026-07-08 21:40 — [Accesorios para Nintendo switch](https://www.facebook.com/marketplace/item/1344661641154844) — $9 — Vendedor: Alma Valdez
+- 2026-10-24 13:00 — [Nintendo switch Kirby goma palanca](https://www.facebook.com/marketplace/item/1665644361625108) — $60 — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-10-26 09:31 — [Accesorios para nintendo swich](https://www.facebook.com/marketplace/item/1441577298107304) — $111 — Vendedor: Ivan Lopez
 - 2026-08-05 17:59 — [Dock blanco para nintendo switch](https://www.facebook.com/marketplace/item/1443267880945157) — $111 — Vendedor: Chappy Chappy
 - 2026-07-27 15:36 — [Accesorios para cargar Nintendo switch](https://www.facebook.com/marketplace/item/1049915067433242) — $111 — Vendedor: Ivan Lopez
