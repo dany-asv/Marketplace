@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1389 anuncios disponibles.
+Total: 1390 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -55,7 +55,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 6ta generación:
   - GameCube:
     - [Consolas](6ta-gamecube-consolas.md) — 2 anuncios
-    - [Juegos](6ta-gamecube-juegos.md) — 3 anuncios
+    - [Juegos](6ta-gamecube-juegos.md) — 4 anuncios
     - [Accesorios](6ta-gamecube-accesorios.md) — 3 anuncios
   - Dreamcast:
     - [Accesorios](6ta-dreamcast-accesorios.md) — 2 anuncios
@@ -161,6 +161,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-09 10:33 — [Pokemon rojo](https://www.facebook.com/marketplace/item/1440300110943806) — $800 — Usado - Buen estado — Los Mochis — Vendedor: Pf Clothin
 - 2026-11-09 10:32 — [Gameboy advance sp](https://www.facebook.com/marketplace/item/1126898040308032) — $700 — Usado - Buen estado — Los Mochis — Vendedor: Pf Clothin
 - 2026-11-09 10:14 — [Mario Party 4 gamecube](https://www.facebook.com/marketplace/item/1646235227092029) — $850 — Usado - Como nuevo — Los Mochis — Vendedor: Sebastián Nozato
+- 2026-11-09 10:11 — [Mario Kart Gamecube](https://www.facebook.com/marketplace/item/1634985751436927) — $900 — Usado - Como nuevo — Los Mochis — Vendedor: Sebastián Nozato
 - 2026-11-09 08:35 — [Videojuegos de PS5 y PS4](https://www.facebook.com/marketplace/item/1024110227346826) — $1.000 — Usado — Los Mochis — Vendedor: Sebastián Valdez
 - 2026-11-09 02:29 — [MAGIA NINTENDO SWITCH](https://www.facebook.com/marketplace/item/2318890275540145) — $1.000 — Nuevo — Los Mochis — Vendedor: Videorama Electrónica
 - 2026-11-08 21:30 — [Fc24 ps5 nuevo](https://www.facebook.com/marketplace/item/1064257223332785) — $500 — Nuevo — Los Mochis — Vendedor: Jose Nose

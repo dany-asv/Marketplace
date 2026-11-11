@@ -6,7 +6,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
 
-Total: 843 vendedores, 1386 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
+Total: 843 vendedores, 1387 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
 
 ## Vendedores (de mayor a menor número de publicaciones)
 
@@ -93,6 +93,7 @@ Total: 843 vendedores, 1386 anuncios con vendedor identificado (3 anuncios de la
 - [Miguel Vinsmoke](https://www.facebook.com/marketplace/profile/100048029201959) — 3 publicaciones
 - [Pablo Orrantia Soto](https://www.facebook.com/marketplace/profile/61587083582823) — 3 publicaciones
 - [Persival Carlos Aguilar Mondragon](https://www.facebook.com/marketplace/profile/61561150063723) — 3 publicaciones
+- [Sebastián Nozato](https://www.facebook.com/marketplace/profile/526183942) — 3 publicaciones ✓
 - [Tadeo Borq](https://www.facebook.com/marketplace/profile/61565758652844) — 3 publicaciones
 - [Teo Teodorovich](https://www.facebook.com/marketplace/profile/100018891193780) — 3 publicaciones
 - [Abel Galindo](https://www.facebook.com/marketplace/profile/61579144591707) — 2 publicaciones
@@ -196,7 +197,6 @@ Total: 843 vendedores, 1386 anuncios con vendedor identificado (3 anuncios de la
 - [Rodrigo Camacho Montes](https://www.facebook.com/marketplace/profile/61563736384493) — 2 publicaciones
 - [Rosa Cota](https://www.facebook.com/marketplace/profile/100020249146155) — 2 publicaciones
 - [Saneli Daniel](https://www.facebook.com/marketplace/profile/100000106531345) — 2 publicaciones
-- [Sebastián Nozato](https://www.facebook.com/marketplace/profile/526183942) — 2 publicaciones ✓
 - [Serrano Guadalupe](https://www.facebook.com/marketplace/profile/100014233456048) — 2 publicaciones
 - [Silver Slv](https://www.facebook.com/marketplace/profile/61590257034447) — 2 publicaciones
 - [Sylveon Evie Camila Valdez](https://www.facebook.com/marketplace/profile/100059021015073) — 2 publicaciones
