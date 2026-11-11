@@ -6,7 +6,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
 
-Total: 868 vendedores, 1427 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
+Total: 868 vendedores, 1428 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
 
 ## Vendedores (de mayor a menor número de publicaciones)
 
@@ -64,6 +64,7 @@ Total: 868 vendedores, 1427 anuncios con vendedor identificado (3 anuncios de la
 - [Semilla Césped Bermuda Pasto](https://www.facebook.com/marketplace/profile/100041839343590) — 4 publicaciones
 - [Sergio Castro Félix](https://www.facebook.com/marketplace/profile/100055020152693) — 4 publicaciones ✓
 - [Aldo Ceballos Cubedo](https://www.facebook.com/marketplace/profile/100049672665133) — 3 publicaciones
+- [Alejandra Mochis](https://www.facebook.com/marketplace/profile/100033516701492) — 3 publicaciones
 - [Apodaca Karla Marisol](https://www.facebook.com/marketplace/profile/100002019103527) — 3 publicaciones
 - [Brian Woodill](https://www.facebook.com/marketplace/profile/100004451856781) — 3 publicaciones ✓
 - [Carlos Moreno Lopez](https://www.facebook.com/marketplace/profile/534189741) — 3 publicaciones
@@ -101,7 +102,6 @@ Total: 868 vendedores, 1427 anuncios con vendedor identificado (3 anuncios de la
 - [Abraham Peralta Sr.](https://www.facebook.com/marketplace/profile/61576342450778) — 2 publicaciones
 - [Adrian K-ztro](https://www.facebook.com/marketplace/profile/657367464) — 2 publicaciones
 - [Alan Roberto Quiroz](https://www.facebook.com/marketplace/profile/100061435865269) — 2 publicaciones
-- [Alejandra Mochis](https://www.facebook.com/marketplace/profile/100033516701492) — 2 publicaciones
 - [Alejo Lopez](https://www.facebook.com/marketplace/profile/61555832970129) — 2 publicaciones
 - [Alex Rome](https://www.facebook.com/marketplace/profile/61570699708178) — 2 publicaciones
 - [Alexia Ruiz](https://www.facebook.com/marketplace/profile/100012642423827) — 2 publicaciones

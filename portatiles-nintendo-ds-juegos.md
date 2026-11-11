@@ -18,4 +18,4 @@ Total: 9 anuncios disponibles.
 - 2026-06-22 13:01 — [Juegos Nintendo DS](https://www.facebook.com/marketplace/item/989694183966835) — $200 — $200 — Vendedor: Lizeth Manzanarez
 - 2026-08-12 09:49 — [Lote de juegos ds](https://www.facebook.com/marketplace/item/1027987413200261) — $400 — $400 — Vendedor: Rafael Aguilar
 - 2026-10-06 18:29 — [Super Mario 64 DS (CIB) + Sonic Advance (Suelto) + Bigfoot Collision Course (Suelto)](https://www.facebook.com/marketplace/item/28994781020210216) — $699 — $699 — Vendedor: Everardo Padilla
-- 2026-11-08 18:33 — [Videojuegos nintendo DS](https://www.facebook.com/marketplace/item/1566187171938048) — $1.200 — $1.200 — Vendedor: Alejandra Mochis
+- 2026-11-08 18:33 — [Videojuegos nintendo DS](https://www.facebook.com/marketplace/item/1566187171938048) — $1.200 — Vendedor: Alejandra Mochis

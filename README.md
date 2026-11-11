@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1430 anuncios disponibles.
+Total: 1431 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -54,7 +54,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Consolas](5ta-ps1-consolas.md) — 4 anuncios
 - 6ta generación:
   - GameCube:
-    - [Consolas](6ta-gamecube-consolas.md) — 2 anuncios
+    - [Consolas](6ta-gamecube-consolas.md) — 3 anuncios
     - [Juegos](6ta-gamecube-juegos.md) — 4 anuncios
     - [Accesorios](6ta-gamecube-accesorios.md) — 3 anuncios
   - Dreamcast:
@@ -122,6 +122,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-11 13:48 — [Mini Consola Retro con 620 Juegos](https://www.facebook.com/marketplace/item/1483161533725482) — $250 — Nuevo — Los Mochis — Vendedor: Ana Sofía
 - 2026-11-11 12:26 — [DualSense Camuflaje Original PS5 + Funda Rígida Magnética](https://www.facebook.com/marketplace/item/1342161464594247) — $1.050 — Nuevo — Los Mochis — Vendedor: Plays Hacks
 - 2026-11-11 12:15 — [Cámara ps5 HD](https://www.facebook.com/marketplace/item/1089167804163636) — $1.500 — Usado - Como nuevo — Los Mochis — Vendedor: Adriel Roiz
+- 2026-11-11 12:10 — [Nintendo](https://www.facebook.com/marketplace/item/3199522023772255) — $2.300 — Usado - Aceptable — Los Mochis — Vendedor: Alejandra Mochis
 - 2026-11-11 10:49 — [Vendo Nintendo Switch (detalles por uso)](https://www.facebook.com/marketplace/item/1595279695620271) — $2.800 — Usado - Buen estado — Los Mochis — Vendedor: Luis Quintero Villegas
 - 2026-11-11 09:44 — [Xbox one fat solo le falta la tapa](https://www.facebook.com/marketplace/item/1591358789677713) — $1.400 — Usado - Aceptable — Los Mochis — Vendedor: Juan Flores
 - 2026-11-11 08:46 — [Juegos Nintendo 64 originales $200 c/u](https://www.facebook.com/marketplace/item/4154199678203621) — $200 — Usado - Aceptable — Los Mochis — Vendedor: Jano Sarabia
