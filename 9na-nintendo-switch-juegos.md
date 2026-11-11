@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de más actual a más viejo según la fecha y hora de publicación (hora de Los Mochis).
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 239 anuncios disponibles.
+Total: 240 anuncios disponibles.
 
 ## Disponibles (de más actual a más viejo)
 
@@ -14,6 +14,7 @@ Total: 239 anuncios disponibles.
 - 2026-11-09 22:02 — [Pokémon sword](https://www.facebook.com/marketplace/item/2583687232099404) — Vendedor: Alejandro Cital Garcia
 - 2026-11-09 11:38 — [Juegos nintendo switch](https://www.facebook.com/marketplace/item/2282702859247683) — Vendedor: Sebastián H Vidales
 - 2026-11-08 16:06 — [Se venden o se cambian por videojuegos de switch 1 o 2](https://www.facebook.com/marketplace/item/4566639680214982) — Vendedor: Jose Rios
+- 2026-11-07 20:48 — [Minecraft DUNGEONS ( Nintendo switch )](https://www.facebook.com/marketplace/item/2868399820208821) — Vendedor: Jorge A Armenta Payan
 - 2026-11-07 11:54 — [Jumanji  juego para nintendo switch](https://www.facebook.com/marketplace/item/1443398463915787) — Vendedor: Axel Luna
 - 2026-11-07 11:54 — [Sonic Forces  juego para nintendo switch](https://www.facebook.com/marketplace/item/1801356534410025) — Vendedor: Axel Luna
 - 2026-11-05 19:38 — [Legends of zelda tears of the kingdom](https://www.facebook.com/marketplace/item/1932708384376872) — Vendedor: Mony TO

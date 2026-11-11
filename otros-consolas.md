@@ -6,16 +6,34 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de más actual a más viejo según la fecha y hora de publicación (hora de Los Mochis).
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 102 anuncios disponibles.
+Total: 125 anuncios disponibles.
 
 ## Disponibles (de más actual a más viejo)
 
+- 2026-11-10 16:51 — [Consola M15 Pro 4K +20000 Juegos](https://www.facebook.com/marketplace/item/1642086701264093) — Vendedor: Karyme Baldenebro
+- 2026-11-10 16:34 — [Videojuegos 🎮🎮 Nuevos Disponibles](https://www.facebook.com/marketplace/item/4551287355140693) — Vendedor: Dayanna Fuentes Lara
+- 2026-11-10 16:31 — [Mini Consola Retro con 620 Juegos](https://www.facebook.com/marketplace/item/993870053779759) — Vendedor: Karyme Baldenebro
+- 2026-11-10 15:37 — [🎮 MÁQUINAS ARCADE MULTIJUEGOS – ESTILO XBOX CLÁSICO 🎮](https://www.facebook.com/marketplace/item/2686963851743349) — Vendedor: Evelin Perea
+- 2026-11-10 14:08 — [Mini Consola Retro con 620 Juegos](https://www.facebook.com/marketplace/item/1065717283171144) — Vendedor: Charly Galaviz
+- 2026-11-10 14:07 — [Consola M15 Pro 4K +20000 Juegos](https://www.facebook.com/marketplace/item/2671169333355846) — Vendedor: Charly Galaviz
+- 2026-11-10 11:43 — [Mini Consola Retro con 620 Juegos](https://www.facebook.com/marketplace/item/1081638551497298) — Vendedor: Charly J Acosta
 - 2026-11-10 11:42 — [Consola M14 Pro 4K +20000 Juegos](https://www.facebook.com/marketplace/item/2179267716185712) — Vendedor: Charly J Acosta
 - 2026-11-09 18:20 — [Mini Consola Retro con 620 Juegos](https://www.facebook.com/marketplace/item/1736654974693805) — Vendedor: Ariagna Armenta
+- 2026-11-09 15:17 — [Magia para Xbox Series S y X , juegos de nintendo en Xbox Series S y X](https://www.facebook.com/marketplace/item/2228101624756533) — Vendedor: Persival Carlos Aguilar Mondragon
 - 2026-11-07 04:55 — [Nintendo 64 o cambio por Nintendo NES](https://www.facebook.com/marketplace/item/1151707693869630) — Vendedor: Chito Hernandez
+- 2026-11-06 19:59 — [Tablero Maquinita Pandora💥70 Mil Juegos Clasicos,Consola Retro‼️Emuladores Top✅️Videojuegos Top✅️🎮](https://www.facebook.com/marketplace/item/1867991544374421) — Vendedor: Nutrijugos LA Selva
+- 2026-11-06 19:59 — [Tableros Arcade‼️Consola 70 Mil Juegos Retro💥Tipo Maquinitas Emuladores Variados Top‼️🤩🏡🛵💨](https://www.facebook.com/marketplace/item/1656210535884771) — Vendedor: Nutrijugos LA Selva
+- 2026-11-06 12:33 — [Nintendo Sup Doble control](https://www.facebook.com/marketplace/item/2124308205638398) — Vendedor: Daniel Sanchez
 - 2026-11-05 13:49 — [Consolas Nintendo retro](https://www.facebook.com/marketplace/item/1808346203699556) — Vendedor: Héctor Peñuelas
+- 2026-11-04 19:35 — [Tablero Maquinita Pandora💥70 Mil Juegos Clasicos,Consola Retro‼️Emuladores Top✅️Videojuegos Top✅️🎮](https://www.facebook.com/marketplace/item/1161129149598394) — Vendedor: Nutrijugos LA Selva
+- 2026-11-04 19:34 — [Tableros Arcade‼️Consola 70 Mil Juegos Retro💥Tipo Maquinitas Emuladores Variados Top‼️🤩🏡🛵💨](https://www.facebook.com/marketplace/item/40852412531016144) — Vendedor: Nutrijugos LA Selva
+- 2026-11-04 15:00 — [Lentes vr meta quest 2](https://www.facebook.com/marketplace/item/886050047863808) — Vendedor: Israel LopezDuran
 - 2026-11-04 12:56 — [venta](https://www.facebook.com/marketplace/item/1151352550678434) — Vendedor: Roy Roger
 - 2026-11-03 22:11 — [PS Portal, vendo o cambio por switch oled](https://www.facebook.com/marketplace/item/1883063236211418) — Vendedor: Diego Edel
+- 2026-11-02 20:16 — [Tablero Maquinita Pandora💥70 Mil Juegos Clasicos,Consola Retro‼️Emuladores Top✅️Videojuegos Top✅️🎮](https://www.facebook.com/marketplace/item/1785551825864826) — Vendedor: Nutrijugos LA Selva
+- 2026-11-02 20:15 — [Tableros Arcade‼️Consola 70 Mil Juegos Retro💥Tipo Maquinitas Emuladores Variados Top‼️🤩🏡🛵💨](https://www.facebook.com/marketplace/item/1655309465997120) — Vendedor: Nutrijugos LA Selva
+- 2026-11-02 20:13 — [Tablero Pandora Pro Plus👾🕹CONSOLA Árcade Retro 70 Mil Juegos🎮‼️Videojuegos Top 4K🏡🛵💨](https://www.facebook.com/marketplace/item/1679688227165301) — Vendedor: Nutrijugos LA Selva
+- 2026-11-02 17:54 — [Tablero Arcade](https://www.facebook.com/marketplace/item/1152695513965348) — Vendedor: Catalina Rodrigez
 - 2026-11-02 11:59 — [COMPRO TU CONSOLA NINTENDOO VIDEOJUEGOS](https://www.facebook.com/marketplace/item/4662104024069000) — Vendedor: Miguel Ruiz Chavez
 - 2026-11-02 11:57 — [busco Nintendo 3ds, 2ds, XL, new.](https://www.facebook.com/marketplace/item/1874642674160395) — Vendedor: Miguel Ruiz Chavez
 - 2026-11-02 11:56 — [Busco Gameboy SP, Color, dvvance, Clasic](https://www.facebook.com/marketplace/item/1916760772816326) — Vendedor: Miguel Ruiz Chavez
@@ -26,12 +44,17 @@ Total: 102 anuncios disponibles.
 - 2026-10-25 23:56 — [Nintendo baratos 600 cada uno](https://www.facebook.com/marketplace/item/2502894996867525) — Vendedor: Daniela Veg
 - 2026-10-25 22:20 — [Consola de videojuegos X9 para niños, pantalla de 5.5", más de 5 mil juegos y multimedia](https://www.facebook.com/marketplace/item/1776038363513362) — Vendedor: Angel SG
 - 2026-10-25 15:38 — [Consola xbox](https://www.facebook.com/marketplace/item/991728247327616) — Vendedor: Asis Romaas
+- 2026-10-25 14:07 — [😍 Desde los clásicos🕹️ 📺🕹️ de 8 bits hasta la era 3D: todo en la Pandora Pro.](https://www.facebook.com/marketplace/item/2019062505473498) — Vendedor: Paola Zepeda
+- 2026-10-25 13:33 — [😍 Desde los clásicos🕹️ 📺🕹️ de 8 bits hasta la era 3D: todo en la Pandora Pro.](https://www.facebook.com/marketplace/item/1111368518259030) — Vendedor: Paola Zepeda
 - 2026-10-22 13:03 — [CONSOLA PORTÁTIL Anbernic RG 477M versión 256 GB](https://www.facebook.com/marketplace/item/1620423736248537) — Vendedor: Paulette Montoya
 - 2026-10-21 11:32 — [Kit Simracing Logitech G29 (Volante + Pedales + Palanca Shifter + Freno de Mano USB + Soporte)](https://www.facebook.com/marketplace/item/28718905404424957) — Vendedor: TechNova LM
 - 2026-10-20 16:53 — [Kit simulación de manejo para videojuegos](https://www.facebook.com/marketplace/item/1016915540808394) — Vendedor: Gerardo Salazar
+- 2026-10-19 17:59 — [Tablero Arcade Avanzado: 98 Consolas Retro, WiFi, Bluetooth, Botones LED [MOC]](https://www.facebook.com/marketplace/item/1447201087477284) — Vendedor: Beltran Luis
+- 2026-10-19 17:11 — [Tablero Arcade Avanzado: 98 Consolas Retro, WiFi, Bluetooth, Botones LED [MOC]](https://www.facebook.com/marketplace/item/28809285002075234) — Vendedor: Jorge Lopez
 - 2026-10-19 14:27 — [🔴GAME STICK PRO🔴 ✅️25 MIL JUEGOS ✅️2 CONTROLES ✅️RESOLUCION 4K ✅️ENVIOS A DOMICILIO🏡🛵💨](https://www.facebook.com/marketplace/item/4613212418961115) — Vendedor: Nutrijugos LA Selva
 - 2026-10-19 14:21 — [‼️GAME STICK 25 MIL JUEGOS‼️ ✅️2 CONTROLES TIPO PS ✅️RESOLUCION 4K ✅️3 MESES GARANTIA ✅️ENVIOS🏡🛵💨](https://www.facebook.com/marketplace/item/1412871073805374) — Vendedor: Nutrijugos LA Selva
 - 2026-10-19 14:20 — [GAME STICK PRO🔴HD 25 MIL JUEGOS 2 CONTROLES TIPO PS🎮 PUEDES AGREGAR JUEGOS DE TU PREFERENCIA‼️](https://www.facebook.com/marketplace/item/1575406110556871) — Vendedor: Nutrijugos LA Selva
+- 2026-10-18 12:53 — [‼️LLEGÓ CONSOLA 🎮 PORTATIL CON 36 EMULADORES MUCHA VARIEDAD MARIO KART , MARIO 64,RETRO Y MODERNO‼️](https://www.facebook.com/marketplace/item/1321184740023073) — Vendedor: Jesus Rodriguez
 - 2026-10-17 23:25 — [Teclado Gaming 75%, Mause AOC y Atack Shark L60(Incluye el Mausepad)](https://www.facebook.com/marketplace/item/2442549629864107) — Vendedor: Sebastian C. Falomir
 - 2026-10-17 03:34 — [Artículos varios](https://www.facebook.com/marketplace/item/28352557621112946) — Vendedor: Chito Hernandez
 - 2026-10-16 11:14 — [Televisor pantalla plana Sony Triniton](https://www.facebook.com/marketplace/item/1617412973211754) — Vendedor: Angel Alberto Quijada Soto

@@ -6,13 +6,14 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de más actual a más viejo según la fecha y hora de publicación (hora de Los Mochis).
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 60 anuncios disponibles.
+Total: 61 anuncios disponibles.
 
 ## Disponibles (de más actual a más viejo)
 
 - 2026-11-10 10:41 — [Control y estuche para Nintendo switch](https://www.facebook.com/marketplace/item/1723438702823225) — Vendedor: Chacharezca Chachera
 - 2026-11-07 19:55 — [Gamesir control PC y nintendo switch](https://www.facebook.com/marketplace/item/1559326676095449) — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-11-07 19:55 — [Control gamesir nintendo switch 1 y 2, iPhone, Android, celulares, tablet y pc.](https://www.facebook.com/marketplace/item/1625484619312650) — Vendedor: Jesus Gilberto Alvarez Vega
+- 2026-11-07 08:41 — [Estuche pikachu 3D nintendo switch](https://www.facebook.com/marketplace/item/2233742620536631) — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-10-31 17:25 — [Dock para Nintendo Switch v1](https://www.facebook.com/marketplace/item/1113138388237829) — Vendedor: Bryan Luna
 - 2026-10-29 14:17 — [Control switch 1/2/oled /lite original de Nintendo $700](https://www.facebook.com/marketplace/item/1128422099638414) — Vendedor: Juan Alonso Aragon Aviles
 - 2026-10-27 16:12 — [Control pro original de nintendo switch edicion especial zelda](https://www.facebook.com/marketplace/item/2000786184551657) — Vendedor: Brian Woodill

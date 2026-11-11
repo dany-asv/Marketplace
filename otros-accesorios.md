@@ -6,12 +6,13 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de más actual a más viejo según la fecha y hora de publicación (hora de Los Mochis).
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 40 anuncios disponibles.
+Total: 43 anuncios disponibles.
 
 ## Disponibles (de más actual a más viejo)
 
 - 2026-11-10 16:27 — [Volante para videojuegos](https://www.facebook.com/marketplace/item/1465493755011389) — Vendedor: Fer Laurean
 - 2026-11-10 11:38 — [Control inalambrico para xbox one / series S X](https://www.facebook.com/marketplace/item/982711948242170) — Vendedor: Ana Julia Ahumada
+- 2026-11-09 14:35 — [Control Xbox élite 2](https://www.facebook.com/marketplace/item/1450408693178284) — Vendedor: Rafael Aguilar
 - 2026-11-05 19:29 — [Combo para escritorio, tapete 80x60, teclado mecanico, soporte para laptop, y audifonos inalambricos](https://www.facebook.com/marketplace/item/1454994946562510) — Vendedor: Verduranacida Si
 - 2026-11-05 07:36 — [Volante Logitech G920](https://www.facebook.com/marketplace/item/1893501318563958) — Vendedor: Juan Carlos Fong
 - 2026-11-03 16:43 — [Controles para ps4, Game cube y super nintendo](https://www.facebook.com/marketplace/item/2222182731673283) — Vendedor: Stargames Valenzuela
@@ -21,7 +22,9 @@ Total: 40 anuncios disponibles.
 - 2026-10-30 12:01 — [Control Xbox Elite Core 2](https://www.facebook.com/marketplace/item/1103033145935488) — Vendedor: Miguel Armenta
 - 2026-10-27 23:32 — [Plumas para consolas DS, Dsi, Dsi XL, 3ds, 3ds XL, New 3dsxl y 2ds, New 2ds XL , Wii u](https://www.facebook.com/marketplace/item/1144531488090080) — Vendedor: Stargames Valenzuela
 - 2026-10-27 18:15 — [Audífonos Xbox](https://www.facebook.com/marketplace/item/1820455375868718) — Vendedor: Ramiro Ramirez
+- 2026-10-22 23:47 — [Control para Xbox, pc, Android](https://www.facebook.com/marketplace/item/1113754024828411) — Vendedor: Jairo Ochoa
 - 2026-10-22 10:49 — [Convertídor hdmi para nintendo 64,super nes gamecube](https://www.facebook.com/marketplace/item/1464828052261025) — Vendedor: Chappy Chappy
+- 2026-10-22 10:10 — [Cable hdmi](https://www.facebook.com/marketplace/item/1439885281614868) — Vendedor: Jesus Cota
 - 2026-10-19 18:31 — [Volante Logitech con palanca y Base](https://www.facebook.com/marketplace/item/1123981040007585) — Vendedor: Paul Romanillo
 - 2026-10-16 19:24 — [Volante Logitech G920 entrego en Alamos country perfectas condiciones](https://www.facebook.com/marketplace/item/2897779090584136) — Vendedor: Karla Morales
 - 2026-10-16 11:21 — [Controles Nintendo y Pc](https://www.facebook.com/marketplace/item/1311639088486440) — Vendedor: Miguel Armenta

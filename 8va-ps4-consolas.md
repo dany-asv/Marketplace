@@ -6,10 +6,11 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de más actual a más viejo según la fecha y hora de publicación (hora de Los Mochis).
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 109 anuncios disponibles.
+Total: 111 anuncios disponibles.
 
 ## Disponibles (de más actual a más viejo)
 
+- 2026-11-09 19:53 — [Ps4 jalando al 100 se va con juegos !!](https://www.facebook.com/marketplace/item/1073688422351498) — Vendedor: Jesus Rosas
 - 2026-11-08 12:16 — [Ps4 Slim con 5 juegos y dos controles](https://www.facebook.com/marketplace/item/3264788557052068) — Vendedor: Armando López
 - 2026-11-08 12:04 — [Ps4](https://www.facebook.com/marketplace/item/1167132786270740) — Vendedor: Luis Rey
 - 2026-11-08 10:31 — [PlayStation 4 PS4 Slim 1T + Control + 2 juegos](https://www.facebook.com/marketplace/item/1122866130112043) — Vendedor: Mónica LV
@@ -18,6 +19,7 @@ Total: 109 anuncios disponibles.
 - 2026-11-07 20:26 — [VENDO O CAMBIO PS4](https://www.facebook.com/marketplace/item/4758223987828849) — Vendedor: Angel Corona
 - 2026-11-07 14:48 — [Ps4](https://www.facebook.com/marketplace/item/1104137809343385) — Vendedor: Allan Acevez
 - 2026-11-06 20:21 — [Play 4 jalando bien](https://www.facebook.com/marketplace/item/1663348121900071) — Vendedor: Alan Lopez
+- 2026-11-06 13:09 — [Play 4](https://www.facebook.com/marketplace/item/1818973499125873) — Vendedor: Guillermo Rosas
 - 2026-11-06 13:06 — [Ps4 1tb](https://www.facebook.com/marketplace/item/2216358428948379) — Vendedor: Ruben Archivaldo
 - 2026-11-06 08:07 — [Playstation 4 Slim + PS VR - de 1tb ya con magia, lleno de juegos](https://www.facebook.com/marketplace/item/3113104429030350) — Vendedor: Licenciado Pablo
 - 2026-11-05 22:14 — [Final Fantasy XII Zodiac Age Collector’s Edition PS4 completa](https://www.facebook.com/marketplace/item/1106295665549699) — Vendedor: Francisco Arturo

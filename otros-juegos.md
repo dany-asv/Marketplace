@@ -6,10 +6,13 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de más actual a más viejo según la fecha y hora de publicación (hora de Los Mochis).
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 159 anuncios disponibles.
+Total: 162 anuncios disponibles.
 
 ## Disponibles (de más actual a más viejo)
 
+- 2026-11-10 16:22 — [Se vende videojuegos](https://www.facebook.com/marketplace/item/998895912926631) — Vendedor: Jazmin Invitaciones Digitales
+- 2026-11-10 16:20 — [Se venden videojuegos](https://www.facebook.com/marketplace/item/1483446283640714) — Vendedor: Jazmin Invitaciones Digitales
+- 2026-11-10 16:19 — [Se venden videojuegos](https://www.facebook.com/marketplace/item/1484740447169677) — Vendedor: Jazmin Invitaciones Digitales
 - 2026-11-10 12:26 — [Nintendo super mario bros](https://www.facebook.com/marketplace/item/1085566247817446) — Vendedor: Daniel Ochoa
 - 2026-11-09 19:18 — [Vendo Zelda Ocarina Of Time NUEVO](https://www.facebook.com/marketplace/item/1635009411463921) — Vendedor: Albano Souza Recio
 - 2026-11-09 11:43 — [Starfox remake](https://www.facebook.com/marketplace/item/983785638119233) — Vendedor: Eduardo Infante
