@@ -3,250 +3,250 @@
 Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa, clasificados según las reglas del grupo Mundo Retro.
 
 - Juegos (discos y cartuchos).
-- Ordenados de más actual a más viejo según la fecha y hora de publicación (hora de Los Mochis).
+- Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
 Total: 240 anuncios disponibles.
 
-## Disponibles (de más actual a más viejo)
+## Disponibles (de menor a mayor precio)
 
-- 2026-11-10 01:31 — [Super Smash Bros Ultimate](https://www.facebook.com/marketplace/item/919927587752968) — Vendedor: Yahir Lerma
-- 2026-11-09 22:02 — [Pokémon sword](https://www.facebook.com/marketplace/item/2583687232099404) — Vendedor: Alejandro Cital Garcia
-- 2026-11-09 11:38 — [Juegos nintendo switch](https://www.facebook.com/marketplace/item/2282702859247683) — Vendedor: Sebastián H Vidales
-- 2026-11-08 16:06 — [Se venden o se cambian por videojuegos de switch 1 o 2](https://www.facebook.com/marketplace/item/4566639680214982) — Vendedor: Jose Rios
-- 2026-11-07 20:48 — [Minecraft DUNGEONS ( Nintendo switch )](https://www.facebook.com/marketplace/item/2868399820208821) — Vendedor: Jorge A Armenta Payan
-- 2026-11-07 11:54 — [Jumanji  juego para nintendo switch](https://www.facebook.com/marketplace/item/1443398463915787) — Vendedor: Axel Luna
-- 2026-11-07 11:54 — [Sonic Forces  juego para nintendo switch](https://www.facebook.com/marketplace/item/1801356534410025) — Vendedor: Axel Luna
-- 2026-11-05 19:38 — [Legends of zelda tears of the kingdom](https://www.facebook.com/marketplace/item/1932708384376872) — Vendedor: Mony TO
-- 2026-11-05 14:04 — [🔥 **¡VIDEOJUEGOS PARA NINTENDO SWITCH EN VENTA!** 🔥](https://www.facebook.com/marketplace/item/1792197435384234) — Vendedor: Yahir Lerma
-- 2026-11-04 18:35 — [Pokemon Legends Arceus](https://www.facebook.com/marketplace/item/1848807702788550) — Vendedor: Mukuy Castro
-- 2026-11-04 17:00 — [Se venden Juegos para Nintendo switch](https://www.facebook.com/marketplace/item/1956339339080429) — Vendedor: Pau Almada
-- 2026-11-04 16:50 — [Juegos para Nintendo switch](https://www.facebook.com/marketplace/item/1491051216291993) — Vendedor: Pau Almada
-- 2026-11-04 16:17 — [Súper Mario Party Jamboree para Nintendo switch](https://www.facebook.com/marketplace/item/2172840269969046) — Vendedor: Frank Corrales
-- 2026-11-03 19:05 — [Bayonetta 3 Nintendo switch](https://www.facebook.com/marketplace/item/4477918492523823) — Vendedor: Iram A. Payan
-- 2026-11-03 19:03 — [Videojuegos Nintendo switch No more héroes, spyro, Cosmic invasión , epic Mickey](https://www.facebook.com/marketplace/item/1433865802261304) — Vendedor: Iram A. Payan
-- 2026-11-03 14:35 — [Nintendo Switch  Oled : Zelda versión ( sin detalles ) como nuevos](https://www.facebook.com/marketplace/item/1144968241315530) — Vendedor: Jorge A Armenta Payan
-- 2026-11-03 13:28 — [Nintendo switch oled Zelda edición](https://www.facebook.com/marketplace/item/1428575159447513) — Vendedor: Iram A. Payan
-- 2026-11-03 12:47 — [Animal Crossing: New Horizons](https://www.facebook.com/marketplace/item/1870903497444882) — Vendedor: Jose Zuniga
-- 2026-11-02 22:59 — [Súper mario 3D all stars](https://www.facebook.com/marketplace/item/2193035664626799) — Vendedor: Alicia García
-- 2026-11-02 10:26 — [JoyCons Switch 1 y juego splatoon 2](https://www.facebook.com/marketplace/item/1700171221716150) — Vendedor: Hector Michelle Zuñiga Valle
-- 2026-11-01 23:14 — [Vendo Word of final fantasy máxima para nintendo switch](https://www.facebook.com/marketplace/item/1630600708807811) — Vendedor: Alonso Vlz
-- 2026-11-01 19:42 — [Mario Kart 8 Deluxe](https://www.facebook.com/marketplace/item/1115096998014298) — Vendedor: Diego LV
-- 2026-10-31 20:28 — [Dragon quest  1,2 y 3 Dragon quest monsters switch Nintendo](https://www.facebook.com/marketplace/item/993081613199277) — Vendedor: Iram A. Payan
-- 2026-10-31 13:16 — [Pokémon let`s go Pikachu! Para nintendo switch -original](https://www.facebook.com/marketplace/item/1802361934323301) — Vendedor: Alonso Vlz
-- 2026-10-30 13:48 — [Juegos de switch disponibles $$](https://www.facebook.com/marketplace/item/1768389297548637) — Vendedor: Andrea Lopez
-- 2026-10-30 11:17 — [Juego Arceus](https://www.facebook.com/marketplace/item/2185199718871499) — Vendedor: Day Tec
-- 2026-10-30 07:47 — [Zelda Breath of the wild ✅🕹️](https://www.facebook.com/marketplace/item/1768085400945763) — Vendedor: Ricardo Beltrán
-- 2026-10-30 07:47 — [Zelda Tears of the kingdoms](https://www.facebook.com/marketplace/item/2371255406973559) — Vendedor: Ricardo Beltrán
-- 2026-10-28 17:58 — [Sonic x Shadow Generations juego Nintendo switch](https://www.facebook.com/marketplace/item/1831852888014883) — Vendedor: Janeth Gutierrez
-- 2026-10-28 17:54 — [Omori juego Nintendo switch](https://www.facebook.com/marketplace/item/1098333916379914) — Vendedor: Janeth Gutierrez
-- 2026-10-26 22:40 — [Juegos Nintendo Switch](https://www.facebook.com/marketplace/item/2206227536944739) — Vendedor: Daniel Romero
-- 2026-10-26 19:28 — [Juegos para nintendo switch](https://www.facebook.com/marketplace/item/2148673966585662) — Vendedor: Irving Alvarez Velazquez
-- 2026-10-26 09:30 — [Minecratf juego para nintendo switch](https://www.facebook.com/marketplace/item/3011381202536563) — Vendedor: Jose Castr
-- 2026-10-26 07:57 — [Minecratf  juego para nintendo switch](https://www.facebook.com/marketplace/item/1096121753226088) — Vendedor: Jose Cass
-- 2026-10-25 11:54 — [Super smash bros ultimate y super mario party!](https://www.facebook.com/marketplace/item/1948170879483296) — Vendedor: Francisco Castro
-- 2026-10-25 10:13 — [Juegos para nintendo switch](https://www.facebook.com/marketplace/item/1123778276674357) — Vendedor: Noeli Grajeda
-- 2026-10-25 08:35 — [Mario 3dworld](https://www.facebook.com/marketplace/item/2188083742140595) — Vendedor: Briann A Morales
-- 2026-10-23 21:57 — [3 Juegos para nintendo switch en sus cajas los tres x $900 o 400 c/u](https://www.facebook.com/marketplace/item/28753549204313379) — Vendedor: Miguel A-c
-- 2026-10-23 09:02 — [Minecraft para nintendo switch $500](https://www.facebook.com/marketplace/item/2164941390802606) — Vendedor: Axel Luna
-- 2026-10-23 00:13 — [Juegos Nintendo switch 1000 los dos](https://www.facebook.com/marketplace/item/1112175067883874) — Vendedor: Daniel Eg
-- 2026-10-21 15:30 — [Team Sonic Racing Switch](https://www.facebook.com/marketplace/item/1801917924332191) — Vendedor: Teo Teodorovich
-- 2026-10-21 14:48 — [Splatoon3](https://www.facebook.com/marketplace/item/1845744963447513) — Vendedor: Luis Novoa
-- 2026-10-20 11:15 — [Juego Jumanji Para Nintendo Switch con caja $400](https://www.facebook.com/marketplace/item/1900872631276899) — Vendedor: Axel Luna
-- 2026-10-18 13:42 — [Mario 3D Worl](https://www.facebook.com/marketplace/item/1268595388754929) — Vendedor: Robles Jazive
-- 2026-10-18 13:40 — [Mario Kart 8deluxe](https://www.facebook.com/marketplace/item/1443474684372719) — Vendedor: Robles Jazive
-- 2026-10-17 17:53 — [Juegos para nintendo swich](https://www.facebook.com/marketplace/item/1862650138229242) — Vendedor: Ivan Esteban Moreno Cota
-- 2026-10-17 17:42 — [Mario party Nintendo switch](https://www.facebook.com/marketplace/item/1746807396429143) — Vendedor: Alexia Ruiz
-- 2026-10-17 17:42 — [Juego Zelda Nintendo switch](https://www.facebook.com/marketplace/item/2781219685627548) — Vendedor: Alexia Ruiz
-- 2026-10-17 16:44 — [Nintendo switch y juegos baratos, todo junto o juegos individuales $$$](https://www.facebook.com/marketplace/item/1157355450304678) — Vendedor: Mario Vasquez
-- 2026-10-17 14:50 — [Crash Bandicoot N. Sane Trilogy para Nintendo Switch](https://www.facebook.com/marketplace/item/1108953815206541) — Vendedor: Teo Teodorovich
-- 2026-10-17 14:48 — [Crash Team Racing Nitro Fueled para Nintendo Switch](https://www.facebook.com/marketplace/item/1411600887273808) — Vendedor: Teo Teodorovich
-- 2026-10-17 14:39 — [Super Mario bros wonder](https://www.facebook.com/marketplace/item/1143510954997593) — Vendedor: Jose Guadalupe Guerrero Bojorquez
-- 2026-10-17 14:37 — [Animal crossing new horizons](https://www.facebook.com/marketplace/item/2188238512075335) — Vendedor: Jose Guadalupe Guerrero Bojorquez
-- 2026-10-17 12:52 — [Animal crossing juego nintendo switch](https://www.facebook.com/marketplace/item/2635852416858374) — Vendedor: Martin Miranda Beltrán
-- 2026-10-16 17:03 — [Super Mario 3D world + Bowser fury](https://www.facebook.com/marketplace/item/1769880007424268) — Vendedor: Miguel Serrano
-- 2026-10-15 14:59 — [Juegos nintendo swich](https://www.facebook.com/marketplace/item/1091363723742296) — Vendedor: Jesus Cota
-- 2026-10-15 14:22 — [Juegos para switch](https://www.facebook.com/marketplace/item/2165126684436000) — Vendedor: Cristina Sauceda
-- 2026-10-15 09:09 — [Juego de Jumanji para Nintendo switch](https://www.facebook.com/marketplace/item/2178005906474107) — Vendedor: Daniela Gutierrez
-- 2026-10-15 09:07 — [Juego Sonic forces de Nintendo switch](https://www.facebook.com/marketplace/item/4643521429301940) — Vendedor: Daniela Gutierrez
-- 2026-10-15 09:05 — [Juego Minecraft de Nintendo switch](https://www.facebook.com/marketplace/item/1372675438022186) — Vendedor: Daniela Gutierrez
-- 2026-10-14 19:26 — [Juegos de switch](https://www.facebook.com/marketplace/item/2410718549756353) — Vendedor: Jesus Mendoza
-- 2026-10-14 12:00 — [Vendo juegos de nintendo switch](https://www.facebook.com/marketplace/item/2265990300980992) — Vendedor: Nauj Bojórquez de la Cruz
-- 2026-10-14 11:18 — [Juego para nintendo switch Minecraft](https://www.facebook.com/marketplace/item/1828072735199656) — Vendedor: Jose Cass
-- 2026-10-11 20:00 — [Juegos para Nintendo Switch](https://www.facebook.com/marketplace/item/1853100459384099) — Vendedor: Lau Uribe
-- 2026-10-11 19:28 — [Juegos Nintendo switch (solo cambio)](https://www.facebook.com/marketplace/item/1401687915011605) — Vendedor: Jonh Lopez
-- 2026-10-11 13:05 — [Sonic Forces para nintendo switch](https://www.facebook.com/marketplace/item/1647524947084183) — Vendedor: Jose Cass
-- 2026-10-10 18:06 — [Persona 5 Royal nintendo switch](https://www.facebook.com/marketplace/item/2312117519555499) — Vendedor: Adilene Dimas Rodriguez
-- 2026-10-10 08:48 — [Pokémon Escudo Nintendo Switch](https://www.facebook.com/marketplace/item/1128690802820437) — Vendedor: Ricardo Beltrán
-- 2026-10-09 15:11 — [Juegos Nintendo switch!](https://www.facebook.com/marketplace/item/1423383919121188) — Vendedor: Heber Barraza
-- 2026-10-09 11:36 — [Minecraft para nintendo switch $500](https://www.facebook.com/marketplace/item/1070036992574829) — Vendedor: Juan Soto
-- 2026-10-08 15:35 — [Nintendo switch edición Mario wonder Nuevo en caja sellado, juego digital incluido](https://www.facebook.com/marketplace/item/2260578308133534) — Vendedor: Paulina Flores
-- 2026-10-08 15:17 — [Juego para switch](https://www.facebook.com/marketplace/item/1830375724751885) — Vendedor: Ingrid Daniela Osorio Carreon
-- 2026-10-07 18:08 — [Juegos switch solo son el cartucho sin caja en 300$ cada uno](https://www.facebook.com/marketplace/item/1147859914482578) — Vendedor: Antonio Lopez
-- 2026-10-07 18:07 — [Juegos switch solo son el cartucho sin caja en 350$ cada uno](https://www.facebook.com/marketplace/item/1102496795855387) — Vendedor: Antonio Lopez
-- 2026-10-07 18:06 — [Juegos switch solo son el cartucho sin caja en 400$ cada uno](https://www.facebook.com/marketplace/item/1672394670909520) — Vendedor: Antonio Lopez
-- 2026-10-07 18:05 — [Juegos switch solo son el cartucho sin caja en 500$ cada uno](https://www.facebook.com/marketplace/item/1052818837738320) — Vendedor: Antonio Lopez
-- 2026-10-07 18:01 — [Juegos Nintendo switch 450 cada uno](https://www.facebook.com/marketplace/item/1598449138628378) — Vendedor: Antonio Lopez
-- 2026-10-07 17:59 — [Juegos Nintendo switch 550 cada uno](https://www.facebook.com/marketplace/item/1890370088901509) — Vendedor: Antonio Lopez
-- 2026-10-07 17:59 — [Juegos Nintendo switch 650 cada uno](https://www.facebook.com/marketplace/item/1123503923361883) — Vendedor: Antonio Lopez
-- 2026-10-07 16:49 — [Zelda breath of the wild](https://www.facebook.com/marketplace/item/1593979252213987) — Vendedor: David Cañedo
-- 2026-10-06 21:44 — [Nintendo Switch + 1 Juego a Elegir](https://www.facebook.com/marketplace/item/2353605495465533) — Vendedor: Walter Lopez
-- 2026-10-06 17:16 — [Juego nintendo Swith Mario wonder](https://www.facebook.com/marketplace/item/1174548065169794) — Vendedor: Jack Wein
-- 2026-10-06 12:00 — [BUSCO Pokémon Perla Brillante Nintendo Switch](https://www.facebook.com/marketplace/item/1429739015814163) — Vendedor: Rigo Mora
-- 2026-10-04 12:50 — [Dragónball Fighters Z Nintendo switch](https://www.facebook.com/marketplace/item/1123092626834801) — Vendedor: David Gael
-- 2026-10-04 10:56 — [nintendo switch edición zelda: tears of the kingdom y nintendo switch oled](https://www.facebook.com/marketplace/item/1087838933955803) — Vendedor: Luis Peraza
-- 2026-10-01 19:55 — [Pokémon espada](https://www.facebook.com/marketplace/item/1625291998961200) — Vendedor: Daniel Castro
-- 2026-10-01 14:46 — [Xenoblade chronicles 3](https://www.facebook.com/marketplace/item/1422113766728890) — Vendedor: Eros Celis
-- 2026-09-28 12:08 — [Nintendo switch , viene con super smash y animal crossing](https://www.facebook.com/marketplace/item/946741205170598) — Vendedor: Ernesto Lugo
-- 2026-09-27 19:46 — [Wiiu en perfecto estado con Mario kart 8](https://www.facebook.com/marketplace/item/2249905885552366) — Vendedor: Jose Emanuel Valdes
-- 2026-09-26 19:06 — [Zelda Nintendo switch](https://www.facebook.com/marketplace/item/2161351368108641) — Vendedor: Karla Yocupicio
-- 2026-09-26 19:03 — [Videojuego Nintendo switch](https://www.facebook.com/marketplace/item/1972051523753417) — Vendedor: Karla Yocupicio
-- 2026-09-26 12:08 — [Juego Nintendo switch Yoshis](https://www.facebook.com/marketplace/item/4537108653231578) — Vendedor: Kc Ruiz
-- 2026-09-26 09:29 — [Videojuego Nintendo Splatoon 3](https://www.facebook.com/marketplace/item/1735863357490831) — Vendedor: Luis Luis
-- 2026-09-25 13:03 — [Juegos disponibles de switch $$$](https://www.facebook.com/marketplace/item/1615696696697124) — Vendedor: Paulina Flores
-- 2026-09-24 18:06 — [Nintendo switch oled versión pokemon escarlata y purpura](https://www.facebook.com/marketplace/item/1844730653606798) — Vendedor: Alejo Lopez
-- 2026-09-24 15:42 — [Juegos de nintendo switch](https://www.facebook.com/marketplace/item/1639008717651366) — Vendedor: Briann A Morales
-- 2026-09-24 12:48 — [Nintendo Switch Lite y 2 juegos](https://www.facebook.com/marketplace/item/1990224551642118) — Vendedor: Isaac Ruiz
-- 2026-09-24 01:15 — [Zelda tears of the kingdom](https://www.facebook.com/marketplace/item/1061090210101631) — Vendedor: Mukuy Castro
-- 2026-09-22 14:28 — [Videojuego Animal Crossing new horizons para Nintendo switch](https://www.facebook.com/marketplace/item/2150729799183484) — Vendedor: Citlaly Cinco
-- 2026-09-21 15:38 — [Juegos Nintendo Switch](https://www.facebook.com/marketplace/item/4155703067895949) — Vendedor: Karyme Medina
-- 2026-09-20 16:16 — [Juegos para Nintendo Switch / Assassin's creed IV y Rouge](https://www.facebook.com/marketplace/item/2354559895373872) — Vendedor: Rolf Garza Hampl
-- 2026-09-20 16:04 — [Pokemon arceus](https://www.facebook.com/marketplace/item/1916708206372629) — Vendedor: Sergio Leal Montiel
-- 2026-09-19 09:50 — [Juegos para Nintendo switch](https://www.facebook.com/marketplace/item/1428218419192454) — Vendedor: Luis Medina
-- 2026-09-18 22:22 — [Mario Party Superstars](https://www.facebook.com/marketplace/item/1024549583966819) — Vendedor: Luis Angel IR
-- 2026-09-17 21:04 — [Nintendo Switch Oled edición Mario Red](https://www.facebook.com/marketplace/item/1054237120824334) — Vendedor: Allan E Ramirez G
-- 2026-09-17 18:07 — [Nintendo switch OLED ( versión internacional) + Mario party + Mario kart](https://www.facebook.com/marketplace/item/1078800448447100) — Vendedor: Alejandro Cabrera
-- 2026-09-17 16:42 — [Juegos de Nintendo Switch](https://www.facebook.com/marketplace/item/1397451238581525) — Vendedor: Irma Rubi Moyoroqui Garcia
-- 2026-09-16 15:23 — [Minecraft para nintendo switch](https://www.facebook.com/marketplace/item/3619172038246284) — Vendedor: Ele Gand
-- 2026-09-16 15:22 — [Mario kart 8 deluxe](https://www.facebook.com/marketplace/item/4635168476715462) — Vendedor: Ele Gand
-- 2026-09-16 15:18 — [Juegos de nintendo switch](https://www.facebook.com/marketplace/item/2105639693368241) — Vendedor: Ele Gand
-- 2026-09-16 14:38 — [Mario Party SuperStars](https://www.facebook.com/marketplace/item/1999560334019917) — Vendedor: Luis Ricardo
-- 2026-09-15 12:18 — [juegos switch](https://www.facebook.com/marketplace/item/28141263685566104) — Vendedor: Gael Pineda
-- 2026-09-14 19:30 — [🎮 6 Juegos Nintendo Switch Originales – Mario, Minecraft, Smash Bros y más](https://www.facebook.com/marketplace/item/2272044660242372) — Vendedor: Francisco Javier Baldenebro Alonso
-- 2026-09-14 19:23 — [Videojuego Nintendo SWITCH](https://www.facebook.com/marketplace/item/1062797033284695) — Vendedor: Pahu Mendiola
-- 2026-09-14 16:51 — [Juegos de Nintendo Switch](https://www.facebook.com/marketplace/item/38497887106523967) — Vendedor: Mayra Pelayo Uribe
-- 2026-09-13 17:33 — [Se vende o se cambia por videojuegos de switch 1 y 2](https://www.facebook.com/marketplace/item/1096578389686317) — Vendedor: Jose Rios
-- 2026-09-12 14:54 — [Cambio juegos de nintendo switch](https://www.facebook.com/marketplace/item/1055282760643281) — Vendedor: Ele Gand
-- 2026-09-12 14:54 — [Vendo o cambio juegos de nintendo switch](https://www.facebook.com/marketplace/item/1098814525918232) — Vendedor: Ele Gand
-- 2026-09-12 10:42 — [Juegos de Nintendo switch](https://www.facebook.com/marketplace/item/1076396768655574) — Vendedor: Francisco González
-- 2026-09-11 14:15 — [Lote de Juegos Físicos Nintendo Switch (Super Mario, Animal Crossing, MK11)](https://www.facebook.com/marketplace/item/1707907784673717) — Vendedor: Sun Kool
-- 2026-09-11 08:19 — [Juegos de nintendo Switch, vendo o cambio](https://www.facebook.com/marketplace/item/1392850498968783) — Vendedor: Luis Joestar
-- 2026-09-09 16:51 — [Nintendo switch animal crossing](https://www.facebook.com/marketplace/item/2082470789021479) — Vendedor: Hugo Angel Vega
-- 2026-09-08 19:18 — [Nintendo Switch versión zelda](https://www.facebook.com/marketplace/item/1082876897479127) — Vendedor: Yunive Gastelum
-- 2026-09-07 18:36 — [Juegos de switch solo cartuchos en 500 cada uno](https://www.facebook.com/marketplace/item/1116747290779961) — Vendedor: Antonio Lopez
-- 2026-09-06 00:23 — [Juegos para Nintendo swict](https://www.facebook.com/marketplace/item/28723035537327827) — Vendedor: Karlita Martinez
-- 2026-09-05 21:15 — [FIFA 23 Legacy Nintendo Switch](https://www.facebook.com/marketplace/item/2340236606831195) — Vendedor: Alan Roberto Quiroz
-- 2026-09-05 08:14 — [juegos nintendo switch](https://www.facebook.com/marketplace/item/1228691096114429) — Vendedor: Sebastian Souza
-- 2026-09-02 16:16 — [Juegos Nintendo Switch](https://www.facebook.com/marketplace/item/1050839547780159) — Vendedor: Jairo Soto Castro
-- 2026-08-29 11:18 — [Juegos de Nintendo switch](https://www.facebook.com/marketplace/item/2184676089595680) — Vendedor: Angel Eden
-- 2026-08-27 16:10 — [Juegos de nintendo switch 1 y 2](https://www.facebook.com/marketplace/item/3701239560031403) — Vendedor: Ivan Delval
-- 2026-08-27 16:10 — [Juegos de nintendo switch](https://www.facebook.com/marketplace/item/2237728443469851) — Vendedor: Ivan Delval
-- 2026-08-27 15:36 — [Nintendo switch oled edición Zelda TOTK](https://www.facebook.com/marketplace/item/1039972765541092) — Vendedor: Carlos Miranda
-- 2026-08-26 19:16 — [Super Mario 3d world + bowser's fury](https://www.facebook.com/marketplace/item/4742653442685606) — Vendedor: Ventas Gustavo
-- 2026-08-26 12:02 — [Mortal kombat 1 de nintendo switch](https://www.facebook.com/marketplace/item/910444001688869) — Vendedor: Pedro Escalante
-- 2026-08-21 13:13 — [Super Mario Bros Wonder](https://www.facebook.com/marketplace/item/1083719780785737) — Vendedor: Stargames Valenzuela
-- 2026-08-20 11:03 — [Juegos nintendo Switch diferentes precios nuevos y usados](https://www.facebook.com/marketplace/item/4508673346075143) — Vendedor: Stargames Valenzuela
-- 2026-08-19 02:38 — [Juego Para Nintendo SWITCH 1 Está En Excelentes Condiciones Ya para jugar](https://www.facebook.com/marketplace/item/1537139601546605) — Vendedor: Emmanuel Enciso
-- 2026-08-17 00:18 — [Juego de Super Smash Bros ultimate para Nintendo Switch](https://www.facebook.com/marketplace/item/2131322251154822) — Vendedor: Emmanuel Enciso
-- 2026-08-13 21:21 — [JUEGOS DE NINTENDO SWITCH](https://www.facebook.com/marketplace/item/2414363472306872) — Vendedor: Yankarlo Gi
-- 2026-08-13 21:20 — [JUEGOS DE NINTENDO SWITCH](https://www.facebook.com/marketplace/item/1966727128048899) — Vendedor: Yankarlo Gi
-- 2026-08-13 14:38 — [Mario vs Donkey Kong Nintendo switch](https://www.facebook.com/marketplace/item/1029108453443066) — Vendedor: Alejo Lopez
-- 2026-08-11 12:27 — [Mario kart 8 deluxe $700 Súper Mario wonder $700 O dos por 1200](https://www.facebook.com/marketplace/item/3241002829575487) — Vendedor: J Renato Imperial
-- 2026-08-08 17:02 — [Juegos para Nintendo Swich a diferentes precios](https://www.facebook.com/marketplace/item/2248837779248045) — Vendedor: Luis Emiliano
-- 2026-08-06 19:31 — [Nintendo switch versión Zelda](https://www.facebook.com/marketplace/item/4560016284237155) — Vendedor: Víctor Hernández
-- 2026-08-04 15:15 — [Juegos switch](https://www.facebook.com/marketplace/item/4639623476359925) — Vendedor: Jose Garrido Espinoza
-- 2026-08-04 13:49 — [Nintendo switch oled, edicion the legend of Zelda](https://www.facebook.com/marketplace/item/1375842323966472) — Vendedor: Lizárraga Jose
-- 2026-08-04 11:50 — [Juego para nintendo switch barato](https://www.facebook.com/marketplace/item/1312614357612432) — Vendedor: Chappy Chappy
-- 2026-08-04 10:08 — [Juegos switch](https://www.facebook.com/marketplace/item/1078841185089427) — Vendedor: Ivan Quintero
-- 2026-08-04 00:45 — [Dark Souls Nintendo Switch - Busco](https://www.facebook.com/marketplace/item/1836410194190576) — Vendedor: Holy Spike
-- 2026-07-30 22:27 — [Juegos nintendo switch smash mario kart sonic minecraft dragon ball](https://www.facebook.com/marketplace/item/2569850623461614) — Vendedor: Vicente Munguia
-- 2026-07-28 16:56 — [Juegos de Playstation y Nintendo switch](https://www.facebook.com/marketplace/item/2541998109596896) — Vendedor: Alexis Arturo Osuna Acosta
-- 2026-07-27 21:41 — [Smash Ultimate](https://www.facebook.com/marketplace/item/1286424016711906) — Vendedor: Sylveon Evie Camila Valdez
-- 2026-07-26 17:27 — [Juegos switch 650 cada uno](https://www.facebook.com/marketplace/item/1543523994169947) — Vendedor: Antonio Lopez
-- 2026-07-23 21:21 — [SE VENDEN JUEGOS DE NINTENDO SWITCH](https://www.facebook.com/marketplace/item/2042252020013475) — Vendedor: Carlos Miranda
-- 2026-07-21 20:29 — [Mario Party Superstars (Nuevo Sellado)](https://www.facebook.com/marketplace/item/1019902924186868) — Vendedor: Sergio Inzunza
-- 2026-07-21 17:47 — [Mario 3d World](https://www.facebook.com/marketplace/item/908169665012342) — Vendedor: Erick Alberto Lugo Lizarraga
-- 2026-07-18 09:25 — [Juegos switch](https://www.facebook.com/marketplace/item/1083339554120306) — Vendedor: Sebastian Souza
-- 2026-07-14 16:08 — [Juegos de Nintendo Switch](https://www.facebook.com/marketplace/item/2250259419072660) — Vendedor: Sebastián Nozato
-- 2026-07-13 15:44 — [Mario Kart 8 Deluxe y Súper Mario Oddysey](https://www.facebook.com/marketplace/item/1305094178279725) — Vendedor: Jorge Trs
-- 2026-07-08 17:26 — [Juegos Nintendo Switch, Mario Strikers Battle League y Civilization VI](https://www.facebook.com/marketplace/item/1314030487381556) — Vendedor: Oliver Castro
-- 2026-07-05 22:10 — [Juego Nintendo Switch](https://www.facebook.com/marketplace/item/3155387814659816) — Vendedor: JA Neth
-- 2026-07-03 17:48 — [Nintendo switch Oled con Fc 25 de regalo](https://www.facebook.com/marketplace/item/4547445642248871) — Vendedor: Tadeo Lopez
-- 2026-06-30 15:33 — [JUEGOS NINTENDO SWITCH](https://www.facebook.com/marketplace/item/1122588276871841) — Vendedor: Juan Alonso
-- 2026-06-29 22:52 — [Juegos Nintendo switch el precio es depende del juego](https://www.facebook.com/marketplace/item/1011983814885447) — Vendedor: Antoni Tony
-- 2026-06-29 22:45 — [Juegos Nintendo switch sin caja en 350 cada uno](https://www.facebook.com/marketplace/item/1331141795266315) — Vendedor: Antonio Lopez
-- 2026-06-29 22:45 — [Juegos Nintendo switch sin caja en 400 cada uno](https://www.facebook.com/marketplace/item/1403249024965788) — Vendedor: Antonio Lopez
-- 2026-06-29 22:45 — [Juegos Nintendo switch en 600 cada uno](https://www.facebook.com/marketplace/item/2549571448798579) — Vendedor: Antonio Lopez
-- 2026-06-29 22:45 — [Juegos Nintendo switch sin caja en 550 cada uno](https://www.facebook.com/marketplace/item/4514489818796173) — Vendedor: Antonio Lopez
-- 2026-06-27 07:27 — [Super Smash Bros Ultimate](https://www.facebook.com/marketplace/item/2718547848532186) — Vendedor: Raul Bonifant
-- 2026-06-22 20:20 — [Mario kart 8 deluxe](https://www.facebook.com/marketplace/item/862610210256053) — Vendedor: Bianey Alejandra Muñoz Herrera
-- 2026-06-22 20:17 — [Súper Mario party](https://www.facebook.com/marketplace/item/1569239354617009) — Vendedor: Bianey Alejandra Muñoz Herrera
-- 2026-06-22 14:57 — [Juego Nintendo switch](https://www.facebook.com/marketplace/item/2108914403172661) — Vendedor: Cesar Rosas
-- 2026-06-19 14:17 — [Vendo o cambio juego  nintendo switch plantas vs zombies](https://www.facebook.com/marketplace/item/1542651004036371) — Vendedor: Gehovany Quevedo
-- 2026-06-17 11:21 — [Nintendo switch Animal Crossing + Mario Kart](https://www.facebook.com/marketplace/item/1323196273251910) — Vendedor: Luzmary Castro
-- 2026-06-16 11:22 — [Splatoon 2 Nintendo Switch (buen estado)](https://www.facebook.com/marketplace/item/1504494864710611) — Vendedor: Miguel Armenta
-- 2026-06-15 14:40 — [Dragon Ball FighterZ para Switch](https://www.facebook.com/marketplace/item/985266987598836) — Vendedor: Maria Beatriz Valenzuela
-- 2026-06-15 14:36 — [Dragon Ball FighterZ para Switch](https://www.facebook.com/marketplace/item/958898993905269) — Vendedor: Maria Beatriz Valenzuela
-- 2026-06-07 18:32 — [Nintendo Switch Lite Turquesa + Luigi's Mansion 3](https://www.facebook.com/marketplace/item/1231794408901770) — Vendedor: Paulina Montiel
-- 2026-06-07 07:37 — [Juegos de Nintendo Switch](https://www.facebook.com/marketplace/item/2610067746074053) — Vendedor: Aaron Medina
-- 2026-06-05 19:35 — [VIDEOJUEGO DE LA FIFA 22 PARA NINTENDO SWITCH.](https://www.facebook.com/marketplace/item/4651900181798770) — Vendedor: Emmanuel Enciso
-- 2026-06-01 16:09 — [Super smash bros ultimate](https://www.facebook.com/marketplace/item/858395183431378) — Vendedor: Lupita Morales
-- 2026-06-01 11:48 — [Se venden o se cambian juegos de nintendo switch](https://www.facebook.com/marketplace/item/984400087668775) — Vendedor: Jose Villegas
-- 2026-06-01 11:36 — [Pokemon Violeta para Nintendo Switch](https://www.facebook.com/marketplace/item/1618359279258319) — Vendedor: Jose Villegas
-- 2026-06-01 11:33 — [Juegos para nintendo switch](https://www.facebook.com/marketplace/item/1479474013314815) — Vendedor: Jose Villegas
-- 2026-06-01 10:12 — [Juegos Nintendo switch diferentes precios](https://www.facebook.com/marketplace/item/1731000428070400) — Vendedor: Antonio Lopez
-- 2026-06-01 10:12 — [Juegos baratos para switch 650 cada uno](https://www.facebook.com/marketplace/item/1711947366671449) — Vendedor: Antonio Lopez
-- 2026-06-01 10:12 — [Juegos Nintendo switch precios de 300 a 650](https://www.facebook.com/marketplace/item/1288832399990849) — Vendedor: Antonio Lopez
-- 2026-06-01 10:12 — [Juegos switch 500 cada uno](https://www.facebook.com/marketplace/item/1296534809261594) — Vendedor: Antonio Lopez
-- 2026-05-30 17:43 — [SPLATOON 3 EN FORMATO FISICO EXCELENTE ESTADO](https://www.facebook.com/marketplace/item/1326099439734053) — Vendedor: Agustin Jaime Izaguirre Valdez
-- 2026-05-28 14:20 — [Juegos switch baratos, pregunten por el que les interese](https://www.facebook.com/marketplace/item/2079726366231483) — Vendedor: Antonio Lopez
-- 2026-05-15 08:26 — [Animal crossing switch](https://www.facebook.com/marketplace/item/1721048892400778) — Vendedor: Aarón Martinez Orduño
-- 2026-05-13 14:04 — [Juego De Nintendo Switch 1 FIFA 23](https://www.facebook.com/marketplace/item/3137915989931284) — Vendedor: Emmanuel Enciso
-- 2026-05-13 13:28 — [Videojuego Para Nintendo Switch 1 FIFA 22](https://www.facebook.com/marketplace/item/1998518117407840) — Vendedor: Emmanuel Enciso
-- 2026-05-13 13:23 — [Nintendo switch 1era generación edición oled Pokémon](https://www.facebook.com/marketplace/item/1313032654254264) — Vendedor: David Arvizu
-- 2026-05-08 17:16 — [Juego Para Nintendo Switch 1 Pokémon Lets Go Pikachu.](https://www.facebook.com/marketplace/item/1869956253692200) — Vendedor: Emmanuel Enciso
-- 2026-05-07 17:28 — [Videojuego splatoon 2 para Nintendo switch](https://www.facebook.com/marketplace/item/1004877451887327) — Vendedor: Cesar Garcia
-- 2026-05-05 08:39 — [Magia en tu nintendo Switch juegos los mas nuevos como fifa 26 mario galaxy 1 y 2  y mas](https://www.facebook.com/marketplace/item/909477242137487) — Vendedor: Vicente Munguia
-- 2026-05-03 12:17 — [FC 24 PARA NINTENDO SWITCH](https://www.facebook.com/marketplace/item/1721319215696984) — Vendedor: Roger Valenzuela
-- 2026-05-02 16:10 — [Videojuego para Nintendo switch](https://www.facebook.com/marketplace/item/1675512033869112) — Vendedor: Briventas Vz
-- 2026-05-01 13:36 — [Juegos switch](https://www.facebook.com/marketplace/item/2533837753697848) — Vendedor: Arodi Arau Gutierrez
-- 2026-04-27 09:19 — [SE VENDE POKEMON ARCEUS](https://www.facebook.com/marketplace/item/924431277260357) — Vendedor: Sebastian Souza
-- 2026-04-24 13:07 — [Juegos Nintendo Swich](https://www.facebook.com/marketplace/item/1332308562078399) — Vendedor: Angel Navarrete
-- 2026-04-23 11:49 — [Videojuegos Nintendo switch](https://www.facebook.com/marketplace/item/730502636819043) — Vendedor: Abraham Peralta Sr.
-- 2026-04-19 16:29 — [Juegos de nintendo swich  600 cada uno](https://www.facebook.com/marketplace/item/2242193869917821) — Vendedor: Lorenia Leon
-- 2026-04-18 10:51 — [Mortal Kombat 11 Nintendo Switch.](https://www.facebook.com/marketplace/item/1004236295504613) — Vendedor: Andres Apodaca
-- 2026-04-16 22:28 — [Mario galaxy 1 y 2 nintendo switch](https://www.facebook.com/marketplace/item/1394535312708896) — Vendedor: Yogi Siames
-- 2026-04-14 06:18 — [Juegos Nintendo switch](https://www.facebook.com/marketplace/item/2038908300378263) — Vendedor: Christian Lau
-- 2026-04-12 20:06 — [Discos de Nintendo switch Super Mario 3d world+ Bowsers Fury y Human Fall Flat](https://www.facebook.com/marketplace/item/1632691098047359) — Vendedor: Fabiola Jimenez Sepulveda
-- 2026-04-07 14:12 — [Cambio por Mario kart 8 deluxe](https://www.facebook.com/marketplace/item/933004269370716) — Vendedor: Marisela Verdugo
-- 2026-04-06 18:32 — [Juegos de nintendo Switch](https://www.facebook.com/marketplace/item/2666128727091482) — Vendedor: Lizarraga Maria
-- 2026-03-25 20:47 — [Mortal kombat switch](https://www.facebook.com/marketplace/item/1454866936340286) — Vendedor: Marco Antonio
-- 2026-03-25 12:21 — [Juegos Nintendo Switch](https://www.facebook.com/marketplace/item/1690604671965133) — Vendedor: Miguel Armenta
-- 2026-03-22 09:10 — [Juego Super Smash Bros Ultimate](https://www.facebook.com/marketplace/item/1612806383306737) — Vendedor: Adilene Bris
-- 2026-03-19 12:43 — [Juegos para Nintendo switch](https://www.facebook.com/marketplace/item/918194384458454) — Vendedor: Lupytha Leyva Boutiq
-- 2026-03-19 12:43 — [Juegos de nintendo switch](https://www.facebook.com/marketplace/item/943877698437181) — Vendedor: Lupytha Leyva Boutiq
-- 2026-03-19 08:18 — [Nintendo Switch - Edicion Especial Zelda](https://www.facebook.com/marketplace/item/4355153221397851) — Vendedor: Gerardo Lopez
-- 2026-03-18 20:23 — [Juego Mario + Rabbids para Nintendo SWITCH 1,2](https://www.facebook.com/marketplace/item/2273773806479903) — Vendedor: Berenays Luque
-- 2026-03-18 15:20 — [Fire Emblem Engage Divine Edition Switch](https://www.facebook.com/marketplace/item/1559030368537562) — Vendedor: Lizarraga Maria
-- 2026-03-09 19:07 — [Juegos nintendo Switch](https://www.facebook.com/marketplace/item/975627401697451) — Vendedor: Sebastian Souza
-- 2026-03-06 11:27 — [Mario kart 8 seminuevo](https://www.facebook.com/marketplace/item/1406825884011335) — Vendedor: Sebastian Souza
-- 2026-03-03 09:30 — [Nintendo Switch Normal v1 v2 Lite y OLED picofly limpieza juegos nuevos mario Galaxy](https://www.facebook.com/marketplace/item/870935029234227) — Vendedor: Vicente Munguia
-- 2026-03-02 12:32 — [Juegos de Nintendo switch](https://www.facebook.com/marketplace/item/1228216336175686) — Vendedor: Cinthya Olguin
-- 2026-02-24 16:38 — [Juegos de nintendo Switch](https://www.facebook.com/marketplace/item/1930591057828672) — Vendedor: Sebastian Souza
-- 2026-02-22 17:41 — [Nintendo Switch Oled Splatoon Edition](https://www.facebook.com/marketplace/item/2926589670868139) — Vendedor: Alejandro Aguilar
-- 2026-02-21 11:08 — [JUEGOS PARA NINTENDO SWITCH](https://www.facebook.com/marketplace/item/1793623308691880) — Vendedor: Yesenia Recio
-- 2026-02-20 14:44 — [Juego para Switch](https://www.facebook.com/marketplace/item/1552908715811198) — Vendedor: Maria Herrera
-- 2026-02-16 15:57 — [Juegos Switch](https://www.facebook.com/marketplace/item/793598037131513) — Vendedor: Sebastian Souza
-- 2026-02-15 17:15 — [Juegos Switch Nuevos y usados](https://www.facebook.com/marketplace/item/916717364084000) — Vendedor: Janeth Lara Torres
-- 2026-02-10 09:49 — [Juegos de switch](https://www.facebook.com/marketplace/item/1223880049937841) — Vendedor: Sebastian Souza
-- 2026-02-05 16:18 — [Se venden juegos de switch](https://www.facebook.com/marketplace/item/883225261084040) — Vendedor: Sebastian Souza
-- 2026-02-02 12:20 — [Juegos nintendo switch](https://www.facebook.com/marketplace/item/1842225173101374) — Vendedor: Sebastian Souza
-- 2026-01-26 15:31 — [Juegos de switch](https://www.facebook.com/marketplace/item/1188754713328150) — Vendedor: Sebastian Souza
-- 2026-01-26 15:00 — [Variedad de juegos para Swich](https://www.facebook.com/marketplace/item/2407042423049005) — Vendedor: Jimena Enriquez
-- 2026-01-16 18:38 — [Juegos de switch $](https://www.facebook.com/marketplace/item/1559651945373112) — Vendedor: Carlos Avila
-- 2026-01-09 22:21 — [Busco Mario 3DWORLD](https://www.facebook.com/marketplace/item/1303980801495849) — Vendedor: Briann A Morales
-- 2026-01-03 12:45 — [Joycons y juegos switch](https://www.facebook.com/marketplace/item/2092581798162307) — Vendedor: Daniel Soto
-- 2025-11-08 16:41 — [Juegos de Switch](https://www.facebook.com/marketplace/item/24908718215421556) — Vendedor: Sebastian Souza
-- 2025-10-23 07:11 — [Juegos Nintendo switch](https://www.facebook.com/marketplace/item/1143880284380678) — Vendedor: Abel Galindo
-- 2025-10-23 07:09 — [Nintendo switch Oled Zelda](https://www.facebook.com/marketplace/item/1149584227276938) — Vendedor: Abel Galindo
-- 2025-03-23 20:32 — [Nintendo Switch de Animal Crossing](https://www.facebook.com/marketplace/item/556559580184160) — Vendedor: Lizarraga Maria
+- 2026-11-02 10:26 — [JoyCons Switch 1 y juego splatoon 2](https://www.facebook.com/marketplace/item/1700171221716150) — GRATIS — Vendedor: Hector Michelle Zuñiga Valle
+- 2026-10-30 13:48 — [Juegos de switch disponibles $$](https://www.facebook.com/marketplace/item/1768389297548637) — GRATIS — Vendedor: Andrea Lopez
+- 2026-10-25 08:35 — [Mario 3dworld](https://www.facebook.com/marketplace/item/2188083742140595) — GRATIS — Vendedor: Briann A Morales
+- 2026-10-11 19:28 — [Juegos Nintendo switch (solo cambio)](https://www.facebook.com/marketplace/item/1401687915011605) — GRATIS — Vendedor: Jonh Lopez
+- 2026-10-04 12:50 — [Dragónball Fighters Z Nintendo switch](https://www.facebook.com/marketplace/item/1123092626834801) — GRATIS — Vendedor: David Gael
+- 2026-10-01 14:46 — [Xenoblade chronicles 3](https://www.facebook.com/marketplace/item/1422113766728890) — GRATIS — Vendedor: Eros Celis
+- 2026-09-24 15:42 — [Juegos de nintendo switch](https://www.facebook.com/marketplace/item/1639008717651366) — GRATIS — Vendedor: Briann A Morales
+- 2026-09-17 16:42 — [Juegos de Nintendo Switch](https://www.facebook.com/marketplace/item/1397451238581525) — GRATIS — Vendedor: Irma Rubi Moyoroqui Garcia
+- 2026-09-02 16:16 — [Juegos Nintendo Switch](https://www.facebook.com/marketplace/item/1050839547780159) — GRATIS — Vendedor: Jairo Soto Castro
+- 2026-08-29 11:18 — [Juegos de Nintendo switch](https://www.facebook.com/marketplace/item/2184676089595680) — GRATIS — Vendedor: Angel Eden
+- 2026-08-13 21:20 — [JUEGOS DE NINTENDO SWITCH](https://www.facebook.com/marketplace/item/1966727128048899) — GRATIS — Vendedor: Yankarlo Gi
+- 2026-08-04 00:45 — [Dark Souls Nintendo Switch - Busco](https://www.facebook.com/marketplace/item/1836410194190576) — GRATIS — Vendedor: Holy Spike
+- 2026-07-23 21:21 — [SE VENDEN JUEGOS DE NINTENDO SWITCH](https://www.facebook.com/marketplace/item/2042252020013475) — GRATIS — Vendedor: Carlos Miranda
+- 2026-06-29 22:52 — [Juegos Nintendo switch el precio es depende del juego](https://www.facebook.com/marketplace/item/1011983814885447) — GRATIS — Vendedor: Antoni Tony
+- 2026-06-01 10:12 — [Juegos Nintendo switch diferentes precios](https://www.facebook.com/marketplace/item/1731000428070400) — GRATIS — Vendedor: Antonio Lopez
+- 2026-06-01 10:12 — [Juegos Nintendo switch precios de 300 a 650](https://www.facebook.com/marketplace/item/1288832399990849) — GRATIS — Vendedor: Antonio Lopez
+- 2026-05-28 14:20 — [Juegos switch baratos, pregunten por el que les interese](https://www.facebook.com/marketplace/item/2079726366231483) — GRATIS — Vendedor: Antonio Lopez
+- 2026-04-23 11:49 — [Videojuegos Nintendo switch](https://www.facebook.com/marketplace/item/730502636819043) — GRATIS — Vendedor: Abraham Peralta Sr.
+- 2026-04-07 14:12 — [Cambio por Mario kart 8 deluxe](https://www.facebook.com/marketplace/item/933004269370716) — GRATIS — Vendedor: Marisela Verdugo
+- 2026-04-06 18:32 — [Juegos de nintendo Switch](https://www.facebook.com/marketplace/item/2666128727091482) — GRATIS — Vendedor: Lizarraga Maria
+- 2026-02-20 14:44 — [Juego para Switch](https://www.facebook.com/marketplace/item/1552908715811198) — GRATIS — Vendedor: Maria Herrera
+- 2026-01-09 22:21 — [Busco Mario 3DWORLD](https://www.facebook.com/marketplace/item/1303980801495849) — GRATIS — Vendedor: Briann A Morales
+- 2026-09-25 13:03 — [Juegos disponibles de switch $$$](https://www.facebook.com/marketplace/item/1615696696697124) — $1 — Vendedor: Paulina Flores
+- 2026-09-12 14:54 — [Cambio juegos de nintendo switch](https://www.facebook.com/marketplace/item/1055282760643281) — $1 — Vendedor: Ele Gand
+- 2026-09-12 14:54 — [Vendo o cambio juegos de nintendo switch](https://www.facebook.com/marketplace/item/1098814525918232) — $1 — Vendedor: Ele Gand
+- 2026-07-28 16:56 — [Juegos de Playstation y Nintendo switch](https://www.facebook.com/marketplace/item/2541998109596896) — $1 — Vendedor: Alexis Arturo Osuna Acosta
+- 2026-07-05 22:10 — [Juego Nintendo Switch](https://www.facebook.com/marketplace/item/3155387814659816) — $1 — Vendedor: JA Neth
+- 2026-10-09 15:11 — [Juegos Nintendo switch!](https://www.facebook.com/marketplace/item/1423383919121188) — $5 — Vendedor: Heber Barraza
+- 2026-08-04 11:50 — [Juego para nintendo switch barato](https://www.facebook.com/marketplace/item/1312614357612432) — $111 — Vendedor: Chappy Chappy
+- 2026-03-18 20:23 — [Juego Mario + Rabbids para Nintendo SWITCH 1,2](https://www.facebook.com/marketplace/item/2273773806479903) — $123 — Vendedor: Berenays Luque
+- 2026-03-02 12:32 — [Juegos de Nintendo switch](https://www.facebook.com/marketplace/item/1228216336175686) — $123 — Vendedor: Cinthya Olguin
+- 2026-11-07 11:54 — [Jumanji  juego para nintendo switch](https://www.facebook.com/marketplace/item/1443398463915787) — $300 — Vendedor: Axel Luna
+- 2026-11-07 11:54 — [Sonic Forces  juego para nintendo switch](https://www.facebook.com/marketplace/item/1801356534410025) — $300 — Vendedor: Axel Luna
+- 2026-10-26 19:28 — [Juegos para nintendo switch](https://www.facebook.com/marketplace/item/2148673966585662) — $300 — Vendedor: Irving Alvarez Velazquez
+- 2026-10-20 11:15 — [Juego Jumanji Para Nintendo Switch con caja $400](https://www.facebook.com/marketplace/item/1900872631276899) — $300 — Vendedor: Axel Luna
+- 2026-10-07 18:08 — [Juegos switch solo son el cartucho sin caja en 300$ cada uno](https://www.facebook.com/marketplace/item/1147859914482578) — $300 — Vendedor: Antonio Lopez
+- 2026-05-02 16:10 — [Videojuego para Nintendo switch](https://www.facebook.com/marketplace/item/1675512033869112) — $300 — Vendedor: Briventas Vz
+- 2026-11-08 16:06 — [Se venden o se cambian por videojuegos de switch 1 o 2](https://www.facebook.com/marketplace/item/4566639680214982) — $350 — Vendedor: Jose Rios
+- 2026-10-21 15:30 — [Team Sonic Racing Switch](https://www.facebook.com/marketplace/item/1801917924332191) — $350 — Vendedor: Teo Teodorovich
+- 2026-10-15 09:09 — [Juego de Jumanji para Nintendo switch](https://www.facebook.com/marketplace/item/2178005906474107) — $350 — Vendedor: Daniela Gutierrez
+- 2026-10-07 18:07 — [Juegos switch solo son el cartucho sin caja en 350$ cada uno](https://www.facebook.com/marketplace/item/1102496795855387) — $350 — Vendedor: Antonio Lopez
+- 2026-06-29 22:45 — [Juegos Nintendo switch sin caja en 350 cada uno](https://www.facebook.com/marketplace/item/1331141795266315) — $350 — Vendedor: Antonio Lopez
+- 2026-03-25 20:47 — [Mortal kombat switch](https://www.facebook.com/marketplace/item/1454866936340286) — $350 — Vendedor: Marco Antonio
+- 2026-11-05 14:04 — [🔥 **¡VIDEOJUEGOS PARA NINTENDO SWITCH EN VENTA!** 🔥](https://www.facebook.com/marketplace/item/1792197435384234) — $400 — Vendedor: Yahir Lerma
+- 2026-10-26 09:30 — [Minecratf juego para nintendo switch](https://www.facebook.com/marketplace/item/3011381202536563) — $400 — Vendedor: Jose Castr
+- 2026-10-26 07:57 — [Minecratf  juego para nintendo switch](https://www.facebook.com/marketplace/item/1096121753226088) — $400 — Vendedor: Jose Cass
+- 2026-10-25 10:13 — [Juegos para nintendo switch](https://www.facebook.com/marketplace/item/1123778276674357) — $400 — Vendedor: Noeli Grajeda
+- 2026-10-23 21:57 — [3 Juegos para nintendo switch en sus cajas los tres x $900 o 400 c/u](https://www.facebook.com/marketplace/item/28753549204313379) — $400 — Vendedor: Miguel A-c
+- 2026-10-23 09:02 — [Minecraft para nintendo switch $500](https://www.facebook.com/marketplace/item/2164941390802606) — $400 — Vendedor: Axel Luna
+- 2026-10-15 09:07 — [Juego Sonic forces de Nintendo switch](https://www.facebook.com/marketplace/item/4643521429301940) — $400 — Vendedor: Daniela Gutierrez
+- 2026-10-15 09:05 — [Juego Minecraft de Nintendo switch](https://www.facebook.com/marketplace/item/1372675438022186) — $400 — Vendedor: Daniela Gutierrez
+- 2026-10-10 18:06 — [Persona 5 Royal nintendo switch](https://www.facebook.com/marketplace/item/2312117519555499) — $400 — Vendedor: Adilene Dimas Rodriguez
+- 2026-10-07 18:06 — [Juegos switch solo son el cartucho sin caja en 400$ cada uno](https://www.facebook.com/marketplace/item/1672394670909520) — $400 — Vendedor: Antonio Lopez
+- 2026-10-06 12:00 — [BUSCO Pokémon Perla Brillante Nintendo Switch](https://www.facebook.com/marketplace/item/1429739015814163) — $400 — Vendedor: Rigo Mora
+- 2026-09-13 17:33 — [Se vende o se cambia por videojuegos de switch 1 y 2](https://www.facebook.com/marketplace/item/1096578389686317) — $400 — Vendedor: Jose Rios
+- 2026-09-12 10:42 — [Juegos de Nintendo switch](https://www.facebook.com/marketplace/item/1076396768655574) — $400 — Vendedor: Francisco González
+- 2026-06-30 15:33 — [JUEGOS NINTENDO SWITCH](https://www.facebook.com/marketplace/item/1122588276871841) — $400 — Vendedor: Juan Alonso
+- 2026-06-29 22:45 — [Juegos Nintendo switch sin caja en 400 cada uno](https://www.facebook.com/marketplace/item/1403249024965788) — $400 — Vendedor: Antonio Lopez
+- 2026-06-19 14:17 — [Vendo o cambio juego  nintendo switch plantas vs zombies](https://www.facebook.com/marketplace/item/1542651004036371) — $400 — Vendedor: Gehovany Quevedo
+- 2026-06-15 14:40 — [Dragon Ball FighterZ para Switch](https://www.facebook.com/marketplace/item/985266987598836) — $400 — Vendedor: Maria Beatriz Valenzuela
+- 2026-06-15 14:36 — [Dragon Ball FighterZ para Switch](https://www.facebook.com/marketplace/item/958898993905269) — $400 — Vendedor: Maria Beatriz Valenzuela
+- 2026-10-14 11:18 — [Juego para nintendo switch Minecraft](https://www.facebook.com/marketplace/item/1828072735199656) — $450 — Vendedor: Jose Cass
+- 2026-10-11 13:05 — [Sonic Forces para nintendo switch](https://www.facebook.com/marketplace/item/1647524947084183) — $450 — Vendedor: Jose Cass
+- 2026-10-07 18:01 — [Juegos Nintendo switch 450 cada uno](https://www.facebook.com/marketplace/item/1598449138628378) — $450 — Vendedor: Antonio Lopez
+- 2026-08-13 21:21 — [JUEGOS DE NINTENDO SWITCH](https://www.facebook.com/marketplace/item/2414363472306872) — $450 — Vendedor: Yankarlo Gi
+- 2026-04-18 10:51 — [Mortal Kombat 11 Nintendo Switch.](https://www.facebook.com/marketplace/item/1004236295504613) — $450 — Vendedor: Andres Apodaca
+- 2025-10-23 07:11 — [Juegos Nintendo switch](https://www.facebook.com/marketplace/item/1143880284380678) — $450 — Vendedor: Abel Galindo
+- 2026-10-15 14:59 — [Juegos nintendo swich](https://www.facebook.com/marketplace/item/1091363723742296) — $499 — Vendedor: Jesus Cota
+- 2026-11-09 22:02 — [Pokémon sword](https://www.facebook.com/marketplace/item/2583687232099404) — $500 — Vendedor: Alejandro Cital Garcia
+- 2026-11-07 20:48 — [Minecraft DUNGEONS ( Nintendo switch )](https://www.facebook.com/marketplace/item/2868399820208821) — $500 — Vendedor: Jorge A Armenta Payan
+- 2026-10-21 14:48 — [Splatoon3](https://www.facebook.com/marketplace/item/1845744963447513) — $500 — Vendedor: Luis Novoa
+- 2026-10-17 14:50 — [Crash Bandicoot N. Sane Trilogy para Nintendo Switch](https://www.facebook.com/marketplace/item/1108953815206541) — $500 — Vendedor: Teo Teodorovich
+- 2026-10-17 14:48 — [Crash Team Racing Nitro Fueled para Nintendo Switch](https://www.facebook.com/marketplace/item/1411600887273808) — $500 — Vendedor: Teo Teodorovich
+- 2026-10-09 11:36 — [Minecraft para nintendo switch $500](https://www.facebook.com/marketplace/item/1070036992574829) — $500 — Vendedor: Juan Soto
+- 2026-10-07 18:05 — [Juegos switch solo son el cartucho sin caja en 500$ cada uno](https://www.facebook.com/marketplace/item/1052818837738320) — $500 — Vendedor: Antonio Lopez
+- 2026-10-07 16:49 — [Zelda breath of the wild](https://www.facebook.com/marketplace/item/1593979252213987) — $500 — Vendedor: David Cañedo
+- 2026-09-16 15:23 — [Minecraft para nintendo switch](https://www.facebook.com/marketplace/item/3619172038246284) — $500 — Vendedor: Ele Gand
+- 2026-09-16 14:38 — [Mario Party SuperStars](https://www.facebook.com/marketplace/item/1999560334019917) — $500 — Vendedor: Luis Ricardo
+- 2026-09-14 16:51 — [Juegos de Nintendo Switch](https://www.facebook.com/marketplace/item/38497887106523967) — $500 — Vendedor: Mayra Pelayo Uribe
+- 2026-09-07 18:36 — [Juegos de switch solo cartuchos en 500 cada uno](https://www.facebook.com/marketplace/item/1116747290779961) — $500 — Vendedor: Antonio Lopez
+- 2026-09-05 21:15 — [FIFA 23 Legacy Nintendo Switch](https://www.facebook.com/marketplace/item/2340236606831195) — $500 — Vendedor: Alan Roberto Quiroz
+- 2026-08-26 12:02 — [Mortal kombat 1 de nintendo switch](https://www.facebook.com/marketplace/item/910444001688869) — $500 — Vendedor: Pedro Escalante
+- 2026-08-13 14:38 — [Mario vs Donkey Kong Nintendo switch](https://www.facebook.com/marketplace/item/1029108453443066) — $500 — Vendedor: Alejo Lopez
+- 2026-07-30 22:27 — [Juegos nintendo switch smash mario kart sonic minecraft dragon ball](https://www.facebook.com/marketplace/item/2569850623461614) — $500 — Vendedor: Vicente Munguia
+- 2026-07-14 16:08 — [Juegos de Nintendo Switch](https://www.facebook.com/marketplace/item/2250259419072660) — $500 — Vendedor: Sebastián Nozato
+- 2026-06-22 14:57 — [Juego Nintendo switch](https://www.facebook.com/marketplace/item/2108914403172661) — $500 — Vendedor: Cesar Rosas
+- 2026-06-16 11:22 — [Splatoon 2 Nintendo Switch (buen estado)](https://www.facebook.com/marketplace/item/1504494864710611) — $500 — Vendedor: Miguel Armenta
+- 2026-06-01 10:12 — [Juegos switch 500 cada uno](https://www.facebook.com/marketplace/item/1296534809261594) — $500 — Vendedor: Antonio Lopez
+- 2026-05-01 13:36 — [Juegos switch](https://www.facebook.com/marketplace/item/2533837753697848) — $500 — Vendedor: Arodi Arau Gutierrez
+- 2026-03-19 12:43 — [Juegos para Nintendo switch](https://www.facebook.com/marketplace/item/918194384458454) — $500 — Vendedor: Lupytha Leyva Boutiq
+- 2026-03-19 12:43 — [Juegos de nintendo switch](https://www.facebook.com/marketplace/item/943877698437181) — $500 — Vendedor: Lupytha Leyva Boutiq
+- 2026-01-03 12:45 — [Joycons y juegos switch](https://www.facebook.com/marketplace/item/2092581798162307) — $500 — Vendedor: Daniel Soto
+- 2026-11-03 12:47 — [Animal Crossing: New Horizons](https://www.facebook.com/marketplace/item/1870903497444882) — $550 — Vendedor: Jose Zuniga
+- 2026-10-07 17:59 — [Juegos Nintendo switch 550 cada uno](https://www.facebook.com/marketplace/item/1890370088901509) — $550 — Vendedor: Antonio Lopez
+- 2026-10-01 19:55 — [Pokémon espada](https://www.facebook.com/marketplace/item/1625291998961200) — $550 — Vendedor: Daniel Castro
+- 2026-06-29 22:45 — [Juegos Nintendo switch sin caja en 550 cada uno](https://www.facebook.com/marketplace/item/4514489818796173) — $550 — Vendedor: Antonio Lopez
+- 2026-05-03 12:17 — [FC 24 PARA NINTENDO SWITCH](https://www.facebook.com/marketplace/item/1721319215696984) — $550 — Vendedor: Roger Valenzuela
+- 2026-10-23 00:13 — [Juegos Nintendo switch 1000 los dos](https://www.facebook.com/marketplace/item/1112175067883874) — $599 — Vendedor: Daniel Eg
+- 2026-11-04 16:17 — [Súper Mario Party Jamboree para Nintendo switch](https://www.facebook.com/marketplace/item/2172840269969046) — $600 — Vendedor: Frank Corrales
+- 2026-10-25 11:54 — [Super smash bros ultimate y super mario party!](https://www.facebook.com/marketplace/item/1948170879483296) — $600 — Vendedor: Francisco Castro
+- 2026-10-17 17:42 — [Mario party Nintendo switch](https://www.facebook.com/marketplace/item/1746807396429143) — $600 — Vendedor: Alexia Ruiz
+- 2026-10-15 14:22 — [Juegos para switch](https://www.facebook.com/marketplace/item/2165126684436000) — $600 — Vendedor: Cristina Sauceda
+- 2026-09-26 12:08 — [Juego Nintendo switch Yoshis](https://www.facebook.com/marketplace/item/4537108653231578) — $600 — Vendedor: Kc Ruiz
+- 2026-09-20 16:16 — [Juegos para Nintendo Switch / Assassin's creed IV y Rouge](https://www.facebook.com/marketplace/item/2354559895373872) — $600 — Vendedor: Rolf Garza Hampl
+- 2026-09-20 16:04 — [Pokemon arceus](https://www.facebook.com/marketplace/item/1916708206372629) — $600 — Vendedor: Sergio Leal Montiel
+- 2026-09-16 15:22 — [Mario kart 8 deluxe](https://www.facebook.com/marketplace/item/4635168476715462) — $600 — Vendedor: Ele Gand
+- 2026-09-15 12:18 — [juegos switch](https://www.facebook.com/marketplace/item/28141263685566104) — $600 — Vendedor: Gael Pineda
+- 2026-09-11 08:19 — [Juegos de nintendo Switch, vendo o cambio](https://www.facebook.com/marketplace/item/1392850498968783) — $600 — Vendedor: Luis Joestar
+- 2026-08-04 10:08 — [Juegos switch](https://www.facebook.com/marketplace/item/1078841185089427) — $600 — Vendedor: Ivan Quintero
+- 2026-07-27 21:41 — [Smash Ultimate](https://www.facebook.com/marketplace/item/1286424016711906) — $600 — Vendedor: Sylveon Evie Camila Valdez
+- 2026-06-29 22:45 — [Juegos Nintendo switch en 600 cada uno](https://www.facebook.com/marketplace/item/2549571448798579) — $600 — Vendedor: Antonio Lopez
+- 2026-06-01 16:09 — [Super smash bros ultimate](https://www.facebook.com/marketplace/item/858395183431378) — $600 — Vendedor: Lupita Morales
+- 2026-05-07 17:28 — [Videojuego splatoon 2 para Nintendo switch](https://www.facebook.com/marketplace/item/1004877451887327) — $600 — Vendedor: Cesar Garcia
+- 2026-04-19 16:29 — [Juegos de nintendo swich  600 cada uno](https://www.facebook.com/marketplace/item/2242193869917821) — $600 — Vendedor: Lorenia Leon
+- 2026-01-16 18:38 — [Juegos de switch $](https://www.facebook.com/marketplace/item/1559651945373112) — $600 — Vendedor: Carlos Avila
+- 2026-11-04 18:35 — [Pokemon Legends Arceus](https://www.facebook.com/marketplace/item/1848807702788550) — $650 — Vendedor: Mukuy Castro
+- 2026-10-30 07:47 — [Zelda Breath of the wild ✅🕹️](https://www.facebook.com/marketplace/item/1768085400945763) — $650 — Vendedor: Ricardo Beltrán
+- 2026-10-30 07:47 — [Zelda Tears of the kingdoms](https://www.facebook.com/marketplace/item/2371255406973559) — $650 — Vendedor: Ricardo Beltrán
+- 2026-10-18 13:42 — [Mario 3D Worl](https://www.facebook.com/marketplace/item/1268595388754929) — $650 — Vendedor: Robles Jazive
+- 2026-10-14 12:00 — [Vendo juegos de nintendo switch](https://www.facebook.com/marketplace/item/2265990300980992) — $650 — Vendedor: Nauj Bojórquez de la Cruz
+- 2026-10-10 08:48 — [Pokémon Escudo Nintendo Switch](https://www.facebook.com/marketplace/item/1128690802820437) — $650 — Vendedor: Ricardo Beltrán
+- 2026-10-07 17:59 — [Juegos Nintendo switch 650 cada uno](https://www.facebook.com/marketplace/item/1123503923361883) — $650 — Vendedor: Antonio Lopez
+- 2026-10-06 17:16 — [Juego nintendo Swith Mario wonder](https://www.facebook.com/marketplace/item/1174548065169794) — $650 — Vendedor: Jack Wein
+- 2026-09-22 14:28 — [Videojuego Animal Crossing new horizons para Nintendo switch](https://www.facebook.com/marketplace/item/2150729799183484) — $650 — Vendedor: Citlaly Cinco
+- 2026-07-26 17:27 — [Juegos switch 650 cada uno](https://www.facebook.com/marketplace/item/1543523994169947) — $650 — Vendedor: Antonio Lopez
+- 2026-06-01 10:12 — [Juegos baratos para switch 650 cada uno](https://www.facebook.com/marketplace/item/1711947366671449) — $650 — Vendedor: Antonio Lopez
+- 2026-04-24 13:07 — [Juegos Nintendo Swich](https://www.facebook.com/marketplace/item/1332308562078399) — $650 — Vendedor: Angel Navarrete
+- 2026-11-10 01:31 — [Super Smash Bros Ultimate](https://www.facebook.com/marketplace/item/919927587752968) — $700 — Vendedor: Yahir Lerma
+- 2026-11-09 11:38 — [Juegos nintendo switch](https://www.facebook.com/marketplace/item/2282702859247683) — $700 — Vendedor: Sebastián H Vidales
+- 2026-11-01 19:42 — [Mario Kart 8 Deluxe](https://www.facebook.com/marketplace/item/1115096998014298) — $700 — Vendedor: Diego LV
+- 2026-10-18 13:40 — [Mario Kart 8deluxe](https://www.facebook.com/marketplace/item/1443474684372719) — $700 — Vendedor: Robles Jazive
+- 2026-10-08 15:17 — [Juego para switch](https://www.facebook.com/marketplace/item/1830375724751885) — $700 — Vendedor: Ingrid Daniela Osorio Carreon
+- 2026-09-26 19:06 — [Zelda Nintendo switch](https://www.facebook.com/marketplace/item/2161351368108641) — $700 — Vendedor: Karla Yocupicio
+- 2026-09-26 19:03 — [Videojuego Nintendo switch](https://www.facebook.com/marketplace/item/1972051523753417) — $700 — Vendedor: Karla Yocupicio
+- 2026-09-18 22:22 — [Mario Party Superstars](https://www.facebook.com/marketplace/item/1024549583966819) — $700 — Vendedor: Luis Angel IR
+- 2026-08-26 19:16 — [Super Mario 3d world + bowser's fury](https://www.facebook.com/marketplace/item/4742653442685606) — $700 — Vendedor: Ventas Gustavo
+- 2026-08-21 13:13 — [Super Mario Bros Wonder](https://www.facebook.com/marketplace/item/1083719780785737) — $700 — Vendedor: Stargames Valenzuela
+- 2026-08-19 02:38 — [Juego Para Nintendo SWITCH 1 Está En Excelentes Condiciones Ya para jugar](https://www.facebook.com/marketplace/item/1537139601546605) — $700 — Vendedor: Emmanuel Enciso
+- 2026-08-11 12:27 — [Mario kart 8 deluxe $700 Súper Mario wonder $700 O dos por 1200](https://www.facebook.com/marketplace/item/3241002829575487) — $700 — Vendedor: J Renato Imperial
+- 2026-08-08 17:02 — [Juegos para Nintendo Swich a diferentes precios](https://www.facebook.com/marketplace/item/2248837779248045) — $700 — Vendedor: Luis Emiliano
+- 2026-07-21 20:29 — [Mario Party Superstars (Nuevo Sellado)](https://www.facebook.com/marketplace/item/1019902924186868) — $700 — Vendedor: Sergio Inzunza
+- 2026-07-21 17:47 — [Mario 3d World](https://www.facebook.com/marketplace/item/908169665012342) — $700 — Vendedor: Erick Alberto Lugo Lizarraga
+- 2026-07-08 17:26 — [Juegos Nintendo Switch, Mario Strikers Battle League y Civilization VI](https://www.facebook.com/marketplace/item/1314030487381556) — $700 — Vendedor: Oliver Castro
+- 2026-06-22 20:20 — [Mario kart 8 deluxe](https://www.facebook.com/marketplace/item/862610210256053) — $700 — Vendedor: Bianey Alejandra Muñoz Herrera
+- 2026-06-22 20:17 — [Súper Mario party](https://www.facebook.com/marketplace/item/1569239354617009) — $700 — Vendedor: Bianey Alejandra Muñoz Herrera
+- 2026-06-07 07:37 — [Juegos de Nintendo Switch](https://www.facebook.com/marketplace/item/2610067746074053) — $700 — Vendedor: Aaron Medina
+- 2026-03-06 11:27 — [Mario kart 8 seminuevo](https://www.facebook.com/marketplace/item/1406825884011335) — $700 — Vendedor: Sebastian Souza
+- 2026-11-03 19:03 — [Videojuegos Nintendo switch No more héroes, spyro, Cosmic invasión , epic Mickey](https://www.facebook.com/marketplace/item/1433865802261304) — $750 — Vendedor: Iram A. Payan
+- 2026-10-30 11:17 — [Juego Arceus](https://www.facebook.com/marketplace/item/2185199718871499) — $750 — Vendedor: Day Tec
+- 2026-10-28 17:58 — [Sonic x Shadow Generations juego Nintendo switch](https://www.facebook.com/marketplace/item/1831852888014883) — $750 — Vendedor: Janeth Gutierrez
+- 2026-10-28 17:54 — [Omori juego Nintendo switch](https://www.facebook.com/marketplace/item/1098333916379914) — $750 — Vendedor: Janeth Gutierrez
+- 2026-10-16 17:03 — [Super Mario 3D world + Bowser fury](https://www.facebook.com/marketplace/item/1769880007424268) — $750 — Vendedor: Miguel Serrano
+- 2026-09-24 01:15 — [Zelda tears of the kingdom](https://www.facebook.com/marketplace/item/1061090210101631) — $750 — Vendedor: Mukuy Castro
+- 2026-07-13 15:44 — [Mario Kart 8 Deluxe y Súper Mario Oddysey](https://www.facebook.com/marketplace/item/1305094178279725) — $750 — Vendedor: Jorge Trs
+- 2026-11-05 19:38 — [Legends of zelda tears of the kingdom](https://www.facebook.com/marketplace/item/1932708384376872) — $800 — Vendedor: Mony TO
+- 2026-11-04 17:00 — [Se venden Juegos para Nintendo switch](https://www.facebook.com/marketplace/item/1956339339080429) — $800 — Vendedor: Pau Almada
+- 2026-11-04 16:50 — [Juegos para Nintendo switch](https://www.facebook.com/marketplace/item/1491051216291993) — $800 — Vendedor: Pau Almada
+- 2026-10-31 20:28 — [Dragon quest  1,2 y 3 Dragon quest monsters switch Nintendo](https://www.facebook.com/marketplace/item/993081613199277) — $800 — Vendedor: Iram A. Payan
+- 2026-10-26 22:40 — [Juegos Nintendo Switch](https://www.facebook.com/marketplace/item/2206227536944739) — $800 — Vendedor: Daniel Romero
+- 2026-10-17 12:52 — [Animal crossing juego nintendo switch](https://www.facebook.com/marketplace/item/2635852416858374) — $800 — Vendedor: Martin Miranda Beltrán
+- 2026-09-26 09:29 — [Videojuego Nintendo Splatoon 3](https://www.facebook.com/marketplace/item/1735863357490831) — $800 — Vendedor: Luis Luis
+- 2026-09-06 00:23 — [Juegos para Nintendo swict](https://www.facebook.com/marketplace/item/28723035537327827) — $800 — Vendedor: Karlita Martinez
+- 2026-08-27 16:10 — [Juegos de nintendo switch](https://www.facebook.com/marketplace/item/2237728443469851) — $800 — Vendedor: Ivan Delval
+- 2026-06-27 07:27 — [Super Smash Bros Ultimate](https://www.facebook.com/marketplace/item/2718547848532186) — $800 — Vendedor: Raul Bonifant
+- 2026-06-05 19:35 — [VIDEOJUEGO DE LA FIFA 22 PARA NINTENDO SWITCH.](https://www.facebook.com/marketplace/item/4651900181798770) — $800 — Vendedor: Emmanuel Enciso
+- 2026-06-01 11:36 — [Pokemon Violeta para Nintendo Switch](https://www.facebook.com/marketplace/item/1618359279258319) — $800 — Vendedor: Jose Villegas
+- 2026-05-30 17:43 — [SPLATOON 3 EN FORMATO FISICO EXCELENTE ESTADO](https://www.facebook.com/marketplace/item/1326099439734053) — $800 — Vendedor: Agustin Jaime Izaguirre Valdez
+- 2026-05-15 08:26 — [Animal crossing switch](https://www.facebook.com/marketplace/item/1721048892400778) — $800 — Vendedor: Aarón Martinez Orduño
+- 2026-05-13 13:28 — [Videojuego Para Nintendo Switch 1 FIFA 22](https://www.facebook.com/marketplace/item/1998518117407840) — $800 — Vendedor: Emmanuel Enciso
+- 2026-04-27 09:19 — [SE VENDE POKEMON ARCEUS](https://www.facebook.com/marketplace/item/924431277260357) — $800 — Vendedor: Sebastian Souza
+- 2026-11-03 19:05 — [Bayonetta 3 Nintendo switch](https://www.facebook.com/marketplace/item/4477918492523823) — $850 — Vendedor: Iram A. Payan
+- 2026-10-31 13:16 — [Pokémon let`s go Pikachu! Para nintendo switch -original](https://www.facebook.com/marketplace/item/1802361934323301) — $850 — Vendedor: Alonso Vlz
+- 2026-10-17 14:39 — [Super Mario bros wonder](https://www.facebook.com/marketplace/item/1143510954997593) — $900 — Vendedor: Jose Guadalupe Guerrero Bojorquez
+- 2026-10-17 14:37 — [Animal crossing new horizons](https://www.facebook.com/marketplace/item/2188238512075335) — $900 — Vendedor: Jose Guadalupe Guerrero Bojorquez
+- 2026-09-19 09:50 — [Juegos para Nintendo switch](https://www.facebook.com/marketplace/item/1428218419192454) — $900 — Vendedor: Luis Medina
+- 2026-08-17 00:18 — [Juego de Super Smash Bros ultimate para Nintendo Switch](https://www.facebook.com/marketplace/item/2131322251154822) — $900 — Vendedor: Emmanuel Enciso
+- 2026-04-16 22:28 — [Mario galaxy 1 y 2 nintendo switch](https://www.facebook.com/marketplace/item/1394535312708896) — $900 — Vendedor: Yogi Siames
+- 2026-04-14 06:18 — [Juegos Nintendo switch](https://www.facebook.com/marketplace/item/2038908300378263) — $900 — Vendedor: Christian Lau
+- 2026-03-22 09:10 — [Juego Super Smash Bros Ultimate](https://www.facebook.com/marketplace/item/1612806383306737) — $900 — Vendedor: Adilene Bris
+- 2026-10-17 17:42 — [Juego Zelda Nintendo switch](https://www.facebook.com/marketplace/item/2781219685627548) — $1.000 — Vendedor: Alexia Ruiz
+- 2026-09-21 15:38 — [Juegos Nintendo Switch](https://www.facebook.com/marketplace/item/4155703067895949) — $1.000 — Vendedor: Karyme Medina
+- 2026-09-14 19:23 — [Videojuego Nintendo SWITCH](https://www.facebook.com/marketplace/item/1062797033284695) — $1.000 — Vendedor: Pahu Mendiola
+- 2026-08-27 16:10 — [Juegos de nintendo switch 1 y 2](https://www.facebook.com/marketplace/item/3701239560031403) — $1.000 — Vendedor: Ivan Delval
+- 2026-08-20 11:03 — [Juegos nintendo Switch diferentes precios nuevos y usados](https://www.facebook.com/marketplace/item/4508673346075143) — $1.000 — Vendedor: Stargames Valenzuela
+- 2026-05-08 17:16 — [Juego Para Nintendo Switch 1 Pokémon Lets Go Pikachu.](https://www.facebook.com/marketplace/item/1869956253692200) — $1.000 — Vendedor: Emmanuel Enciso
+- 2026-01-26 15:00 — [Variedad de juegos para Swich](https://www.facebook.com/marketplace/item/2407042423049005) — $1.000 — Vendedor: Jimena Enriquez
+- 2026-11-01 23:14 — [Vendo Word of final fantasy máxima para nintendo switch](https://www.facebook.com/marketplace/item/1630600708807811) — $1.100 — Vendedor: Alonso Vlz
+- 2026-02-21 11:08 — [JUEGOS PARA NINTENDO SWITCH](https://www.facebook.com/marketplace/item/1793623308691880) — $1.111 — Vendedor: Yesenia Recio
+- 2026-08-04 15:15 — [Juegos switch](https://www.facebook.com/marketplace/item/4639623476359925) — $1.200 — Vendedor: Jose Garrido Espinoza
+- 2026-10-17 17:53 — [Juegos para nintendo swich](https://www.facebook.com/marketplace/item/1862650138229242) — $1.234 — Vendedor: Ivan Esteban Moreno Cota
+- 2026-10-11 20:00 — [Juegos para Nintendo Switch](https://www.facebook.com/marketplace/item/1853100459384099) — $1.234 — Vendedor: Lau Uribe
+- 2026-02-15 17:15 — [Juegos Switch Nuevos y usados](https://www.facebook.com/marketplace/item/916717364084000) — $1.234 — Vendedor: Janeth Lara Torres
+- 2026-05-05 08:39 — [Magia en tu nintendo Switch juegos los mas nuevos como fifa 26 mario galaxy 1 y 2  y mas](https://www.facebook.com/marketplace/item/909477242137487) — $1.300 — Vendedor: Vicente Munguia
+- 2026-03-03 09:30 — [Nintendo Switch Normal v1 v2 Lite y OLED picofly limpieza juegos nuevos mario Galaxy](https://www.facebook.com/marketplace/item/870935029234227) — $1.300 — Vendedor: Vicente Munguia
+- 2026-11-02 22:59 — [Súper mario 3D all stars](https://www.facebook.com/marketplace/item/2193035664626799) — $1.500 — Vendedor: Alicia García
+- 2026-10-14 19:26 — [Juegos de switch](https://www.facebook.com/marketplace/item/2410718549756353) — $1.600 — Vendedor: Jesus Mendoza
+- 2026-09-16 15:18 — [Juegos de nintendo switch](https://www.facebook.com/marketplace/item/2105639693368241) — $1.600 — Vendedor: Ele Gand
+- 2026-09-27 19:46 — [Wiiu en perfecto estado con Mario kart 8](https://www.facebook.com/marketplace/item/2249905885552366) — $2.000 — Vendedor: Jose Emanuel Valdes
+- 2026-06-01 11:48 — [Se venden o se cambian juegos de nintendo switch](https://www.facebook.com/marketplace/item/984400087668775) — $2.000 — Vendedor: Jose Villegas
+- 2026-06-01 11:33 — [Juegos para nintendo switch](https://www.facebook.com/marketplace/item/1479474013314815) — $2.000 — Vendedor: Jose Villegas
+- 2026-05-13 14:04 — [Juego De Nintendo Switch 1 FIFA 23](https://www.facebook.com/marketplace/item/3137915989931284) — $2.000 — Vendedor: Emmanuel Enciso
+- 2026-04-12 20:06 — [Discos de Nintendo switch Super Mario 3d world+ Bowsers Fury y Human Fall Flat](https://www.facebook.com/marketplace/item/1632691098047359) — $2.000 — Vendedor: Fabiola Jimenez Sepulveda
+- 2026-03-18 15:20 — [Fire Emblem Engage Divine Edition Switch](https://www.facebook.com/marketplace/item/1559030368537562) — $2.000 — Vendedor: Lizarraga Maria
+- 2026-09-11 14:15 — [Lote de Juegos Físicos Nintendo Switch (Super Mario, Animal Crossing, MK11)](https://www.facebook.com/marketplace/item/1707907784673717) — $2.500 — Vendedor: Sun Kool
+- 2026-06-07 18:32 — [Nintendo Switch Lite Turquesa + Luigi's Mansion 3](https://www.facebook.com/marketplace/item/1231794408901770) — $2.800 — Vendedor: Paulina Montiel
+- 2026-09-24 12:48 — [Nintendo Switch Lite y 2 juegos](https://www.facebook.com/marketplace/item/1990224551642118) — $2.900 — Vendedor: Isaac Ruiz
+- 2026-02-10 09:49 — [Juegos de switch](https://www.facebook.com/marketplace/item/1223880049937841) — $3.030 — Vendedor: Sebastian Souza
+- 2025-10-23 07:09 — [Nintendo switch Oled Zelda](https://www.facebook.com/marketplace/item/1149584227276938) — $3.200 — Vendedor: Abel Galindo
+- 2026-09-14 19:30 — [🎮 6 Juegos Nintendo Switch Originales – Mario, Minecraft, Smash Bros y más](https://www.facebook.com/marketplace/item/2272044660242372) — $3.300 — Vendedor: Francisco Javier Baldenebro Alonso
+- 2026-10-06 21:44 — [Nintendo Switch + 1 Juego a Elegir](https://www.facebook.com/marketplace/item/2353605495465533) — $3.500 — Vendedor: Walter Lopez
+- 2026-10-04 10:56 — [nintendo switch edición zelda: tears of the kingdom y nintendo switch oled](https://www.facebook.com/marketplace/item/1087838933955803) — $3.700 — Vendedor: Luis Peraza
+- 2026-09-17 21:04 — [Nintendo Switch Oled edición Mario Red](https://www.facebook.com/marketplace/item/1054237120824334) — $3.800 — Vendedor: Allan E Ramirez G
+- 2026-09-09 16:51 — [Nintendo switch animal crossing](https://www.facebook.com/marketplace/item/2082470789021479) — $4.000 — Vendedor: Hugo Angel Vega
+- 2026-08-06 19:31 — [Nintendo switch versión Zelda](https://www.facebook.com/marketplace/item/4560016284237155) — $4.000 — Vendedor: Víctor Hernández
+- 2026-06-17 11:21 — [Nintendo switch Animal Crossing + Mario Kart](https://www.facebook.com/marketplace/item/1323196273251910) — $4.000 — Vendedor: Luzmary Castro
+- 2025-03-23 20:32 — [Nintendo Switch de Animal Crossing](https://www.facebook.com/marketplace/item/556559580184160) — $4.000 — Vendedor: Lizarraga Maria
+- 2026-09-24 18:06 — [Nintendo switch oled versión pokemon escarlata y purpura](https://www.facebook.com/marketplace/item/1844730653606798) — $4.200 — Vendedor: Alejo Lopez
+- 2026-08-04 13:49 — [Nintendo switch oled, edicion the legend of Zelda](https://www.facebook.com/marketplace/item/1375842323966472) — $4.500 — Vendedor: Lizárraga Jose
+- 2026-10-08 15:35 — [Nintendo switch edición Mario wonder Nuevo en caja sellado, juego digital incluido](https://www.facebook.com/marketplace/item/2260578308133534) — $4.999 — Vendedor: Paulina Flores
+- 2026-09-17 18:07 — [Nintendo switch OLED ( versión internacional) + Mario party + Mario kart](https://www.facebook.com/marketplace/item/1078800448447100) — $4.999 — Vendedor: Alejandro Cabrera
+- 2026-11-03 13:28 — [Nintendo switch oled Zelda edición](https://www.facebook.com/marketplace/item/1428575159447513) — $5.000 — Vendedor: Iram A. Payan
+- 2026-07-03 17:48 — [Nintendo switch Oled con Fc 25 de regalo](https://www.facebook.com/marketplace/item/4547445642248871) — $5.000 — Vendedor: Tadeo Lopez
+- 2026-03-25 12:21 — [Juegos Nintendo Switch](https://www.facebook.com/marketplace/item/1690604671965133) — $5.000 — Vendedor: Miguel Armenta
+- 2026-09-28 12:08 — [Nintendo switch , viene con super smash y animal crossing](https://www.facebook.com/marketplace/item/946741205170598) — $5.800 — Vendedor: Ernesto Lugo
+- 2026-07-18 09:25 — [Juegos switch](https://www.facebook.com/marketplace/item/1083339554120306) — $5.858 — Vendedor: Sebastian Souza
+- 2026-03-09 19:07 — [Juegos nintendo Switch](https://www.facebook.com/marketplace/item/975627401697451) — $5.858 — Vendedor: Sebastian Souza
+- 2026-02-24 16:38 — [Juegos de nintendo Switch](https://www.facebook.com/marketplace/item/1930591057828672) — $5.858 — Vendedor: Sebastian Souza
+- 2026-02-16 15:57 — [Juegos Switch](https://www.facebook.com/marketplace/item/793598037131513) — $5.858 — Vendedor: Sebastian Souza
+- 2026-02-05 16:18 — [Se venden juegos de switch](https://www.facebook.com/marketplace/item/883225261084040) — $5.858 — Vendedor: Sebastian Souza
+- 2025-11-08 16:41 — [Juegos de Switch](https://www.facebook.com/marketplace/item/24908718215421556) — $5.858 — Vendedor: Sebastian Souza
+- 2026-11-03 14:35 — [Nintendo Switch  Oled : Zelda versión ( sin detalles ) como nuevos](https://www.facebook.com/marketplace/item/1144968241315530) — $6.200 — Vendedor: Jorge A Armenta Payan
+- 2026-09-08 19:18 — [Nintendo Switch versión zelda](https://www.facebook.com/marketplace/item/1082876897479127) — $6.500 — Vendedor: Yunive Gastelum
+- 2026-03-19 08:18 — [Nintendo Switch - Edicion Especial Zelda](https://www.facebook.com/marketplace/item/4355153221397851) — $6.500 — Vendedor: Gerardo Lopez
+- 2026-09-05 08:14 — [juegos nintendo switch](https://www.facebook.com/marketplace/item/1228691096114429) — $7.000 — Vendedor: Sebastian Souza
+- 2026-02-22 17:41 — [Nintendo Switch Oled Splatoon Edition](https://www.facebook.com/marketplace/item/2926589670868139) — $7.000 — Vendedor: Alejandro Aguilar
+- 2026-08-27 15:36 — [Nintendo switch oled edición Zelda TOTK](https://www.facebook.com/marketplace/item/1039972765541092) — $8.000 — Vendedor: Carlos Miranda
+- 2026-05-13 13:23 — [Nintendo switch 1era generación edición oled Pokémon](https://www.facebook.com/marketplace/item/1313032654254264) — $8.000 — Vendedor: David Arvizu
+- 2026-02-02 12:20 — [Juegos nintendo switch](https://www.facebook.com/marketplace/item/1842225173101374) — $9.090 — Vendedor: Sebastian Souza
+- 2026-01-26 15:31 — [Juegos de switch](https://www.facebook.com/marketplace/item/1188754713328150) — $9.999 — Vendedor: Sebastian Souza
+- 2026-10-17 16:44 — [Nintendo switch y juegos baratos, todo junto o juegos individuales $$$](https://www.facebook.com/marketplace/item/1157355450304678) — $12.345 — Vendedor: Mario Vasquez

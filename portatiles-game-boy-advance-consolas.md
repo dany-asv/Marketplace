@@ -3,11 +3,11 @@
 Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa, clasificados según las reglas del grupo Mundo Retro.
 
 - Las consolas en sí, incluyendo paquetes con juegos y controles.
-- Ordenados de más actual a más viejo según la fecha y hora de publicación (hora de Los Mochis).
+- Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
 Total: 1 anuncios disponibles.
 
-## Disponibles (de más actual a más viejo)
+## Disponibles (de menor a mayor precio)
 
-- 2026-01-04 23:14 — [Gameboy advance](https://www.facebook.com/marketplace/item/1238128581525946) — Vendedor: Jose Martinez Rivera
+- 2026-01-04 23:14 — [Gameboy advance](https://www.facebook.com/marketplace/item/1238128581525946) — GRATIS — Vendedor: Jose Martinez Rivera
