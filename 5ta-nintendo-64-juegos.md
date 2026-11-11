@@ -6,11 +6,12 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 12 anuncios disponibles.
+Total: 13 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
 - 2026-11-11 08:46 — [Juegos Nintendo 64 originales $200 c/u](https://www.facebook.com/marketplace/item/4154199678203621) — $200 — Vendedor: Jano Sarabia
+- 2026-10-25 10:11 — [Turok N64](https://www.facebook.com/marketplace/item/1801351704248679) — $200 — Vendedor: Chito Hernandez
 - 2026-08-06 15:26 — [Nintendo 64 juegos.](https://www.facebook.com/marketplace/item/1382440100737347) — $250 — Vendedor: José Miguel
 - 2026-11-11 08:42 — [Juegos Nintendo 64 originales $300 c/u](https://www.facebook.com/marketplace/item/1088135204217850) — $300 — Vendedor: Jano Sarabia
 - 2026-08-25 16:07 — [Juegos NINTENDO 64](https://www.facebook.com/marketplace/item/1581166353465488) — $300 — Vendedor: Daniel Torres
