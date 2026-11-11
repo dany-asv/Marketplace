@@ -67,8 +67,8 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Accesorios](6ta-xbox-clasico-accesorios.md) — 1 anuncios
 - 7ma generación:
   - Wii:
-    - [Consolas](7ma-wii-consolas.md) — 16 anuncios
-    - [Juegos](7ma-wii-juegos.md) — 6 anuncios
+    - [Consolas](7ma-wii-consolas.md) — 17 anuncios
+    - [Juegos](7ma-wii-juegos.md) — 5 anuncios
     - [Accesorios](7ma-wii-accesorios.md) — 6 anuncios
   - PlayStation 3 (PS3):
     - [Consolas](7ma-ps3-consolas.md) — 9 anuncios
