@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 21 anuncios disponibles.
+Total: 22 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -15,6 +15,7 @@ Total: 21 anuncios disponibles.
 - 2026-09-17 11:18 — [Cambio ps4 pro 4 juegos 1 control y $1000 por moto](https://www.facebook.com/marketplace/item/1811652246955558) — $123 — Vendedor: Alfredo Chávez
 - 2026-09-17 11:10 — [Cambio ps4 pro 4 juegos 1 control y 1000 pesos por moto](https://www.facebook.com/marketplace/item/1417475883875064) — $123 — Vendedor: Alfredo Chávez
 - 2026-05-19 19:59 — [Videojuegos para ps4/venta/cambio por control en buen estado](https://www.facebook.com/marketplace/item/854196450437974) — $300 — Vendedor: Francisco Ct
+- 2026-11-11 02:21 — [Controles inalambricos para Playstation4](https://www.facebook.com/marketplace/item/1167456929275365) — $400 — Vendedor: Miguel Lozano
 - 2026-11-05 19:27 — [Control ps4](https://www.facebook.com/marketplace/item/29251037347853144) — $500 — Vendedor: Carlos Orduño
 - 2026-10-14 17:14 — [Controles de ps4](https://www.facebook.com/marketplace/item/4062297833902249) — $500 — Vendedor: Israel Arellanes Flores
 - 2026-10-05 10:17 — [fifia 2022 y mando de ps4 cambio o vendo](https://www.facebook.com/marketplace/item/1029803073447350) — $600 — Vendedor: Israel Arellanes Flores
