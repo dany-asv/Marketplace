@@ -129,9 +129,9 @@ Total: 125 anuncios disponibles.
 - 2026-01-01 14:37 — [Juegos de ps4](https://www.facebook.com/marketplace/item/2931379323734070) — $1.234 — Vendedor: Luis Daniel Miranda Cota
 - 2026-11-05 22:10 — [World of Final Fantasy Collector’s Edition PS4, sin juego](https://www.facebook.com/marketplace/item/1802655614843365) — $1.400 — Vendedor: Francisco Arturo
 - 2026-02-10 09:50 — [Juegos ps4](https://www.facebook.com/marketplace/item/3394160537415025) — $2.000 — Vendedor: Sebastian Souza
+- 2026-11-05 22:14 — [Final Fantasy XII Zodiac Age Collector’s Edition PS4 completa](https://www.facebook.com/marketplace/item/1106295665549699) — $2.400 — Vendedor: Francisco Arturo
 - 2026-10-09 22:08 — [play station 4 y juegos](https://www.facebook.com/marketplace/item/2234054757166393) — $2.800 — Vendedor: Amy Perez
 - 2026-08-13 20:07 — [Juegos ps4](https://www.facebook.com/marketplace/item/1014127154771351) — $3.000 — Vendedor: Juan Garcia
 - 2025-12-31 17:09 — [Video juego PS4](https://www.facebook.com/marketplace/item/2128414791028815) — $3.500 — Vendedor: Luis Sanchez
 - 2026-07-08 17:39 — [Juegos de PS4](https://www.facebook.com/marketplace/item/940986858715826) — $5.499 — Vendedor: HR Boss
 - 2026-01-09 00:22 — [Juegos ps4](https://www.facebook.com/marketplace/item/1399396975121317) — $150.300 — Vendedor: Yamiro Rabago
-- 2026-11-05 22:14 — [Final Fantasy XII Zodiac Age Collector’s Edition PS4 completa](https://www.facebook.com/marketplace/item/1106295665549699) — $2.400 — Vendedor: Francisco Arturo
