@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 101 anuncios disponibles.
+Total: 111 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -40,10 +40,12 @@ Total: 101 anuncios disponibles.
 - 2026-02-25 19:13 — [playstation 4](https://www.facebook.com/marketplace/item/1523374772467982) — $2.000 — Vendedor: Verduras Power
 - 2026-11-04 10:31 — [Play 4 Slim](https://www.facebook.com/marketplace/item/2770559736674717) — $2.100 — Vendedor: Karen Muñoz
 - 2026-10-27 09:31 — [Ps4](https://www.facebook.com/marketplace/item/1786988685889597) — $2.100 — Vendedor: Luis Rey
+- 2026-10-19 11:31 — [Playstation 4 funcionando bien con todos sus cables y 1 control](https://www.facebook.com/marketplace/item/1489781589675658) — $2.200 — Vendedor: Abraham Noe
 - 2026-05-05 07:25 — [Play 4](https://www.facebook.com/marketplace/item/891132253979105) — $2.200 — Vendedor: Fernando Medina
 - 2026-09-11 20:13 — [Play station 4 1tb](https://www.facebook.com/marketplace/item/28857256590544861) — $2.300 — Vendedor: Daniel Álvarez
 - 2026-04-17 23:01 — [Ps4 Slim sin caja  Dos controles](https://www.facebook.com/marketplace/item/2129437944573215) — $2.300 — Vendedor: Josue RV
 - 2026-11-07 20:26 — [VENDO O CAMBIO PS4](https://www.facebook.com/marketplace/item/4758223987828849) — $2.400 — Vendedor: Angel Corona
+- 2026-11-05 15:35 — [Playstation 4 y 2 controles](https://www.facebook.com/marketplace/item/1402189295449757) — $2.400 — Vendedor: Averno Lm
 - 2026-09-30 14:49 — [Play station 4](https://www.facebook.com/marketplace/item/1117268660767834) — $2.400 — Vendedor: Neyzer Lachica
 - 2026-11-09 19:53 — [Ps4 jalando al 100 se va con juegos !!](https://www.facebook.com/marketplace/item/1073688422351498) — $2.500 — Vendedor: Jesus Rosas
 - 2026-11-06 08:07 — [Playstation 4 Slim + PS VR - de 1tb ya con magia, lleno de juegos](https://www.facebook.com/marketplace/item/3113104429030350) — $2.500 — Vendedor: Licenciado Pablo
@@ -55,8 +57,11 @@ Total: 101 anuncios disponibles.
 - 2026-10-04 15:38 — [play 4](https://www.facebook.com/marketplace/item/1674798003977052) — $2.500 — Vendedor: JL GC
 - 2026-08-29 15:41 — [PS4](https://www.facebook.com/marketplace/item/1480556664090122) — $2.500 — Vendedor: Luis Rodriguez
 - 2026-08-28 15:37 — [Ps4 slim de 1tb chipeado con varios juegos descargados 1 control y cables (no lee discos)](https://www.facebook.com/marketplace/item/1598365865160155) — $2.500 — Vendedor: Antoni Tony
+- 2026-08-25 14:57 — [Ps4 sin fallas varios juegos 1 control $2500 para hoy](https://www.facebook.com/marketplace/item/1403448088552332) — $2.500 — Vendedor: Daniel Soto
 - 2026-08-07 19:42 — [Ps 4](https://www.facebook.com/marketplace/item/2212407299317824) — $2.500 — Vendedor: Geovany Apodaca
 - 2026-07-24 17:05 — [PS4 Play Station 4 Slim](https://www.facebook.com/marketplace/item/2209976833182994) — $2.500 — Vendedor: Javier Báez
+- 2026-07-20 23:33 — [PS4 FC26 GTA 2 CONTROLES Y CABLES](https://www.facebook.com/marketplace/item/1362272399402021) — $2.500 — Vendedor: Toros Mochis CF Atletico Celaya
+- 2026-06-22 17:01 — [Play 4 .4 juegos i tres controles solo sirbe uno](https://www.facebook.com/marketplace/item/1936893193670259) — $2.500 — Vendedor: Flavio Toxqui
 - 2026-04-29 08:13 — [Play station 4 slim](https://www.facebook.com/marketplace/item/944218801583183) — $2.500 — Vendedor: Juan Gonzalez
 - 2026-03-21 11:43 — [Ps4 con juegos incluidos en la consola](https://www.facebook.com/marketplace/item/1575636373659831) — $2.500 — Vendedor: Juega Con Migo
 - 2026-03-20 16:19 — [Play station 4](https://www.facebook.com/marketplace/item/1635850437452187) — $2.500 — Vendedor: Juega Con Migo
@@ -64,6 +69,7 @@ Total: 101 anuncios disponibles.
 - 2024-10-31 12:55 — [Consola ps4 de 500gb control original $2500](https://www.facebook.com/marketplace/item/402654979576174) — $2.500 — Vendedor: Andrea Lopez
 - 2026-04-20 09:59 — [Ps4 con juegos incluidos](https://www.facebook.com/marketplace/item/1615310136418071) — $2.600 — Vendedor: Juega Con Migo
 - 2026-10-21 19:49 — [💥Playstation 4 💥incluye 1 juego](https://www.facebook.com/marketplace/item/1111055978073747) — $2.700 — Vendedor: Pau Bojorquez
+- 2026-10-14 02:45 — [Ps4 pro versión 13.50 con 1 control y todos sus cables el control es genérico pero funciona](https://www.facebook.com/marketplace/item/2211133333137186) — $2.750 — Vendedor: Antoni Tony
 - 2026-10-09 22:08 — [play station 4 y juegos](https://www.facebook.com/marketplace/item/2234054757166393) — $2.800 — Vendedor: Amy Perez
 - 2026-08-10 15:18 — [Ps4](https://www.facebook.com/marketplace/item/1875729600499668) — $2.800 — Vendedor: Ernesto Fontes
 - 2026-02-27 10:41 — [Ps4 pro](https://www.facebook.com/marketplace/item/1249279214013686) — $2.800 — Vendedor: Cinthya Olguin
@@ -74,8 +80,10 @@ Total: 101 anuncios disponibles.
 - 2026-08-05 14:57 — [PLAYSTATION FAT (ps4) incluye control de spiderman y dos juegos (days gone) (injustice 2)](https://www.facebook.com/marketplace/item/1036014959350391) — $2.900 — Vendedor: Roberto Valenzuela
 - 2026-08-14 09:25 — [Ps4 con varios juegos, ps plus y periféricos completos sin detalles](https://www.facebook.com/marketplace/item/1367928004848573) — $2.999 — Vendedor: Danielito Soto
 - 2026-11-08 01:22 — [Play 4](https://www.facebook.com/marketplace/item/1456907256545625) — $3.000 — Vendedor: Eduardo Medina
+- 2026-11-06 17:52 — [Play station 4 en venta sin fallas dos controles](https://www.facebook.com/marketplace/item/1129822423273774) — $3.000 — Vendedor: Adan Uribe
 - 2026-10-17 13:48 — [Play Station 4](https://www.facebook.com/marketplace/item/1850780232947855) — $3.000 — Vendedor: Adriel D. Aguirre Lopez
 - 2026-10-11 18:44 — [Play 4 slim se puede negociar el precio o también intercambios](https://www.facebook.com/marketplace/item/1134588509278568) — $3.000 — Vendedor: Raul Popelle
+- 2026-09-29 09:58 — [Playstation 4 cable de corriente, cargador,control y 1 juego ... RESTAURADO (no se acepta cambio)](https://www.facebook.com/marketplace/item/1381650580352552) — $3.000 — Vendedor: Jhosephina Zemag
 - 2026-09-07 16:35 — [Play station 4 fat](https://www.facebook.com/marketplace/item/1828424398324532) — $3.000 — Vendedor: Alejandro Moreno
 - 2026-09-07 09:35 — [Ps4](https://www.facebook.com/marketplace/item/870582392675190) — $3.000 — Vendedor: Daniela L. Nieblas
 - 2026-08-27 10:49 — [PlayStation 4 de 1TB](https://www.facebook.com/marketplace/item/1039326892040099) — $3.000 — Vendedor: Lili Ramirez
@@ -89,9 +97,11 @@ Total: 101 anuncios disponibles.
 - 2026-02-16 21:25 — [Play Station 4 SLIM](https://www.facebook.com/marketplace/item/849960688029561) — $3.000 — Vendedor: Josue RV
 - 2026-06-08 12:25 — [Play Station 4](https://www.facebook.com/marketplace/item/1025216557122930) — $3.150 — Vendedor: Enrique Montoya
 - 2026-11-07 14:48 — [Ps4](https://www.facebook.com/marketplace/item/1104137809343385) — $3.200 — Vendedor: Allan Acevez
+- 2026-08-05 15:09 — [Play 4 dos controles](https://www.facebook.com/marketplace/item/2451341588678027) — $3.200 — Vendedor: Brayan Urias
 - 2026-06-02 13:21 — [PLAYSTATION 4 CON 3 JUEGOS](https://www.facebook.com/marketplace/item/1934756300576347) — $3.200 — Vendedor: Aranza Joselyn
 - 2026-03-12 09:42 — [2 Playstation 4](https://www.facebook.com/marketplace/item/2365389947299619) — $3.300 — Vendedor: Carlos Moreno Lopez
 - 2026-03-11 11:34 — [Playstation 4](https://www.facebook.com/marketplace/item/1450313989800442) — $3.300 — Vendedor: Carlos Moreno Lopez
+- 2026-11-08 14:51 — [-Ps4  -estacion de carga -3 controles -5 juegos](https://www.facebook.com/marketplace/item/2261495224414733) — $3.500 — Vendedor: Karely Barrera Valdez
 - 2026-11-06 20:21 — [Play 4 jalando bien](https://www.facebook.com/marketplace/item/1663348121900071) — $3.500 — Vendedor: Alan Lopez
 - 2026-11-03 09:48 — [PS4 con magia y todos los juegos gratis de ps4/ps2 emuladores](https://www.facebook.com/marketplace/item/1478474480835701) — $3.500 — Vendedor: Danielito Soto
 - 2026-11-03 08:52 — [PlayStation 4 slim y juegos](https://www.facebook.com/marketplace/item/1670923424542776) — $3.500 — Vendedor: Alicia García
