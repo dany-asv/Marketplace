@@ -72,12 +72,12 @@ Total: 111 anuncios disponibles.
 - 2026-06-11 19:44 — [juegos de ps4](https://www.facebook.com/marketplace/item/1741632443675543) — Vendedor: Fer Gomez
 - 2026-06-04 20:07 — [Demon slayer 1 y just dance 2021 ps4](https://www.facebook.com/marketplace/item/1043525764674449) — Vendedor: Alexander López
 - 2026-06-03 19:30 — [Juegos para Xbox y PS4](https://www.facebook.com/marketplace/item/2242412143179390) — Vendedor: Dani HR
-- 2026-06-03 01:37 — [Juegos de ps4 se van en 200 cada uno](https://www.facebook.com/marketplace/item/2035066090414626) — Vendedor: Jesus Luque
-- 2026-06-03 01:37 — [Juegos de ps4 se van en 250 cada uno](https://www.facebook.com/marketplace/item/1522344512932478) — Vendedor: Jesus Luque
-- 2026-06-03 01:37 — [Juegos de ps4 se van en 300 cada uno](https://www.facebook.com/marketplace/item/2013444520047441) — Vendedor: Jesus Luque
-- 2026-06-03 01:37 — [Juegos de ps4 se van en 350 cada uno](https://www.facebook.com/marketplace/item/1541568207356489) — Vendedor: Jesus Luque
+- 2026-06-03 01:37 — [Juegos de ps4 se van en 200 cada uno](https://www.facebook.com/marketplace/item/2035066090414626) — Vendedor: Antonio Lopez
+- 2026-06-03 01:37 — [Juegos de ps4 se van en 250 cada uno](https://www.facebook.com/marketplace/item/1522344512932478) — Vendedor: Antonio Lopez
+- 2026-06-03 01:37 — [Juegos de ps4 se van en 300 cada uno](https://www.facebook.com/marketplace/item/2013444520047441) — Vendedor: Antonio Lopez
+- 2026-06-03 01:37 — [Juegos de ps4 se van en 350 cada uno](https://www.facebook.com/marketplace/item/1541568207356489) — Vendedor: Antonio Lopez
 - 2026-06-02 21:26 — [Juegos de play 4](https://www.facebook.com/marketplace/item/1629546064812623) — Vendedor: Antonio Castro
-- 2026-06-01 10:12 — [Juegos ps4 diferentes precios desde 200 hasta 350](https://www.facebook.com/marketplace/item/1316980433207427) — Vendedor: Jesus Luque
+- 2026-06-01 10:12 — [Juegos ps4 diferentes precios desde 200 hasta 350](https://www.facebook.com/marketplace/item/1316980433207427) — Vendedor: Antonio Lopez
 - 2026-05-20 21:13 — [OJO BUESCO JUEGOS PS4 BUSCO](https://www.facebook.com/marketplace/item/2006488929941875) — Vendedor: Jesus Chanez
 - 2026-05-17 10:07 — [Juegos de playstation 4](https://www.facebook.com/marketplace/item/1550838933052869) — Vendedor: Dylan Vega
 - 2026-05-15 17:10 — [JUEGOS PS4/XBOX360](https://www.facebook.com/marketplace/item/1603713504021657) — Vendedor: A Usiel A Palafox

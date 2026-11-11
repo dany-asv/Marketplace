@@ -31,7 +31,7 @@ Total: 60 anuncios disponibles.
 - 2026-10-16 18:50 — [Control gamer para PC, Android, iOS y Nintendo switch (precio negociable)](https://www.facebook.com/marketplace/item/1151989644059603) — Vendedor: Armando Armenta
 - 2026-10-14 02:31 — [Switch lite todo le funciona sin detalles entrego con cargador original, estuche y 1 juego físico](https://www.facebook.com/marketplace/item/3708005469381714) — Vendedor: Antoni Tony
 - 2026-10-09 20:26 — [Cargador nintendo Swich generico](https://www.facebook.com/marketplace/item/4478131282398391) — Vendedor: Alma Valdez
-- 2026-10-07 17:48 — [Nintendo switch normal sin detalles con joycons originales y estuche](https://www.facebook.com/marketplace/item/991775117288773) — Vendedor: Jesus Luque
+- 2026-10-07 17:48 — [Nintendo switch normal sin detalles con joycons originales y estuche](https://www.facebook.com/marketplace/item/991775117288773) — Vendedor: Antonio Lopez
 - 2026-10-03 09:05 — [Tarjeta de Minecraft de Nintendo swicht](https://www.facebook.com/marketplace/item/1658644056272787) — Vendedor: Karen Tapia
 - 2026-10-02 17:31 — [Accesorios de nintendo switch Oled juntos o por separado](https://www.facebook.com/marketplace/item/1102417495828019) — Vendedor: Stargames Valenzuela
 - 2026-09-22 12:39 — [Nintendo switch + control inalámbrico recargable y estuche](https://www.facebook.com/marketplace/item/2134324963784446) — Vendedor: Andres Apodaca
@@ -58,10 +58,10 @@ Total: 60 anuncios disponibles.
 - 2026-07-03 21:56 — [Nintendo switch oled, se entrega en caja con todos los accesorios que se ven](https://www.facebook.com/marketplace/item/1564811655171459) — Vendedor: Antoni Tony
 - 2026-06-30 17:21 — [Nintendo switch con sus accesorios y estuche](https://www.facebook.com/marketplace/item/1343294977157166) — Vendedor: Antoni Tony
 - 2026-06-30 15:26 — [ACCESORIOS NINTENDO SWITCH](https://www.facebook.com/marketplace/item/2200005714172987) — Vendedor: Juan Alonso
-- 2026-06-29 22:45 — [Nintendo switch con todos sus accesorios](https://www.facebook.com/marketplace/item/2514538425684497) — Vendedor: Jesus Luque
+- 2026-06-29 22:45 — [Nintendo switch con todos sus accesorios](https://www.facebook.com/marketplace/item/2514538425684497) — Vendedor: Antonio Lopez
 - 2026-06-09 16:19 — [Dock, cargador y control para Nintendo switch todo original y en buenas condiciones en $800$ todo](https://www.facebook.com/marketplace/item/1373130771358437) — Vendedor: Antoni Tony
-- 2026-06-03 01:37 — [Dock Nintendo switch está como nuevo sin ningún detalle](https://www.facebook.com/marketplace/item/1336366645087190) — Vendedor: Jesus Luque
-- 2026-06-03 01:37 — [Dock, cargador y grips originales para Nintendo switch, 400 Dock o cargador y 100 los grips](https://www.facebook.com/marketplace/item/26314380001570791) — Vendedor: Jesus Luque
+- 2026-06-03 01:37 — [Dock Nintendo switch está como nuevo sin ningún detalle](https://www.facebook.com/marketplace/item/1336366645087190) — Vendedor: Antonio Lopez
+- 2026-06-03 01:37 — [Dock, cargador y grips originales para Nintendo switch, 400 Dock o cargador y 100 los grips](https://www.facebook.com/marketplace/item/26314380001570791) — Vendedor: Antonio Lopez
 - 2026-04-17 18:38 — [Estuche Nintendo switch muy buen estado $280](https://www.facebook.com/marketplace/item/1680377603116707) — Vendedor: Lluvia Gálvez
 - 2026-04-05 15:37 — [Se vende Dock de nintendo Switch OLED y Mario Party superstars](https://www.facebook.com/marketplace/item/2696903357354176) — Vendedor: Carla Lopez
 - 2026-03-17 11:11 — [Juego y accesorios Nintendo switch](https://www.facebook.com/marketplace/item/4446315345657843) — Vendedor: Ángel Peralta

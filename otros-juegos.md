@@ -57,7 +57,7 @@ Total: 159 anuncios disponibles.
 - 2026-09-09 14:51 — [Juegos PS1 PS2 PS3 PS4 NDS](https://www.facebook.com/marketplace/item/1813364033343254) — Vendedor: Bogard Santos Zazueta
 - 2026-09-08 22:09 — [Juegos de ps5 y PS4](https://www.facebook.com/marketplace/item/1011386768579014) — Vendedor: Cristopher Valdez
 - 2026-09-08 20:01 — [Video juego](https://www.facebook.com/marketplace/item/1056326770336017) — Vendedor: Julián Cadena
-- 2026-09-07 18:44 — [Juegos de Nintendo ds y 3ds 700 por los 3](https://www.facebook.com/marketplace/item/1086436467247358) — Vendedor: Jesus Luque
+- 2026-09-07 18:44 — [Juegos de Nintendo ds y 3ds 700 por los 3](https://www.facebook.com/marketplace/item/1086436467247358) — Vendedor: Antonio Lopez
 - 2026-09-06 18:40 — [Spiderman miles morales](https://www.facebook.com/marketplace/item/3446274895539708) — Vendedor: Ivan Aguero
 - 2026-09-04 23:07 — [Assassins cred unity](https://www.facebook.com/marketplace/item/2609561686180826) — Vendedor: Ivan Aguero
 - 2026-09-04 23:06 — [FIFA 21](https://www.facebook.com/marketplace/item/38087170387598334) — Vendedor: Ivan Aguero

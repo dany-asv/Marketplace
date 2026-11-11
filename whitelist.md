@@ -20,7 +20,7 @@ Vendedores que Daniel tiene marcados como confiables.
 - [Gerardo Recio](https://www.facebook.com/marketplace/profile/1247332247)
 - [Ivan Delval](https://www.facebook.com/marketplace/profile/722256551)
 - [Ivan López](https://www.facebook.com/marketplace/profile/100021428154020)
-- [Jesus Luque](https://www.facebook.com/marketplace/profile/100040731070103)
+- [Antonio Lopez](https://www.facebook.com/marketplace/profile/100040731070103)
 - [José Guadalupe Guerrero Bojorquez](https://www.facebook.com/marketplace/profile/100000239664069)
 - [José Roberto Zapien](https://www.facebook.com/marketplace/profile/653359747)
 - [Jurguen Camacho](https://www.facebook.com/marketplace/profile/61570552576206)

@@ -60,7 +60,7 @@ Total: 102 anuncios disponibles.
 - 2026-08-07 14:12 — [Cuánto dan por ella ofrezcan](https://www.facebook.com/marketplace/item/4639441746293094) — Vendedor: Manuel Sandoval
 - 2026-08-04 01:34 — [Vendo o cambio](https://www.facebook.com/marketplace/item/3367653220061910) — Vendedor: Ventura Miranda Gomez
 - 2026-08-02 15:16 — [Coleccion Resident](https://www.facebook.com/marketplace/item/1360612665533261) — Vendedor: Ulises Valenzuela Ochoa
-- 2026-07-26 17:27 — [550$ cada uno](https://www.facebook.com/marketplace/item/1541851637439403) — Vendedor: Jesus Luque
+- 2026-07-26 17:27 — [550$ cada uno](https://www.facebook.com/marketplace/item/1541851637439403) — Vendedor: Antonio Lopez
 - 2026-07-24 08:39 — [Super Bomberman](https://www.facebook.com/marketplace/item/1056377450062241) — Vendedor: Cesar Walker
 - 2026-07-14 16:12 — [Short Deportivos](https://www.facebook.com/marketplace/item/27204616672554931) — Vendedor: Manuel Ed
 - 2026-07-14 14:27 — [Star wars jedi Fallen Order](https://www.facebook.com/marketplace/item/1031125246547786) — Vendedor: Eduardo Infante
@@ -76,7 +76,7 @@ Total: 102 anuncios disponibles.
 - 2026-06-26 16:55 — [Discos para para play station 3 y cassette para Game boy](https://www.facebook.com/marketplace/item/36489005200743834) — Vendedor: Juan Velazquez
 - 2026-06-23 10:47 — [Vendo](https://www.facebook.com/marketplace/item/761713400338338) — Vendedor: Gwendoline Palafox Almanza
 - 2026-06-22 20:22 — [Five nigths ay freddys security breach](https://www.facebook.com/marketplace/item/1260324412655356) — Vendedor: Bianey Alejandra Muñoz Herrera
-- 2026-06-03 01:37 — [300 cada uno](https://www.facebook.com/marketplace/item/1693450738361510) — Vendedor: Jesus Luque
+- 2026-06-03 01:37 — [300 cada uno](https://www.facebook.com/marketplace/item/1693450738361510) — Vendedor: Antonio Lopez
 - 2026-05-20 20:32 — [Contro nintendo 2](https://www.facebook.com/marketplace/item/27360580343539257) — Vendedor: Juan Carlos Vega
 - 2026-05-09 13:38 — [Videojyego](https://www.facebook.com/marketplace/item/1291355856309439) — Vendedor: Carla Lopez
 - 2026-05-07 05:51 — [Varias cosas](https://www.facebook.com/marketplace/item/992815073246378) — Vendedor: Carla Lopez
