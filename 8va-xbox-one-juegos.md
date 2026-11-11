@@ -10,4 +10,4 @@ Total: 1 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
-- 2026-11-10 16:24 — [Calle of duty modern warfer xbox one](https://www.facebook.com/marketplace/item/1159726583190634) — $350 — Vendedor: JV Cases Mochis
+- 2026-11-10 16:24 — [Calle of duty modern warfer xbox one](https://www.facebook.com/marketplace/item/1159726583190634) — $350 — $350 — Vendedor: JV Cases Mochis

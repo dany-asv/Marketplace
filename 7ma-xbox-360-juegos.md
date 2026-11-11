@@ -10,4 +10,4 @@ Total: 1 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
-- 2026-11-10 23:32 — [5 juegos Xbox 360 todos por $600](https://www.facebook.com/marketplace/item/1079512541791211) — $600 — Vendedor: Xhavi Manzanarez
+- 2026-11-10 23:32 — [5 juegos Xbox 360 todos por $600](https://www.facebook.com/marketplace/item/1079512541791211) — $600 — $600 — Vendedor: Xhavi Manzanarez

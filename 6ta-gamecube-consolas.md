@@ -10,5 +10,5 @@ Total: 2 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
-- 2026-02-07 20:30 — [Gamecube Para piezas o refacciones](https://www.facebook.com/marketplace/item/1528549718241242) — $300 — Vendedor: Nelson Chang
-- 2026-11-02 11:56 — [Busco Nintendo Gamecube](https://www.facebook.com/marketplace/item/2227839654444071) — $500 — Vendedor: Miguel Ruiz Chavez
+- 2026-02-07 20:30 — [Gamecube Para piezas o refacciones](https://www.facebook.com/marketplace/item/1528549718241242) — $300 — $300 — Vendedor: Nelson Chang
+- 2026-11-02 11:56 — [Busco Nintendo Gamecube](https://www.facebook.com/marketplace/item/2227839654444071) — $500 — $500 — Vendedor: Miguel Ruiz Chavez

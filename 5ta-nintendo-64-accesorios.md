@@ -10,6 +10,6 @@ Total: 3 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
-- 2026-07-27 15:32 — [Fuente para Nintendo 64](https://www.facebook.com/marketplace/item/1358223929614953) — $111 — Vendedor: Ivan Lopez
-- 2026-10-24 11:39 — [Caset para Nintendo 64 barato](https://www.facebook.com/marketplace/item/1106057965644361) — $333 — Vendedor: Chappy Chappy
-- 2026-10-23 13:36 — [Nintendo 64 todos sus cables un control un juego en físico](https://www.facebook.com/marketplace/item/1789927362129536) — $1.500 — Vendedor: Chappy Chappy
+- 2026-07-27 15:32 — [Fuente para Nintendo 64](https://www.facebook.com/marketplace/item/1358223929614953) — $111 — $111 — Vendedor: Ivan Lopez
+- 2026-10-24 11:39 — [Caset para Nintendo 64 barato](https://www.facebook.com/marketplace/item/1106057965644361) — $333 — $333 — Vendedor: Chappy Chappy
+- 2026-10-23 13:36 — [Nintendo 64 todos sus cables un control un juego en físico](https://www.facebook.com/marketplace/item/1789927362129536) — $1.500 — $1.500 — Vendedor: Chappy Chappy

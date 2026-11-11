@@ -10,4 +10,4 @@ Total: 1 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
-- 2026-08-12 18:05 — [Fuente de poder para Playstation 2](https://www.facebook.com/marketplace/item/1083304077580494) — $350 — Vendedor: Ivan Lopez
+- 2026-08-12 18:05 — [Fuente de poder para Playstation 2](https://www.facebook.com/marketplace/item/1083304077580494) — $350 — $350 — Vendedor: Ivan Lopez

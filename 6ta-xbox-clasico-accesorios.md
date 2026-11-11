@@ -10,4 +10,4 @@ Total: 1 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
-- 2026-10-20 21:13 — [Volante para Xbox original sin uso](https://www.facebook.com/marketplace/item/4491282314468033) — $1.500 — Vendedor: Cesar Gb
+- 2026-10-20 21:13 — [Volante para Xbox original sin uso](https://www.facebook.com/marketplace/item/4491282314468033) — $1.500 — $1.500 — Vendedor: Cesar Gb

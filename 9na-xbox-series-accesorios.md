@@ -11,4 +11,4 @@ Total: 1 anuncios disponibles.
 ## Disponibles (de menor a mayor precio)
 
 
-- 2026-11-10 22:27 — [control Xbox series](https://www.facebook.com/marketplace/item/2377234826368066) — $450 — Vendedor: Alfonso Wrld
+- 2026-11-10 22:27 — [control Xbox series](https://www.facebook.com/marketplace/item/2377234826368066) — $450 — $450 — Vendedor: Alfonso Wrld

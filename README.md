@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1419 anuncios disponibles.
+Total: 1422 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -86,7 +86,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](8va-ps4-juegos.md) — 111 anuncios
     - [Accesorios](8va-ps4-accesorios.md) — 23 anuncios
   - Xbox One:
-    - [Consolas](8va-xbox-one-consolas.md) — 17 anuncios
+    - [Consolas](8va-xbox-one-consolas.md) — 18 anuncios
     - [Juegos](8va-xbox-one-juegos.md) — 1 anuncios
     - [Accesorios](8va-xbox-one-accesorios.md) — 1 anuncios
 - 9na generación:
@@ -100,7 +100,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - PlayStation 5 (PS5):
     - [Consolas](9na-ps5-consolas.md) — 7 anuncios
     - [Juegos](9na-ps5-juegos.md) — 11 anuncios
-    - [Accesorios](9na-ps5-accesorios.md) — 7 anuncios
+    - [Accesorios](9na-ps5-accesorios.md) — 8 anuncios
   - Xbox Series X/S:
     - [Consolas](9na-xbox-series-consolas.md) — 2 anuncios
     - [Accesorios](9na-xbox-series-accesorios.md) — 1 anuncios
@@ -109,13 +109,15 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Consolas](10ma-nintendo-switch-2-consolas.md) — 17 anuncios
     - [Juegos](10ma-nintendo-switch-2-juegos.md) — 10 anuncios
 - Otros — Multiplataforma o sin plataforma clara:
-  - [Consolas](otros-consolas.md) — 128 anuncios
+  - [Consolas](otros-consolas.md) — 129 anuncios
   - [Juegos](otros-juegos.md) — 163 anuncios
   - [Accesorios](otros-accesorios.md) — 45 anuncios
 ## Disponibles (de más actual a más viejo)
 
+- 2026-11-11 13:48 — [Mini Consola Retro con 620 Juegos](https://www.facebook.com/marketplace/item/1483161533725482) — $250 — Nuevo — Los Mochis — Vendedor: Ana Sofía
 - 2026-11-11 12:15 — [Cámara ps5 HD](https://www.facebook.com/marketplace/item/1089167804163636) — $1.500 — Usado - Como nuevo — Los Mochis — Vendedor: Adriel Roiz
 - 2026-11-11 10:49 — [Vendo Nintendo Switch (detalles por uso)](https://www.facebook.com/marketplace/item/1595279695620271) — $2.800 — Usado - Buen estado — Los Mochis — Vendedor: Luis Quintero Villegas
+- 2026-11-11 09:44 — [Xbox one fat solo le falta la tapa](https://www.facebook.com/marketplace/item/1591358789677713) — $1.400 — Usado - Aceptable — Los Mochis — Vendedor: Juan Flores
 - 2026-11-11 08:46 — [Juegos Nintendo 64 originales $200 c/u](https://www.facebook.com/marketplace/item/4154199678203621) — $200 — Usado - Aceptable — Los Mochis — Vendedor: Jano Sarabia
 - 2026-11-11 08:42 — [Juegos Nintendo 64 originales $300 c/u](https://www.facebook.com/marketplace/item/1088135204217850) — $300 — Usado - Aceptable — Los Mochis — Vendedor: Jano Sarabia
 - 2026-11-11 08:38 — [Juegos Nintendo 64 originales $450 c/u](https://www.facebook.com/marketplace/item/978819308634143) — $450 — Usado - Buen estado — Los Mochis — Vendedor: Jano Sarabia
@@ -307,6 +309,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-02 11:56 — [Busco Nintendo Gamecube](https://www.facebook.com/marketplace/item/2227839654444071) — $500 — Usado — Los Mochis — Vendedor: Miguel Ruiz Chavez
 - 2026-11-02 11:56 — [Busco Gameboy SP, Color, dvvance, Clasic](https://www.facebook.com/marketplace/item/1916760772816326) — $500 — Usado — Los Mochis — Vendedor: Miguel Ruiz Chavez
 - 2026-11-02 11:54 — [Busco Nintendo 64](https://www.facebook.com/marketplace/item/2491543011375366) — $500 — Usado — Los Mochis — Vendedor: Miguel Ruiz Chavez
+- 2026-11-02 11:46 — [Enfriador y cargado de ps5](https://www.facebook.com/marketplace/item/1656019812825880) — $600 — Nuevo — Los Mochis — Vendedor: Manuel Ochoa
 - 2026-11-02 11:21 — [Switch chipeada](https://www.facebook.com/marketplace/item/1540272721167658) — $4.200 — Usado - Como nuevo — Los Mochis — Vendedor: Ruben Lopez Flores
 - 2026-11-02 10:26 — [JoyCons Switch 1 y juego splatoon 2](https://www.facebook.com/marketplace/item/1700171221716150) — GRATIS — Usado - Como nuevo — Los Mochis — Vendedor: Hector Michelle Zuñiga Valle
 - 2026-11-02 09:29 — [Juegos ps4](https://www.facebook.com/marketplace/item/1124305510082217) — $200 — Usado - Como nuevo — Los Mochis — Vendedor: Eduardo Medina

@@ -6,7 +6,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
 
-Total: 863 vendedores, 1416 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
+Total: 864 vendedores, 1419 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
 
 ## Vendedores (de mayor a menor número de publicaciones)
 
@@ -164,6 +164,7 @@ Total: 863 vendedores, 1416 anuncios con vendedor identificado (3 anuncios de la
 - [José Miguel](https://www.facebook.com/marketplace/profile/61580739323219) — 2 publicaciones
 - [Juan Aceves](https://www.facebook.com/marketplace/profile/1578574071) — 2 publicaciones
 - [Juan Alonso](https://www.facebook.com/marketplace/profile/100090784563627) — 2 publicaciones
+- [Juan Flores](https://www.facebook.com/marketplace/profile/100090547951750) — 2 publicaciones
 - [Juan Velazquez](https://www.facebook.com/marketplace/profile/61583165840161) — 2 publicaciones
 - [Juan Velazquez](https://www.facebook.com/marketplace/profile/61575180516289) — 2 publicaciones
 - [Karla Yocupicio](https://www.facebook.com/marketplace/profile/100051637037578) — 2 publicaciones
@@ -177,6 +178,7 @@ Total: 863 vendedores, 1416 anuncios con vendedor identificado (3 anuncios de la
 - [Lupytha Leyva Boutiq](https://www.facebook.com/marketplace/profile/100015663615488) — 2 publicaciones
 - [Luzmary Castro](https://www.facebook.com/marketplace/profile/1822081992) — 2 publicaciones
 - [Manuel Ed](https://www.facebook.com/marketplace/profile/100092397566501) — 2 publicaciones
+- [Manuel Ochoa](https://www.facebook.com/marketplace/profile/100029732379081) — 2 publicaciones
 - [Manuel Sandoval](https://www.facebook.com/marketplace/profile/61568605881642) — 2 publicaciones
 - [Marco Daniel](https://www.facebook.com/marketplace/profile/100089618337024) — 2 publicaciones
 - [Maria Beatriz Valenzuela](https://www.facebook.com/marketplace/profile/100003620419743) — 2 publicaciones
@@ -271,6 +273,7 @@ Total: 863 vendedores, 1416 anuncios con vendedor identificado (3 anuncios de la
 - [Amy Perez](https://www.facebook.com/marketplace/profile/100017711771367) — 1 publicaciones
 - [Ana Jaquelin](https://www.facebook.com/marketplace/profile/100003366772574) — 1 publicaciones
 - [Ana Lucia G. Melendrez](https://www.facebook.com/marketplace/profile/644311665) — 1 publicaciones
+- [Ana Sofía](https://www.facebook.com/marketplace/profile/100006292812236) — 1 publicaciones
 - [Andres Acosta](https://www.facebook.com/marketplace/profile/61587464752638) — 1 publicaciones
 - [Andy Rubio](https://www.facebook.com/marketplace/profile/100000989485912) — 1 publicaciones
 - [Angel Alberto Quijada Soto](https://www.facebook.com/marketplace/profile/100003925724364) — 1 publicaciones
@@ -594,7 +597,6 @@ Total: 863 vendedores, 1416 anuncios con vendedor identificado (3 anuncios de la
 - [Juan Alonso Aragon Aviles](https://www.facebook.com/marketplace/profile/100002566890569) — 1 publicaciones
 - [Juan Carlos Fong](https://www.facebook.com/marketplace/profile/643612302) — 1 publicaciones
 - [Juan Carlos Vega](https://www.facebook.com/marketplace/profile/100006277787419) — 1 publicaciones
-- [Juan Flores](https://www.facebook.com/marketplace/profile/100090547951750) — 1 publicaciones
 - [Juan Garcia](https://www.facebook.com/marketplace/profile/100011280546625) — 1 publicaciones
 - [Juan Gonzalez](https://www.facebook.com/marketplace/profile/100045726617167) — 1 publicaciones
 - [Juan Guillen Castro](https://www.facebook.com/marketplace/profile/100001487527563) — 1 publicaciones
@@ -681,7 +683,6 @@ Total: 863 vendedores, 1416 anuncios con vendedor identificado (3 anuncios de la
 - [Manuel Enrique Audves Montes](https://www.facebook.com/marketplace/profile/100049273784748) — 1 publicaciones
 - [Manuel Loez](https://www.facebook.com/marketplace/profile/61573882013555) — 1 publicaciones
 - [Manuel Moreno](https://www.facebook.com/marketplace/profile/61576356575644) — 1 publicaciones
-- [Manuel Ochoa](https://www.facebook.com/marketplace/profile/100029732379081) — 1 publicaciones
 - [Manuel Sanchez Vejas](https://www.facebook.com/marketplace/profile/100065102613111) — 1 publicaciones
 - [Mara Soto](https://www.facebook.com/marketplace/profile/1246279455) — 1 publicaciones
 - [Marcela M Galaviz](https://www.facebook.com/marketplace/profile/680436939) — 1 publicaciones
