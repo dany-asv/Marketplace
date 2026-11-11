@@ -47,9 +47,9 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](4ta-snes-juegos.md) — 3 anuncios
 - 5ta generación:
   - Nintendo 64 (N64):
-    - [Consolas](5ta-nintendo-64-consolas.md) — 6 anuncios
+    - [Consolas](5ta-nintendo-64-consolas.md) — 7 anuncios
     - [Juegos](5ta-nintendo-64-juegos.md) — 13 anuncios
-    - [Accesorios](5ta-nintendo-64-accesorios.md) — 2 anuncios
+    - [Accesorios](5ta-nintendo-64-accesorios.md) — 1 anuncios
   - PlayStation 1 (PS1):
     - [Consolas](5ta-ps1-consolas.md) — 4 anuncios
 - 6ta generación:
