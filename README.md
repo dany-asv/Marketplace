@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1390 anuncios disponibles.
+Total: 1392 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -95,7 +95,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
       - [Lite](9na-nintendo-switch-lite-consolas.md) — 26 anuncios
       - [Normal](9na-nintendo-switch-normal-consolas.md) — 131 anuncios
     - [Juegos](9na-nintendo-switch-juegos.md) — 240 anuncios
-    - [Accesorios](9na-nintendo-switch-accesorios.md) — 62 anuncios
+    - [Accesorios](9na-nintendo-switch-accesorios.md) — 63 anuncios
   - PlayStation 5 (PS5):
     - [Consolas](9na-ps5-consolas.md) — 6 anuncios
     - [Juegos](9na-ps5-juegos.md) — 11 anuncios
@@ -109,7 +109,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - Otros — Multiplataforma o sin plataforma clara:
   - [Consolas](otros-consolas.md) — 125 anuncios
   - [Juegos](otros-juegos.md) — 162 anuncios
-  - [Accesorios](otros-accesorios.md) — 43 anuncios
+  - [Accesorios](otros-accesorios.md) — 44 anuncios
 ## Disponibles (de más actual a más viejo)
 
 - 2026-11-10 17:36 — [Nintendo switch 2](https://www.facebook.com/marketplace/item/3005719573161801) — GRATIS — Usado - Como nuevo — Los Mochis — Vendedor: Jesús R. López
@@ -193,6 +193,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-07 20:26 — [VENDO O CAMBIO PS4](https://www.facebook.com/marketplace/item/4758223987828849) — $2.400 — Usado - Buen estado — Los Mochis — Vendedor: Angel Corona
 - 2026-11-07 19:55 — [Gamesir control PC y nintendo switch](https://www.facebook.com/marketplace/item/1559326676095449) — $1.700 — Nuevo — Los Mochis — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-11-07 19:55 — [Control gamesir nintendo switch 1 y 2, iPhone, Android, celulares, tablet y pc.](https://www.facebook.com/marketplace/item/1625484619312650) — $1.500 — Nuevo — Los Mochis — Vendedor: Jesus Gilberto Alvarez Vega
+- 2026-11-07 19:55 — [Estuche grande switch mario edicion](https://www.facebook.com/marketplace/item/990503590184181) — $240 — Nuevo — Los Mochis — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-11-07 19:12 — [Tomodachi life](https://www.facebook.com/marketplace/item/1122831433790999) — GRATIS — Nuevo — Los Mochis — Vendedor: Mike Chichario
 - 2026-11-07 18:23 — [Nintendo switch 2](https://www.facebook.com/marketplace/item/1003084698786982) — $11.800 — Usado - Como nuevo — Los Mochis — Vendedor: Josue Iras
 - 2026-11-07 14:48 — [Ps4](https://www.facebook.com/marketplace/item/1104137809343385) — $3.200 — Usado - Buen estado — Los Mochis — Vendedor: Allan Acevez
@@ -400,6 +401,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-10-22 21:36 — [Vendo Nintendo swich Lite](https://www.facebook.com/marketplace/item/1606709510765405) — $2.200 — Nuevo — Los Mochis — Vendedor: Beto Cota
 - 2026-10-22 13:03 — [CONSOLA PORTÁTIL Anbernic RG 477M versión 256 GB](https://www.facebook.com/marketplace/item/1620423736248537) — $3.800 — Nuevo — Los Mochis — Vendedor: Paulette Montoya
 - 2026-10-22 10:49 — [Convertídor hdmi para nintendo 64,super nes gamecube](https://www.facebook.com/marketplace/item/1464828052261025) — $300 — Usado - Como nuevo — Los Mochis — Vendedor: Chappy Chappy
+- 2026-10-22 10:45 — [audifonos logitech G335](https://www.facebook.com/marketplace/item/1200757622608059) — $500 — Usado - Buen estado — Los Mochis — Vendedor: Natanael Verdugo
 - 2026-10-22 10:10 — [Cable hdmi](https://www.facebook.com/marketplace/item/1439885281614868) — $100 — Nuevo — Los Mochis — Vendedor: Jesus Cota
 - 2026-10-21 19:49 — [💥Playstation 4 💥incluye 1 juego](https://www.facebook.com/marketplace/item/1111055978073747) — $2.700 — Los Mochis — Vendedor: Pau Bojorquez
 - 2026-10-21 15:30 — [Team Sonic Racing Switch](https://www.facebook.com/marketplace/item/1801917924332191) — $350 — Usado - Buen estado — Los Mochis — Vendedor: Teo Teodorovich
