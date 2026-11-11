@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 241 anuncios disponibles.
+Total: 244 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -41,6 +41,7 @@ Total: 241 anuncios disponibles.
 - 2026-08-04 11:50 — [Juego para nintendo switch barato](https://www.facebook.com/marketplace/item/1312614357612432) — $111 — $111 — Vendedor: Chappy Chappy
 - 2026-03-18 20:23 — [Juego Mario + Rabbids para Nintendo SWITCH 1,2](https://www.facebook.com/marketplace/item/2273773806479903) — $123 — $123 — Vendedor: Berenays Luque
 - 2026-03-02 12:32 — [Juegos de Nintendo switch](https://www.facebook.com/marketplace/item/1228216336175686) — $123 — $123 — Vendedor: Cinthya Olguin
+- 2026-11-11 14:29 — [Juegos Nintendo switch solo cartucho en $300$ cada uno](https://www.facebook.com/marketplace/item/1599548595544938) — $300 — $300 — Vendedor: Antonio Lopez
 - 2026-11-07 11:54 — [Jumanji  juego para nintendo switch](https://www.facebook.com/marketplace/item/1443398463915787) — $300 — $300 — Vendedor: Axel Luna
 - 2026-11-07 11:54 — [Sonic Forces  juego para nintendo switch](https://www.facebook.com/marketplace/item/1801356534410025) — $300 — $300 — Vendedor: Axel Luna
 - 2026-10-26 19:28 — [Juegos para nintendo switch](https://www.facebook.com/marketplace/item/2148673966585662) — $300 — $300 — Vendedor: Irving Alvarez Velazquez
@@ -53,6 +54,7 @@ Total: 241 anuncios disponibles.
 - 2026-10-07 18:07 — [Juegos switch solo son el cartucho sin caja en 350$ cada uno](https://www.facebook.com/marketplace/item/1102496795855387) — $350 — $350 — Vendedor: Antonio Lopez
 - 2026-06-29 22:45 — [Juegos Nintendo switch sin caja en 350 cada uno](https://www.facebook.com/marketplace/item/1331141795266315) — $350 — $350 — Vendedor: Antonio Lopez
 - 2026-03-25 20:47 — [Mortal kombat switch](https://www.facebook.com/marketplace/item/1454866936340286) — $350 — $350 — Vendedor: Marco Antonio
+- 2026-11-11 14:31 — [Juegos Nintendo switch solo cartucho en $400$ cada uno](https://www.facebook.com/marketplace/item/1465860558986916) — $400 — $400 — Vendedor: Antonio Lopez
 - 2026-11-07 11:54 — [Minecratf  juego para nintendo switch](https://www.facebook.com/marketplace/item/1446909470212087) — $400 — $400 — Vendedor: Axel Luna
 - 2026-11-05 14:04 — [🔥 **¡VIDEOJUEGOS PARA NINTENDO SWITCH EN VENTA!** 🔥](https://www.facebook.com/marketplace/item/1792197435384234) — $400 — $400 — Vendedor: Yahir Lerma
 - 2026-10-26 09:30 — [Minecratf juego para nintendo switch](https://www.facebook.com/marketplace/item/3011381202536563) — $400 — $400 — Vendedor: Jose Castr
@@ -126,6 +128,7 @@ Total: 241 anuncios disponibles.
 - 2026-05-07 17:28 — [Videojuego splatoon 2 para Nintendo switch](https://www.facebook.com/marketplace/item/1004877451887327) — $600 — $600 — Vendedor: Cesar Garcia
 - 2026-04-19 16:29 — [Juegos de nintendo swich  600 cada uno](https://www.facebook.com/marketplace/item/2242193869917821) — $600 — $600 — Vendedor: Lorenia Leon
 - 2026-01-16 18:38 — [Juegos de switch $](https://www.facebook.com/marketplace/item/1559651945373112) — $600 — $600 — Vendedor: Carlos Avila
+- 2026-11-10 18:56 — [Juegos switch 650 cada uno](https://www.facebook.com/marketplace/item/1652233933301629) — $650 — $650 — Vendedor: Antonio Lopez
 - 2026-11-04 18:35 — [Pokemon Legends Arceus](https://www.facebook.com/marketplace/item/1848807702788550) — $650 — $650 — Vendedor: Mukuy Castro
 - 2026-10-30 07:47 — [Zelda Breath of the wild ✅🕹️](https://www.facebook.com/marketplace/item/1768085400945763) — $650 — $650 — Vendedor: Ricardo Beltrán
 - 2026-10-30 07:47 — [Zelda Tears of the kingdoms](https://www.facebook.com/marketplace/item/2371255406973559) — $650 — $650 — Vendedor: Ricardo Beltrán

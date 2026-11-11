@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 163 anuncios disponibles.
+Total: 165 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -60,6 +60,7 @@ Total: 163 anuncios disponibles.
 - 2024-12-07 19:33 — [Assassin crid](https://www.facebook.com/marketplace/item/1113036633788571) — $250 — $250 — Vendedor: Aldo Ceballos Cubedo
 - 2024-12-07 19:29 — [Juego horizon](https://www.facebook.com/marketplace/item/3971873476468264) — $250 — $250 — Vendedor: Aldo Ceballos Cubedo
 - 2026-07-02 16:46 — [The last of us remastered](https://www.facebook.com/marketplace/item/1021230187054809) — $280 — $280 — Vendedor: Jesus VC
+- 2026-11-10 22:44 — [JUEGOS PARA PS4/5 SOLO VENTA, NO CAMBIOS](https://www.facebook.com/marketplace/item/2023442095278651) — $300 — $300 — Vendedor: Fabián Rodríguez
 - 2026-11-05 16:28 — [Juegos de PlayStation $300c/u](https://www.facebook.com/marketplace/item/1521965226383474) — $300 — $300 — Vendedor: Dulce Palma
 - 2026-09-04 23:05 — [Call of duty mordern warfare](https://www.facebook.com/marketplace/item/1389074929329932) — $300 — $300 — Vendedor: Ivan Aguero
 - 2026-09-04 23:02 — [Battlefield 2042](https://www.facebook.com/marketplace/item/1965405371513322) — $300 — $300 — Vendedor: Ivan Aguero
@@ -67,6 +68,7 @@ Total: 163 anuncios disponibles.
 - 2026-03-04 14:06 — [Videojuegos](https://www.facebook.com/marketplace/item/5009893595904143) — $300 — $300 — Vendedor: Kevin Rodriges
 - 2026-02-24 15:47 — [Gta v](https://www.facebook.com/marketplace/item/1977082312886759) — $300 — $300 — Vendedor: Santiago Leal
 - 2025-10-07 15:43 — [Juegos de ps4 y 1 de ps5](https://www.facebook.com/marketplace/item/687787003766194) — $300 — $300 — Vendedor: Joss Etzo
+- 2026-11-10 23:49 — [JUEGOS PARA PS4/5 SOLO VENTA, NO CAMBIOS](https://www.facebook.com/marketplace/item/2072967550069874) — $350 — $350 — Vendedor: Karinn Taylor
 - 2026-08-12 00:35 — [Juego Crash](https://www.facebook.com/marketplace/item/3279780668885187) — $350 — $350 — Vendedor: Dany Herrera Fong
 - 2026-07-22 18:12 — [Will juegos y mas](https://www.facebook.com/marketplace/item/1027628266647740) — $350 — $350 — Vendedor: Ventura Miranda Gomez
 - 2026-07-03 17:44 — [Juego para play](https://www.facebook.com/marketplace/item/27024987773864236) — $350 — $350 — Vendedor: Javier Vlza Cota

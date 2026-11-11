@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 10 anuncios disponibles.
+Total: 11 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -18,5 +18,6 @@ Total: 10 anuncios disponibles.
 - 2026-10-30 21:51 — [Se vende juego de swich 2](https://www.facebook.com/marketplace/item/1692943958957878) — $1.000 — $1.000
 - 2026-10-10 12:51 — [Pokémon pokopia nintendo switch 2](https://www.facebook.com/marketplace/item/1683097609824513) — $1.000 — $1.000 — Vendedor: Carlos Miranda
 - 2026-08-27 16:09 — [Juegos de nintendo switch 2](https://www.facebook.com/marketplace/item/1609294647512187) — $1.000 — $1.000 — Vendedor: Ivan Delval
+- 2026-11-11 14:30 — [Juegos Nintendo switch 2](https://www.facebook.com/marketplace/item/1100593772591257) — $1.200 — $1.200 — Vendedor: Samuel Payan
 - 2026-11-07 06:59 — [Zelda Ocarina Of Time Nintendo Switch 2 Sellado Nuevo vendo o cambio](https://www.facebook.com/marketplace/item/1825970468604372) — $1.450 — $1.450 — Vendedor: Jurguen Camacho
 - 2026-08-03 10:29 — [✨️Mario Kart World Nintendo Switch 2 Físico✨️](https://www.facebook.com/marketplace/item/1051017834137912) — $1.749 — $1.749 — Vendedor: Abraham Berrelleza
