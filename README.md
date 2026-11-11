@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1386 anuncios disponibles.
+Total: 1388 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -99,7 +99,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - PlayStation 5 (PS5):
     - [Consolas](9na-ps5-consolas.md) — 6 anuncios
     - [Juegos](9na-ps5-juegos.md) — 11 anuncios
-    - [Accesorios](9na-ps5-accesorios.md) — 2 anuncios
+    - [Accesorios](9na-ps5-accesorios.md) — 4 anuncios
   - Xbox Series X/S:
     - [Consolas](9na-xbox-series-consolas.md) — 2 anuncios
 - 10ma generación:
@@ -414,10 +414,12 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-10-20 10:15 — [Playstation 4 slim](https://www.facebook.com/marketplace/item/1137549338632113) — $2.000 — Usado - Buen estado — Los Mochis — Vendedor: Kevin Zavala
 - 2026-10-20 09:38 — [Play 4 pro](https://www.facebook.com/marketplace/item/4691953514424747) — $3.500 — Usado - Como nuevo — Los Mochis — Vendedor: Yahir Sanchez
 - 2026-10-19 22:02 — [Wii](https://www.facebook.com/marketplace/item/1781191606542905) — $600 — Usado - Buen estado — Los Mochis — Vendedor: Puro Gonzalo Tumbado
+- 2026-10-19 18:48 — [Base de Carga Rápida Original para Dualsense, Ps5](https://www.facebook.com/marketplace/item/1081749371345142) — $699 — Usado - Como nuevo — Los Mochis — Vendedor: Charo Buelna
 - 2026-10-19 18:31 — [Volante Logitech con palanca y Base](https://www.facebook.com/marketplace/item/1123981040007585) — $4.800 — Los Mochis — Vendedor: Paul Romanillo
 - 2026-10-19 17:59 — [Tablero Arcade Avanzado: 98 Consolas Retro, WiFi, Bluetooth, Botones LED [MOC]](https://www.facebook.com/marketplace/item/1447201087477284) — $2.500 — Nuevo — Los Mochis — Vendedor: Beltran Luis
 - 2026-10-19 17:48 — [Estuche para Nintendo Switch Nuevo](https://www.facebook.com/marketplace/item/1096735826484349) — $250 — Nuevo — Los Mochis — Vendedor: Jano Sarabia
 - 2026-10-19 17:11 — [Tablero Arcade Avanzado: 98 Consolas Retro, WiFi, Bluetooth, Botones LED [MOC]](https://www.facebook.com/marketplace/item/28809285002075234) — $2.500 — Nuevo — Los Mochis — Vendedor: Jorge Lopez
+- 2026-10-19 16:59 — [Estuche y accesorios p/control PS5 DualSense Edge](https://www.facebook.com/marketplace/item/1608244566878716) — $550 — Usado - Como nuevo — Los Mochis — Vendedor: Julio Hernández
 - 2026-10-19 16:30 — [Nintendo switch oled edición Pokémon trae todos sus accesorios originales solo falta cable HMDI](https://www.facebook.com/marketplace/item/1482832740416290) — $4.000 — Usado - Buen estado — Los Mochis — Vendedor: Jhony Velazquez
 - 2026-10-19 14:27 — [🔴GAME STICK PRO🔴 ✅️25 MIL JUEGOS ✅️2 CONTROLES ✅️RESOLUCION 4K ✅️ENVIOS A DOMICILIO🏡🛵💨](https://www.facebook.com/marketplace/item/4613212418961115) — $500 — Nuevo — Los Mochis — Vendedor: Nutrijugos LA Selva
 - 2026-10-19 14:21 — [‼️GAME STICK 25 MIL JUEGOS‼️ ✅️2 CONTROLES TIPO PS ✅️RESOLUCION 4K ✅️3 MESES GARANTIA ✅️ENVIOS🏡🛵💨](https://www.facebook.com/marketplace/item/1412871073805374) — $500 — Nuevo — Los Mochis — Vendedor: Nutrijugos LA Selva

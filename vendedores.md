@@ -6,7 +6,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
 
-Total: 841 vendedores, 1383 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
+Total: 843 vendedores, 1385 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
 
 ## Vendedores (de mayor a menor número de publicaciones)
 
@@ -344,6 +344,7 @@ Total: 841 vendedores, 1383 anuncios con vendedor identificado (3 anuncios de la
 - [Cesar Rosas](https://www.facebook.com/marketplace/profile/100000024365359) — 1 publicaciones
 - [Cesar Walker](https://www.facebook.com/marketplace/profile/100000152107277) — 1 publicaciones
 - [Chacharezca Chachera](https://www.facebook.com/marketplace/profile/61591173616284) — 1 publicaciones
+- [Charo Buelna](https://www.facebook.com/marketplace/profile/100001119671012) — 1 publicaciones
 - [Chendez Alonso](https://www.facebook.com/marketplace/profile/666314247) — 1 publicaciones
 - [Chettos Mini Chettos](https://www.facebook.com/marketplace/profile/61593595515117) — 1 publicaciones
 - [Chris Ramirez](https://www.facebook.com/marketplace/profile/100038699142462) — 1 publicaciones
@@ -597,6 +598,7 @@ Total: 841 vendedores, 1383 anuncios con vendedor identificado (3 anuncios de la
 - [Juande Lopez Robles](https://www.facebook.com/marketplace/profile/1113647284) — 1 publicaciones
 - [Juanpa Perez](https://www.facebook.com/marketplace/profile/100025163351292) — 1 publicaciones
 - [Julio Cesar Ibarra Rodríguez](https://www.facebook.com/marketplace/profile/61581692120824) — 1 publicaciones
+- [Julio Hernández](https://www.facebook.com/marketplace/profile/1290645962) — 1 publicaciones
 - [Julissa De Aguirre](https://www.facebook.com/marketplace/profile/100002249768199) — 1 publicaciones
 - [Julián Cadena](https://www.facebook.com/marketplace/profile/100025098100586) — 1 publicaciones
 - [Junior Lamphar](https://www.facebook.com/marketplace/profile/61587841156604) — 1 publicaciones
