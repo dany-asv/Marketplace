@@ -16,6 +16,6 @@ Total: 9 anuncios disponibles.
 - 2026-08-23 18:52 — [Ps3](https://www.facebook.com/marketplace/item/1753274475705019) — Vendedor: Victor Urias
 - 2026-07-06 21:16 — [Playstation 3](https://www.facebook.com/marketplace/item/1021656470447703) — Vendedor: Ariel Romero
 - 2026-07-02 09:31 — [ps3](https://www.facebook.com/marketplace/item/27545320798494459) — Vendedor: Marco Daniel
-- 2026-06-12 18:21 — [PS3 chipeado con hen, con juegos descargados y viene con una tienda para descargar juegos gratis](https://www.facebook.com/marketplace/item/1056052597080841) — Vendedor: Antonio Lopez
+- 2026-06-12 18:21 — [PS3 chipeado con hen, con juegos descargados y viene con una tienda para descargar juegos gratis](https://www.facebook.com/marketplace/item/1056052597080841) — Vendedor: Jesus Luque
 - 2026-03-29 13:17 — [Discos ps3](https://www.facebook.com/marketplace/item/910442021817080) — Vendedor: Diana Ps
 - 2026-01-07 22:08 — [PS3 con CFW y HEN todos los juegos gratis](https://www.facebook.com/marketplace/item/2036891693815416) — Vendedor: Daniel Soto

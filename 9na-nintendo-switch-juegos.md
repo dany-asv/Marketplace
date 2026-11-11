@@ -81,13 +81,13 @@ Total: 239 anuncios disponibles.
 - 2026-10-09 11:36 — [Minecraft para nintendo switch $500](https://www.facebook.com/marketplace/item/1070036992574829) — Vendedor: Juan Soto
 - 2026-10-08 15:35 — [Nintendo switch edición Mario wonder Nuevo en caja sellado, juego digital incluido](https://www.facebook.com/marketplace/item/2260578308133534) — Vendedor: Paulina Flores
 - 2026-10-08 15:17 — [Juego para switch](https://www.facebook.com/marketplace/item/1830375724751885) — Vendedor: Ingrid Daniela Osorio Carreon
-- 2026-10-07 18:08 — [Juegos switch solo son el cartucho sin caja en 300$ cada uno](https://www.facebook.com/marketplace/item/1147859914482578) — Vendedor: Antonio Lopez
-- 2026-10-07 18:07 — [Juegos switch solo son el cartucho sin caja en 350$ cada uno](https://www.facebook.com/marketplace/item/1102496795855387) — Vendedor: Antonio Lopez
-- 2026-10-07 18:06 — [Juegos switch solo son el cartucho sin caja en 400$ cada uno](https://www.facebook.com/marketplace/item/1672394670909520) — Vendedor: Antonio Lopez
-- 2026-10-07 18:05 — [Juegos switch solo son el cartucho sin caja en 500$ cada uno](https://www.facebook.com/marketplace/item/1052818837738320) — Vendedor: Antonio Lopez
-- 2026-10-07 18:01 — [Juegos Nintendo switch 450 cada uno](https://www.facebook.com/marketplace/item/1598449138628378) — Vendedor: Antonio Lopez
-- 2026-10-07 17:59 — [Juegos Nintendo switch 550 cada uno](https://www.facebook.com/marketplace/item/1890370088901509) — Vendedor: Antonio Lopez
-- 2026-10-07 17:59 — [Juegos Nintendo switch 650 cada uno](https://www.facebook.com/marketplace/item/1123503923361883) — Vendedor: Antonio Lopez
+- 2026-10-07 18:08 — [Juegos switch solo son el cartucho sin caja en 300$ cada uno](https://www.facebook.com/marketplace/item/1147859914482578) — Vendedor: Jesus Luque
+- 2026-10-07 18:07 — [Juegos switch solo son el cartucho sin caja en 350$ cada uno](https://www.facebook.com/marketplace/item/1102496795855387) — Vendedor: Jesus Luque
+- 2026-10-07 18:06 — [Juegos switch solo son el cartucho sin caja en 400$ cada uno](https://www.facebook.com/marketplace/item/1672394670909520) — Vendedor: Jesus Luque
+- 2026-10-07 18:05 — [Juegos switch solo son el cartucho sin caja en 500$ cada uno](https://www.facebook.com/marketplace/item/1052818837738320) — Vendedor: Jesus Luque
+- 2026-10-07 18:01 — [Juegos Nintendo switch 450 cada uno](https://www.facebook.com/marketplace/item/1598449138628378) — Vendedor: Jesus Luque
+- 2026-10-07 17:59 — [Juegos Nintendo switch 550 cada uno](https://www.facebook.com/marketplace/item/1890370088901509) — Vendedor: Jesus Luque
+- 2026-10-07 17:59 — [Juegos Nintendo switch 650 cada uno](https://www.facebook.com/marketplace/item/1123503923361883) — Vendedor: Jesus Luque
 - 2026-10-07 16:49 — [Zelda breath of the wild](https://www.facebook.com/marketplace/item/1593979252213987) — Vendedor: David Cañedo
 - 2026-10-06 21:44 — [Nintendo Switch + 1 Juego a Elegir](https://www.facebook.com/marketplace/item/2353605495465533) — Vendedor: Walter Lopez
 - 2026-10-06 17:16 — [Juego nintendo Swith Mario wonder](https://www.facebook.com/marketplace/item/1174548065169794) — Vendedor: Jack Wein
@@ -132,7 +132,7 @@ Total: 239 anuncios disponibles.
 - 2026-09-11 08:19 — [Juegos de nintendo Switch, vendo o cambio](https://www.facebook.com/marketplace/item/1392850498968783) — Vendedor: Luis Joestar
 - 2026-09-09 16:51 — [Nintendo switch animal crossing](https://www.facebook.com/marketplace/item/2082470789021479) — Vendedor: Hugo Angel Vega
 - 2026-09-08 19:18 — [Nintendo Switch versión zelda](https://www.facebook.com/marketplace/item/1082876897479127) — Vendedor: Yunive Gastelum
-- 2026-09-07 18:36 — [Juegos de switch solo cartuchos en 500 cada uno](https://www.facebook.com/marketplace/item/1116747290779961) — Vendedor: Antonio Lopez
+- 2026-09-07 18:36 — [Juegos de switch solo cartuchos en 500 cada uno](https://www.facebook.com/marketplace/item/1116747290779961) — Vendedor: Jesus Luque
 - 2026-09-06 00:23 — [Juegos para Nintendo swict](https://www.facebook.com/marketplace/item/28723035537327827) — Vendedor: Karlita Martinez
 - 2026-09-05 21:15 — [FIFA 23 Legacy Nintendo Switch](https://www.facebook.com/marketplace/item/2340236606831195) — Vendedor: Alan Roberto Quiroz
 - 2026-09-05 08:14 — [juegos nintendo switch](https://www.facebook.com/marketplace/item/1228691096114429) — Vendedor: Sebastian Souza
@@ -161,7 +161,7 @@ Total: 239 anuncios disponibles.
 - 2026-07-30 22:27 — [Juegos nintendo switch smash mario kart sonic minecraft dragon ball](https://www.facebook.com/marketplace/item/2569850623461614) — Vendedor: Vicente Munguia
 - 2026-07-28 16:56 — [Juegos de Playstation y Nintendo switch](https://www.facebook.com/marketplace/item/2541998109596896) — Vendedor: Alexis Arturo Osuna Acosta
 - 2026-07-27 21:41 — [Smash Ultimate](https://www.facebook.com/marketplace/item/1286424016711906) — Vendedor: Sylveon Evie Camila Valdez
-- 2026-07-26 17:27 — [Juegos switch 650 cada uno](https://www.facebook.com/marketplace/item/1543523994169947) — Vendedor: Antonio Lopez
+- 2026-07-26 17:27 — [Juegos switch 650 cada uno](https://www.facebook.com/marketplace/item/1543523994169947) — Vendedor: Jesus Luque
 - 2026-07-23 21:21 — [SE VENDEN JUEGOS DE NINTENDO SWITCH](https://www.facebook.com/marketplace/item/2042252020013475) — Vendedor: Carlos Miranda
 - 2026-07-21 20:29 — [Mario Party Superstars (Nuevo Sellado)](https://www.facebook.com/marketplace/item/1019902924186868) — Vendedor: Sergio Inzunza
 - 2026-07-21 17:47 — [Mario 3d World](https://www.facebook.com/marketplace/item/908169665012342) — Vendedor: Erick Alberto Lugo Lizarraga
@@ -173,10 +173,10 @@ Total: 239 anuncios disponibles.
 - 2026-07-03 17:48 — [Nintendo switch Oled con Fc 25 de regalo](https://www.facebook.com/marketplace/item/4547445642248871) — Vendedor: Tadeo Lopez
 - 2026-06-30 15:33 — [JUEGOS NINTENDO SWITCH](https://www.facebook.com/marketplace/item/1122588276871841) — Vendedor: Juan Alonso
 - 2026-06-29 22:52 — [Juegos Nintendo switch el precio es depende del juego](https://www.facebook.com/marketplace/item/1011983814885447) — Vendedor: Antoni Tony
-- 2026-06-29 22:45 — [Juegos Nintendo switch sin caja en 350 cada uno](https://www.facebook.com/marketplace/item/1331141795266315) — Vendedor: Antonio Lopez
-- 2026-06-29 22:45 — [Juegos Nintendo switch sin caja en 400 cada uno](https://www.facebook.com/marketplace/item/1403249024965788) — Vendedor: Antonio Lopez
-- 2026-06-29 22:45 — [Juegos Nintendo switch en 600 cada uno](https://www.facebook.com/marketplace/item/2549571448798579) — Vendedor: Antonio Lopez
-- 2026-06-29 22:45 — [Juegos Nintendo switch sin caja en 550 cada uno](https://www.facebook.com/marketplace/item/4514489818796173) — Vendedor: Antonio Lopez
+- 2026-06-29 22:45 — [Juegos Nintendo switch sin caja en 350 cada uno](https://www.facebook.com/marketplace/item/1331141795266315) — Vendedor: Jesus Luque
+- 2026-06-29 22:45 — [Juegos Nintendo switch sin caja en 400 cada uno](https://www.facebook.com/marketplace/item/1403249024965788) — Vendedor: Jesus Luque
+- 2026-06-29 22:45 — [Juegos Nintendo switch en 600 cada uno](https://www.facebook.com/marketplace/item/2549571448798579) — Vendedor: Jesus Luque
+- 2026-06-29 22:45 — [Juegos Nintendo switch sin caja en 550 cada uno](https://www.facebook.com/marketplace/item/4514489818796173) — Vendedor: Jesus Luque
 - 2026-06-27 07:27 — [Super Smash Bros Ultimate](https://www.facebook.com/marketplace/item/2718547848532186) — Vendedor: Raul Bonifant
 - 2026-06-22 20:20 — [Mario kart 8 deluxe](https://www.facebook.com/marketplace/item/862610210256053) — Vendedor: Bianey Alejandra Muñoz Herrera
 - 2026-06-22 20:17 — [Súper Mario party](https://www.facebook.com/marketplace/item/1569239354617009) — Vendedor: Bianey Alejandra Muñoz Herrera
@@ -193,12 +193,12 @@ Total: 239 anuncios disponibles.
 - 2026-06-01 11:48 — [Se venden o se cambian juegos de nintendo switch](https://www.facebook.com/marketplace/item/984400087668775) — Vendedor: Jose Villegas
 - 2026-06-01 11:36 — [Pokemon Violeta para Nintendo Switch](https://www.facebook.com/marketplace/item/1618359279258319) — Vendedor: Jose Villegas
 - 2026-06-01 11:33 — [Juegos para nintendo switch](https://www.facebook.com/marketplace/item/1479474013314815) — Vendedor: Jose Villegas
-- 2026-06-01 10:12 — [Juegos Nintendo switch diferentes precios](https://www.facebook.com/marketplace/item/1731000428070400) — Vendedor: Antonio Lopez
-- 2026-06-01 10:12 — [Juegos baratos para switch 650 cada uno](https://www.facebook.com/marketplace/item/1711947366671449) — Vendedor: Antonio Lopez
-- 2026-06-01 10:12 — [Juegos Nintendo switch precios de 300 a 650](https://www.facebook.com/marketplace/item/1288832399990849) — Vendedor: Antonio Lopez
-- 2026-06-01 10:12 — [Juegos switch 500 cada uno](https://www.facebook.com/marketplace/item/1296534809261594) — Vendedor: Antonio Lopez
+- 2026-06-01 10:12 — [Juegos Nintendo switch diferentes precios](https://www.facebook.com/marketplace/item/1731000428070400) — Vendedor: Jesus Luque
+- 2026-06-01 10:12 — [Juegos baratos para switch 650 cada uno](https://www.facebook.com/marketplace/item/1711947366671449) — Vendedor: Jesus Luque
+- 2026-06-01 10:12 — [Juegos Nintendo switch precios de 300 a 650](https://www.facebook.com/marketplace/item/1288832399990849) — Vendedor: Jesus Luque
+- 2026-06-01 10:12 — [Juegos switch 500 cada uno](https://www.facebook.com/marketplace/item/1296534809261594) — Vendedor: Jesus Luque
 - 2026-05-30 17:43 — [SPLATOON 3 EN FORMATO FISICO EXCELENTE ESTADO](https://www.facebook.com/marketplace/item/1326099439734053) — Vendedor: Agustin Jaime Izaguirre Valdez
-- 2026-05-28 14:20 — [Juegos switch baratos, pregunten por el que les interese](https://www.facebook.com/marketplace/item/2079726366231483) — Vendedor: Antonio Lopez
+- 2026-05-28 14:20 — [Juegos switch baratos, pregunten por el que les interese](https://www.facebook.com/marketplace/item/2079726366231483) — Vendedor: Jesus Luque
 - 2026-05-15 08:26 — [Animal crossing switch](https://www.facebook.com/marketplace/item/1721048892400778) — Vendedor: Aarón Martinez Orduño
 - 2026-05-13 14:04 — [Juego De Nintendo Switch 1 FIFA 23](https://www.facebook.com/marketplace/item/3137915989931284) — Vendedor: Emmanuel Enciso
 - 2026-05-13 13:28 — [Videojuego Para Nintendo Switch 1 FIFA 22](https://www.facebook.com/marketplace/item/1998518117407840) — Vendedor: Emmanuel Enciso
