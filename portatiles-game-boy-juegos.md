@@ -10,5 +10,5 @@ Total: 2 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
-- 2026-09-16 20:22 — [Juegos gameboy](https://www.facebook.com/marketplace/item/1620717526117262) — GRATIS — GRATIS — Vendedor: Eros Celis
-- 2026-08-28 10:45 — [Cartucho multijuegos para Game boy 369 en 1](https://www.facebook.com/marketplace/item/1647242093626666) — $350 — $350 — Vendedor: Stargames Valenzuela
+- 2026-09-16 20:22 — [Juegos gameboy](https://www.facebook.com/marketplace/item/1620717526117262) — GRATIS — Vendedor: Eros Celis
+- 2026-08-28 10:45 — [Cartucho multijuegos para Game boy 369 en 1](https://www.facebook.com/marketplace/item/1647242093626666) — $350 — Vendedor: Stargames Valenzuela

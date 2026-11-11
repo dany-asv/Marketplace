@@ -10,4 +10,4 @@ Total: 1 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
-- 2026-09-22 16:39 — [Control ps3 para reparar](https://www.facebook.com/marketplace/item/1634066568290530) — $50 — $50 — Vendedor: Miguel Ramos
+- 2026-09-22 16:39 — [Control ps3 para reparar](https://www.facebook.com/marketplace/item/1634066568290530) — $50 — Vendedor: Miguel Ramos

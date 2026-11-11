@@ -10,5 +10,5 @@ Total: 2 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
-- 2026-07-17 12:55 — [Venta BOTAS MARCA CUADRA N°9  $750°°C/U.....  JUEGOS NES $450 C/U](https://www.facebook.com/marketplace/item/2207680893420518) — $750 — $750 — Vendedor: Alejandra Bojorquez
-- 2026-10-28 23:06 — [Vendo Nintendo Nes original japones el primer clásico de Mario bros.](https://www.facebook.com/marketplace/item/1100735932874841) — $2.500 — $2.500 — Vendedor: Omar Marquez
+- 2026-07-17 12:55 — [Venta BOTAS MARCA CUADRA N°9  $750°°C/U.....  JUEGOS NES $450 C/U](https://www.facebook.com/marketplace/item/2207680893420518) — $750 — Vendedor: Alejandra Bojorquez
+- 2026-10-28 23:06 — [Vendo Nintendo Nes original japones el primer clásico de Mario bros.](https://www.facebook.com/marketplace/item/1100735932874841) — $2.500 — Vendedor: Omar Marquez

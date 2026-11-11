@@ -10,5 +10,5 @@ Total: 2 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
-- 2026-08-31 19:45 — [Cargador para psp](https://www.facebook.com/marketplace/item/4971576883069284) — $111 — $111 — Vendedor: Chappy Chappy
-- 2026-09-17 21:23 — [Batería psp Slim](https://www.facebook.com/marketplace/item/1087246167216395) — $250 — $250 — Vendedor: Alma Valdez
+- 2026-08-31 19:45 — [Cargador para psp](https://www.facebook.com/marketplace/item/4971576883069284) — $111 — Vendedor: Chappy Chappy
+- 2026-09-17 21:23 — [Batería psp Slim](https://www.facebook.com/marketplace/item/1087246167216395) — $250 — Vendedor: Alma Valdez

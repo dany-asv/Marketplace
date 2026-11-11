@@ -10,6 +10,6 @@ Total: 3 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
-- 2026-09-22 01:00 — [busco una gameboy en buen estado](https://www.facebook.com/marketplace/item/2602859346901455) — $600 — $600 — Vendedor: Rodrigo Camacho Montes
-- 2026-09-15 10:57 — [BUSCO GAMEBOY BUEN ESTADO](https://www.facebook.com/marketplace/item/1811839499988229) — $600 — $600 — Vendedor: Rodrigo Camacho Montes
-- 2026-10-25 15:25 — [Vendo lote Game boy pocket original rosa- hecho en japon](https://www.facebook.com/marketplace/item/4013755732253016) — $3.000 — $3.000 — Vendedor: Alonso Vlz
+- 2026-09-22 01:00 — [busco una gameboy en buen estado](https://www.facebook.com/marketplace/item/2602859346901455) — $600 — Vendedor: Rodrigo Camacho Montes
+- 2026-09-15 10:57 — [BUSCO GAMEBOY BUEN ESTADO](https://www.facebook.com/marketplace/item/1811839499988229) — $600 — Vendedor: Rodrigo Camacho Montes
+- 2026-10-25 15:25 — [Vendo lote Game boy pocket original rosa- hecho en japon](https://www.facebook.com/marketplace/item/4013755732253016) — $3.000 — Vendedor: Alonso Vlz

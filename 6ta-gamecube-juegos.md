@@ -10,7 +10,7 @@ Total: 4 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
-- 2026-10-06 09:33 — [Juego metroid prime para gamecube](https://www.facebook.com/marketplace/item/1664632248506979) — $333 — $333 — Vendedor: Chappy Chappy
-- 2026-11-09 10:14 — [Mario Party 4 gamecube](https://www.facebook.com/marketplace/item/1646235227092029) — $850 — $850 — Vendedor: Sebastián Nozato
-- 2026-11-09 10:11 — [Mario Kart Gamecube](https://www.facebook.com/marketplace/item/1634985751436927) — $900 — $900 — Vendedor: Sebastián Nozato
-- 2026-10-10 22:11 — [Pokémon XD Gale of Darkness para Nintendo Gamecube](https://www.facebook.com/marketplace/item/2222903098617847) — $1.500 — $1.500 — Vendedor: Jurguen Camacho
+- 2026-10-06 09:33 — [Juego metroid prime para gamecube](https://www.facebook.com/marketplace/item/1664632248506979) — $333 — Vendedor: Chappy Chappy
+- 2026-11-09 10:14 — [Mario Party 4 gamecube](https://www.facebook.com/marketplace/item/1646235227092029) — $850 — Vendedor: Sebastián Nozato
+- 2026-11-09 10:11 — [Mario Kart Gamecube](https://www.facebook.com/marketplace/item/1634985751436927) — $900 — Vendedor: Sebastián Nozato
+- 2026-10-10 22:11 — [Pokémon XD Gale of Darkness para Nintendo Gamecube](https://www.facebook.com/marketplace/item/2222903098617847) — $1.500 — Vendedor: Jurguen Camacho

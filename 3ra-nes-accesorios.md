@@ -10,4 +10,4 @@ Total: 1 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
-- 2026-10-12 09:22 — [Control Nes 👾🎮 1991](https://www.facebook.com/marketplace/item/1575085733888807) — $200 — $200 — Vendedor: Silver Slv
+- 2026-10-12 09:22 — [Control Nes 👾🎮 1991](https://www.facebook.com/marketplace/item/1575085733888807) — $200 — Vendedor: Silver Slv

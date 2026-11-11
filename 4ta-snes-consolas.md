@@ -10,5 +10,5 @@ Total: 2 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
-- 2026-08-16 12:49 — [Super Nintendo mini](https://www.facebook.com/marketplace/item/4420192634896346) — $1.600 — $1.600 — Vendedor: Gabriel Ortega
-- 2026-09-17 12:29 — [Súper Nintendo Classic Mini Edition Original en su caja sin maltratar](https://www.facebook.com/marketplace/item/1354218913364909) — $3.000 — $3.000 — Vendedor: Rocio Ibarra
+- 2026-08-16 12:49 — [Super Nintendo mini](https://www.facebook.com/marketplace/item/4420192634896346) — $1.600 — Vendedor: Gabriel Ortega
+- 2026-09-17 12:29 — [Súper Nintendo Classic Mini Edition Original en su caja sin maltratar](https://www.facebook.com/marketplace/item/1354218913364909) — $3.000 — Vendedor: Rocio Ibarra

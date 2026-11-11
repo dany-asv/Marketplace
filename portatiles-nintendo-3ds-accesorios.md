@@ -10,4 +10,4 @@ Total: 1 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
-- 2026-07-27 15:32 — [Casét para Nintendo 3ds barato](https://www.facebook.com/marketplace/item/1652384329190178) — $111 — $111 — Vendedor: Ivan Lopez
+- 2026-07-27 15:32 — [Casét para Nintendo 3ds barato](https://www.facebook.com/marketplace/item/1652384329190178) — $111 — Vendedor: Ivan Lopez

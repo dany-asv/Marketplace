@@ -10,5 +10,5 @@ Total: 2 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
-- 2026-08-09 13:01 — [Accesorios para dreamcast sin detalles](https://www.facebook.com/marketplace/item/1056275274035457) — $111 — $111 — Vendedor: Chappy Chappy
-- 2026-10-30 08:57 — [Vendo control Original de sega Dreamcast](https://www.facebook.com/marketplace/item/1649066540011681) — $1.500 — $1.500 — Vendedor: Alonso Vlz
+- 2026-08-09 13:01 — [Accesorios para dreamcast sin detalles](https://www.facebook.com/marketplace/item/1056275274035457) — $111 — Vendedor: Chappy Chappy
+- 2026-10-30 08:57 — [Vendo control Original de sega Dreamcast](https://www.facebook.com/marketplace/item/1649066540011681) — $1.500 — Vendedor: Alonso Vlz

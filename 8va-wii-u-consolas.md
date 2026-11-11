@@ -10,5 +10,5 @@ Total: 2 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
-- 2026-07-28 20:31 — [Wii U](https://www.facebook.com/marketplace/item/1025411873440245) — $800 — $800 — Vendedor: Esteban Olguin Avila
-- 2026-01-24 14:16 — [Nintendo Wii u](https://www.facebook.com/marketplace/item/863458489805074) — $3.500 — $3.500 — Vendedor: Tecnohybrid Autis
+- 2026-07-28 20:31 — [Wii U](https://www.facebook.com/marketplace/item/1025411873440245) — $800 — Vendedor: Esteban Olguin Avila
+- 2026-01-24 14:16 — [Nintendo Wii u](https://www.facebook.com/marketplace/item/863458489805074) — $3.500 — Vendedor: Tecnohybrid Autis

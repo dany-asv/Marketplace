@@ -10,4 +10,4 @@ Total: 1 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
-- 2026-11-11 14:32 — [Control para XBOX 360](https://www.facebook.com/marketplace/item/3371230653076185) — $600 — $600 — Vendedor: Awa De Horchata
+- 2026-11-11 14:32 — [Control para XBOX 360](https://www.facebook.com/marketplace/item/3371230653076185) — $600 — Vendedor: Awa De Horchata
