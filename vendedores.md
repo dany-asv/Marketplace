@@ -6,7 +6,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
 
-Total: 853 vendedores, 1404 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
+Total: 855 vendedores, 1406 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
 
 ## Vendedores (de mayor a menor número de publicaciones)
 
@@ -664,6 +664,7 @@ Total: 853 vendedores, 1404 anuncios con vendedor identificado (3 anuncios de la
 - [Luis Ricardo Peraza](https://www.facebook.com/marketplace/profile/631039718) — 1 publicaciones
 - [Luis Rodriguez](https://www.facebook.com/marketplace/profile/100036539220928) — 1 publicaciones
 - [Luiz Castro Quiñones](https://www.facebook.com/marketplace/profile/755643667) — 1 publicaciones
+- [Luiz Lopez](https://www.facebook.com/marketplace/profile/61566740446219) — 1 publicaciones
 - [Lupita Felix](https://www.facebook.com/marketplace/profile/100026474562319) — 1 publicaciones
 - [Lupita Leyva](https://www.facebook.com/marketplace/profile/100004368453450) — 1 publicaciones
 - [Ma Bu](https://www.facebook.com/marketplace/profile/61563003431615) — 1 publicaciones
@@ -815,6 +816,7 @@ Total: 853 vendedores, 1404 anuncios con vendedor identificado (3 anuncios de la
 - [Sergio Sandoval'v](https://www.facebook.com/marketplace/profile/100000493833792) — 1 publicaciones
 - [Siito Ck](https://www.facebook.com/marketplace/profile/100079994717312) — 1 publicaciones
 - [Sofia Ram](https://www.facebook.com/marketplace/profile/61578339055261) — 1 publicaciones
+- [Soto J Alv](https://www.facebook.com/marketplace/profile/100011437093516) — 1 publicaciones
 - [Stephanie Salas](https://www.facebook.com/marketplace/profile/597665207) — 1 publicaciones
 - [Sun Kool](https://www.facebook.com/marketplace/profile/61591921345738) — 1 publicaciones
 - [Tadeo Lopez](https://www.facebook.com/marketplace/profile/100085446910567) — 1 publicaciones

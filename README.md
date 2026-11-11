@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1407 anuncios disponibles.
+Total: 1409 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -85,7 +85,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](8va-ps4-juegos.md) — 111 anuncios
     - [Accesorios](8va-ps4-accesorios.md) — 22 anuncios
   - Xbox One:
-    - [Consolas](8va-xbox-one-consolas.md) — 14 anuncios
+    - [Consolas](8va-xbox-one-consolas.md) — 16 anuncios
     - [Juegos](8va-xbox-one-juegos.md) — 1 anuncios
     - [Accesorios](8va-xbox-one-accesorios.md) — 1 anuncios
 - 9na generación:
@@ -349,6 +349,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-10-29 00:56 — [Xbox 360 Slim Chipeado](https://www.facebook.com/marketplace/item/1879794700043625) — $1.500 — Usado - Buen estado — Los Mochis — Vendedor: Daniela Trejo
 - 2026-10-28 23:06 — [Vendo Nintendo Nes original japones el primer clásico de Mario bros.](https://www.facebook.com/marketplace/item/1100735932874841) — $2.500 — Usado - Buen estado — Los Mochis — Vendedor: Omar Marquez
 - 2026-10-28 21:55 — [Zelda](https://www.facebook.com/marketplace/item/4696253194028504) — $1 — Usado - Como nuevo — Los Mochis — Vendedor: Marcelo Gabriel
+- 2026-10-28 19:07 — [Xbox one s](https://www.facebook.com/marketplace/item/1590643582277315) — $2.000 — Usado - Como nuevo — Los Mochis — Vendedor: Luiz Lopez
 - 2026-10-28 17:58 — [Sonic x Shadow Generations juego Nintendo switch](https://www.facebook.com/marketplace/item/1831852888014883) — $750 — Usado - Como nuevo — Los Mochis — Vendedor: Janeth Gutierrez
 - 2026-10-28 17:54 — [Omori juego Nintendo switch](https://www.facebook.com/marketplace/item/1098333916379914) — $750 — Usado - Como nuevo — Los Mochis — Vendedor: Janeth Gutierrez
 - 2026-10-28 15:17 — [Juegos ps4](https://www.facebook.com/marketplace/item/1809377183612967) — $250 — Usado - Buen estado — Los Mochis — Vendedor: Brayan Chacon
@@ -494,6 +495,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-10-15 14:22 — [Juegos para switch](https://www.facebook.com/marketplace/item/2165126684436000) — $600 — Usado - Como nuevo — Los Mochis — Vendedor: Cristina Sauceda
 - 2026-10-15 13:21 — [Nintendo 3ds Original 1era edicion color negro](https://www.facebook.com/marketplace/item/1415749340084706) — $2.500 — Usado - Buen estado — Los Mochis — Vendedor: Flip Jjr
 - 2026-10-15 11:06 — [Fallout 76 ps4](https://www.facebook.com/marketplace/item/1140432195171232) — $200 — Usado - Buen estado — Los Mochis — Vendedor: Luis Lopez
+- 2026-10-15 09:48 — [Xbox one x (PARA REFACCIONES)](https://www.facebook.com/marketplace/item/983419331474849) — GRATIS — Usado - Buen estado — Los Mochis — Vendedor: Soto J Alv
 - 2026-10-15 09:09 — [Juego de Jumanji para Nintendo switch](https://www.facebook.com/marketplace/item/2178005906474107) — $350 — Usado - Como nuevo — Los Mochis — Vendedor: Daniela Gutierrez
 - 2026-10-15 09:07 — [Juego Sonic forces de Nintendo switch](https://www.facebook.com/marketplace/item/4643521429301940) — $400 — Usado - Como nuevo — Los Mochis — Vendedor: Daniela Gutierrez
 - 2026-10-15 09:05 — [Juego Minecraft de Nintendo switch](https://www.facebook.com/marketplace/item/1372675438022186) — $400 — Usado - Como nuevo — Los Mochis — Vendedor: Daniela Gutierrez
