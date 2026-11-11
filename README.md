@@ -27,11 +27,11 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - PS Vita:
     - [Consolas](portatiles-ps-vita-consolas.md) — 5 anuncios
   - Nintendo DS:
-    - [Consolas](portatiles-nintendo-ds-consolas.md) — 9 anuncios
+    - [Consolas](portatiles-nintendo-ds-consolas.md) — 7 anuncios
     - [Juegos](portatiles-nintendo-ds-juegos.md) — 9 anuncios
     - [Accesorios](portatiles-nintendo-ds-accesorios.md) — 2 anuncios
   - Nintendo 2DS:
-    - [Consolas](portatiles-nintendo-2ds-consolas.md) — 2 anuncios
+    - [Consolas](portatiles-nintendo-2ds-consolas.md) — 4 anuncios
   - Nintendo 3DS:
     - [Consolas](portatiles-nintendo-3ds-consolas.md) — 8 anuncios
     - [Juegos](portatiles-nintendo-3ds-juegos.md) — 11 anuncios
