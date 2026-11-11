@@ -3,11 +3,11 @@
 Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa, al 11 de noviembre de 2026. Ordenada de más actual a más viejo según la fecha y hora de publicación (hora de Los Mochis).
 
 - Base: lista de guardados de Daniel, páginas 1 a 128 (2,540 anuncios revisados; la página 129 falló con error 500 de Facebook, así que la lista sigue incompleta después de enero de 2026).
-- Más los anuncios nuevos verificados como disponibles en las revisiones de vigilancia del 10 de noviembre de 2026.
+- Más los anuncios nuevos verificados como disponibles en las revisiones de vigilancia del 10 y 11 de noviembre de 2026.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1403 anuncios disponibles.
+Total: 1407 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -48,7 +48,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 5ta generación:
   - Nintendo 64 (N64):
     - [Consolas](5ta-nintendo-64-consolas.md) — 6 anuncios
-    - [Juegos](5ta-nintendo-64-juegos.md) — 8 anuncios
+    - [Juegos](5ta-nintendo-64-juegos.md) — 12 anuncios
     - [Accesorios](5ta-nintendo-64-accesorios.md) — 3 anuncios
   - PlayStation 1 (PS1):
     - [Consolas](5ta-ps1-consolas.md) — 4 anuncios
@@ -113,6 +113,10 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - [Accesorios](otros-accesorios.md) — 45 anuncios
 ## Disponibles (de más actual a más viejo)
 
+- 2026-11-11 08:46 — [Juegos Nintendo 64 originales $200 c/u](https://www.facebook.com/marketplace/item/4154199678203621) — $200 — Usado - Aceptable — Los Mochis — Vendedor: Jano Sarabia
+- 2026-11-11 08:42 — [Juegos Nintendo 64 originales $300 c/u](https://www.facebook.com/marketplace/item/1088135204217850) — $300 — Usado - Aceptable — Los Mochis — Vendedor: Jano Sarabia
+- 2026-11-11 08:38 — [Juegos Nintendo 64 originales $450 c/u](https://www.facebook.com/marketplace/item/978819308634143) — $450 — Usado - Buen estado — Los Mochis — Vendedor: Jano Sarabia
+- 2026-11-11 08:33 — [Juegos Nintendo 64 originales $600 c/u](https://www.facebook.com/marketplace/item/1125750073760204) — $600 — Usado - Buen estado — Los Mochis — Vendedor: Jano Sarabia
 - 2026-11-11 02:38 — [Gamesir G8 Plus, control móvil, compatible con Android, IOS, Nintendo Switch, PC, Funda incluida.](https://www.facebook.com/marketplace/item/1181023214249098) — $900 — Nuevo — Los Mochis — Vendedor: Pedro Hernandez
 - 2026-11-11 02:21 — [Controles inalambricos para Playstation4](https://www.facebook.com/marketplace/item/1167456929275365) — $400 — Nuevo — Los Mochis — Vendedor: Miguel Lozano
 - 2026-11-11 01:19 — [Nintendo Wii sin control](https://www.facebook.com/marketplace/item/3175750119444425) — $400 — Usado - Como nuevo — Los Mochis — Vendedor: Diego Sampognia
