@@ -48,8 +48,8 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 5ta generación:
   - Nintendo 64 (N64):
     - [Consolas](5ta-nintendo-64-consolas.md) — 6 anuncios
-    - [Juegos](5ta-nintendo-64-juegos.md) — 12 anuncios
-    - [Accesorios](5ta-nintendo-64-accesorios.md) — 3 anuncios
+    - [Juegos](5ta-nintendo-64-juegos.md) — 13 anuncios
+    - [Accesorios](5ta-nintendo-64-accesorios.md) — 2 anuncios
   - PlayStation 1 (PS1):
     - [Consolas](5ta-ps1-consolas.md) — 4 anuncios
 - 6ta generación:
@@ -111,8 +111,8 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](10ma-nintendo-switch-2-juegos.md) — 11 anuncios
 - Otros — Multiplataforma o sin plataforma clara:
   - [Consolas](otros-consolas.md) — 129 anuncios
-  - [Juegos](otros-juegos.md) — 165 anuncios
-  - [Accesorios](otros-accesorios.md) — 45 anuncios
+  - [Juegos](otros-juegos.md) — 166 anuncios
+  - [Accesorios](otros-accesorios.md) — 44 anuncios
 ## Disponibles (de más actual a más viejo)
 
 - 2026-11-11 14:32 — [Control para XBOX 360](https://www.facebook.com/marketplace/item/3371230653076185) — $600 — Usado - Como nuevo — Los Mochis — Vendedor: Awa De Horchata

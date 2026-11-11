@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 45 anuncios disponibles.
+Total: 44 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -15,7 +15,6 @@ Total: 45 anuncios disponibles.
 - 2026-10-27 23:32 — [Plumas para consolas DS, Dsi, Dsi XL, 3ds, 3ds XL, New 3dsxl y 2ds, New 2ds XL , Wii u](https://www.facebook.com/marketplace/item/1144531488090080) — $50 — Vendedor: Stargames Valenzuela
 - 2026-09-02 01:00 — [Stylus 3ds , Ds Lite Y Xl y gomas para controles](https://www.facebook.com/marketplace/item/1054109230864191) — $50 — Vendedor: Ana Julia Ahumada
 - 2026-10-22 10:10 — [Cable hdmi](https://www.facebook.com/marketplace/item/1439885281614868) — $100 — Vendedor: Jesus Cota
-- 2026-07-27 15:33 — [Caset para Nintendo DS y gameboy](https://www.facebook.com/marketplace/item/1963174394397831) — $100 — Vendedor: Ivan Lopez
 - 2026-07-22 21:50 — [Cable Hdmi Nintendo original speed  360hz](https://www.facebook.com/marketplace/item/1782433266115664) — $100 — Vendedor: Novio De Guadalupe
 - 2026-08-09 13:03 — [Base de carga para tableta wiiu](https://www.facebook.com/marketplace/item/2107532947306173) — $111 — Vendedor: Chappy Chappy
 - 2026-08-04 11:50 — [Cargador Nintendo gameboy, ds, 3ds,dslite,dsi](https://www.facebook.com/marketplace/item/1410720534453492) — $111 — Vendedor: Chappy Chappy
