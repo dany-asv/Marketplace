@@ -60,9 +60,9 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - Dreamcast:
     - [Accesorios](6ta-dreamcast-accesorios.md) — 2 anuncios
   - PlayStation 2 (PS2):
-    - [Consolas](6ta-ps2-consolas.md) — 10 anuncios
+    - [Consolas](6ta-ps2-consolas.md) — 9 anuncios
     - [Juegos](6ta-ps2-juegos.md) — 4 anuncios
-    - [Accesorios](6ta-ps2-accesorios.md) — 1 anuncios
+    - [Accesorios](6ta-ps2-accesorios.md) — 2 anuncios
   - Xbox Clásico:
     - [Accesorios](6ta-xbox-clasico-accesorios.md) — 1 anuncios
 - 7ma generación:
