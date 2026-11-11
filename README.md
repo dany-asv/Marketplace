@@ -13,20 +13,6 @@ Total: 1337 anuncios disponibles.
 
 Cada anuncio está clasificado en un solo archivo según la plataforma que nombra su título, y dentro de cada consola en consolas, juegos o accesorios. Los anuncios que abarcan varias generaciones o no nombran una plataforma clara están en Otros.
 
-- 1ra, 2da y 3ra generación:
-  - NES:
-    - [Consolas](3ra-nes-consolas.md) — 3 anuncios
-    - [Juegos](3ra-nes-juegos.md) — 2 anuncios
-- 4ta y 5ta generación:
-  - Super Nintendo (SNES):
-    - [Consolas](4ta-snes-consolas.md) — 2 anuncios
-    - [Juegos](4ta-snes-juegos.md) — 3 anuncios
-  - Nintendo 64 (N64):
-    - [Consolas](5ta-nintendo-64-consolas.md) — 6 anuncios
-    - [Juegos](5ta-nintendo-64-juegos.md) — 8 anuncios
-    - [Accesorios](5ta-nintendo-64-accesorios.md) — 3 anuncios
-  - PlayStation 1 (PS1):
-    - [Consolas](5ta-ps1-consolas.md) — 4 anuncios
 - Portátiles:
   - Game Boy:
     - [Consolas](portatiles-game-boy-consolas.md) — 3 anuncios
@@ -50,6 +36,21 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Consolas](portatiles-nintendo-3ds-consolas.md) — 8 anuncios
     - [Juegos](portatiles-nintendo-3ds-juegos.md) — 10 anuncios
     - [Accesorios](portatiles-nintendo-3ds-accesorios.md) — 1 anuncios
+- 1ra, 2da y 3ra generación:
+  - Nintendo Entertainment System (NES):
+    - [Consolas](3ra-nes-consolas.md) — 3 anuncios
+    - [Juegos](3ra-nes-juegos.md) — 2 anuncios
+- 4ta generación:
+  - Super Nintendo (SNES):
+    - [Consolas](4ta-snes-consolas.md) — 2 anuncios
+    - [Juegos](4ta-snes-juegos.md) — 3 anuncios
+- 5ta generación:
+  - Nintendo 64 (N64):
+    - [Consolas](5ta-nintendo-64-consolas.md) — 6 anuncios
+    - [Juegos](5ta-nintendo-64-juegos.md) — 8 anuncios
+    - [Accesorios](5ta-nintendo-64-accesorios.md) — 3 anuncios
+  - PlayStation 1 (PS1):
+    - [Consolas](5ta-ps1-consolas.md) — 4 anuncios
 - 6ta generación:
   - GameCube:
     - [Consolas](6ta-gamecube-consolas.md) — 2 anuncios
