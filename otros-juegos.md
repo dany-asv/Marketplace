@@ -6,12 +6,11 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 162 anuncios disponibles.
+Total: 161 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
 - 2026-11-05 19:37 — [Sonic 2 y ni no kuni](https://www.facebook.com/marketplace/item/2149935728978567) — GRATIS — Vendedor: Antonio Rodriguez
-- 2026-09-16 20:18 — [Pokémon white version (SOLO CAJA)](https://www.facebook.com/marketplace/item/2618173425310456) — GRATIS — Vendedor: Eros Celis
 - 2026-09-01 21:24 — [Juegos para Playstation](https://www.facebook.com/marketplace/item/1003688652686728) — GRATIS — Vendedor: Maria CL
 - 2026-08-27 16:04 — [Juegos de switch, ps5 y xbox](https://www.facebook.com/marketplace/item/1422661659727518) — GRATIS — Vendedor: Ivan Delval
 - 2026-04-27 17:17 — [Juegos de Nintendo](https://www.facebook.com/marketplace/item/1342065097975792) — GRATIS — Vendedor: Iris Martinez
