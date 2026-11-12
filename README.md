@@ -99,7 +99,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
       - [Lite](9na-nintendo-switch-lite-consolas.md) — 31 anuncios
       - [Normal](9na-nintendo-switch-normal-consolas.md) — 121 anuncios
       - [Customs](9na-nintendo-switch-customs-consolas.md) — 31 anuncios
-    - [Juegos](9na-nintendo-switch-juegos.md) — 236 anuncios
+    - [Juegos](9na-nintendo-switch-juegos.md) — 238 anuncios
     - [Accesorios](9na-nintendo-switch-accesorios.md) — 61 anuncios
   - PlayStation 5 (PS5):
     - [Consolas](9na-ps5-consolas.md) — 1 anuncios
@@ -113,7 +113,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Consolas](10ma-nintendo-switch-2-consolas.md) — 14 anuncios
     - [Juegos](10ma-nintendo-switch-2-juegos.md) — 15 anuncios
 - Otros — Multiplataforma o sin plataforma clara:
-  - [Consolas](otros-consolas.md) — 102 anuncios
+  - [Consolas](otros-consolas.md) — 100 anuncios
   - [Juegos](otros-juegos.md) — 168 anuncios
   - [Accesorios](otros-accesorios.md) — 35 anuncios
 ## Disponibles (de más actual a más viejo)

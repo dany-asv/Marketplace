@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 236 anuncios disponibles.
+Total: 238 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -122,6 +122,8 @@ Total: 236 anuncios disponibles.
 - 2026-11-03 12:47 — [Animal Crossing: New Horizons](https://www.facebook.com/marketplace/item/1870903497444882) — $550 — Vendedor: Jose Zuniga
 - 2026-10-07 17:59 — [Juegos Nintendo switch 550 cada uno](https://www.facebook.com/marketplace/item/1890370088901509) — $550 — Vendedor: Antonio Lopez
 - 2026-10-01 19:55 — [Pokémon espada](https://www.facebook.com/marketplace/item/1625291998961200) — $550 — Vendedor: Daniel Castro
+- 2026-09-09 15:49 — [Vendo o cambio urgencia](https://www.facebook.com/marketplace/item/1428091072531227) — $550 — Vendedor: Fernando Gonzales
+- 2026-07-26 17:27 — [550$ cada uno](https://www.facebook.com/marketplace/item/1541851637439403) — $550 — Vendedor: Antonio Lopez
 - 2026-06-29 22:45 — [Juegos Nintendo switch sin caja en 550 cada uno](https://www.facebook.com/marketplace/item/4514489818796173) — $550 — Vendedor: Antonio Lopez
 - 2026-05-03 12:17 — [FC 24 PARA NINTENDO SWITCH](https://www.facebook.com/marketplace/item/1721319215696984) — $550 — Vendedor: Roger Valenzuela
 - 2026-04-18 12:11 — [Se venden cartuchos de switch el soul reaver está vendido](https://www.facebook.com/marketplace/item/1609059773724918) — $550 — Vendedor: Arnaldo Apodaca
