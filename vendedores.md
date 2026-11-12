@@ -1,12 +1,12 @@
 # Vendedores por número de publicaciones — Marketplace Los Mochis (videojuegos)
 
-Vendedores ordenados de mayor a menor número de publicaciones disponibles de videojuegos en Los Mochis, según la lista del repositorio (README.md, al 11 de noviembre de 2026).
+Vendedores ordenados de mayor a menor número de publicaciones disponibles de videojuegos en Los Mochis, según la lista del repositorio (README.md, al 12 de noviembre de 2026).
 
 - El nombre de cada vendedor es una liga a su perfil de Marketplace.
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
 
-Total: 876 vendedores, 1446 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
+Total: 879 vendedores, 1450 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
 
 ## Vendedores (de mayor a menor número de publicaciones)
 
@@ -138,6 +138,7 @@ Total: 876 vendedores, 1446 anuncios con vendedor identificado (3 anuncios de la
 - [Daniela Hernández](https://www.facebook.com/marketplace/profile/61566490391063) — 2 publicaciones
 - [Daniela Trejo](https://www.facebook.com/marketplace/profile/100069539765355) — 2 publicaciones
 - [Danielito Soto](https://www.facebook.com/marketplace/profile/100013009621645) — 2 publicaciones
+- [Dante Esquer](https://www.facebook.com/marketplace/profile/100005897265236) — 2 publicaciones
 - [Diego Moreno](https://www.facebook.com/marketplace/profile/100050310905759) — 2 publicaciones
 - [Eidan Aviles](https://www.facebook.com/marketplace/profile/100052023620878) — 2 publicaciones
 - [Enrique Montoya](https://www.facebook.com/marketplace/profile/100015801420448) — 2 publicaciones
@@ -260,6 +261,7 @@ Total: 876 vendedores, 1446 anuncios con vendedor identificado (3 anuncios de la
 - [Alfredo Cota](https://www.facebook.com/marketplace/profile/100070771495141) — 1 publicaciones
 - [Alham Alor](https://www.facebook.com/marketplace/profile/100001578748544) — 1 publicaciones
 - [Alis Robles](https://www.facebook.com/marketplace/profile/100034448223197) — 1 publicaciones
+- [Alvarez Fierro Jose](https://www.facebook.com/marketplace/profile/61561762384680) — 1 publicaciones
 - [Allan Acevez](https://www.facebook.com/marketplace/profile/100009306957136) — 1 publicaciones
 - [Allan E Ramirez G](https://www.facebook.com/marketplace/profile/1803162146) — 1 publicaciones
 - [Allan Torres](https://www.facebook.com/marketplace/profile/61594467110632) — 1 publicaciones
@@ -305,6 +307,7 @@ Total: 876 vendedores, 1446 anuncios con vendedor identificado (3 anuncios de la
 - [Aron Encinas Quintana](https://www.facebook.com/marketplace/profile/100000560169999) — 1 publicaciones
 - [Arthur Morgan](https://www.facebook.com/marketplace/profile/61574732410434) — 1 publicaciones
 - [Arturo Ramirez](https://www.facebook.com/marketplace/profile/61576306671631) — 1 publicaciones
+- [Arturo Ramos](https://www.facebook.com/marketplace/profile/100022221707349) — 1 publicaciones
 - [Ashly Vmy](https://www.facebook.com/marketplace/profile/100056856162499) — 1 publicaciones
 - [Asis Romaas](https://www.facebook.com/marketplace/profile/61589036703482) — 1 publicaciones
 - [Averno Lm](https://www.facebook.com/marketplace/profile/61595977944491) — 1 publicaciones

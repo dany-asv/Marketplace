@@ -1,13 +1,13 @@
 # Disponibles — Marketplace Los Mochis (videojuegos)
 
-Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa, al 11 de noviembre de 2026. Ordenada de más actual a más viejo según la fecha y hora de publicación (hora de Los Mochis).
+Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa, al 12 de noviembre de 2026. Ordenada de más actual a más viejo según la fecha y hora de publicación (hora de Los Mochis).
 
 - Base: lista de guardados de Daniel, páginas 1 a 128 (2,540 anuncios revisados; la página 129 falló con error 500 de Facebook, así que la lista sigue incompleta después de enero de 2026).
 - Más los anuncios nuevos verificados como disponibles en las revisiones de vigilancia del 10 y 11 de noviembre de 2026.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1449 anuncios disponibles.
+Total: 1453 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -76,7 +76,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](7ma-ps3-juegos.md) — 11 anuncios
     - [Accesorios](7ma-ps3-accesorios.md) — 1 anuncios
   - Xbox 360:
-    - [Consolas](7ma-xbox-360-consolas.md) — 7 anuncios
+    - [Consolas](7ma-xbox-360-consolas.md) — 8 anuncios
     - [Juegos](7ma-xbox-360-juegos.md) — 1 anuncios
     - [Accesorios](7ma-xbox-360-accesorios.md) — 2 anuncios
 - 8va generación:
@@ -103,10 +103,10 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Accesorios](9na-nintendo-switch-accesorios.md) — 61 anuncios
   - PlayStation 5 (PS5):
     - [Consolas](9na-ps5-consolas.md) — 1 anuncios
-    - [Juegos](9na-ps5-juegos.md) — 15 anuncios
+    - [Juegos](9na-ps5-juegos.md) — 17 anuncios
     - [Accesorios](9na-ps5-accesorios.md) — 11 anuncios
   - Xbox Series X/S:
-    - [Consolas](9na-xbox-series-consolas.md) — 2 anuncios
+    - [Consolas](9na-xbox-series-consolas.md) — 3 anuncios
     - [Accesorios](9na-xbox-series-accesorios.md) — 1 anuncios
 - 10ma generación:
   - Nintendo Switch 2:
@@ -119,9 +119,13 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - [Accesorios](otros-accesorios.md) — 35 anuncios
 ## Disponibles (de más actual a más viejo)
 
+- 2026-11-12 00:24 — [Hogwarts legacy PS5](https://www.facebook.com/marketplace/item/1625533765489329) — $700 — Nuevo — Los Mochis — Vendedor: Dante Esquer
+- 2026-11-12 00:23 — [FC2025 PS5](https://www.facebook.com/marketplace/item/1662883065372491) — $500 — Usado - Como nuevo — Los Mochis — Vendedor: Dante Esquer
+- 2026-11-11 22:29 — [Xbox Series S ⭐️✅  Todo incluido funcionando al 100 poco uso   📺 Monitor LG UltraGear 24GS50F  * 24](https://www.facebook.com/marketplace/item/2322029451893733) — $66 — Nuevo — Los Mochis — Vendedor: Alvarez Fierro Jose
 - 2026-11-11 20:53 — [Estuche Nintendo Switch](https://www.facebook.com/marketplace/item/966784922827906) — $400 — Usado - Como nuevo — Los Mochis — Vendedor: Robles Jazive
 - 2026-11-11 20:52 — [Nintendo Switch](https://www.facebook.com/marketplace/item/1140352575248205) — $1.900 — Usado - Buen estado — Los Mochis — Vendedor: Antonio Palafox
 - 2026-11-11 18:20 — [Controles de xbox 360 sin tapas y kinect](https://www.facebook.com/marketplace/item/1498144648867215) — $400 — Usado - Como nuevo — Los Mochis — Vendedor: Cas Hym
+- 2026-11-11 17:32 — [Xbox 360 slim](https://www.facebook.com/marketplace/item/1704020704613803) — $1.000 — Usado - Buen estado — Los Mochis — Vendedor: Arturo Ramos
 - 2026-11-11 17:10 — [📛CONSOLA X80📛60 MIL JUEGOS✅️ ADAPTABLE A TV💥 HD 💥 ENVIOS A DOMICILIO‼️GARANTIA DE 1 AÑO👌](https://www.facebook.com/marketplace/item/4685549918397577) — $1.500 — Nuevo — Los Mochis — Vendedor: Nutrijugos LA Selva
 - 2026-11-11 16:54 — [Nintendo 2DS Bateria Nueva (Puerto USB C)](https://www.facebook.com/marketplace/item/1085020521232688) — $2.000 — Usado - Buen estado — Los Mochis — Vendedor: Jorge Vega Gz
 - 2026-11-11 15:26 — [Xbox One X](https://www.facebook.com/marketplace/item/1650767393195026) — $2.400 — Usado - Buen estado — Los Mochis — Vendedor: Ktr Lovecraft
