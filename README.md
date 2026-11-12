@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1448 anuncios disponibles.
+Total: 1450 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -95,10 +95,10 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - Consolas:
       - [OLED](9na-nintendo-switch-oled-consolas.md) — 125 anuncios
       - [Lite](9na-nintendo-switch-lite-consolas.md) — 28 anuncios
-      - [Normal](9na-nintendo-switch-normal-consolas.md) — 115 anuncios
+      - [Normal](9na-nintendo-switch-normal-consolas.md) — 116 anuncios
       - [Customs](9na-nintendo-switch-customs-consolas.md) — 31 anuncios
     - [Juegos](9na-nintendo-switch-juegos.md) — 230 anuncios
-    - [Accesorios](9na-nintendo-switch-accesorios.md) — 55 anuncios
+    - [Accesorios](9na-nintendo-switch-accesorios.md) — 56 anuncios
   - PlayStation 5 (PS5):
     - [Consolas](9na-ps5-consolas.md) — 1 anuncios
     - [Juegos](9na-ps5-juegos.md) — 15 anuncios
@@ -116,6 +116,8 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - [Accesorios](otros-accesorios.md) — 45 anuncios
 ## Disponibles (de más actual a más viejo)
 
+- 2026-11-11 20:53 — [Estuche Nintendo Switch](https://www.facebook.com/marketplace/item/966784922827906) — $400 — Usado - Como nuevo — Los Mochis — Vendedor: Robles Jazive
+- 2026-11-11 20:52 — [Nintendo Switch](https://www.facebook.com/marketplace/item/1140352575248205) — $1.900 — Usado - Buen estado — Los Mochis — Vendedor: Antonio Palafox
 - 2026-11-11 18:20 — [Controles de xbox 360 sin tapas y kinect](https://www.facebook.com/marketplace/item/1498144648867215) — $400 — Usado - Como nuevo — Los Mochis — Vendedor: Cas Hym
 - 2026-11-11 17:10 — [📛CONSOLA X80📛60 MIL JUEGOS✅️ ADAPTABLE A TV💥 HD 💥 ENVIOS A DOMICILIO‼️GARANTIA DE 1 AÑO👌](https://www.facebook.com/marketplace/item/4685549918397577) — $1.500 — Nuevo — Los Mochis — Vendedor: Nutrijugos LA Selva
 - 2026-11-11 16:54 — [Nintendo 2DS Bateria Nueva (Puerto USB C)](https://www.facebook.com/marketplace/item/1085020521232688) — $2.000 — Usado - Buen estado — Los Mochis — Vendedor: Jorge Vega Gz

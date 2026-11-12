@@ -6,7 +6,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
 
-Total: 875 vendedores, 1445 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
+Total: 876 vendedores, 1447 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
 
 ## Vendedores (de mayor a menor número de publicaciones)
 
@@ -97,6 +97,7 @@ Total: 875 vendedores, 1445 anuncios con vendedor identificado (3 anuncios de la
 - [Pablo Orrantia Soto](https://www.facebook.com/marketplace/profile/61587083582823) — 3 publicaciones
 - [Persival Carlos Aguilar Mondragon](https://www.facebook.com/marketplace/profile/61561150063723) — 3 publicaciones
 - [Plays Hacks](https://www.facebook.com/marketplace/profile/100007175611717) — 3 publicaciones
+- [Robles Jazive](https://www.facebook.com/marketplace/profile/100008407186541) — 3 publicaciones
 - [Sebastián Nozato](https://www.facebook.com/marketplace/profile/526183942) — 3 publicaciones ✓
 - [Tadeo Borq](https://www.facebook.com/marketplace/profile/61565758652844) — 3 publicaciones
 - [Teo Teodorovich](https://www.facebook.com/marketplace/profile/100018891193780) — 3 publicaciones
@@ -199,7 +200,6 @@ Total: 875 vendedores, 1445 anuncios con vendedor identificado (3 anuncios de la
 - [Pf Clothin](https://www.facebook.com/marketplace/profile/61583973574028) — 2 publicaciones
 - [Puro Gonzalo Tumbado](https://www.facebook.com/marketplace/profile/100077525084225) — 2 publicaciones
 - [Raul Bonifant](https://www.facebook.com/marketplace/profile/100000540482847) — 2 publicaciones
-- [Robles Jazive](https://www.facebook.com/marketplace/profile/100008407186541) — 2 publicaciones
 - [Rodrigo Camacho Montes](https://www.facebook.com/marketplace/profile/61563736384493) — 2 publicaciones
 - [Rosa Cota](https://www.facebook.com/marketplace/profile/100020249146155) — 2 publicaciones
 - [Saneli Daniel](https://www.facebook.com/marketplace/profile/100000106531345) — 2 publicaciones
@@ -290,6 +290,7 @@ Total: 875 vendedores, 1445 anuncios con vendedor identificado (3 anuncios de la
 - [Angélica Herrera](https://www.facebook.com/marketplace/profile/100007717655870) — 1 publicaciones
 - [Anthony López Armenta](https://www.facebook.com/marketplace/profile/1563684330) — 1 publicaciones
 - [Antonio Castro](https://www.facebook.com/marketplace/profile/61580237277428) — 1 publicaciones
+- [Antonio Palafox](https://www.facebook.com/marketplace/profile/100007476368668) — 1 publicaciones
 - [Antonio Valenzuela](https://www.facebook.com/marketplace/profile/61594129960574) — 1 publicaciones
 - [Antonio Zavala](https://www.facebook.com/marketplace/profile/100009494715826) — 1 publicaciones
 - [Antonio Zayas Nevada](https://www.facebook.com/marketplace/profile/100018308681195) — 1 publicaciones
