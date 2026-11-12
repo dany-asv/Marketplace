@@ -6,15 +6,12 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 17 anuncios disponibles.
+Total: 14 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
 - 2026-11-10 17:36 — [Nintendo switch 2](https://www.facebook.com/marketplace/item/3005719573161801) — GRATIS — Vendedor: Jesús R. López
 - 2026-11-10 07:22 — [Nintendo SWITCH 2](https://www.facebook.com/marketplace/item/1693403662456344) — GRATIS — Vendedor: Tito Trevedan
-- 2026-11-08 13:24 — [EA FC 27 PARA NINTENDO SWITCH 2](https://www.facebook.com/marketplace/item/1499615025391517) — $12 — Vendedor: Javier Adrián Bátiz Zamudio
-- 2026-07-23 20:21 — [Pacman switch 2 está en perfectas condiciones](https://www.facebook.com/marketplace/item/872268125621808) — $500 — Vendedor: Antoni Tony
-- 2026-11-03 22:31 — [Yooka Nintendo switch 2](https://www.facebook.com/marketplace/item/2207520786812958) — $830 — Vendedor: Iram A. Payan
 - 2026-05-19 12:26 — [Nintendo Switch 2 Mario Kart World Bundle](https://www.facebook.com/marketplace/item/2032157187381402) — $7.999 — Vendedor: Ever Castro Roman
 - 2026-08-20 07:11 — [Switch 2](https://www.facebook.com/marketplace/item/2122737785319315) — $8.000 — Vendedor: Fernando Gonzales
 - 2026-05-19 12:42 — [Nintendo Switch 2 Mario Kart World Bundle](https://www.facebook.com/marketplace/item/2948945875452866) — $8.500 — Vendedor: Ever Castro Roman

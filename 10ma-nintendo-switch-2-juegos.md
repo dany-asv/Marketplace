@@ -6,15 +6,18 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 11 anuncios disponibles.
+Total: 14 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
 - 2026-10-31 20:27 — [Switch 2 juegos nuevos Hades 2 Ciber punk pokopia street figther 6 orbitals metroid](https://www.facebook.com/marketplace/item/1812846470034930) — $1 — Vendedor: Iram A. Payan
+- 2026-11-08 13:24 — [EA FC 27 PARA NINTENDO SWITCH 2](https://www.facebook.com/marketplace/item/1499615025391517) — $12 — Vendedor: Javier Adrián Bátiz Zamudio
 - 2026-11-10 07:42 — [Zelda foil Nintendo switch 2](https://www.facebook.com/marketplace/item/1544480564402064) — $50 — Vendedor: Iram A. Payan
+- 2026-07-23 20:21 — [Pacman switch 2 está en perfectas condiciones](https://www.facebook.com/marketplace/item/872268125621808) — $500 — Vendedor: Antoni Tony
 - 2026-11-01 16:56 — [Vendo o cambio juegos por de switch 2 y 1](https://www.facebook.com/marketplace/item/1556796989800019) — $650 — Vendedor: Jose Rios
 - 2026-08-25 19:55 — [Daemon x machín Nintendo switch 2 , no Mario no Zelda](https://www.facebook.com/marketplace/item/2301118587345865) — $650 — Vendedor: Orlando Alfredo Souza
 - 2026-06-26 15:47 — [Star Fox para nintendo switch 2 (código digital)](https://www.facebook.com/marketplace/item/1054365930489769) — $750 — Vendedor: Luis Joestar
+- 2026-11-03 22:31 — [Yooka Nintendo switch 2](https://www.facebook.com/marketplace/item/2207520786812958) — $830 — Vendedor: Iram A. Payan
 - 2026-10-30 21:51 — [Se vende juego de swich 2](https://www.facebook.com/marketplace/item/1692943958957878) — $1.000 — $1.000
 - 2026-10-10 12:51 — [Pokémon pokopia nintendo switch 2](https://www.facebook.com/marketplace/item/1683097609824513) — $1.000 — Vendedor: Carlos Miranda
 - 2026-08-27 16:09 — [Juegos de nintendo switch 2](https://www.facebook.com/marketplace/item/1609294647512187) — $1.000 — Vendedor: Ivan Delval

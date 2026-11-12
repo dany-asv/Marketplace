@@ -99,16 +99,16 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](9na-nintendo-switch-juegos.md) — 247 anuncios
     - [Accesorios](9na-nintendo-switch-accesorios.md) — 64 anuncios
   - PlayStation 5 (PS5):
-    - [Consolas](9na-ps5-consolas.md) — 7 anuncios
-    - [Juegos](9na-ps5-juegos.md) — 11 anuncios
-    - [Accesorios](9na-ps5-accesorios.md) — 9 anuncios
+    - [Consolas](9na-ps5-consolas.md) — 1 anuncios
+    - [Juegos](9na-ps5-juegos.md) — 15 anuncios
+    - [Accesorios](9na-ps5-accesorios.md) — 11 anuncios
   - Xbox Series X/S:
     - [Consolas](9na-xbox-series-consolas.md) — 2 anuncios
     - [Accesorios](9na-xbox-series-accesorios.md) — 1 anuncios
 - 10ma generación:
   - Nintendo Switch 2:
-    - [Consolas](10ma-nintendo-switch-2-consolas.md) — 17 anuncios
-    - [Juegos](10ma-nintendo-switch-2-juegos.md) — 11 anuncios
+    - [Consolas](10ma-nintendo-switch-2-consolas.md) — 14 anuncios
+    - [Juegos](10ma-nintendo-switch-2-juegos.md) — 14 anuncios
 - Otros — Multiplataforma o sin plataforma clara:
   - [Consolas](otros-consolas.md) — 126 anuncios
   - [Juegos](otros-juegos.md) — 168 anuncios
