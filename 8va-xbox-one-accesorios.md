@@ -6,8 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 1 anuncios disponibles.
+Total: 0 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
-- 2026-08-11 17:17 — [Vendo Xbox one en buen estado tiene video de la entrada tiene dos controles cable hdmi.](https://www.facebook.com/marketplace/item/2265418454218318) — $3.500 — Vendedor: Guzman Yunnuel

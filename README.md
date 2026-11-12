@@ -87,9 +87,9 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](8va-ps4-juegos.md) — 125 anuncios
     - [Accesorios](8va-ps4-accesorios.md) — 10 anuncios
   - Xbox One:
-    - [Consolas](8va-xbox-one-consolas.md) — 18 anuncios
+    - [Consolas](8va-xbox-one-consolas.md) — 19 anuncios
     - [Juegos](8va-xbox-one-juegos.md) — 1 anuncios
-    - [Accesorios](8va-xbox-one-accesorios.md) — 1 anuncios
+    - [Accesorios](8va-xbox-one-accesorios.md) — 0 anuncios
 - 9na generación:
   - Nintendo Switch:
     - Consolas:
