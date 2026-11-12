@@ -6,7 +6,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
 
-Total: 870 vendedores, 1434 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
+Total: 873 vendedores, 1438 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
 
 ## Vendedores (de mayor a menor número de publicaciones)
 
@@ -87,6 +87,7 @@ Total: 870 vendedores, 1434 anuncios con vendedor identificado (3 anuncios de la
 - [Luis Adrian Verdugo](https://www.facebook.com/marketplace/profile/100011963982983) — 3 publicaciones
 - [Luis Rey](https://www.facebook.com/marketplace/profile/61590502179499) — 3 publicaciones
 - [Lupita Morales](https://www.facebook.com/marketplace/profile/100000157954527) — 3 publicaciones
+- [Manuel Ochoa](https://www.facebook.com/marketplace/profile/100029732379081) — 3 publicaciones
 - [Maria CL](https://www.facebook.com/marketplace/profile/100001921898662) — 3 publicaciones
 - [Maria Herrera](https://www.facebook.com/marketplace/profile/61587292870684) — 3 publicaciones
 - [Mario Aguilar](https://www.facebook.com/marketplace/profile/100033555030423) — 3 publicaciones
@@ -179,7 +180,6 @@ Total: 870 vendedores, 1434 anuncios con vendedor identificado (3 anuncios de la
 - [Lupytha Leyva Boutiq](https://www.facebook.com/marketplace/profile/100015663615488) — 2 publicaciones
 - [Luzmary Castro](https://www.facebook.com/marketplace/profile/1822081992) — 2 publicaciones
 - [Manuel Ed](https://www.facebook.com/marketplace/profile/100092397566501) — 2 publicaciones
-- [Manuel Ochoa](https://www.facebook.com/marketplace/profile/100029732379081) — 2 publicaciones
 - [Manuel Sandoval](https://www.facebook.com/marketplace/profile/61568605881642) — 2 publicaciones
 - [Marco Daniel](https://www.facebook.com/marketplace/profile/100089618337024) — 2 publicaciones
 - [Maria Beatriz Valenzuela](https://www.facebook.com/marketplace/profile/100003620419743) — 2 publicaciones
@@ -340,6 +340,7 @@ Total: 870 vendedores, 1434 anuncios con vendedor identificado (3 anuncios de la
 - [Carlos Tabarez](https://www.facebook.com/marketplace/profile/100028066693973) — 1 publicaciones
 - [Carmen Bernardo](https://www.facebook.com/marketplace/profile/1054977318) — 1 publicaciones
 - [Carolina Burgos](https://www.facebook.com/marketplace/profile/100077335513543) — 1 publicaciones
+- [Cas Hym](https://www.facebook.com/marketplace/profile/100042253533833) — 1 publicaciones
 - [Casa Mazatlán Matriz](https://www.facebook.com/marketplace/profile/100021744032231) — 1 publicaciones
 - [Castro Miguel](https://www.facebook.com/marketplace/profile/100009946360447) — 1 publicaciones
 - [Catalina Rodrigez](https://www.facebook.com/marketplace/profile/61589802200815) — 1 publicaciones
@@ -642,6 +643,7 @@ Total: 870 vendedores, 1434 anuncios con vendedor identificado (3 anuncios de la
 - [Kevin Gómez](https://www.facebook.com/marketplace/profile/100027037149047) — 1 publicaciones
 - [Kevin Rodriges](https://www.facebook.com/marketplace/profile/61550350270984) — 1 publicaciones
 - [Kevin Zavala](https://www.facebook.com/marketplace/profile/100022351570276) — 1 publicaciones
+- [Ktr Lovecraft](https://www.facebook.com/marketplace/profile/100024606992099) — 1 publicaciones
 - [Kylian Mateo Garcia V](https://www.facebook.com/marketplace/profile/100086062335353) — 1 publicaciones
 - [LC JG](https://www.facebook.com/marketplace/profile/100001741784147) — 1 publicaciones
 - [Lau Uribe](https://www.facebook.com/marketplace/profile/100006822303885) — 1 publicaciones
@@ -828,6 +830,7 @@ Total: 870 vendedores, 1434 anuncios con vendedor identificado (3 anuncios de la
 - [Sergio Leal Montiel](https://www.facebook.com/marketplace/profile/100001101273565) — 1 publicaciones
 - [Sergio Lopez](https://www.facebook.com/marketplace/profile/61590571441668) — 1 publicaciones
 - [Sergio Sandoval'v](https://www.facebook.com/marketplace/profile/100000493833792) — 1 publicaciones
+- [Sesilio Cesar](https://www.facebook.com/marketplace/profile/100087226353643) — 1 publicaciones
 - [Siito Ck](https://www.facebook.com/marketplace/profile/100079994717312) — 1 publicaciones
 - [Sofia Ram](https://www.facebook.com/marketplace/profile/61578339055261) — 1 publicaciones
 - [Soto J Alv](https://www.facebook.com/marketplace/profile/100011437093516) — 1 publicaciones

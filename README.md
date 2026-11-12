@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1437 anuncios disponibles.
+Total: 1441 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -60,7 +60,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - Dreamcast:
     - [Accesorios](6ta-dreamcast-accesorios.md) — 2 anuncios
   - PlayStation 2 (PS2):
-    - [Consolas](6ta-ps2-consolas.md) — 8 anuncios
+    - [Consolas](6ta-ps2-consolas.md) — 9 anuncios
     - [Juegos](6ta-ps2-juegos.md) — 5 anuncios
     - [Accesorios](6ta-ps2-accesorios.md) — 2 anuncios
   - Xbox Clásico:
@@ -77,7 +77,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - Xbox 360:
     - [Consolas](7ma-xbox-360-consolas.md) — 5 anuncios
     - [Juegos](7ma-xbox-360-juegos.md) — 1 anuncios
-    - [Accesorios](7ma-xbox-360-accesorios.md) — 1 anuncios
+    - [Accesorios](7ma-xbox-360-accesorios.md) — 2 anuncios
 - 8va generación:
   - Wii U:
     - [Consolas](8va-wii-u-consolas.md) — 3 anuncios
@@ -87,7 +87,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](8va-ps4-juegos.md) — 125 anuncios
     - [Accesorios](8va-ps4-accesorios.md) — 10 anuncios
   - Xbox One:
-    - [Consolas](8va-xbox-one-consolas.md) — 19 anuncios
+    - [Consolas](8va-xbox-one-consolas.md) — 20 anuncios
     - [Juegos](8va-xbox-one-juegos.md) — 1 anuncios
     - [Accesorios](8va-xbox-one-accesorios.md) — 0 anuncios
 - 9na generación:
@@ -112,10 +112,12 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - Otros — Multiplataforma o sin plataforma clara:
   - [Consolas](otros-consolas.md) — 126 anuncios
   - [Juegos](otros-juegos.md) — 168 anuncios
-  - [Accesorios](otros-accesorios.md) — 44 anuncios
+  - [Accesorios](otros-accesorios.md) — 45 anuncios
 ## Disponibles (de más actual a más viejo)
 
+- 2026-11-11 18:20 — [Controles de xbox 360 sin tapas y kinect](https://www.facebook.com/marketplace/item/1498144648867215) — $400 — Usado - Como nuevo — Los Mochis — Vendedor: Cas Hym
 - 2026-11-11 16:54 — [Nintendo 2DS Bateria Nueva (Puerto USB C)](https://www.facebook.com/marketplace/item/1085020521232688) — $2.000 — Usado - Buen estado — Los Mochis — Vendedor: Jorge Vega Gz
+- 2026-11-11 15:26 — [Xbox One X](https://www.facebook.com/marketplace/item/1650767393195026) — $2.400 — Usado - Buen estado — Los Mochis — Vendedor: Ktr Lovecraft
 - 2026-11-11 15:14 — [Gamesir control PC y nintendo switch](https://www.facebook.com/marketplace/item/1123527704003667) — $1.700 — Nuevo — Los Mochis — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-11-11 14:45 — [PlayStation 4](https://www.facebook.com/marketplace/item/1608026423794544) — $1.700 — Usado - Buen estado — Los Mochis — Vendedor: Marlene Robles
 - 2026-11-11 14:32 — [Control para XBOX 360](https://www.facebook.com/marketplace/item/3371230653076185) — $600 — Usado - Como nuevo — Los Mochis — Vendedor: Awa De Horchata
@@ -335,6 +337,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-01 19:42 — [Mario Kart 8 Deluxe](https://www.facebook.com/marketplace/item/1115096998014298) — $700 — Usado - Como nuevo — Los Mochis — Vendedor: Diego LV
 - 2026-11-01 16:56 — [Vendo o cambio juegos por de switch 2 y 1](https://www.facebook.com/marketplace/item/1556796989800019) — $650 — Usado - Como nuevo — Los Mochis — Vendedor: Jose Rios
 - 2026-11-01 16:43 — [Nintendo switch oled](https://www.facebook.com/marketplace/item/1447109824177005) — $6.000 — Usado - Buen estado — Los Mochis — Vendedor: Francisco Acosta
+- 2026-11-01 16:24 — [Ps2](https://www.facebook.com/marketplace/item/1689141656141722) — $1.500 — Usado - Como nuevo — Los Mochis — Vendedor: Manuel Ochoa
 - 2026-11-01 15:33 — [8bitdo](https://www.facebook.com/marketplace/item/1833935207753499) — $550 — Usado - Como nuevo — Los Mochis — Vendedor: Rafael Aguilar
 - 2026-11-01 14:27 — [vendo o cambio por iPad](https://www.facebook.com/marketplace/item/2326220478130133) — $6.000 — Usado - Como nuevo — Los Mochis — Vendedor: Jesus Reynaldo Valenzuela
 - 2026-11-01 09:21 — [Playstation 4 Slim de 1tb - con magia](https://www.facebook.com/marketplace/item/1166066662593863) — $2.000 — Usado - Como nuevo — Los Mochis — Vendedor: Licenciado Pablo
@@ -491,6 +494,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-10-17 17:42 — [Mario party Nintendo switch](https://www.facebook.com/marketplace/item/1746807396429143) — $600 — Usado - Como nuevo — Los Mochis — Vendedor: Alexia Ruiz
 - 2026-10-17 17:42 — [Juego Zelda Nintendo switch](https://www.facebook.com/marketplace/item/2781219685627548) — $1.000 — Usado - Como nuevo — Los Mochis — Vendedor: Alexia Ruiz
 - 2026-10-17 16:44 — [Nintendo switch y juegos baratos, todo junto o juegos individuales $$$](https://www.facebook.com/marketplace/item/1157355450304678) — $12.345 — Usado - Como nuevo — Los Mochis — Vendedor: Mario Vasquez
+- 2026-10-17 15:29 — [Control de xbox](https://www.facebook.com/marketplace/item/1597942745143538) — $550 — Usado - Como nuevo — Los Mochis — Vendedor: Sesilio Cesar
 - 2026-10-17 14:50 — [Crash Bandicoot N. Sane Trilogy para Nintendo Switch](https://www.facebook.com/marketplace/item/1108953815206541) — $500 — Usado - Como nuevo — Los Mochis — Vendedor: Teo Teodorovich
 - 2026-10-17 14:48 — [Crash Team Racing Nitro Fueled para Nintendo Switch](https://www.facebook.com/marketplace/item/1411600887273808) — $500 — Usado - Como nuevo — Los Mochis — Vendedor: Teo Teodorovich
 - 2026-10-17 14:39 — [Super Mario bros wonder](https://www.facebook.com/marketplace/item/1143510954997593) — $900 — Usado - Como nuevo — Los Mochis — Vendedor: Jose Guadalupe Guerrero Bojorquez
