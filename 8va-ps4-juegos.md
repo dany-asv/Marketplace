@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 128 anuncios disponibles.
+Total: 129 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -90,6 +90,7 @@ Total: 128 anuncios disponibles.
 - 2026-07-27 13:48 — [Tales of arise ps4](https://www.facebook.com/marketplace/item/1315980677190672) — $300 — Vendedor: Luis Javier Valenzuela
 - 2026-07-27 13:37 — [Megaman battle network legacy collection ps4](https://www.facebook.com/marketplace/item/1049598010980912) — $300 — Vendedor: Luis Javier Valenzuela
 - 2026-07-26 04:19 — [Juego+ps4](https://www.facebook.com/marketplace/item/1750194595978021) — $300 — Vendedor: Luis Lopez
+- 2026-07-14 14:27 — [Star wars jedi Fallen Order](https://www.facebook.com/marketplace/item/1031125246547786) — $300 — Vendedor: Eduardo Infante
 - 2026-06-22 08:54 — [Juegos para playstation 4.. PS4](https://www.facebook.com/marketplace/item/1526029748929549) — $300 — Vendedor: Erik Ruben Avila Corrales
 - 2026-06-03 01:37 — [Juegos de ps4 se van en 300 cada uno](https://www.facebook.com/marketplace/item/2013444520047441) — $300 — Vendedor: Antonio Lopez
 - 2026-05-15 17:10 — [JUEGOS PS4/XBOX360](https://www.facebook.com/marketplace/item/1603713504021657) — $300 — Vendedor: A Usiel A Palafox
