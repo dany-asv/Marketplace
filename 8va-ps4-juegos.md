@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 125 anuncios disponibles.
+Total: 126 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -48,6 +48,7 @@ Total: 125 anuncios disponibles.
 - 2026-09-24 00:34 — [Juego ps4](https://www.facebook.com/marketplace/item/919945087548513) — $200 — Vendedor: Clau Valen
 - 2026-09-16 16:53 — [Juego ps4](https://www.facebook.com/marketplace/item/1094199779803493) — $200 — Vendedor: Fer Miranda
 - 2026-09-07 11:25 — [Juegos PS4](https://www.facebook.com/marketplace/item/1362068019017865) — $200 — Vendedor: Bosthon R. Vázquez
+- 2026-09-04 23:07 — [Asaasins credd orings](https://www.facebook.com/marketplace/item/1630370878684729) — $200 — Vendedor: Ivan Aguero
 - 2026-08-19 18:04 — [Juegos de play4](https://www.facebook.com/marketplace/item/1066316089147605) — $200 — Vendedor: Tadeo Borq
 - 2026-07-27 13:46 — [Dragon ball fighterz ps4](https://www.facebook.com/marketplace/item/979519035132389) — $200 — Vendedor: Luis Javier Valenzuela
 - 2026-07-27 13:40 — [Dragon ball xenoverse 2 ps4](https://www.facebook.com/marketplace/item/1686231562607755) — $200 — Vendedor: Luis Javier Valenzuela
