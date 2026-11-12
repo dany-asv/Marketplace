@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 247 anuncios disponibles.
+Total: 245 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -221,8 +221,6 @@ Total: 247 anuncios disponibles.
 - 2026-04-12 20:06 — [Discos de Nintendo switch Super Mario 3d world+ Bowsers Fury y Human Fall Flat](https://www.facebook.com/marketplace/item/1632691098047359) — $2.000 — Vendedor: Fabiola Jimenez Sepulveda
 - 2026-03-18 15:20 — [Fire Emblem Engage Divine Edition Switch](https://www.facebook.com/marketplace/item/1559030368537562) — $2.000 — Vendedor: Lizarraga Maria
 - 2026-09-11 14:15 — [Lote de Juegos Físicos Nintendo Switch (Super Mario, Animal Crossing, MK11)](https://www.facebook.com/marketplace/item/1707907784673717) — $2.500 — Vendedor: Sun Kool
-- 2026-06-07 18:32 — [Nintendo Switch Lite Turquesa + Luigi's Mansion 3](https://www.facebook.com/marketplace/item/1231794408901770) — $2.800 — Vendedor: Paulina Montiel
-- 2026-09-24 12:48 — [Nintendo Switch Lite y 2 juegos](https://www.facebook.com/marketplace/item/1990224551642118) — $2.900 — Vendedor: Isaac Ruiz
 - 2026-02-10 09:49 — [Juegos de switch](https://www.facebook.com/marketplace/item/1223880049937841) — $3.030 — Vendedor: Sebastian Souza
 - 2025-10-23 07:09 — [Nintendo switch Oled Zelda](https://www.facebook.com/marketplace/item/1149584227276938) — $3.200 — Vendedor: Abel Galindo
 - 2026-09-14 19:30 — [🎮 6 Juegos Nintendo Switch Originales – Mario, Minecraft, Smash Bros y más](https://www.facebook.com/marketplace/item/2272044660242372) — $3.300 — Vendedor: Francisco Javier Baldenebro Alonso
