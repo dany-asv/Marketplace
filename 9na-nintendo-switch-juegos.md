@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 228 anuncios disponibles.
+Total: 229 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -218,6 +218,7 @@ Total: 228 anuncios disponibles.
 - 2026-05-05 08:39 — [Magia en tu nintendo Switch juegos los mas nuevos como fifa 26 mario galaxy 1 y 2  y mas](https://www.facebook.com/marketplace/item/909477242137487) — $1.300 — Vendedor: Vicente Munguia
 - 2026-03-03 09:30 — [Nintendo Switch Normal v1 v2 Lite y OLED picofly limpieza juegos nuevos mario Galaxy](https://www.facebook.com/marketplace/item/870935029234227) — $1.300 — Vendedor: Vicente Munguia
 - 2026-11-02 22:59 — [Súper mario 3D all stars](https://www.facebook.com/marketplace/item/2193035664626799) — $1.500 — Vendedor: Alicia García
+- 2026-06-28 19:49 — [Ring Fit Adventure Nintendo Switch](https://www.facebook.com/marketplace/item/1468006098414685) — $1.500 — Vendedor: Luzmary Castro
 - 2026-10-14 19:26 — [Juegos de switch](https://www.facebook.com/marketplace/item/2410718549756353) — $1.600 — Vendedor: Jesus Mendoza
 - 2026-09-16 15:18 — [Juegos de nintendo switch](https://www.facebook.com/marketplace/item/2105639693368241) — $1.600 — Vendedor: Ele Gand
 - 2026-06-01 11:48 — [Se venden o se cambian juegos de nintendo switch](https://www.facebook.com/marketplace/item/984400087668775) — $2.000 — Vendedor: Jose Villegas
