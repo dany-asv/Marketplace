@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 100 anuncios disponibles.
+Total: 99 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -56,7 +56,6 @@ Total: 100 anuncios disponibles.
 - 2026-11-10 16:51 — [Consola M15 Pro 4K +20000 Juegos](https://www.facebook.com/marketplace/item/1642086701264093) — $650 — Vendedor: Karyme Baldenebro
 - 2026-11-10 14:07 — [Consola M15 Pro 4K +20000 Juegos](https://www.facebook.com/marketplace/item/2671169333355846) — $650 — Vendedor: Charly Galaviz
 - 2026-11-10 11:42 — [Consola M14 Pro 4K +20000 Juegos](https://www.facebook.com/marketplace/item/2179267716185712) — $650 — Vendedor: Charly J Acosta
-- 2026-10-25 23:56 — [Nintendo baratos 600 cada uno](https://www.facebook.com/marketplace/item/2502894996867525) — $650 — Vendedor: Daniela Veg
 - 2026-10-25 22:20 — [Consola de videojuegos X9 para niños, pantalla de 5.5", más de 5 mil juegos y multimedia](https://www.facebook.com/marketplace/item/1776038363513362) — $650 — Vendedor: Angel SG
 - 2026-06-22 20:22 — [Five nigths ay freddys security breach](https://www.facebook.com/marketplace/item/1260324412655356) — $700 — Vendedor: Bianey Alejandra Muñoz Herrera
 - 2026-10-29 15:32 — [Nuevos para Nintendo](https://www.facebook.com/marketplace/item/1591474245626325) — $900 — Vendedor: Denisse Vargas
