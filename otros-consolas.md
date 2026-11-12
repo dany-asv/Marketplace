@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 81 anuncios disponibles.
+Total: 80 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -83,7 +83,6 @@ Total: 81 anuncios disponibles.
 - 2026-02-17 12:03 — [Xbox one fat y ps4](https://www.facebook.com/marketplace/item/1968159517448551) — $3.500 — Vendedor: Alan Figueroa
 - 2026-10-22 13:03 — [CONSOLA PORTÁTIL Anbernic RG 477M versión 256 GB](https://www.facebook.com/marketplace/item/1620423736248537) — $3.800 — Vendedor: Paulette Montoya
 - 2026-02-19 17:48 — [en venta](https://www.facebook.com/marketplace/item/2670565656632331) — $5.000 — Vendedor: Daniel Navarro
-- 2026-11-01 14:27 — [vendo o cambio por iPad](https://www.facebook.com/marketplace/item/2326220478130133) — $6.000 — Vendedor: Jesus Reynaldo Valenzuela
 - 2026-10-21 11:32 — [Kit Simracing Logitech G29 (Volante + Pedales + Palanca Shifter + Freno de Mano USB + Soporte)](https://www.facebook.com/marketplace/item/28718905404424957) — $6.000 — Vendedor: TechNova LM
 - 2026-01-13 11:07 — [VENDO](https://www.facebook.com/marketplace/item/912474898011017) — $6.000 — Vendedor: Alis Robles
 - 2026-10-11 18:24 — [Asus Rog Ally z1 Extreme / PC Gamer portatil, COMPLETO TODO O SEPARADO](https://www.facebook.com/marketplace/item/1750907475961346) — $7.000 — Vendedor: Luis Guerrero
