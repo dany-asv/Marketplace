@@ -6,10 +6,12 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 5 anuncios disponibles.
+Total: 7 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
+- 2026-10-26 23:31 — [Vendo xbox con sus cables y un control no está chipiado](https://www.facebook.com/marketplace/item/1822248852108388) — $500 — Vendedor: Alan Valenzuela
+- 2026-10-25 15:38 — [Consola xbox](https://www.facebook.com/marketplace/item/991728247327616) — $500 — Vendedor: Asis Romaas
 - 2026-11-10 08:14 — [Xbox 360](https://www.facebook.com/marketplace/item/1177511701267302) — $1.100 — Vendedor: Uriel Antuna
 - 2026-11-03 16:34 — [Xbox](https://www.facebook.com/marketplace/item/2752915365142587) — $1.234 — Vendedor: Kevin A Escarrega
 - 2026-11-10 09:36 — [Xbox 360 con 3 controles](https://www.facebook.com/marketplace/item/1164042349821312) — $1.500 — Vendedor: Javier Solano Limon

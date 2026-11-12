@@ -76,7 +76,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](7ma-ps3-juegos.md) — 11 anuncios
     - [Accesorios](7ma-ps3-accesorios.md) — 1 anuncios
   - Xbox 360:
-    - [Consolas](7ma-xbox-360-consolas.md) — 5 anuncios
+    - [Consolas](7ma-xbox-360-consolas.md) — 7 anuncios
     - [Juegos](7ma-xbox-360-juegos.md) — 1 anuncios
     - [Accesorios](7ma-xbox-360-accesorios.md) — 2 anuncios
 - 8va generación:
@@ -113,7 +113,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Consolas](10ma-nintendo-switch-2-consolas.md) — 14 anuncios
     - [Juegos](10ma-nintendo-switch-2-juegos.md) — 15 anuncios
 - Otros — Multiplataforma o sin plataforma clara:
-  - [Consolas](otros-consolas.md) — 105 anuncios
+  - [Consolas](otros-consolas.md) — 103 anuncios
   - [Juegos](otros-juegos.md) — 168 anuncios
   - [Accesorios](otros-accesorios.md) — 35 anuncios
 ## Disponibles (de más actual a más viejo)
