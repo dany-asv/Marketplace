@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 239 anuncios disponibles.
+Total: 240 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -176,6 +176,7 @@ Total: 239 anuncios disponibles.
 - 2026-07-21 20:29 — [Mario Party Superstars (Nuevo Sellado)](https://www.facebook.com/marketplace/item/1019902924186868) — $700 — Vendedor: Sergio Inzunza
 - 2026-07-21 17:47 — [Mario 3d World](https://www.facebook.com/marketplace/item/908169665012342) — $700 — Vendedor: Erick Alberto Lugo Lizarraga
 - 2026-07-08 17:26 — [Juegos Nintendo Switch, Mario Strikers Battle League y Civilization VI](https://www.facebook.com/marketplace/item/1314030487381556) — $700 — Vendedor: Oliver Castro
+- 2026-06-22 20:22 — [Five nigths ay freddys security breach](https://www.facebook.com/marketplace/item/1260324412655356) — $700 — Vendedor: Bianey Alejandra Muñoz Herrera
 - 2026-06-22 20:20 — [Mario kart 8 deluxe](https://www.facebook.com/marketplace/item/862610210256053) — $700 — Vendedor: Bianey Alejandra Muñoz Herrera
 - 2026-06-22 20:17 — [Súper Mario party](https://www.facebook.com/marketplace/item/1569239354617009) — $700 — Vendedor: Bianey Alejandra Muñoz Herrera
 - 2026-06-07 07:37 — [Juegos de Nintendo Switch](https://www.facebook.com/marketplace/item/2610067746074053) — $700 — Vendedor: Aaron Medina
