@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1443 anuncios disponibles.
+Total: 1444 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -96,8 +96,8 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
       - [OLED](9na-nintendo-switch-oled-consolas.md) — 125 anuncios
       - [Lite](9na-nintendo-switch-lite-consolas.md) — 28 anuncios
       - [Normal](9na-nintendo-switch-normal-consolas.md) — 115 anuncios
-      - [Customs](9na-nintendo-switch-customs-consolas.md) — 29 anuncios
-    - [Juegos](9na-nintendo-switch-juegos.md) — 229 anuncios
+      - [Customs](9na-nintendo-switch-customs-consolas.md) — 31 anuncios
+    - [Juegos](9na-nintendo-switch-juegos.md) — 228 anuncios
     - [Accesorios](9na-nintendo-switch-accesorios.md) — 53 anuncios
   - PlayStation 5 (PS5):
     - [Consolas](9na-ps5-consolas.md) — 1 anuncios
@@ -827,6 +827,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-09-02 16:16 — [Juegos Nintendo Switch](https://www.facebook.com/marketplace/item/1050839547780159) — GRATIS — Usado - Como nuevo — Los Mochis — Vendedor: Jairo Soto Castro
 - 2026-09-02 01:00 — [Stylus 3ds , Ds Lite Y Xl y gomas para controles](https://www.facebook.com/marketplace/item/1054109230864191) — $50 — Nuevo — Los Mochis — Vendedor: Ana Julia Ahumada
 - 2026-09-01 21:24 — [Juegos para Playstation](https://www.facebook.com/marketplace/item/1003688652686728) — GRATIS — Usado - Como nuevo — Los Mochis — Vendedor: Maria CL
+- 2026-09-01 16:19 — [🔥 Magia Switch Normal y Lite + MicroSD 256GB + Pasta Térmica](https://www.facebook.com/marketplace/item/1098672675820420) — $1.500 — Nuevo — Los Mochis — Vendedor: Daniel Arturo Salinas Verduzco
 - 2026-09-01 10:12 — [Juegos Sonic DS](https://www.facebook.com/marketplace/item/2113466592895603) — GRATIS — Usado - Como nuevo — Los Mochis — Vendedor: Miguel Vinsmoke
 - 2026-09-01 10:12 — [Juegos DS](https://www.facebook.com/marketplace/item/998193653234037) — GRATIS — Usado - Buen estado — Los Mochis — Vendedor: Miguel Vinsmoke
 - 2026-09-01 10:12 — [Juegos 3DS](https://www.facebook.com/marketplace/item/3782648501878205) — GRATIS — Usado - Como nuevo — Los Mochis — Vendedor: Miguel Vinsmoke

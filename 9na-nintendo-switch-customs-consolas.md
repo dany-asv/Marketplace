@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 29 anuncios disponibles.
+Total: 31 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -20,6 +20,8 @@ Total: 29 anuncios disponibles.
 - 2026-10-15 15:12 — [Myflash Magic-NS (Nintendo Switch) Rev. 1.2](https://www.facebook.com/marketplace/item/1657311709098835) — $500 — Vendedor: Juan Sergio Hernandez Araujo
 - 2026-11-09 02:29 — [MAGIA NINTENDO SWITCH](https://www.facebook.com/marketplace/item/2318890275540145) — $1.000 — Vendedor: Videorama Electrónica
 - 2026-06-02 21:01 — [MAGIA Nintendo Switch oled](https://www.facebook.com/marketplace/item/1633679117735567) — $1.000 — Vendedor: Yonoki Joestar
+- 2026-05-05 08:39 — [Magia en tu nintendo Switch juegos los mas nuevos como fifa 26 mario galaxy 1 y 2  y mas](https://www.facebook.com/marketplace/item/909477242137487) — $1.300 — Vendedor: Vicente Munguia
+- 2026-09-01 16:19 — [🔥 Magia Switch Normal y Lite + MicroSD 256GB + Pasta Térmica](https://www.facebook.com/marketplace/item/1098672675820420) — $1.500 — Vendedor: Daniel Arturo Salinas Verduzco
 - 2025-12-10 14:30 — [Venta instalación de magia](https://www.facebook.com/marketplace/item/1145253867592240) — $1.500 — Vendedor: Jesus Acosta Mendivil
 - 2026-07-14 17:52 — [Nintendo Switch Chipeo](https://www.facebook.com/marketplace/item/2270532780372382) — $1.600 — Vendedor: Chendez Alonso
 - 2026-08-28 15:39 — [Nintendo switch chipeado con más de 10 juegos ya descargados con dock, cargador y estuche](https://www.facebook.com/marketplace/item/1339921581642228) — $3.300 — Vendedor: Antoni Tony
