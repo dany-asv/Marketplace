@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 124 anuncios disponibles.
+Total: 125 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -95,6 +95,7 @@ Total: 124 anuncios disponibles.
 - 2026-02-12 20:36 — [Juego ps4](https://www.facebook.com/marketplace/item/900082602718621) — $300 — Vendedor: Jaqueline Urias
 - 2026-01-30 15:35 — [Juegos PS4 $](https://www.facebook.com/marketplace/item/1608569350276173) — $300 — Vendedor: Dosc Sc
 - 2026-07-27 15:32 — [Discos ps4](https://www.facebook.com/marketplace/item/2026368941582435) — $333 — Vendedor: Ivan Lopez
+- 2026-10-15 21:29 — [Juegos Ps4](https://www.facebook.com/marketplace/item/2165243631035916) — $350 — Vendedor: Ulises Valenzuela Ochoa
 - 2026-10-10 10:45 — [Spiderman Miles Morales PS4](https://www.facebook.com/marketplace/item/1918874599093253) — $350 — Vendedor: Bosthon R. Vázquez
 - 2026-09-15 09:26 — [Juego de play 4   CTR Crash Team Racing Nitro Fueled](https://www.facebook.com/marketplace/item/1392548875800951) — $350 — Vendedor: Alma Gonzalez
 - 2026-07-13 12:14 — [The Order: 1886 PS4 / Cambio o Venta. Leer descripcion...](https://www.facebook.com/marketplace/item/28040289068922053) — $350 — Vendedor: Jose Luis Bravo

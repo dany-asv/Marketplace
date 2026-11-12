@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 245 anuncios disponibles.
+Total: 247 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -74,6 +74,7 @@ Total: 245 anuncios disponibles.
 - 2026-06-19 14:17 — [Vendo o cambio juego  nintendo switch plantas vs zombies](https://www.facebook.com/marketplace/item/1542651004036371) — $400 — Vendedor: Gehovany Quevedo
 - 2026-06-15 14:40 — [Dragon Ball FighterZ para Switch](https://www.facebook.com/marketplace/item/985266987598836) — $400 — Vendedor: Maria Beatriz Valenzuela
 - 2026-06-15 14:36 — [Dragon Ball FighterZ para Switch](https://www.facebook.com/marketplace/item/958898993905269) — $400 — Vendedor: Maria Beatriz Valenzuela
+- 2026-11-10 18:58 — [Juegos switch 450 cada uno](https://www.facebook.com/marketplace/item/2349709749159061) — $450 — Vendedor: Antonio Lopez
 - 2026-10-14 11:18 — [Juego para nintendo switch Minecraft](https://www.facebook.com/marketplace/item/1828072735199656) — $450 — Vendedor: Jose Cass
 - 2026-10-11 13:05 — [Sonic Forces para nintendo switch](https://www.facebook.com/marketplace/item/1647524947084183) — $450 — Vendedor: Jose Cass
 - 2026-10-07 18:01 — [Juegos Nintendo switch 450 cada uno](https://www.facebook.com/marketplace/item/1598449138628378) — $450 — Vendedor: Antonio Lopez
@@ -81,6 +82,7 @@ Total: 245 anuncios disponibles.
 - 2026-04-18 10:51 — [Mortal Kombat 11 Nintendo Switch.](https://www.facebook.com/marketplace/item/1004236295504613) — $450 — Vendedor: Andres Apodaca
 - 2025-10-23 07:11 — [Juegos Nintendo switch](https://www.facebook.com/marketplace/item/1143880284380678) — $450 — Vendedor: Abel Galindo
 - 2026-10-15 14:59 — [Juegos nintendo swich](https://www.facebook.com/marketplace/item/1091363723742296) — $499 — Vendedor: Jesus Cota
+- 2026-11-11 14:28 — [Juegos Nintendo switch solo cartucho en $500$ cada uno](https://www.facebook.com/marketplace/item/1149055554337650) — $500 — Vendedor: Antonio Lopez
 - 2026-11-09 22:02 — [Pokémon sword](https://www.facebook.com/marketplace/item/2583687232099404) — $500 — Vendedor: Alejandro Cital Garcia
 - 2026-11-07 20:48 — [Minecraft DUNGEONS ( Nintendo switch )](https://www.facebook.com/marketplace/item/2868399820208821) — $500 — Vendedor: Jorge A Armenta Payan
 - 2026-10-21 14:48 — [Splatoon3](https://www.facebook.com/marketplace/item/1845744963447513) — $500 — Vendedor: Luis Novoa
