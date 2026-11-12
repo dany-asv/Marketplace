@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 243 anuncios disponibles.
+Total: 244 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -18,6 +18,7 @@ Total: 243 anuncios disponibles.
 - 2026-10-11 19:28 — [Juegos Nintendo switch (solo cambio)](https://www.facebook.com/marketplace/item/1401687915011605) — GRATIS — Vendedor: Jonh Lopez
 - 2026-10-04 12:50 — [Dragónball Fighters Z Nintendo switch](https://www.facebook.com/marketplace/item/1123092626834801) — GRATIS — Vendedor: David Gael
 - 2026-10-01 14:46 — [Xenoblade chronicles 3](https://www.facebook.com/marketplace/item/1422113766728890) — GRATIS — Vendedor: Eros Celis
+- 2026-09-29 21:30 — [Dragón ball sparking Zero](https://www.facebook.com/marketplace/item/1128304506816271) — GRATIS — Vendedor: Briann A Morales
 - 2026-09-24 15:42 — [Juegos de nintendo switch](https://www.facebook.com/marketplace/item/1639008717651366) — GRATIS — Vendedor: Briann A Morales
 - 2026-09-17 16:42 — [Juegos de Nintendo Switch](https://www.facebook.com/marketplace/item/1397451238581525) — GRATIS — Vendedor: Irma Rubi Moyoroqui Garcia
 - 2026-09-02 16:16 — [Juegos Nintendo Switch](https://www.facebook.com/marketplace/item/1050839547780159) — GRATIS — Vendedor: Jairo Soto Castro
