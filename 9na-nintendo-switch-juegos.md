@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 235 anuncios disponibles.
+Total: 236 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -105,6 +105,7 @@ Total: 235 anuncios disponibles.
 - 2026-09-16 14:38 — [Mario Party SuperStars](https://www.facebook.com/marketplace/item/1999560334019917) — $500 — Vendedor: Luis Ricardo
 - 2026-09-14 16:51 — [Juegos de Nintendo Switch](https://www.facebook.com/marketplace/item/38497887106523967) — $500 — Vendedor: Mayra Pelayo Uribe
 - 2026-09-07 18:36 — [Juegos de switch solo cartuchos en 500 cada uno](https://www.facebook.com/marketplace/item/1116747290779961) — $500 — Vendedor: Antonio Lopez
+- 2026-09-07 07:14 — [Howarts legacy deluxe edition](https://www.facebook.com/marketplace/item/1117989594221404) — $500 — Vendedor: Adrian K-ztro
 - 2026-09-05 21:15 — [FIFA 23 Legacy Nintendo Switch](https://www.facebook.com/marketplace/item/2340236606831195) — $500 — Vendedor: Alan Roberto Quiroz
 - 2026-08-26 12:02 — [Mortal kombat 1 de nintendo switch](https://www.facebook.com/marketplace/item/910444001688869) — $500 — Vendedor: Pedro Escalante
 - 2026-08-13 14:38 — [Mario vs Donkey Kong Nintendo switch](https://www.facebook.com/marketplace/item/1029108453443066) — $500 — Vendedor: Alejo Lopez
