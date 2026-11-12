@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 91 anuncios disponibles.
+Total: 90 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -71,7 +71,6 @@ Total: 91 anuncios disponibles.
 - 2026-11-02 20:16 — [Tablero Maquinita Pandora💥70 Mil Juegos Clasicos,Consola Retro‼️Emuladores Top✅️Videojuegos Top✅️🎮](https://www.facebook.com/marketplace/item/1785551825864826) — $2.100 — Vendedor: Nutrijugos LA Selva
 - 2026-11-02 20:15 — [Tableros Arcade‼️Consola 70 Mil Juegos Retro💥Tipo Maquinitas Emuladores Variados Top‼️🤩🏡🛵💨](https://www.facebook.com/marketplace/item/1655309465997120) — $2.100 — Vendedor: Nutrijugos LA Selva
 - 2026-11-02 20:13 — [Tablero Pandora Pro Plus👾🕹CONSOLA Árcade Retro 70 Mil Juegos🎮‼️Videojuegos Top 4K🏡🛵💨](https://www.facebook.com/marketplace/item/1679688227165301) — $2.100 — Vendedor: Nutrijugos LA Selva
-- 2026-03-18 20:46 — [Consola de videos juegos](https://www.facebook.com/marketplace/item/903801625978587) — $2.100 — Vendedor: Rosario Guadalupe
 - 2026-11-10 15:37 — [🎮 MÁQUINAS ARCADE MULTIJUEGOS – ESTILO XBOX CLÁSICO 🎮](https://www.facebook.com/marketplace/item/2686963851743349) — $2.500 — Vendedor: Evelin Perea
 - 2026-11-02 17:54 — [Tablero Arcade](https://www.facebook.com/marketplace/item/1152695513965348) — $2.500 — Vendedor: Catalina Rodrigez
 - 2026-10-25 14:07 — [😍 Desde los clásicos🕹️ 📺🕹️ de 8 bits hasta la era 3D: todo en la Pandora Pro.](https://www.facebook.com/marketplace/item/2019062505473498) — $2.500 — Vendedor: Paola Zepeda
