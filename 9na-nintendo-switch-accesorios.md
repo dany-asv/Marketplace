@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 50 anuncios disponibles.
+Total: 46 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -56,7 +56,3 @@ Total: 50 anuncios disponibles.
 - 2026-10-07 17:48 — [Nintendo switch normal sin detalles con joycons originales y estuche](https://www.facebook.com/marketplace/item/991775117288773) — $1.999 — Vendedor: Antonio Lopez
 - 2026-10-02 17:31 — [Accesorios de nintendo switch Oled juntos o por separado](https://www.facebook.com/marketplace/item/1102417495828019) — $2.000 — Vendedor: Stargames Valenzuela
 - 2026-06-30 15:26 — [ACCESORIOS NINTENDO SWITCH](https://www.facebook.com/marketplace/item/2200005714172987) — $2.500 — Vendedor: Juan Alonso
-- 2026-01-28 12:51 — [🎮Se vende Nintendo Switch EN CAJA + estuche, accesorios 🎮](https://www.facebook.com/marketplace/item/1443981450606997) — $5.000 — Vendedor: Miriam Barajas
-- 2026-09-04 18:41 — [Nintendo switch oled con dock de animal crossing y joycons](https://www.facebook.com/marketplace/item/1572472404621908) — $5.800 — Vendedor: Thelma Armenta
-- 2026-08-19 18:14 — [Nintendo switch oled como nueva perfecto estado con caja y accesorios edición pokemon](https://www.facebook.com/marketplace/item/38947571568175199) — $6.000 — Vendedor: Tadeo Borq
-- 2026-09-06 00:15 — [Nintendo swict oled y procontroller](https://www.facebook.com/marketplace/item/2200348684246789) — $6.600 — Vendedor: Karlita Martinez
