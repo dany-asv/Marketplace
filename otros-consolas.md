@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 121 anuncios disponibles.
+Total: 120 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -22,7 +22,6 @@ Total: 121 anuncios disponibles.
 - 2026-07-07 10:02 — [Vendo](https://www.facebook.com/marketplace/item/1435020065342293) — GRATIS — Vendedor: Gwendoline Palafox Almanza
 - 2026-07-07 05:55 — [Vendi](https://www.facebook.com/marketplace/item/1749513013156328) — GRATIS — Vendedor: Gwendoline Palafox Almanza
 - 2026-06-23 10:47 — [Vendo](https://www.facebook.com/marketplace/item/761713400338338) — GRATIS — Vendedor: Gwendoline Palafox Almanza
-- 2026-04-23 09:58 — [Nintendo](https://www.facebook.com/marketplace/item/1619571499268061) — GRATIS — Vendedor: Cinthya Avila
 - 2026-03-02 16:48 — [Consolas y juegos PS4 y NINTENDO SWITCH ￼](https://www.facebook.com/marketplace/item/893811733425442) — GRATIS — Vendedor: Rafa Villegas
 - 2025-10-13 20:23 — [Consolas y Juegos Nintendo y Pokemon](https://www.facebook.com/marketplace/item/1849471845937409) — GRATIS — Vendedor: Alejandro Lopez
 - 2026-10-18 12:53 — [‼️LLEGÓ CONSOLA 🎮 PORTATIL CON 36 EMULADORES MUCHA VARIEDAD MARIO KART , MARIO 64,RETRO Y MODERNO‼️](https://www.facebook.com/marketplace/item/1321184740023073) — $1 — Vendedor: Jesus Rodriguez
