@@ -100,7 +100,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
       - [Normal](9na-nintendo-switch-normal-consolas.md) — 120 anuncios
       - [Customs](9na-nintendo-switch-customs-consolas.md) — 31 anuncios
     - [Juegos](9na-nintendo-switch-juegos.md) — 230 anuncios
-    - [Accesorios](9na-nintendo-switch-accesorios.md) — 59 anuncios
+    - [Accesorios](9na-nintendo-switch-accesorios.md) — 60 anuncios
   - PlayStation 5 (PS5):
     - [Consolas](9na-ps5-consolas.md) — 1 anuncios
     - [Juegos](9na-ps5-juegos.md) — 15 anuncios
@@ -115,7 +115,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - Otros — Multiplataforma o sin plataforma clara:
   - [Consolas](otros-consolas.md) — 125 anuncios
   - [Juegos](otros-juegos.md) — 168 anuncios
-  - [Accesorios](otros-accesorios.md) — 37 anuncios
+  - [Accesorios](otros-accesorios.md) — 36 anuncios
 ## Disponibles (de más actual a más viejo)
 
 - 2026-11-11 20:53 — [Estuche Nintendo Switch](https://www.facebook.com/marketplace/item/966784922827906) — $400 — Usado - Como nuevo — Los Mochis — Vendedor: Robles Jazive
