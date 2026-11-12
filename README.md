@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1442 anuncios disponibles.
+Total: 1443 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -93,7 +93,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 9na generación:
   - Nintendo Switch:
     - Consolas:
-      - [OLED](9na-nintendo-switch-oled-consolas.md) — 124 anuncios
+      - [OLED](9na-nintendo-switch-oled-consolas.md) — 125 anuncios
       - [Lite](9na-nintendo-switch-lite-consolas.md) — 28 anuncios
       - [Normal](9na-nintendo-switch-normal-consolas.md) — 115 anuncios
       - [Customs](9na-nintendo-switch-customs-consolas.md) — 28 anuncios
@@ -127,6 +127,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-11 14:30 — [Juegos Nintendo switch 2](https://www.facebook.com/marketplace/item/1100593772591257) — $1.200 — Nuevo — Los Mochis — Vendedor: Samuel Payan
 - 2026-11-11 14:29 — [Juegos Nintendo switch solo cartucho en $300$ cada uno](https://www.facebook.com/marketplace/item/1599548595544938) — $300 — Usado - Como nuevo — Los Mochis — Vendedor: Antonio Lopez
 - 2026-11-11 14:28 — [Juegos Nintendo switch solo cartucho en $500$ cada uno](https://www.facebook.com/marketplace/item/1149055554337650) — $500 — Usado - Como nuevo — Los Mochis — Vendedor: Antonio Lopez
+- 2026-11-11 14:09 — [Nunca se usó está nuevo 6000 pesos](https://www.facebook.com/marketplace/item/1653376676457379) — $6.000 — Nuevo — Los Mochis — Vendedor: Alan Miranda
 - 2026-11-11 13:48 — [Mini Consola Retro con 620 Juegos](https://www.facebook.com/marketplace/item/1483161533725482) — $250 — Nuevo — Los Mochis — Vendedor: Ana Sofía
 - 2026-11-11 12:26 — [DualSense Camuflaje Original PS5 + Funda Rígida Magnética](https://www.facebook.com/marketplace/item/1342161464594247) — $1.050 — Nuevo — Los Mochis — Vendedor: Plays Hacks
 - 2026-11-11 12:15 — [Cámara ps5 HD](https://www.facebook.com/marketplace/item/1089167804163636) — $1.500 — Usado - Como nuevo — Los Mochis — Vendedor: Adriel Roiz
