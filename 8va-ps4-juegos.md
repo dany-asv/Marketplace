@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 129 anuncios disponibles.
+Total: 130 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -98,6 +98,7 @@ Total: 129 anuncios disponibles.
 - 2026-04-01 15:30 — [Horizon PS4](https://www.facebook.com/marketplace/item/1651425345857746) — $300 — Vendedor: Fabiola Cabrera
 - 2026-02-12 20:36 — [Juego ps4](https://www.facebook.com/marketplace/item/900082602718621) — $300 — Vendedor: Jaqueline Urias
 - 2026-01-30 15:35 — [Juegos PS4 $](https://www.facebook.com/marketplace/item/1608569350276173) — $300 — Vendedor: Dosc Sc
+- 2026-01-06 13:56 — [Vendo INJUSTICE 2](https://www.facebook.com/marketplace/item/1427416099010088) — $315 — Vendedor: Luis Higuera
 - 2026-07-27 15:32 — [Discos ps4](https://www.facebook.com/marketplace/item/2026368941582435) — $333 — Vendedor: Ivan Lopez
 - 2026-10-15 21:29 — [Juegos Ps4](https://www.facebook.com/marketplace/item/2165243631035916) — $350 — Vendedor: Ulises Valenzuela Ochoa
 - 2026-10-10 10:45 — [Spiderman Miles Morales PS4](https://www.facebook.com/marketplace/item/1918874599093253) — $350 — Vendedor: Bosthon R. Vázquez
