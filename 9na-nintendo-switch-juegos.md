@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 228 anuncios disponibles.
+Total: 230 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -105,6 +105,7 @@ Total: 228 anuncios disponibles.
 - 2026-08-13 14:38 — [Mario vs Donkey Kong Nintendo switch](https://www.facebook.com/marketplace/item/1029108453443066) — $500 — Vendedor: Alejo Lopez
 - 2026-07-30 22:27 — [Juegos nintendo switch smash mario kart sonic minecraft dragon ball](https://www.facebook.com/marketplace/item/2569850623461614) — $500 — Vendedor: Vicente Munguia
 - 2026-07-14 16:08 — [Juegos de Nintendo Switch](https://www.facebook.com/marketplace/item/2250259419072660) — $500 — Vendedor: Sebastián Nozato
+- 2026-07-04 05:53 — [Juegos de Nintendo Switch ver precios en la descripción](https://www.facebook.com/marketplace/item/803090172841172) — $500 — Vendedor: Daniel Arturo Salinas Verduzco
 - 2026-06-22 14:57 — [Juego Nintendo switch](https://www.facebook.com/marketplace/item/2108914403172661) — $500 — Vendedor: Cesar Rosas
 - 2026-06-16 11:22 — [Splatoon 2 Nintendo Switch (buen estado)](https://www.facebook.com/marketplace/item/1504494864710611) — $500 — Vendedor: Miguel Armenta
 - 2026-06-01 10:12 — [Juegos switch 500 cada uno](https://www.facebook.com/marketplace/item/1296534809261594) — $500 — Vendedor: Antonio Lopez
@@ -120,6 +121,7 @@ Total: 228 anuncios disponibles.
 - 2026-04-18 12:11 — [Se venden cartuchos de switch el soul reaver está vendido](https://www.facebook.com/marketplace/item/1609059773724918) — $550 — Vendedor: Arnaldo Apodaca
 - 2026-10-23 00:13 — [Juegos Nintendo switch 1000 los dos](https://www.facebook.com/marketplace/item/1112175067883874) — $599 — Vendedor: Daniel Eg
 - 2026-11-04 16:17 — [Súper Mario Party Jamboree para Nintendo switch](https://www.facebook.com/marketplace/item/2172840269969046) — $600 — Vendedor: Frank Corrales
+- 2026-10-27 11:33 — [Donkey Kong Country Tropical Freeze](https://www.facebook.com/marketplace/item/1659485772380877) — $600 — Vendedor: Daniel Arturo Salinas Verduzco
 - 2026-10-25 11:54 — [Super smash bros ultimate y super mario party!](https://www.facebook.com/marketplace/item/1948170879483296) — $600 — Vendedor: Francisco Castro
 - 2026-10-17 17:42 — [Mario party Nintendo switch](https://www.facebook.com/marketplace/item/1746807396429143) — $600 — Vendedor: Alexia Ruiz
 - 2026-10-15 14:22 — [Juegos para switch](https://www.facebook.com/marketplace/item/2165126684436000) — $600 — Vendedor: Cristina Sauceda

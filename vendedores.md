@@ -6,7 +6,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
 
-Total: 875 vendedores, 1441 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
+Total: 875 vendedores, 1445 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
 
 ## Vendedores (de mayor a menor número de publicaciones)
 
@@ -39,6 +39,7 @@ Total: 875 vendedores, 1441 anuncios con vendedor identificado (3 anuncios de la
 - [Abimael Lopez](https://www.facebook.com/marketplace/profile/61582526799462) — 5 publicaciones
 - [Axel Luna](https://www.facebook.com/marketplace/profile/100041876418121) — 5 publicaciones
 - [Chito Hernandez](https://www.facebook.com/marketplace/profile/61573311437329) — 5 publicaciones ✓
+- [Daniel Arturo Salinas Verduzco](https://www.facebook.com/marketplace/profile/100000305586627) — 5 publicaciones ✓
 - [Dulce Palma](https://www.facebook.com/marketplace/profile/100002860850347) — 5 publicaciones
 - [Ele Gand](https://www.facebook.com/marketplace/profile/61593540557785) — 5 publicaciones
 - [Fer Miranda](https://www.facebook.com/marketplace/profile/61584162783011) — 5 publicaciones ✓
@@ -884,4 +885,3 @@ Total: 875 vendedores, 1441 anuncios con vendedor identificado (3 anuncios de la
 - [Ángel Peralta](https://www.facebook.com/marketplace/profile/100055752944466) — 1 publicaciones
 - [レルマ イエス](https://www.facebook.com/marketplace/profile/100068583320097) — 1 publicaciones
 - [Alan Miranda](https://www.facebook.com/marketplace/profile/100024008631732) — 1 publicaciones
-- [Daniel Arturo Salinas Verduzco](https://www.facebook.com/marketplace/profile/100000305586627) — 1 publicaciones ✓

@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1444 anuncios disponibles.
+Total: 1448 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -97,8 +97,8 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
       - [Lite](9na-nintendo-switch-lite-consolas.md) — 28 anuncios
       - [Normal](9na-nintendo-switch-normal-consolas.md) — 115 anuncios
       - [Customs](9na-nintendo-switch-customs-consolas.md) — 31 anuncios
-    - [Juegos](9na-nintendo-switch-juegos.md) — 228 anuncios
-    - [Accesorios](9na-nintendo-switch-accesorios.md) — 53 anuncios
+    - [Juegos](9na-nintendo-switch-juegos.md) — 230 anuncios
+    - [Accesorios](9na-nintendo-switch-accesorios.md) — 55 anuncios
   - PlayStation 5 (PS5):
     - [Consolas](9na-ps5-consolas.md) — 1 anuncios
     - [Juegos](9na-ps5-juegos.md) — 15 anuncios
@@ -393,6 +393,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-10-27 16:12 — [Control pro original de nintendo switch edicion especial zelda](https://www.facebook.com/marketplace/item/2000786184551657) — $700 — Usado - Como nuevo — Los Mochis — Vendedor: Brian Woodill
 - 2026-10-27 16:10 — [Juegos para play 4 $1000 por todos](https://www.facebook.com/marketplace/item/2031883150822589) — $1.000 — Usado - Buen estado — Los Mochis — Vendedor: Brian Woodill
 - 2026-10-27 15:36 — [Xbox series S](https://www.facebook.com/marketplace/item/1652499659814866) — $5.500 — Usado - Como nuevo — Los Mochis — Vendedor: Cecilia Carrillo
+- 2026-10-27 11:33 — [Donkey Kong Country Tropical Freeze](https://www.facebook.com/marketplace/item/1659485772380877) — $600 — Usado - Como nuevo — Los Mochis — Vendedor: Daniel Arturo Salinas Verduzco
 - 2026-10-27 09:31 — [Ps4](https://www.facebook.com/marketplace/item/1786988685889597) — $2.100 — Usado - Como nuevo — Los Mochis — Vendedor: Luis Rey
 - 2026-10-27 07:55 — [Mákina con muchos juegos clásicos y modernos..miles..$3500 tel.6681993508](https://www.facebook.com/marketplace/item/1584985079561237) — $350 — Los Mochis — precio a confirmar: el título dice $3,500 y el precio publicado es $350 — Vendedor: Daniel López
 - 2026-10-27 02:57 — [NINTENDO SWITCH LITE](https://www.facebook.com/marketplace/item/1110392755114203) — $2.000 — Usado - Como nuevo — Los Mochis — Vendedor: Licenciado Luis Antonio
@@ -1103,6 +1104,9 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-07-06 14:15 — [Nintendo Switch Chipeada 128gb](https://www.facebook.com/marketplace/item/1000258752611983) — $3.799 — Usado - Buen estado — Los Mochis — Vendedor: Martin Navarro Nuñez
 - 2026-07-06 11:38 — [Nintendo enterito  10 de 10 ☑️ Sin detalles  Con cargador original 💥 $3500📲](https://www.facebook.com/marketplace/item/1015790897828133) — $3.500 — Usado - Como nuevo — Los Mochis — Vendedor: Karely DK
 - 2026-07-05 22:10 — [Juego Nintendo Switch](https://www.facebook.com/marketplace/item/3155387814659816) — $1 — Usado - Como nuevo — Los Mochis — Vendedor: JA Neth
+- 2026-07-04 05:53 — [Juegos de Nintendo Switch ver precios en la descripción](https://www.facebook.com/marketplace/item/803090172841172) — $500 — Usado - Como nuevo — Los Mochis — Vendedor: Daniel Arturo Salinas Verduzco
+- 2026-07-04 05:53 — [Par de gomas para JoyCon](https://www.facebook.com/marketplace/item/1360612995998081) — $50 — Nuevo — Los Mochis — Vendedor: Daniel Arturo Salinas Verduzco
+- 2026-07-04 05:53 — [Par de tapas de repuesto para palanca de JoyCon](https://www.facebook.com/marketplace/item/1006873118863907) — $50 — Nuevo — Los Mochis — Vendedor: Daniel Arturo Salinas Verduzco
 - 2026-07-03 22:11 — [Nintendo ds i con cargador y 1 juego físico, solo detalles estéticos y l y r no funcionan](https://www.facebook.com/marketplace/item/986011240729454) — $900 — Usado - Como nuevo — Los Mochis — Vendedor: Serrano Guadalupe
 - 2026-07-03 22:00 — [Switch oled con los accesorios de la foto y estuche](https://www.facebook.com/marketplace/item/2038584110365489) — $3.300 — Usado - Como nuevo — Los Mochis — Vendedor: Antoni Tony
 - 2026-07-03 21:56 — [Nintendo switch oled, se entrega en caja con todos los accesorios que se ven](https://www.facebook.com/marketplace/item/1564811655171459) — $3.500 — Usado - Como nuevo — Los Mochis — Vendedor: Antoni Tony
