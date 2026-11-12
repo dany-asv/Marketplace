@@ -25,7 +25,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Consolas](portatiles-psp-consolas.md) — 9 anuncios
     - [Accesorios](portatiles-psp-accesorios.md) — 2 anuncios
   - PS Vita:
-    - [Consolas](portatiles-ps-vita-consolas.md) — 7 anuncios
+    - [Consolas](portatiles-ps-vita-consolas.md) — 8 anuncios
   - Nintendo DS:
     - [Consolas](portatiles-nintendo-ds-consolas.md) — 7 anuncios
     - [Juegos](portatiles-nintendo-ds-juegos.md) — 10 anuncios
@@ -114,7 +114,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](10ma-nintendo-switch-2-juegos.md) — 16 anuncios
     - [Accesorios](10ma-nintendo-switch-2-accesorios.md) — 1 anuncios
 - Otros — Multiplataforma o sin plataforma clara:
-  - [Consolas](otros-consolas.md) — 84 anuncios
+  - [Consolas](otros-consolas.md) — 83 anuncios
   - [Juegos](otros-juegos.md) — 168 anuncios
   - [Accesorios](otros-accesorios.md) — 35 anuncios
 ## Disponibles (de más actual a más viejo)
