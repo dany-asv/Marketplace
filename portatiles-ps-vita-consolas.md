@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 5 anuncios disponibles.
+Total: 7 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -15,3 +15,6 @@ Total: 5 anuncios disponibles.
 - 2026-11-04 14:00 — [Ps vita chipeada](https://www.facebook.com/marketplace/item/955807427285704) — $3.000 — Vendedor: Yessica Astrid Lopez Galaviz
 - 2026-10-03 12:27 — [PSVITA](https://www.facebook.com/marketplace/item/3415967841916953) — $3.000 — Vendedor: Rafael Ceballos
 - 2026-07-01 14:06 — [PSVITA SLIM como nuevo , biblioteca abierta para cualquier juego](https://www.facebook.com/marketplace/item/2133691363844761) — $3.800 — Vendedor: Francisco Perez
+
+- 2026-09-30 14:56 — [psp vita](https://www.facebook.com/marketplace/item/2989944078008730) — $4.000 — Vendedor: Frida Soto
+- 2026-09-19 16:26 — [PSP Vita](https://www.facebook.com/marketplace/item/1068717972441216) — $4.000 — Vendedor: Daniel Tarin
