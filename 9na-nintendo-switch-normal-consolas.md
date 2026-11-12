@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 120 anuncios disponibles.
+Total: 121 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -14,6 +14,7 @@ Total: 120 anuncios disponibles.
 - 2026-09-12 14:59 — [NINTENDO SWITCH](https://www.facebook.com/marketplace/item/1073524871963967) — GRATIS — Vendedor: Paulina Arellano
 - 2026-08-06 19:12 — [nintendo switch](https://www.facebook.com/marketplace/item/1054881570365070) — GRATIS — Vendedor: Manuel Sandoval
 - 2026-10-15 08:32 — [Nintendo switch con 10 juegos cambio por iPad](https://www.facebook.com/marketplace/item/1312614637578698) — $1 — Vendedor: Guadalupe Reyes
+- 2026-09-06 13:12 — [Cambio por una laptop](https://www.facebook.com/marketplace/item/1431416285583812) — $1 — Vendedor: Jose Rivera
 - 2026-04-04 08:43 — [Nintendo Switch](https://www.facebook.com/marketplace/item/2124904208274910) — $1 — Vendedor: Mariel Lopez Iribe
 - 2026-11-08 12:14 — [Nintendo switch](https://www.facebook.com/marketplace/item/29432954193007098) — $4 — Vendedor: Armando López
 - 2026-03-23 12:59 — [Nintendo switch](https://www.facebook.com/marketplace/item/1272844564983794) — $5 — Vendedor: Stephanie Salas
