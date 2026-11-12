@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 41 anuncios disponibles.
+Total: 40 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -17,7 +17,6 @@ Total: 41 anuncios disponibles.
 - 2026-07-22 21:50 — [Cable Hdmi Nintendo original speed  360hz](https://www.facebook.com/marketplace/item/1782433266115664) — $100 — Vendedor: Novio De Guadalupe
 - 2026-08-09 13:03 — [Base de carga para tableta wiiu](https://www.facebook.com/marketplace/item/2107532947306173) — $111 — Vendedor: Chappy Chappy
 - 2026-08-04 11:50 — [Cargador Nintendo gameboy, ds, 3ds,dslite,dsi](https://www.facebook.com/marketplace/item/1410720534453492) — $111 — Vendedor: Chappy Chappy
-- 2026-08-02 11:28 — [Dock para Nintendo](https://www.facebook.com/marketplace/item/2088648235192630) — $111 — Vendedor: Ivan Lopez
 - 2026-08-04 11:50 — [Funda para nintendo switch y 3ds barato](https://www.facebook.com/marketplace/item/939919522470089) — $120 — Vendedor: Chappy Chappy
 - 2026-11-05 19:29 — [Combo para escritorio, tapete 80x60, teclado mecanico, soporte para laptop, y audifonos inalambricos](https://www.facebook.com/marketplace/item/1454994946562510) — $123 — Vendedor: Verduranacida Si
 - 2026-09-10 09:20 — [Control PS One Drift](https://www.facebook.com/marketplace/item/1614185220147251) — $150 — Vendedor: Bogard Santos Zazueta
