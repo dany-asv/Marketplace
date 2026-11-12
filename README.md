@@ -110,11 +110,11 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Accesorios](9na-xbox-series-accesorios.md) — 1 anuncios
 - 10ma generación:
   - Nintendo Switch 2:
-    - [Consolas](10ma-nintendo-switch-2-consolas.md) — 14 anuncios
+    - [Consolas](10ma-nintendo-switch-2-consolas.md) — 15 anuncios
     - [Juegos](10ma-nintendo-switch-2-juegos.md) — 16 anuncios
     - [Accesorios](10ma-nintendo-switch-2-accesorios.md) — 1 anuncios
 - Otros — Multiplataforma o sin plataforma clara:
-  - [Consolas](otros-consolas.md) — 79 anuncios
+  - [Consolas](otros-consolas.md) — 78 anuncios
   - [Juegos](otros-juegos.md) — 168 anuncios
   - [Accesorios](otros-accesorios.md) — 35 anuncios
 ## Disponibles (de más actual a más viejo)
