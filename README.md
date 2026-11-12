@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1470 anuncios disponibles.
+Total: 1472 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -96,7 +96,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - Nintendo Switch:
     - Consolas:
       - [OLED](9na-nintendo-switch-oled-consolas.md) — 130 anuncios
-      - [Lite](9na-nintendo-switch-lite-consolas.md) — 32 anuncios
+      - [Lite](9na-nintendo-switch-lite-consolas.md) — 33 anuncios
       - [Normal](9na-nintendo-switch-normal-consolas.md) — 125 anuncios
       - [Customs](9na-nintendo-switch-customs-consolas.md) — 31 anuncios
     - [Juegos](9na-nintendo-switch-juegos.md) — 251 anuncios
@@ -112,7 +112,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 10ma generación:
   - Nintendo Switch 2:
     - [Consolas](10ma-nintendo-switch-2-consolas.md) — 15 anuncios
-    - [Juegos](10ma-nintendo-switch-2-juegos.md) — 17 anuncios
+    - [Juegos](10ma-nintendo-switch-2-juegos.md) — 18 anuncios
     - [Accesorios](10ma-nintendo-switch-2-accesorios.md) — 1 anuncios
 - Otros — Multiplataforma o sin plataforma clara:
   - [Consolas](otros-consolas.md) — 77 anuncios
@@ -120,7 +120,9 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - [Accesorios](otros-accesorios.md) — 36 anuncios
 ## Disponibles (de más actual a más viejo)
 
+- 2026-11-12 13:31 — [NINTENDO SWITCH LITE AZUL](https://www.facebook.com/marketplace/item/1522277516382113) — $2.200 — Usado - Buen estado — Los Mochis — Vendedor: Juan Pablo RW
 - 2026-11-12 13:18 — [Xbox Series S](https://www.facebook.com/marketplace/item/1812497573362067) — $4.000 — Usado - Como nuevo — Los Mochis — Vendedor: Alexis Herrera
+- 2026-11-12 13:14 — [Zelda Ocarina of Time Nintendo Switch 2](https://www.facebook.com/marketplace/item/1014830541661322) — $1.749 — Nuevo — Los Mochis — Vendedor: Rigoberto Mora
 - 2026-11-12 12:42 — [NINTENDO SWITCH OLED](https://www.facebook.com/marketplace/item/1337141401786363) — $5.000 — Usado - Como nuevo — Los Mochis — Vendedor: Luis Camargo
 - 2026-11-12 11:59 — [Xbox series s](https://www.facebook.com/marketplace/item/1885752179256951) — $3.800 — Usado - Buen estado — Los Mochis — Vendedor: Juan Pablo RW
 - 2026-11-12 11:36 — [Juego Sonic Forces Para Nintendo Switch $450 con Caja](https://www.facebook.com/marketplace/item/962177506660699) — $350 — Usado - Como nuevo — Los Mochis — Vendedor: Axel Luna

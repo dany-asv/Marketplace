@@ -6,7 +6,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
 
-Total: 886 vendedores, 1467 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
+Total: 887 vendedores, 1469 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
 
 ## Vendedores (de mayor a menor número de publicaciones)
 
@@ -172,6 +172,7 @@ Total: 886 vendedores, 1467 anuncios con vendedor identificado (3 anuncios de la
 - [Juan Aceves](https://www.facebook.com/marketplace/profile/1578574071) — 2 publicaciones
 - [Juan Alonso](https://www.facebook.com/marketplace/profile/100090784563627) — 2 publicaciones
 - [Juan Flores](https://www.facebook.com/marketplace/profile/100090547951750) — 2 publicaciones
+- [Juan Pablo RW](https://www.facebook.com/marketplace/profile/100001666280211) — 2 publicaciones
 - [Juan Velazquez](https://www.facebook.com/marketplace/profile/61583165840161) — 2 publicaciones
 - [Juan Velazquez](https://www.facebook.com/marketplace/profile/61575180516289) — 2 publicaciones
 - [Karla Yocupicio](https://www.facebook.com/marketplace/profile/100051637037578) — 2 publicaciones
@@ -617,7 +618,6 @@ Total: 886 vendedores, 1467 anuncios con vendedor identificado (3 anuncios de la
 - [Juan Guillen Castro](https://www.facebook.com/marketplace/profile/100001487527563) — 1 publicaciones
 - [Juan Jo RO GA](https://www.facebook.com/marketplace/profile/100004315414557) — 1 publicaciones
 - [Juan Manuel Cota Espinoza](https://www.facebook.com/marketplace/profile/567523915) — 1 publicaciones
-- [Juan Pablo RW](https://www.facebook.com/marketplace/profile/100001666280211) — 1 publicaciones
 - [Juan Soto](https://www.facebook.com/marketplace/profile/100001423029474) — 1 publicaciones
 - [Juan Villa Jr.](https://www.facebook.com/marketplace/profile/100002137238827) — 1 publicaciones
 - [Juan Zavala](https://www.facebook.com/marketplace/profile/61574487886099) — 1 publicaciones
@@ -804,6 +804,7 @@ Total: 886 vendedores, 1467 anuncios con vendedor identificado (3 anuncios de la
 - [Rguez Nore](https://www.facebook.com/marketplace/profile/100004259803284) — 1 publicaciones
 - [Ricardo Palma](https://www.facebook.com/marketplace/profile/61587469951294) — 1 publicaciones
 - [Rigo Mora](https://www.facebook.com/marketplace/profile/1054866554) — 1 publicaciones
+- [Rigoberto Mora](https://www.facebook.com/marketplace/profile/61594960064524) — 1 publicaciones
 - [Rmnfive Vzla](https://www.facebook.com/marketplace/profile/61587091178512) — 1 publicaciones
 - [Roberto Ortega](https://www.facebook.com/marketplace/profile/100005967128217) — 1 publicaciones
 - [Roberto Valenzuela](https://www.facebook.com/marketplace/profile/61573943732850) — 1 publicaciones
