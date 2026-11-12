@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 48 anuncios disponibles.
+Total: 50 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -41,10 +41,12 @@ Total: 48 anuncios disponibles.
 - 2026-11-10 10:41 — [Control y estuche para Nintendo switch](https://www.facebook.com/marketplace/item/1723438702823225) — $450 — Vendedor: Chacharezca Chachera
 - 2026-10-31 17:25 — [Dock para Nintendo Switch v1](https://www.facebook.com/marketplace/item/1113138388237829) — $500 — Vendedor: Bryan Luna
 - 2026-09-06 14:59 — [Juegos Nintendo Switch, control y micro sd.](https://www.facebook.com/marketplace/item/1371307245215369) — $500 — Vendedor: Andrea Angulo
+- 2026-08-30 10:45 — [Sruche de nintendo Swich 1](https://www.facebook.com/marketplace/item/2063506827805805) — $500 — Vendedor: Daniel Robles
 - 2026-06-03 01:37 — [Dock Nintendo switch está como nuevo sin ningún detalle](https://www.facebook.com/marketplace/item/1336366645087190) — $550 — Vendedor: Antonio Lopez
 - 2026-10-23 18:50 — [Adaptador para nintendo Switch](https://www.facebook.com/marketplace/item/1583286243549923) — $600 — Vendedor: Manuel Ochoa
 - 2026-10-17 01:08 — [Control+de+nintendo+switch](https://www.facebook.com/marketplace/item/2187288591862246) — $600 — Vendedor: Yunibia Solis Yiyita
 - 2026-03-17 11:11 — [Juego y accesorios Nintendo switch](https://www.facebook.com/marketplace/item/4446315345657843) — $600 — Vendedor: Ángel Peralta
+- 2026-06-29 22:52 — [Joycons originales de Nintendo switch en perfectas condiciones 700 el par](https://www.facebook.com/marketplace/item/1933318124047519) — $650 — Vendedor: Antoni Tony
 - 2026-10-29 14:17 — [Control switch 1/2/oled /lite original de Nintendo $700](https://www.facebook.com/marketplace/item/1128422099638414) — $700 — Vendedor: Juan Alonso Aragon Aviles
 - 2026-10-27 16:12 — [Control pro original de nintendo switch edicion especial zelda](https://www.facebook.com/marketplace/item/2000786184551657) — $700 — Vendedor: Brian Woodill
 - 2026-10-16 21:53 — [Juego + control de Nintendo switch](https://www.facebook.com/marketplace/item/1088916497222457) — $800 — Vendedor: Iván Sánchez Burgueño
