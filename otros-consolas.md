@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 97 anuncios disponibles.
+Total: 96 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -58,7 +58,6 @@ Total: 97 anuncios disponibles.
 - 2026-11-10 11:42 — [Consola M14 Pro 4K +20000 Juegos](https://www.facebook.com/marketplace/item/2179267716185712) — $650 — Vendedor: Charly J Acosta
 - 2026-10-25 22:20 — [Consola de videojuegos X9 para niños, pantalla de 5.5", más de 5 mil juegos y multimedia](https://www.facebook.com/marketplace/item/1776038363513362) — $650 — Vendedor: Angel SG
 - 2026-11-09 15:17 — [Magia para Xbox Series S y X , juegos de nintendo en Xbox Series S y X](https://www.facebook.com/marketplace/item/2228101624756533) — $1.000 — Vendedor: Persival Carlos Aguilar Mondragon
-- 2026-05-20 20:32 — [Contro nintendo 2](https://www.facebook.com/marketplace/item/27360580343539257) — $1.000 — Vendedor: Juan Carlos Vega
 - 2026-11-04 12:56 — [venta](https://www.facebook.com/marketplace/item/1151352550678434) — $1.100 — Vendedor: Roy Roger
 - 2026-03-31 15:53 — [Nitendo 64 completo](https://www.facebook.com/marketplace/item/3131399780382611) — $1.199 — Vendedor: Juan Velazquez
 - 2026-10-17 23:25 — [Teclado Gaming 75%, Mause AOC y Atack Shark L60(Incluye el Mausepad)](https://www.facebook.com/marketplace/item/2442549629864107) — $1.200 — Vendedor: Sebastian C. Falomir
