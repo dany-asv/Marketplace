@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 146 anuncios disponibles.
+Total: 144 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -28,8 +28,6 @@ Total: 146 anuncios disponibles.
 - 2026-03-28 23:25 — [Nintendo switch](https://www.facebook.com/marketplace/item/1012182744570812) — $35 — Vendedor: Jorge Ramos
 - 2026-02-10 21:47 — [Nintendo switch](https://www.facebook.com/marketplace/item/1440054061128241) — $200 — Vendedor: Eduardo Zazueta
 - 2026-09-11 13:41 — [Nintendo switch](https://www.facebook.com/marketplace/item/1083502440934361) — $400 — Vendedor: Bryan Alexis Soto Villela
-- 2026-09-11 13:38 — [Nintendo switch Monster hunter stories](https://www.facebook.com/marketplace/item/2282576052543015) — $400 — Vendedor: Bryan Alexis Soto Villela
-- 2026-03-14 15:11 — [Bluey para switch](https://www.facebook.com/marketplace/item/963284813309184) — $400 — Vendedor: Jesus Eduardo
 - 2026-10-15 15:12 — [Myflash Magic-NS (Nintendo Switch) Rev. 1.2](https://www.facebook.com/marketplace/item/1657311709098835) — $500 — Vendedor: Juan Sergio Hernandez Araujo
 - 2026-08-30 10:45 — [Sruche de nintendo Swich 1](https://www.facebook.com/marketplace/item/2063506827805805) — $500 — Vendedor: Daniel Robles
 - 2026-06-29 22:52 — [Joycons originales de Nintendo switch en perfectas condiciones 700 el par](https://www.facebook.com/marketplace/item/1933318124047519) — $650 — Vendedor: Antoni Tony

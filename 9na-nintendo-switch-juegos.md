@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 225 anuncios disponibles.
+Total: 227 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -71,11 +71,13 @@ Total: 225 anuncios disponibles.
 - 2026-10-06 12:00 — [BUSCO Pokémon Perla Brillante Nintendo Switch](https://www.facebook.com/marketplace/item/1429739015814163) — $400 — Vendedor: Rigo Mora
 - 2026-09-13 17:33 — [Se vende o se cambia por videojuegos de switch 1 y 2](https://www.facebook.com/marketplace/item/1096578389686317) — $400 — Vendedor: Jose Rios
 - 2026-09-12 10:42 — [Juegos de Nintendo switch](https://www.facebook.com/marketplace/item/1076396768655574) — $400 — Vendedor: Francisco González
+- 2026-09-11 13:38 — [Nintendo switch Monster hunter stories](https://www.facebook.com/marketplace/item/2282576052543015) — $400 — Vendedor: Bryan Alexis Soto Villela
 - 2026-06-30 15:33 — [JUEGOS NINTENDO SWITCH](https://www.facebook.com/marketplace/item/1122588276871841) — $400 — Vendedor: Juan Alonso
 - 2026-06-29 22:45 — [Juegos Nintendo switch sin caja en 400 cada uno](https://www.facebook.com/marketplace/item/1403249024965788) — $400 — Vendedor: Antonio Lopez
 - 2026-06-19 14:17 — [Vendo o cambio juego  nintendo switch plantas vs zombies](https://www.facebook.com/marketplace/item/1542651004036371) — $400 — Vendedor: Gehovany Quevedo
 - 2026-06-15 14:40 — [Dragon Ball FighterZ para Switch](https://www.facebook.com/marketplace/item/985266987598836) — $400 — Vendedor: Maria Beatriz Valenzuela
 - 2026-06-15 14:36 — [Dragon Ball FighterZ para Switch](https://www.facebook.com/marketplace/item/958898993905269) — $400 — Vendedor: Maria Beatriz Valenzuela
+- 2026-03-14 15:11 — [Bluey para switch](https://www.facebook.com/marketplace/item/963284813309184) — $400 — Vendedor: Jesus Eduardo
 - 2026-11-10 18:58 — [Juegos switch 450 cada uno](https://www.facebook.com/marketplace/item/2349709749159061) — $450 — Vendedor: Antonio Lopez
 - 2026-10-14 11:18 — [Juego para nintendo switch Minecraft](https://www.facebook.com/marketplace/item/1828072735199656) — $450 — Vendedor: Jose Cass
 - 2026-10-11 13:05 — [Sonic Forces para nintendo switch](https://www.facebook.com/marketplace/item/1647524947084183) — $450 — Vendedor: Jose Cass
