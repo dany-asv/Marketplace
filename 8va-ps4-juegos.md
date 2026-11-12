@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 127 anuncios disponibles.
+Total: 128 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -83,6 +83,7 @@ Total: 127 anuncios disponibles.
 - 2026-10-15 20:46 — [JUEGOS PS4 PLAYSTATION 4](https://www.facebook.com/marketplace/item/1656820959286192) — $300 — Vendedor: Zaid Sebastián
 - 2026-09-29 14:17 — [Juegos ps4 $300c/u](https://www.facebook.com/marketplace/item/1566677207947233) — $300 — Vendedor: Dulce Palma
 - 2026-09-16 14:47 — [Juegos de Ps4](https://www.facebook.com/marketplace/item/1115552607623102) — $300 — Vendedor: Jesus M. Lopez
+- 2026-09-06 18:41 — [Gt5](https://www.facebook.com/marketplace/item/1578353787662492) — $300 — Vendedor: Ivan Aguero
 - 2026-08-24 12:20 — [Juegos ps4](https://www.facebook.com/marketplace/item/1679870486439860) — $300 — Vendedor: Jesus Cuevas
 - 2026-08-19 18:15 — [Juego play 4](https://www.facebook.com/marketplace/item/1032813219535030) — $300 — Vendedor: Tadeo Borq
 - 2026-08-18 16:09 — [FIFA 19 PARA PS4](https://www.facebook.com/marketplace/item/1884408475853425) — $300 — Vendedor: Fernando Quintero
