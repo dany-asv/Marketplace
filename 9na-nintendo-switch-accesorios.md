@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 58 anuncios disponibles.
+Total: 59 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -24,6 +24,7 @@ Total: 58 anuncios disponibles.
 - 2026-07-27 15:36 — [Accesorios para cargar Nintendo switch](https://www.facebook.com/marketplace/item/1049915067433242) — $111 — Vendedor: Ivan Lopez
 - 2026-08-20 11:42 — [Par de correas para joycons/controles nintendo Switch - Joycons](https://www.facebook.com/marketplace/item/1610268643846929) — $150 — Vendedor: Roberto Vega
 - 2026-10-23 20:09 — [Funda para Nintendo Switch Lite](https://www.facebook.com/marketplace/item/996232606852477) — $200 — Vendedor: Jose Zuniga
+- 2026-08-28 18:16 — [Control de nintento](https://www.facebook.com/marketplace/item/2533099033779714) — $200 — Vendedor: Elvira Palazuelos
 - 2026-08-19 15:16 — [Grip para Nintendo switch](https://www.facebook.com/marketplace/item/1060892116344128) — $200 — Vendedor: Jose Antonio Menendez
 - 2026-08-19 02:26 — [Grip Para Nintendo Switch](https://www.facebook.com/marketplace/item/1850511762335433) — $200 — Vendedor: Antonio Zayas Nevada
 - 2026-08-16 10:36 — [Joycon Grip Nintendo Switch 1](https://www.facebook.com/marketplace/item/1742649733647492) — $200 — Vendedor: Sergio Castro Félix
