@@ -95,7 +95,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - Consolas:
       - [OLED](9na-nintendo-switch-oled-consolas.md) — 129 anuncios
       - [Lite](9na-nintendo-switch-lite-consolas.md) — 30 anuncios
-      - [Normal](9na-nintendo-switch-normal-consolas.md) — 142 anuncios
+      - [Normal](9na-nintendo-switch-normal-consolas.md) — 141 anuncios
     - [Juegos](9na-nintendo-switch-juegos.md) — 227 anuncios
     - [Accesorios](9na-nintendo-switch-accesorios.md) — 50 anuncios
   - PlayStation 5 (PS5):
@@ -108,7 +108,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 10ma generación:
   - Nintendo Switch 2:
     - [Consolas](10ma-nintendo-switch-2-consolas.md) — 14 anuncios
-    - [Juegos](10ma-nintendo-switch-2-juegos.md) — 14 anuncios
+    - [Juegos](10ma-nintendo-switch-2-juegos.md) — 15 anuncios
 - Otros — Multiplataforma o sin plataforma clara:
   - [Consolas](otros-consolas.md) — 127 anuncios
   - [Juegos](otros-juegos.md) — 168 anuncios
