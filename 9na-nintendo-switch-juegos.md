@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 227 anuncios disponibles.
+Total: 224 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -231,9 +231,6 @@ Total: 227 anuncios disponibles.
 - 2026-02-05 16:18 — [Se venden juegos de switch](https://www.facebook.com/marketplace/item/883225261084040) — $5.858 — Vendedor: Sebastian Souza
 - 2025-11-08 16:41 — [Juegos de Switch](https://www.facebook.com/marketplace/item/24908718215421556) — $5.858 — Vendedor: Sebastian Souza
 - 2026-09-05 08:14 — [juegos nintendo switch](https://www.facebook.com/marketplace/item/1228691096114429) — $7.000 — Vendedor: Sebastian Souza
-- 2026-02-22 17:41 — [Nintendo Switch Oled Splatoon Edition](https://www.facebook.com/marketplace/item/2926589670868139) — $7.000 — Vendedor: Alejandro Aguilar
-- 2026-08-27 15:36 — [Nintendo switch oled edición Zelda TOTK](https://www.facebook.com/marketplace/item/1039972765541092) — $8.000 — Vendedor: Carlos Miranda
-- 2026-05-13 13:23 — [Nintendo switch 1era generación edición oled Pokémon](https://www.facebook.com/marketplace/item/1313032654254264) — $8.000 — Vendedor: David Arvizu
 - 2026-02-02 12:20 — [Juegos nintendo switch](https://www.facebook.com/marketplace/item/1842225173101374) — $9.090 — Vendedor: Sebastian Souza
 - 2026-01-26 15:31 — [Juegos de switch](https://www.facebook.com/marketplace/item/1188754713328150) — $9.999 — Vendedor: Sebastian Souza
 - 2026-10-17 16:44 — [Nintendo switch y juegos baratos, todo junto o juegos individuales $$$](https://www.facebook.com/marketplace/item/1157355450304678) — $12.345 — Vendedor: Mario Vasquez

@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 127 anuncios disponibles.
+Total: 130 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -135,5 +135,8 @@ Total: 127 anuncios disponibles.
 - 2026-02-08 18:34 — [Nintendo Swicht Oled](https://www.facebook.com/marketplace/item/1576757180299330) — $6.500 — Vendedor: Brayan Acuña
 - 2026-09-06 00:15 — [Nintendo swict oled y procontroller](https://www.facebook.com/marketplace/item/2200348684246789) — $6.600 — Vendedor: Karlita Martinez
 - 2026-09-29 12:42 — [NINTENDO SWITCH OLED](https://www.facebook.com/marketplace/item/1403231148665098) — $7.000 — Vendedor: Kylian Mateo Garcia V
+- 2026-02-22 17:41 — [Nintendo Switch Oled Splatoon Edition](https://www.facebook.com/marketplace/item/2926589670868139) — $7.000 — Vendedor: Alejandro Aguilar
 - 2026-10-24 14:42 — [NINTENDO SWITCH OLED](https://www.facebook.com/marketplace/item/1410757697896111) — $7.500 — Vendedor: Carlos Tabarez
+- 2026-08-27 15:36 — [Nintendo switch oled edición Zelda TOTK](https://www.facebook.com/marketplace/item/1039972765541092) — $8.000 — Vendedor: Carlos Miranda
+- 2026-05-13 13:23 — [Nintendo switch 1era generación edición oled Pokémon](https://www.facebook.com/marketplace/item/1313032654254264) — $8.000 — Vendedor: David Arvizu
 - 2025-12-18 19:54 — [Nintendo switch OLED](https://www.facebook.com/marketplace/item/1912626339637337) — $8.000 — Vendedor: Julissa De Aguirre
