@@ -52,6 +52,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Accesorios](5ta-nintendo-64-accesorios.md) — 1 anuncios
   - PlayStation 1 (PS1):
     - [Consolas](5ta-ps1-consolas.md) — 4 anuncios
+    - [Accesorios](5ta-ps1-accesorios.md) — 1 anuncios
 - 6ta generación:
   - GameCube:
     - [Consolas](6ta-gamecube-consolas.md) — 3 anuncios
@@ -113,7 +114,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - Otros — Multiplataforma o sin plataforma clara:
   - [Consolas](otros-consolas.md) — 125 anuncios
   - [Juegos](otros-juegos.md) — 168 anuncios
-  - [Accesorios](otros-accesorios.md) — 40 anuncios
+  - [Accesorios](otros-accesorios.md) — 39 anuncios
 ## Disponibles (de más actual a más viejo)
 
 - 2026-11-11 20:53 — [Estuche Nintendo Switch](https://www.facebook.com/marketplace/item/966784922827906) — $400 — Usado - Como nuevo — Los Mochis — Vendedor: Robles Jazive
