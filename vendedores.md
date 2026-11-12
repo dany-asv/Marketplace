@@ -6,7 +6,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
 
-Total: 883 vendedores, 1464 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
+Total: 886 vendedores, 1467 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
 
 ## Vendedores (de mayor a menor número de publicaciones)
 
@@ -261,6 +261,7 @@ Total: 883 vendedores, 1464 anuncios con vendedor identificado (3 anuncios de la
 - [Alexander López](https://www.facebook.com/marketplace/profile/100016835530223) — 1 publicaciones
 - [Alexander Montes](https://www.facebook.com/marketplace/profile/61570113005214) — 1 publicaciones
 - [Alexis Arturo Osuna Acosta](https://www.facebook.com/marketplace/profile/61554945780766) — 1 publicaciones
+- [Alexis Herrera](https://www.facebook.com/marketplace/profile/100010870411630) — 1 publicaciones
 - [Alfonso Wrld](https://www.facebook.com/marketplace/profile/100040752772653) — 1 publicaciones
 - [Alfredo Cota](https://www.facebook.com/marketplace/profile/100070771495141) — 1 publicaciones
 - [Alham Alor](https://www.facebook.com/marketplace/profile/100001578748544) — 1 publicaciones
@@ -381,6 +382,7 @@ Total: 883 vendedores, 1464 anuncios con vendedor identificado (3 anuncios de la
 - [César Gutiérrez](https://www.facebook.com/marketplace/profile/100002930749091) — 1 publicaciones
 - [César López](https://www.facebook.com/marketplace/profile/100024825966700) — 1 publicaciones
 - [Dani HR](https://www.facebook.com/marketplace/profile/793630392) — 1 publicaciones
+- [Daniel Baez](https://www.facebook.com/marketplace/profile/100049506630525) — 1 publicaciones
 - [Daniel Castro](https://www.facebook.com/marketplace/profile/100008304934887) — 1 publicaciones
 - [Daniel Espinoza](https://www.facebook.com/marketplace/profile/100002369534025) — 1 publicaciones
 - [Daniel López](https://www.facebook.com/marketplace/profile/61594998581179) — 1 publicaciones
@@ -669,6 +671,7 @@ Total: 883 vendedores, 1464 anuncios con vendedor identificado (3 anuncios de la
 - [Lluvia Gálvez](https://www.facebook.com/marketplace/profile/100077524765184) — 1 publicaciones
 - [Lugo Cloting](https://www.facebook.com/marketplace/profile/61585330655644) — 1 publicaciones
 - [Luis Angel IR](https://www.facebook.com/marketplace/profile/100024812600702) — 1 publicaciones
+- [Luis Camargo](https://www.facebook.com/marketplace/profile/100000775821108) — 1 publicaciones
 - [Luis Carlos Briceño](https://www.facebook.com/marketplace/profile/519846410) — 1 publicaciones
 - [Luis Daniel Miranda Cota](https://www.facebook.com/marketplace/profile/100002935972721) — 1 publicaciones
 - [Luis Eduardo](https://www.facebook.com/marketplace/profile/1081463677) — 1 publicaciones

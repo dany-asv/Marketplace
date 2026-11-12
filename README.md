@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1467 anuncios disponibles.
+Total: 1470 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -95,7 +95,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 9na generación:
   - Nintendo Switch:
     - Consolas:
-      - [OLED](9na-nintendo-switch-oled-consolas.md) — 129 anuncios
+      - [OLED](9na-nintendo-switch-oled-consolas.md) — 130 anuncios
       - [Lite](9na-nintendo-switch-lite-consolas.md) — 32 anuncios
       - [Normal](9na-nintendo-switch-normal-consolas.md) — 125 anuncios
       - [Customs](9na-nintendo-switch-customs-consolas.md) — 31 anuncios
@@ -106,7 +106,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](9na-ps5-juegos.md) — 17 anuncios
     - [Accesorios](9na-ps5-accesorios.md) — 11 anuncios
   - Xbox Series X/S:
-    - [Consolas](9na-xbox-series-consolas.md) — 4 anuncios
+    - [Consolas](9na-xbox-series-consolas.md) — 5 anuncios
     - [Juegos](9na-xbox-series-juegos.md) — 1 anuncios
     - [Accesorios](9na-xbox-series-accesorios.md) — 2 anuncios
 - 10ma generación:
@@ -117,9 +117,11 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - Otros — Multiplataforma o sin plataforma clara:
   - [Consolas](otros-consolas.md) — 77 anuncios
   - [Juegos](otros-juegos.md) — 161 anuncios
-  - [Accesorios](otros-accesorios.md) — 35 anuncios
+  - [Accesorios](otros-accesorios.md) — 36 anuncios
 ## Disponibles (de más actual a más viejo)
 
+- 2026-11-12 13:18 — [Xbox Series S](https://www.facebook.com/marketplace/item/1812497573362067) — $4.000 — Usado - Como nuevo — Los Mochis — Vendedor: Alexis Herrera
+- 2026-11-12 12:42 — [NINTENDO SWITCH OLED](https://www.facebook.com/marketplace/item/1337141401786363) — $5.000 — Usado - Como nuevo — Los Mochis — Vendedor: Luis Camargo
 - 2026-11-12 11:59 — [Xbox series s](https://www.facebook.com/marketplace/item/1885752179256951) — $3.800 — Usado - Buen estado — Los Mochis — Vendedor: Juan Pablo RW
 - 2026-11-12 11:36 — [Juego Sonic Forces Para Nintendo Switch $450 con Caja](https://www.facebook.com/marketplace/item/962177506660699) — $350 — Usado - Como nuevo — Los Mochis — Vendedor: Axel Luna
 - 2026-11-12 11:36 — [Juego Jumanji Para Nintendo Switch con caja $400](https://www.facebook.com/marketplace/item/963363749873083) — $300 — Usado - Como nuevo — Los Mochis — Vendedor: Axel Luna
@@ -280,6 +282,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-06 12:33 — [Nintendo Sup Doble control](https://www.facebook.com/marketplace/item/2124308205638398) — $80 — Nuevo — Los Mochis — Vendedor: Daniel Sanchez
 - 2026-11-06 12:27 — [No more héroes (Wii)](https://www.facebook.com/marketplace/item/1099936772835109) — GRATIS — Usado — Los Mochis — Vendedor: Antonio Rodriguez
 - 2026-11-06 08:42 — [Consola de videojuegos](https://www.facebook.com/marketplace/item/1116777441239014) — GRATIS — Nuevo — Los Mochis — Vendedor: Victor Juárez
+- 2026-11-06 08:19 — [2 baterias y vase para control xbox](https://www.facebook.com/marketplace/item/4624585494437973) — $450 — Usado - Como nuevo — Los Mochis — Vendedor: Daniel Baez
 - 2026-11-06 08:07 — [Playstation 4 Slim + PS VR - de 1tb ya con magia, lleno de juegos](https://www.facebook.com/marketplace/item/3113104429030350) — $2.500 — Usado - Como nuevo — Los Mochis — Vendedor: Licenciado Pablo
 - 2026-11-06 01:04 — [PSP 3000 plateado con microSD 64 GB, grip y accesorios](https://www.facebook.com/marketplace/item/1560342965895647) — $2.000 — Los Mochis — Vendedor: Francisco Arturo
 - 2026-11-05 22:14 — [Final Fantasy XII Zodiac Age Collector’s Edition PS4 completa](https://www.facebook.com/marketplace/item/1106295665549699) — $2.400 — Usado - Como nuevo — Los Mochis — Vendedor: Francisco Arturo
