@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 232 anuncios disponibles.
+Total: 233 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -43,6 +43,7 @@ Total: 232 anuncios disponibles.
 - 2026-08-04 11:50 — [Juego para nintendo switch barato](https://www.facebook.com/marketplace/item/1312614357612432) — $111 — Vendedor: Chappy Chappy
 - 2026-03-18 20:23 — [Juego Mario + Rabbids para Nintendo SWITCH 1,2](https://www.facebook.com/marketplace/item/2273773806479903) — $123 — Vendedor: Berenays Luque
 - 2026-03-02 12:32 — [Juegos de Nintendo switch](https://www.facebook.com/marketplace/item/1228216336175686) — $123 — Vendedor: Cinthya Olguin
+- 2025-12-23 11:47 — [- HUMAN FALL FLAT](https://www.facebook.com/marketplace/item/1412438200297784) — $200 — Vendedor: Víctor Iván Araujo
 - 2026-10-08 17:19 — [Bluey the videogame - Nintendo switch](https://www.facebook.com/marketplace/item/1818656475989332) — $250 — Vendedor: Gerardo Romero
 - 2026-11-11 14:29 — [Juegos Nintendo switch solo cartucho en $300$ cada uno](https://www.facebook.com/marketplace/item/1599548595544938) — $300 — Vendedor: Antonio Lopez
 - 2026-11-07 11:54 — [Jumanji  juego para nintendo switch](https://www.facebook.com/marketplace/item/1443398463915787) — $300 — Vendedor: Axel Luna
