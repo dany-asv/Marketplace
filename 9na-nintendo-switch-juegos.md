@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 244 anuncios disponibles.
+Total: 231 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -223,19 +223,6 @@ Total: 244 anuncios disponibles.
 - 2026-09-11 14:15 — [Lote de Juegos Físicos Nintendo Switch (Super Mario, Animal Crossing, MK11)](https://www.facebook.com/marketplace/item/1707907784673717) — $2.500 — Vendedor: Sun Kool
 - 2026-02-10 09:49 — [Juegos de switch](https://www.facebook.com/marketplace/item/1223880049937841) — $3.030 — Vendedor: Sebastian Souza
 - 2026-09-14 19:30 — [🎮 6 Juegos Nintendo Switch Originales – Mario, Minecraft, Smash Bros y más](https://www.facebook.com/marketplace/item/2272044660242372) — $3.300 — Vendedor: Francisco Javier Baldenebro Alonso
-- 2026-10-06 21:44 — [Nintendo Switch + 1 Juego a Elegir](https://www.facebook.com/marketplace/item/2353605495465533) — $3.500 — Vendedor: Walter Lopez
-- 2026-10-04 10:56 — [nintendo switch edición zelda: tears of the kingdom y nintendo switch oled](https://www.facebook.com/marketplace/item/1087838933955803) — $3.700 — Vendedor: Luis Peraza
-- 2026-09-17 21:04 — [Nintendo Switch Oled edición Mario Red](https://www.facebook.com/marketplace/item/1054237120824334) — $3.800 — Vendedor: Allan E Ramirez G
-- 2026-09-09 16:51 — [Nintendo switch animal crossing](https://www.facebook.com/marketplace/item/2082470789021479) — $4.000 — Vendedor: Hugo Angel Vega
-- 2026-08-06 19:31 — [Nintendo switch versión Zelda](https://www.facebook.com/marketplace/item/4560016284237155) — $4.000 — Vendedor: Víctor Hernández
-- 2026-06-17 11:21 — [Nintendo switch Animal Crossing + Mario Kart](https://www.facebook.com/marketplace/item/1323196273251910) — $4.000 — Vendedor: Luzmary Castro
-- 2025-03-23 20:32 — [Nintendo Switch de Animal Crossing](https://www.facebook.com/marketplace/item/556559580184160) — $4.000 — Vendedor: Lizarraga Maria
-- 2026-09-24 18:06 — [Nintendo switch oled versión pokemon escarlata y purpura](https://www.facebook.com/marketplace/item/1844730653606798) — $4.200 — Vendedor: Alejo Lopez
-- 2026-08-04 13:49 — [Nintendo switch oled, edicion the legend of Zelda](https://www.facebook.com/marketplace/item/1375842323966472) — $4.500 — Vendedor: Lizárraga Jose
-- 2026-10-08 15:35 — [Nintendo switch edición Mario wonder Nuevo en caja sellado, juego digital incluido](https://www.facebook.com/marketplace/item/2260578308133534) — $4.999 — Vendedor: Paulina Flores
-- 2026-09-17 18:07 — [Nintendo switch OLED ( versión internacional) + Mario party + Mario kart](https://www.facebook.com/marketplace/item/1078800448447100) — $4.999 — Vendedor: Alejandro Cabrera
-- 2026-11-03 13:28 — [Nintendo switch oled Zelda edición](https://www.facebook.com/marketplace/item/1428575159447513) — $5.000 — Vendedor: Iram A. Payan
-- 2026-07-03 17:48 — [Nintendo switch Oled con Fc 25 de regalo](https://www.facebook.com/marketplace/item/4547445642248871) — $5.000 — Vendedor: Tadeo Lopez
 - 2026-03-25 12:21 — [Juegos Nintendo Switch](https://www.facebook.com/marketplace/item/1690604671965133) — $5.000 — Vendedor: Miguel Armenta
 - 2026-09-28 12:08 — [Nintendo switch , viene con super smash y animal crossing](https://www.facebook.com/marketplace/item/946741205170598) — $5.800 — Vendedor: Ernesto Lugo
 - 2026-07-18 09:25 — [Juegos switch](https://www.facebook.com/marketplace/item/1083339554120306) — $5.858 — Vendedor: Sebastian Souza

@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 119 anuncios disponibles.
+Total: 126 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -31,6 +31,7 @@ Total: 119 anuncios disponibles.
 - 2026-07-03 21:56 — [Nintendo switch oled, se entrega en caja con todos los accesorios que se ven](https://www.facebook.com/marketplace/item/1564811655171459) — $3.500 — Vendedor: Antoni Tony
 - 2026-06-12 22:37 — [nintendo swich oled blanca](https://www.facebook.com/marketplace/item/984626107826370) — $3.500 — Vendedor: Marelly Yalita
 - 2026-05-01 19:54 — [Nintendo switch oled](https://www.facebook.com/marketplace/item/1002197775573052) — $3.500 — Vendedor: Danitza Vallejo
+- 2026-10-04 10:56 — [nintendo switch edición zelda: tears of the kingdom y nintendo switch oled](https://www.facebook.com/marketplace/item/1087838933955803) — $3.700 — Vendedor: Luis Peraza
 - 2026-11-08 11:26 — [Nintendo Oled 64gb](https://www.facebook.com/marketplace/item/1134008732608888) — $3.800 — Vendedor: Keidy Gonzalez
 - 2026-11-05 18:49 — [Nintendo Switch OLED Blanco](https://www.facebook.com/marketplace/item/2204331920497091) — $3.800 — Vendedor: Felipe Mendoza
 - 2026-10-05 22:08 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/1716951546504220) — $3.800 — Vendedor: Carlos Jiménez
@@ -44,6 +45,7 @@ Total: 119 anuncios disponibles.
 - 2026-10-02 11:06 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/2314780299062364) — $3.800 — Vendedor: Carlos Jiménez
 - 2026-10-02 11:04 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/1464978725678498) — $3.800 — Vendedor: Carlos Jiménez
 - 2026-10-01 14:01 — [NINTENDO SWITCH OLED](https://www.facebook.com/marketplace/item/2629882157470853) — $3.800 — Vendedor: Alejandra Zepeda Coutiño
+- 2026-09-17 21:04 — [Nintendo Switch Oled edición Mario Red](https://www.facebook.com/marketplace/item/1054237120824334) — $3.800 — Vendedor: Allan E Ramirez G
 - 2026-09-12 12:43 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/1139955391693650) — $3.800 — Vendedor: Angel Zuñiga
 - 2026-09-04 10:59 — [Nintendo switch oled](https://www.facebook.com/marketplace/item/1072490812491804) — $3.800 — Vendedor: Empeña Facil Pedro Anaya
 - 2026-05-28 10:32 — [Nintendo switch oled blanco 64 GB como nuevo](https://www.facebook.com/marketplace/item/1281056467411648) — $3.900 — Vendedor: Antonio Padilla
@@ -79,6 +81,7 @@ Total: 119 anuncios disponibles.
 - 2026-06-22 23:20 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/1001879136037906) — $4.000 — Vendedor: Ruben Omar Solis Valdez
 - 2026-11-06 15:10 — [Nintendo Swich Oled](https://www.facebook.com/marketplace/item/1831643834646021) — $4.200 — Vendedor: Omar De la Vega
 - 2026-10-24 20:27 — [Nintendo switch oled](https://www.facebook.com/marketplace/item/1008358278942279) — $4.200 — Vendedor: Jaqueline Guerrero
+- 2026-09-24 18:06 — [Nintendo switch oled versión pokemon escarlata y purpura](https://www.facebook.com/marketplace/item/1844730653606798) — $4.200 — Vendedor: Alejo Lopez
 - 2026-09-19 15:32 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/2329120794525278) — $4.200 — Vendedor: Carlos Jiménez
 - 2026-09-19 15:31 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/2227978184655208) — $4.200 — Vendedor: Carlos Jiménez
 - 2026-09-18 20:35 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/1043948555326180) — $4.300 — Vendedor: Carlos Jiménez
@@ -88,6 +91,7 @@ Total: 119 anuncios disponibles.
 - 2026-09-29 09:34 — [Nintendo Switch Oled Con Todos Sus Accesorios + 3 Juegos Regalados $ 4,500  Interesados 6681688232](https://www.facebook.com/marketplace/item/1087758854149594) — $4.500 — Vendedor: Lupita Leyva
 - 2026-09-21 20:12 — [Nintendo switch oled](https://www.facebook.com/marketplace/item/1398920168994555) — $4.500 — Vendedor: Ismael Ruiz
 - 2026-08-29 15:18 — [Nintendo switch oled (precio a tratar)](https://www.facebook.com/marketplace/item/27697754569906816) — $4.500 — Vendedor: Keira BaeBel
+- 2026-08-04 13:49 — [Nintendo switch oled, edicion the legend of Zelda](https://www.facebook.com/marketplace/item/1375842323966472) — $4.500 — Vendedor: Lizárraga Jose
 - 2026-08-01 22:43 — [Switch oled con 7 juegos](https://www.facebook.com/marketplace/item/897947969565877) — $4.500 — Vendedor: Abimael Lopez
 - 2026-06-07 18:54 — [Nintendo switch oled](https://www.facebook.com/marketplace/item/1525028655885350) — $4.500 — Vendedor: Juan Zavala
 - 2026-05-10 12:40 — [Nintendo Switch OLED usado, en buenas condiciones.](https://www.facebook.com/marketplace/item/1441886627702151) — $4.500 — Vendedor: Jasiel Andrés Ruiz Ocampo
@@ -99,11 +103,14 @@ Total: 119 anuncios disponibles.
 - 2026-03-23 13:27 — [Nintendo swtich oled](https://www.facebook.com/marketplace/item/2446361379196053) — $4.800 — Vendedor: Francisco Sincel
 - 2026-09-06 14:52 — [Nintendo Switch OLED 64 gb blanca.](https://www.facebook.com/marketplace/item/1550507326225244) — $4.900 — Vendedor: Andrea Angulo
 - 2026-01-23 21:18 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/2151914472303578) — $4.900 — Vendedor: Abraham Chairez
+- 2026-09-17 18:07 — [Nintendo switch OLED ( versión internacional) + Mario party + Mario kart](https://www.facebook.com/marketplace/item/1078800448447100) — $4.999 — Vendedor: Alejandro Cabrera
+- 2026-11-03 13:28 — [Nintendo switch oled Zelda edición](https://www.facebook.com/marketplace/item/1428575159447513) — $5.000 — Vendedor: Iram A. Payan
 - 2026-10-20 16:15 — [VENDO !!! NINTENDO SWITCH OLED BLANCO](https://www.facebook.com/marketplace/item/1804449077429817) — $5.000 — Vendedor: Marisol Sandoval Bojorquez
 - 2026-08-31 19:01 — [Nintendo switch oled edición Zelda con juego físico](https://www.facebook.com/marketplace/item/1769832220885833) — $5.000 — Vendedor: Jesus Eduardo Aragon
 - 2026-08-19 18:48 — [Nintendo switch oled como nuevo](https://www.facebook.com/marketplace/item/1486321086565497) — $5.000 — Vendedor: Jesus Eduardo Aragon
 - 2026-08-05 18:24 — [Switch oled](https://www.facebook.com/marketplace/item/1394973735911671) — $5.000 — Vendedor: Alejandra Orduño
 - 2026-07-10 09:17 — [NINTENDO SWITCH OLED](https://www.facebook.com/marketplace/item/2039934949935510) — $5.000 — Vendedor: Montesito Empeños
+- 2026-07-03 17:48 — [Nintendo switch Oled con Fc 25 de regalo](https://www.facebook.com/marketplace/item/4547445642248871) — $5.000 — Vendedor: Tadeo Lopez
 - 2026-03-07 17:54 — [se vende nintendo switch oled hakeado  agarra juegos originales y  hack trai todo sus accesorios](https://www.facebook.com/marketplace/item/4443454319216533) — $5.000 — Vendedor: Lizeth Romero
 - 2026-02-11 22:03 — [Nintendo switch oled 64 GB](https://www.facebook.com/marketplace/item/778893524683434) — $5.000 — Vendedor: Abraham Peralta Sr.
 - 2026-09-29 14:07 — [Nintendo switch oled](https://www.facebook.com/marketplace/item/1033483829733846) — $5.300 — Vendedor: Paul Iran Gomez
