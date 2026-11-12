@@ -96,7 +96,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - Nintendo Switch:
     - Consolas:
       - [OLED](9na-nintendo-switch-oled-consolas.md) — 125 anuncios
-      - [Lite](9na-nintendo-switch-lite-consolas.md) — 28 anuncios
+      - [Lite](9na-nintendo-switch-lite-consolas.md) — 29 anuncios
       - [Normal](9na-nintendo-switch-normal-consolas.md) — 120 anuncios
       - [Customs](9na-nintendo-switch-customs-consolas.md) — 31 anuncios
     - [Juegos](9na-nintendo-switch-juegos.md) — 230 anuncios
@@ -113,7 +113,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Consolas](10ma-nintendo-switch-2-consolas.md) — 14 anuncios
     - [Juegos](10ma-nintendo-switch-2-juegos.md) — 15 anuncios
 - Otros — Multiplataforma o sin plataforma clara:
-  - [Consolas](otros-consolas.md) — 125 anuncios
+  - [Consolas](otros-consolas.md) — 124 anuncios
   - [Juegos](otros-juegos.md) — 168 anuncios
   - [Accesorios](otros-accesorios.md) — 35 anuncios
 ## Disponibles (de más actual a más viejo)
