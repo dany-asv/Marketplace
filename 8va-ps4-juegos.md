@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 130 anuncios disponibles.
+Total: 131 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -78,6 +78,7 @@ Total: 130 anuncios disponibles.
 - 2026-02-07 14:07 — [250por cadauno](https://www.facebook.com/marketplace/item/1434701544993544) — $250 — Vendedor: Cristian Ahumada
 - 2025-09-07 16:52 — [Videojuegos de PS4](https://www.facebook.com/marketplace/item/1136389518367398) — $250 — Vendedor: Sami Lopez Martinez
 - 2025-05-28 08:31 — [Juegos para ps4](https://www.facebook.com/marketplace/item/1340596260371339) — $250 — Vendedor: Saúl Plata
+- 2024-12-07 19:32 — [Viernes 13](https://www.facebook.com/marketplace/item/942217030654708) — $250 — Vendedor: Aldo Ceballos Cubedo
 - 2026-10-25 13:36 — [Read Dead Redeption 2 PS4 ✅🕹️](https://www.facebook.com/marketplace/item/1455937176461320) — $300 — Vendedor: Ricardo Beltrán
 - 2026-10-25 10:27 — [Drive Club PS4](https://www.facebook.com/marketplace/item/2489714314893629) — $300 — Vendedor: Chito Hernandez
 - 2026-10-15 20:46 — [JUEGOS PS4 PLAYSTATION 4](https://www.facebook.com/marketplace/item/1656820959286192) — $300 — Vendedor: Zaid Sebastián
