@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 52 anuncios disponibles.
+Total: 53 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -54,6 +54,7 @@ Total: 52 anuncios disponibles.
 - 2026-06-29 22:52 — [Joycons Nintendo switch oled en 800 el par están en muy buenas condiciones](https://www.facebook.com/marketplace/item/1731097157887307) — $800 — Vendedor: Antoni Tony
 - 2026-06-09 16:19 — [Dock, cargador y control para Nintendo switch todo original y en buenas condiciones en $800$ todo](https://www.facebook.com/marketplace/item/1373130771358437) — $800 — Vendedor: Antoni Tony
 - 2026-08-16 14:04 — [Par de joycon 900 par rosa y verde $800](https://www.facebook.com/marketplace/item/1982253825773260) — $900 — Vendedor: Stargames Valenzuela
+- 2026-09-06 00:27 — [Joy cons para Nintendo swict](https://www.facebook.com/marketplace/item/1962822177741143) — $1.100 — Vendedor: Karlita Martinez
 - 2024-08-05 16:56 — [Control pro Nintendo switch](https://www.facebook.com/marketplace/item/2173331779714464) — $1.400 — Vendedor: Sergio Sandoval'v
 - 2026-11-07 19:55 — [Control gamesir nintendo switch 1 y 2, iPhone, Android, celulares, tablet y pc.](https://www.facebook.com/marketplace/item/1625484619312650) — $1.500 — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-03-29 16:02 — [Nintendo Switch Joy-Cons blue and orange](https://www.facebook.com/marketplace/item/2243182649842065) — $1.500 — Vendedor: Misael Garcia
