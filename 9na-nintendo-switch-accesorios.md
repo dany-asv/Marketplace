@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 61 anuncios disponibles.
+Total: 50 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -56,17 +56,6 @@ Total: 61 anuncios disponibles.
 - 2026-10-07 17:48 — [Nintendo switch normal sin detalles con joycons originales y estuche](https://www.facebook.com/marketplace/item/991775117288773) — $1.999 — Vendedor: Antonio Lopez
 - 2026-10-02 17:31 — [Accesorios de nintendo switch Oled juntos o por separado](https://www.facebook.com/marketplace/item/1102417495828019) — $2.000 — Vendedor: Stargames Valenzuela
 - 2026-06-30 15:26 — [ACCESORIOS NINTENDO SWITCH](https://www.facebook.com/marketplace/item/2200005714172987) — $2.500 — Vendedor: Juan Alonso
-- 2026-08-26 12:43 — [Nintendo switch 01 32 GB con doc, HDMI, correas, cargador y joycon grip](https://www.facebook.com/marketplace/item/1390020969773794) — $2.900 — Vendedor: Antonio Padilla
-- 2026-02-11 14:14 — [Nintendo switch lite con cargador $2900](https://www.facebook.com/marketplace/item/4352084805111657) — $2.900 — Vendedor: Paulina Flores
-- 2026-07-13 15:41 — [Nintendo Switch standard con estuche](https://www.facebook.com/marketplace/item/1722003672149876) — $3.000 — Vendedor: Jorge Trs
-- 2026-07-03 22:00 — [Switch oled con los accesorios de la foto y estuche](https://www.facebook.com/marketplace/item/2038584110365489) — $3.300 — Vendedor: Antoni Tony
-- 2026-10-21 10:59 — [Nintendo Switch + Juego Crash Bandicoot 4 + Accesorios Originales](https://www.facebook.com/marketplace/item/1611977610623455) — $3.500 — Vendedor: TechNova LM
-- 2026-07-03 21:56 — [Nintendo switch oled, se entrega en caja con todos los accesorios que se ven](https://www.facebook.com/marketplace/item/1564811655171459) — $3.500 — Vendedor: Antoni Tony
-- 2026-10-23 20:52 — [Nintendo Switch Oled + Pro Controller](https://www.facebook.com/marketplace/item/1328956549238855) — $3.999 — Vendedor: Mario Ricardo Carbajal
-- 2026-10-19 16:30 — [Nintendo switch oled edición Pokémon trae todos sus accesorios originales solo falta cable HMDI](https://www.facebook.com/marketplace/item/1482832740416290) — $4.000 — Vendedor: Jhony Velazquez
-- 2026-09-22 12:39 — [Nintendo switch + control inalámbrico recargable y estuche](https://www.facebook.com/marketplace/item/2134324963784446) — $4.000 — Vendedor: Andres Apodaca
-- 2026-08-28 15:41 — [Nintendo switch oled edición Pokémon funciona todo al 100 y trae todos sus accesorios originales](https://www.facebook.com/marketplace/item/814867475016521) — $4.000 — Vendedor: Antoni Tony
-- 2026-09-12 14:32 — [🔥 Nintendo Switch + 6 controles + estuche | $5,000 🎮](https://www.facebook.com/marketplace/item/3148562975349444) — $5.000 — Vendedor: Dorys Valle
 - 2026-01-28 12:51 — [🎮Se vende Nintendo Switch EN CAJA + estuche, accesorios 🎮](https://www.facebook.com/marketplace/item/1443981450606997) — $5.000 — Vendedor: Miriam Barajas
 - 2026-09-04 18:41 — [Nintendo switch oled con dock de animal crossing y joycons](https://www.facebook.com/marketplace/item/1572472404621908) — $5.800 — Vendedor: Thelma Armenta
 - 2026-08-19 18:14 — [Nintendo switch oled como nueva perfecto estado con caja y accesorios edición pokemon](https://www.facebook.com/marketplace/item/38947571568175199) — $6.000 — Vendedor: Tadeo Borq
