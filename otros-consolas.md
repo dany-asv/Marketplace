@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 89 anuncios disponibles.
+Total: 88 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -80,7 +80,6 @@ Total: 89 anuncios disponibles.
 - 2026-11-04 15:00 — [Lentes vr meta quest 2](https://www.facebook.com/marketplace/item/886050047863808) — $2.700 — Vendedor: Israel LopezDuran
 - 2026-11-03 22:11 — [PS Portal, vendo o cambio por switch oled](https://www.facebook.com/marketplace/item/1883063236211418) — $3.500 — Vendedor: Diego Edel
 - 2026-10-20 16:53 — [Kit simulación de manejo para videojuegos](https://www.facebook.com/marketplace/item/1016915540808394) — $3.500 — Vendedor: Gerardo Salazar
-- 2026-08-04 01:34 — [Vendo o cambio](https://www.facebook.com/marketplace/item/3367653220061910) — $3.500 — Vendedor: Ventura Miranda Gomez
 - 2026-05-01 11:41 — [$$$$](https://www.facebook.com/marketplace/item/3218172231722440) — $3.500 — Vendedor: Karla Delgado Valdez
 - 2026-02-17 12:03 — [Xbox one fat y ps4](https://www.facebook.com/marketplace/item/1968159517448551) — $3.500 — Vendedor: Alan Figueroa
 - 2026-10-22 13:03 — [CONSOLA PORTÁTIL Anbernic RG 477M versión 256 GB](https://www.facebook.com/marketplace/item/1620423736248537) — $3.800 — Vendedor: Paulette Montoya

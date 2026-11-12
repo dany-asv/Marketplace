@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 31 anuncios disponibles.
+Total: 32 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -39,5 +39,6 @@ Total: 31 anuncios disponibles.
 - 2026-04-20 14:31 — [🎮 Nintendo Switch Lite Azul | Como nueva | Caja y cargador 🔵](https://www.facebook.com/marketplace/item/1617176682838020) — $2.999 — Vendedor: Hector Lugo
 - 2026-07-15 14:45 — [Vendo switch lite](https://www.facebook.com/marketplace/item/888571807657394) — $3.300 — Vendedor: Jorge Huerta
 - 2026-10-17 21:45 — [Vendo Nintendo Switch Lite color azul](https://www.facebook.com/marketplace/item/1150527410734326) — $3.500 — Vendedor: Violeta Navarro
+- 2026-08-04 01:34 — [Vendo o cambio](https://www.facebook.com/marketplace/item/3367653220061910) — $3.500 — Vendedor: Ventura Miranda Gomez
 - 2026-07-07 22:15 — [Nintendo swich lite](https://www.facebook.com/marketplace/item/1692009911886688) — $3.500 — Vendedor: Geovany Cuevas
 - 2026-01-29 16:39 — [Nintendo Switch Lite](https://www.facebook.com/marketplace/item/1531037537953590) — $4.000 — Vendedor: Maryled Rubio
