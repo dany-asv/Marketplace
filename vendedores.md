@@ -6,7 +6,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
 
-Total: 873 vendedores, 1438 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
+Total: 873 vendedores, 1439 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
 
 ## Vendedores (de mayor a menor número de publicaciones)
 
@@ -20,7 +20,7 @@ Total: 873 vendedores, 1438 anuncios con vendedor identificado (3 anuncios de la
 - [Carla Lopez](https://www.facebook.com/marketplace/profile/100009128428674) — 12 publicaciones
 - [Ivan Aguero](https://www.facebook.com/marketplace/profile/61591098105339) — 12 publicaciones
 - [Iram A. Payan](https://www.facebook.com/marketplace/profile/628453454) — 11 publicaciones
-- [Nutrijugos LA Selva](https://www.facebook.com/marketplace/profile/100082976675996) — 10 publicaciones
+- [Nutrijugos LA Selva](https://www.facebook.com/marketplace/profile/100082976675996) — 11 publicaciones
 - [Stargames Valenzuela](https://www.facebook.com/marketplace/profile/61553128845022) — 10 publicaciones ✓
 - [Gwendoline Palafox Almanza](https://www.facebook.com/marketplace/profile/61552019004427) — 9 publicaciones
 - [Alonso Vlz](https://www.facebook.com/marketplace/profile/100063709718714) — 8 publicaciones
