@@ -35,6 +35,7 @@ Total: 160 anuncios disponibles.
 - 2026-07-27 15:32 — [Juegos diferentes precios](https://www.facebook.com/marketplace/item/1085349680819048) — $111 — Vendedor: Ivan Lopez
 - 2026-07-27 15:32 — [Juegos para Playstation baratos](https://www.facebook.com/marketplace/item/1883767236342701) — $111 — Vendedor: Ivan Lopez
 - 2026-07-27 15:32 — [Juegos para Nintendo 3ds y ds](https://www.facebook.com/marketplace/item/1005436722321581) — $111 — Vendedor: Ivan Lopez
+- 2026-11-12 10:26 — [Vendo juegos para consola](https://www.facebook.com/marketplace/item/2915703652120828) — $120 — Vendedor: Cazares Maricela
 - 2026-09-09 14:51 — [Juegos PS1 PS2 PS3 PS4 NDS](https://www.facebook.com/marketplace/item/1813364033343254) — $150 — Vendedor: Bogard Santos Zazueta
 - 2026-07-24 13:14 — [Juegos de PS4 , PS5 Y XBOX ONE](https://www.facebook.com/marketplace/item/2619162841874186) — $150 — Vendedor: Ulises Valenzuela Ochoa
 - 2026-03-15 17:04 — [Juegos de ps4 y ps5](https://www.facebook.com/marketplace/item/2395477627568502) — $150 — Vendedor: LC JG

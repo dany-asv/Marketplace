@@ -22,6 +22,7 @@ Total: 124 anuncios disponibles.
 - 2026-03-28 23:25 — [Nintendo switch](https://www.facebook.com/marketplace/item/1012182744570812) — $35 — Vendedor: Jorge Ramos
 - 2026-02-10 21:47 — [Nintendo switch](https://www.facebook.com/marketplace/item/1440054061128241) — $200 — Vendedor: Eduardo Zazueta
 - 2026-09-11 13:41 — [Nintendo switch](https://www.facebook.com/marketplace/item/1083502440934361) — $400 — Vendedor: Bryan Alexis Soto Villela
+- 2026-11-11 20:53 — [Nintendo Switch](https://www.facebook.com/marketplace/item/2622661358146733) — $1.900 — Vendedor: Antonio Palafox
 - 2026-11-11 20:52 — [Nintendo Switch](https://www.facebook.com/marketplace/item/1140352575248205) — $1.900 — Vendedor: Antonio Palafox
 - 2026-11-07 11:13 — [Consola de videojuegos Nintendo Switch](https://www.facebook.com/marketplace/item/1648807713289928) — $2.000 — Vendedor: Leonardo Cardenas
 - 2026-10-25 20:47 — [Nintendo Switch](https://www.facebook.com/marketplace/item/1666238878331387) — $2.000 — Vendedor: Gnivri Lugo
