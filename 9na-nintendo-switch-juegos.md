@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 233 anuncios disponibles.
+Total: 234 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -51,6 +51,7 @@ Total: 233 anuncios disponibles.
 - 2026-10-26 19:28 — [Juegos para nintendo switch](https://www.facebook.com/marketplace/item/2148673966585662) — $300 — Vendedor: Irving Alvarez Velazquez
 - 2026-10-20 11:15 — [Juego Jumanji Para Nintendo Switch con caja $400](https://www.facebook.com/marketplace/item/1900872631276899) — $300 — Vendedor: Axel Luna
 - 2026-10-07 18:08 — [Juegos switch solo son el cartucho sin caja en 300$ cada uno](https://www.facebook.com/marketplace/item/1147859914482578) — $300 — Vendedor: Antonio Lopez
+- 2026-06-03 01:37 — [300 cada uno](https://www.facebook.com/marketplace/item/1693450738361510) — $300 — Vendedor: Antonio Lopez
 - 2026-05-02 16:10 — [Videojuego para Nintendo switch](https://www.facebook.com/marketplace/item/1675512033869112) — $300 — Vendedor: Briventas Vz
 - 2026-11-08 16:06 — [Se venden o se cambian por videojuegos de switch 1 o 2](https://www.facebook.com/marketplace/item/4566639680214982) — $350 — Vendedor: Jose Rios
 - 2026-10-21 15:30 — [Team Sonic Racing Switch](https://www.facebook.com/marketplace/item/1801917924332191) — $350 — Vendedor: Teo Teodorovich
