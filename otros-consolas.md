@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 106 anuncios disponibles.
+Total: 105 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -47,7 +47,6 @@ Total: 106 anuncios disponibles.
 - 2026-11-02 21:06 — [🕹️🔥 ¡TABLERO ARCADE! REVIVE LA ÉPOCA DE LOS VIDEOJUEGOS](https://www.facebook.com/marketplace/item/2319670242187170) — $250 — Vendedor: Oscar Gonzales
 - 2026-10-27 07:55 — [Mákina con muchos juegos clásicos y modernos..miles..$3500 tel.6681993508](https://www.facebook.com/marketplace/item/1584985079561237) — $350 — Vendedor: Daniel López
 - 2026-08-22 18:44 — [Consola retro game stick](https://www.facebook.com/marketplace/item/1653171876379569) — $450 — Vendedor: Josue Navarro
-- 2026-08-02 15:16 — [Coleccion Resident](https://www.facebook.com/marketplace/item/1360612665533261) — $450 — Vendedor: Ulises Valenzuela Ochoa
 - 2026-11-02 11:57 — [busco Nintendo 3ds, 2ds, XL, new.](https://www.facebook.com/marketplace/item/1874642674160395) — $500 — Vendedor: Miguel Ruiz Chavez
 - 2026-11-02 11:56 — [Busco Gameboy SP, Color, dvvance, Clasic](https://www.facebook.com/marketplace/item/1916760772816326) — $500 — Vendedor: Miguel Ruiz Chavez
 - 2026-10-26 23:31 — [Vendo xbox con sus cables y un control no está chipiado](https://www.facebook.com/marketplace/item/1822248852108388) — $500 — Vendedor: Alan Valenzuela

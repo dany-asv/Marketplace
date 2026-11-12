@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 131 anuncios disponibles.
+Total: 132 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -115,6 +115,7 @@ Total: 131 anuncios disponibles.
 - 2026-08-19 10:37 — [Juegos de ps4](https://www.facebook.com/marketplace/item/3184174201776468) — $400 — Vendedor: Efren Verdugo
 - 2026-05-05 16:15 — [Juegos de play 4](https://www.facebook.com/marketplace/item/854796064319250) — $400 — Vendedor: Maria Lopez
 - 2026-02-01 09:04 — [Juegos PS4 en caja](https://www.facebook.com/marketplace/item/1615722469471502) — $400 — Vendedor: Oswaldo Orduño
+- 2026-08-02 15:16 — [Coleccion Resident](https://www.facebook.com/marketplace/item/1360612665533261) — $450 — Vendedor: Ulises Valenzuela Ochoa
 - 2025-12-16 15:10 — [Lost judgement (tipo Yakuza) para Playstation 4](https://www.facebook.com/marketplace/item/1165194862351826) — $450 — Vendedor: Orlando Alfredo Souza
 - 2026-09-20 13:25 — [Juegos de ps4](https://www.facebook.com/marketplace/item/1530161702471381) — $500 — Vendedor: Diego Moreno
 - 2026-07-18 23:50 — [SPIDER-MAN PS4 Y RESIDENT EVIL BIOHAZRD PS4](https://www.facebook.com/marketplace/item/1035111252229342) — $500 — $500
