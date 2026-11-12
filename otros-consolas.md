@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 116 anuncios disponibles.
+Total: 115 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -39,7 +39,6 @@ Total: 116 anuncios disponibles.
 - 2025-11-29 10:59 — [Vendo o cambio por algo mejor ofrezcan por lo que sea](https://www.facebook.com/marketplace/item/833801036171724) — $7 — Vendedor: Lupita Felix
 - 2026-09-12 11:29 — [Videojuegos ya sea para colección o jugarlos en su consola](https://www.facebook.com/marketplace/item/858561213908353) — $50 — Vendedor: Jesus Ferrer
 - 2026-11-06 12:33 — [Nintendo Sup Doble control](https://www.facebook.com/marketplace/item/2124308205638398) — $80 — Vendedor: Daniel Sanchez
-- 2026-07-14 16:12 — [Short Deportivos](https://www.facebook.com/marketplace/item/27204616672554931) — $200 — Vendedor: Manuel Ed
 - 2025-12-23 11:47 — [- HUMAN FALL FLAT](https://www.facebook.com/marketplace/item/1412438200297784) — $200 — Vendedor: Víctor Iván Araujo
 - 2026-11-11 13:48 — [Mini Consola Retro con 620 Juegos](https://www.facebook.com/marketplace/item/1483161533725482) — $250 — Vendedor: Ana Sofía
 - 2026-11-10 16:31 — [Mini Consola Retro con 620 Juegos](https://www.facebook.com/marketplace/item/993870053779759) — $250 — Vendedor: Karyme Baldenebro

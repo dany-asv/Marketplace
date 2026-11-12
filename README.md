@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1450 anuncios disponibles.
+Total: 1449 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -113,7 +113,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Consolas](10ma-nintendo-switch-2-consolas.md) — 14 anuncios
     - [Juegos](10ma-nintendo-switch-2-juegos.md) — 15 anuncios
 - Otros — Multiplataforma o sin plataforma clara:
-  - [Consolas](otros-consolas.md) — 116 anuncios
+  - [Consolas](otros-consolas.md) — 115 anuncios
   - [Juegos](otros-juegos.md) — 168 anuncios
   - [Accesorios](otros-accesorios.md) — 35 anuncios
 ## Disponibles (de más actual a más viejo)
@@ -1063,7 +1063,6 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-07-14 23:50 — [REMATE JUEGOS BARATOS PS4](https://www.facebook.com/marketplace/item/2426244804455776) — $500 — Usado - Como nuevo — Los Mochis — Vendedor: Gael Rodríguez
 - 2026-07-14 23:47 — [REMATE 7JUEGOS PS3 BARATOS](https://www.facebook.com/marketplace/item/1586547463087379) — $500 — Usado - Como nuevo — Los Mochis — Vendedor: Gael Rodríguez
 - 2026-07-14 17:52 — [Nintendo Switch Chipeo](https://www.facebook.com/marketplace/item/2270532780372382) — $1.600 — Nuevo — Los Mochis — Vendedor: Chendez Alonso
-- 2026-07-14 16:12 — [Short Deportivos](https://www.facebook.com/marketplace/item/27204616672554931) — $200 — Nuevo — Los Mochis — Vendedor: Manuel Ed
 - 2026-07-14 16:10 — [Mario Rabbids Kingdom Battle](https://www.facebook.com/marketplace/item/3386168638222761) — $550 — Usado - Buen estado — Los Mochis — Vendedor: Mauricio Bismarck Murillo Valle
 - 2026-07-14 16:08 — [Juegos de Nintendo Switch](https://www.facebook.com/marketplace/item/2250259419072660) — $500 — Usado - Como nuevo — Los Mochis — Vendedor: Sebastián Nozato
 - 2026-07-14 14:28 — [Call of duty ghost wii u](https://www.facebook.com/marketplace/item/973133085707278) — $250 — Usado - Como nuevo — Los Mochis — Vendedor: Eduardo Infante
