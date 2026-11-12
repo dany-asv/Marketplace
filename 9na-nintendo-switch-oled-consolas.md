@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 126 anuncios disponibles.
+Total: 127 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -125,6 +125,7 @@ Total: 126 anuncios disponibles.
 - 2026-08-20 00:02 — [Nintendo switch oled chipeada con 30 juegos incluidos en caja y accesorios originales](https://www.facebook.com/marketplace/item/1978215582896210) — $5.999 — Vendedor: Vicente Munguia
 - 2026-11-01 16:43 — [Nintendo switch oled](https://www.facebook.com/marketplace/item/1447109824177005) — $6.000 — Vendedor: Francisco Acosta
 - 2026-08-19 18:14 — [Nintendo switch oled como nueva perfecto estado con caja y accesorios edición pokemon](https://www.facebook.com/marketplace/item/38947571568175199) — $6.000 — Vendedor: Tadeo Borq
+- 2026-11-03 14:35 — [Nintendo Switch  Oled : Zelda versión ( sin detalles ) como nuevos](https://www.facebook.com/marketplace/item/1144968241315530) — $6.200 — Vendedor: Jorge A Armenta Payan
 - 2026-11-07 11:33 — [Nintendo Switch OLED Blanca | 33 Juegos Digitales | En Caja](https://www.facebook.com/marketplace/item/2385388632276907) — $6.500 — Vendedor: Vicente Munguia
 - 2026-11-07 01:55 — [Nintendo Switch OLED](https://www.facebook.com/marketplace/item/1139701418605120) — $6.500 — Vendedor: Uriel Quintero
 - 2026-11-05 17:07 — [Nintendo switch oled chipeada con 33 juegos incluidos en caja con accesorios originales $6500](https://www.facebook.com/marketplace/item/1017064471417768) — $6.500 — Vendedor: Rodriguez Cl

@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 231 anuncios disponibles.
+Total: 227 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -224,16 +224,12 @@ Total: 231 anuncios disponibles.
 - 2026-02-10 09:49 — [Juegos de switch](https://www.facebook.com/marketplace/item/1223880049937841) — $3.030 — Vendedor: Sebastian Souza
 - 2026-09-14 19:30 — [🎮 6 Juegos Nintendo Switch Originales – Mario, Minecraft, Smash Bros y más](https://www.facebook.com/marketplace/item/2272044660242372) — $3.300 — Vendedor: Francisco Javier Baldenebro Alonso
 - 2026-03-25 12:21 — [Juegos Nintendo Switch](https://www.facebook.com/marketplace/item/1690604671965133) — $5.000 — Vendedor: Miguel Armenta
-- 2026-09-28 12:08 — [Nintendo switch , viene con super smash y animal crossing](https://www.facebook.com/marketplace/item/946741205170598) — $5.800 — Vendedor: Ernesto Lugo
 - 2026-07-18 09:25 — [Juegos switch](https://www.facebook.com/marketplace/item/1083339554120306) — $5.858 — Vendedor: Sebastian Souza
 - 2026-03-09 19:07 — [Juegos nintendo Switch](https://www.facebook.com/marketplace/item/975627401697451) — $5.858 — Vendedor: Sebastian Souza
 - 2026-02-24 16:38 — [Juegos de nintendo Switch](https://www.facebook.com/marketplace/item/1930591057828672) — $5.858 — Vendedor: Sebastian Souza
 - 2026-02-16 15:57 — [Juegos Switch](https://www.facebook.com/marketplace/item/793598037131513) — $5.858 — Vendedor: Sebastian Souza
 - 2026-02-05 16:18 — [Se venden juegos de switch](https://www.facebook.com/marketplace/item/883225261084040) — $5.858 — Vendedor: Sebastian Souza
 - 2025-11-08 16:41 — [Juegos de Switch](https://www.facebook.com/marketplace/item/24908718215421556) — $5.858 — Vendedor: Sebastian Souza
-- 2026-11-03 14:35 — [Nintendo Switch  Oled : Zelda versión ( sin detalles ) como nuevos](https://www.facebook.com/marketplace/item/1144968241315530) — $6.200 — Vendedor: Jorge A Armenta Payan
-- 2026-09-08 19:18 — [Nintendo Switch versión zelda](https://www.facebook.com/marketplace/item/1082876897479127) — $6.500 — Vendedor: Yunive Gastelum
-- 2026-03-19 08:18 — [Nintendo Switch - Edicion Especial Zelda](https://www.facebook.com/marketplace/item/4355153221397851) — $6.500 — Vendedor: Gerardo Lopez
 - 2026-09-05 08:14 — [juegos nintendo switch](https://www.facebook.com/marketplace/item/1228691096114429) — $7.000 — Vendedor: Sebastian Souza
 - 2026-02-22 17:41 — [Nintendo Switch Oled Splatoon Edition](https://www.facebook.com/marketplace/item/2926589670868139) — $7.000 — Vendedor: Alejandro Aguilar
 - 2026-08-27 15:36 — [Nintendo switch oled edición Zelda TOTK](https://www.facebook.com/marketplace/item/1039972765541092) — $8.000 — Vendedor: Carlos Miranda
