@@ -93,9 +93,10 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 9na generación:
   - Nintendo Switch:
     - Consolas:
-      - [OLED](9na-nintendo-switch-oled-consolas.md) — 129 anuncios
-      - [Lite](9na-nintendo-switch-lite-consolas.md) — 30 anuncios
-      - [Normal](9na-nintendo-switch-normal-consolas.md) — 136 anuncios
+      - [OLED](9na-nintendo-switch-oled-consolas.md) — 124 anuncios
+      - [Lite](9na-nintendo-switch-lite-consolas.md) — 28 anuncios
+      - [Normal](9na-nintendo-switch-normal-consolas.md) — 115 anuncios
+      - [Customs](9na-nintendo-switch-customs-consolas.md) — 28 anuncios
     - [Juegos](9na-nintendo-switch-juegos.md) — 229 anuncios
     - [Accesorios](9na-nintendo-switch-accesorios.md) — 53 anuncios
   - PlayStation 5 (PS5):
