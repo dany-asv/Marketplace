@@ -6,7 +6,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
 
-Total: 881 vendedores, 1453 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
+Total: 881 vendedores, 1455 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
 
 ## Vendedores (de mayor a menor número de publicaciones)
 
@@ -28,11 +28,11 @@ Total: 881 vendedores, 1453 anuncios con vendedor identificado (3 anuncios de la
 - [Miguel Armenta](https://www.facebook.com/marketplace/profile/100012389525954) — 8 publicaciones ✓
 - [Ulises Valenzuela Ochoa](https://www.facebook.com/marketplace/profile/100076629746475) — 8 publicaciones ✓
 - [Bianey Alejandra Muñoz Herrera](https://www.facebook.com/marketplace/profile/832647899) — 7 publicaciones
+- [Jesus Gilberto Alvarez Vega](https://www.facebook.com/marketplace/profile/100000465903128) — 7 publicaciones
 - [Briann A Morales](https://www.facebook.com/marketplace/profile/61573406002365) — 6 publicaciones
 - [Eduardo Infante](https://www.facebook.com/marketplace/profile/562531441) — 6 publicaciones
 - [Emmanuel Enciso](https://www.facebook.com/marketplace/profile/100049760887033) — 6 publicaciones
 - [Ever Castro Roman](https://www.facebook.com/marketplace/profile/100003936555973) — 6 publicaciones
-- [Jesus Gilberto Alvarez Vega](https://www.facebook.com/marketplace/profile/100000465903128) — 6 publicaciones
 - [Juega Con Migo](https://www.facebook.com/marketplace/profile/61583933734354) — 6 publicaciones
 - [Luis Javier Valenzuela](https://www.facebook.com/marketplace/profile/1278595199) — 6 publicaciones
 - [Orlando Alfredo Souza](https://www.facebook.com/marketplace/profile/620991199) — 6 publicaciones ✓
@@ -198,6 +198,7 @@ Total: 881 vendedores, 1453 anuncios con vendedor identificado (3 anuncios de la
 - [Pedro Escalante](https://www.facebook.com/marketplace/profile/100011535155323) — 2 publicaciones
 - [Pedro Rodriguez](https://www.facebook.com/marketplace/profile/61568322603327) — 2 publicaciones
 - [Pedro Soto](https://www.facebook.com/marketplace/profile/61570230436634) — 2 publicaciones
+- [Pery Lopez](https://www.facebook.com/marketplace/profile/61558387123669) — 2 publicaciones
 - [Pf Clothin](https://www.facebook.com/marketplace/profile/61583973574028) — 2 publicaciones
 - [Puro Gonzalo Tumbado](https://www.facebook.com/marketplace/profile/100077525084225) — 2 publicaciones
 - [Raul Bonifant](https://www.facebook.com/marketplace/profile/100000540482847) — 2 publicaciones
@@ -779,7 +780,6 @@ Total: 881 vendedores, 1453 anuncios con vendedor identificado (3 anuncios de la
 - [Paulina Montiel](https://www.facebook.com/marketplace/profile/100033932415977) — 1 publicaciones
 - [Pedro Hernandez](https://www.facebook.com/marketplace/profile/100032240701820) — 1 publicaciones
 - [Pedro Neyoy Diosdado](https://www.facebook.com/marketplace/profile/100007526200755) — 1 publicaciones
-- [Pery Lopez](https://www.facebook.com/marketplace/profile/61558387123669) — 1 publicaciones
 - [Poka Luz](https://www.facebook.com/marketplace/profile/100014671811948) — 1 publicaciones
 - [Raf Payan](https://www.facebook.com/marketplace/profile/1011711891) — 1 publicaciones
 - [Rafa Villegas](https://www.facebook.com/marketplace/profile/100013424196544) — 1 publicaciones

@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1456 anuncios disponibles.
+Total: 1458 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -100,7 +100,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
       - [Normal](9na-nintendo-switch-normal-consolas.md) — 124 anuncios
       - [Customs](9na-nintendo-switch-customs-consolas.md) — 31 anuncios
     - [Juegos](9na-nintendo-switch-juegos.md) — 245 anuncios
-    - [Accesorios](9na-nintendo-switch-accesorios.md) — 61 anuncios
+    - [Accesorios](9na-nintendo-switch-accesorios.md) — 62 anuncios
   - PlayStation 5 (PS5):
     - [Consolas](9na-ps5-consolas.md) — 1 anuncios
     - [Juegos](9na-ps5-juegos.md) — 17 anuncios
@@ -108,7 +108,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - Xbox Series X/S:
     - [Consolas](9na-xbox-series-consolas.md) — 3 anuncios
     - [Juegos](9na-xbox-series-juegos.md) — 1 anuncios
-    - [Accesorios](9na-xbox-series-accesorios.md) — 1 anuncios
+    - [Accesorios](9na-xbox-series-accesorios.md) — 2 anuncios
 - 10ma generación:
   - Nintendo Switch 2:
     - [Consolas](10ma-nintendo-switch-2-consolas.md) — 15 anuncios
@@ -125,11 +125,13 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-11 22:29 — [Xbox Series S ⭐️✅  Todo incluido funcionando al 100 poco uso   📺 Monitor LG UltraGear 24GS50F  * 24](https://www.facebook.com/marketplace/item/2322029451893733) — $66 — Nuevo — Los Mochis — Vendedor: Alvarez Fierro Jose
 - 2026-11-11 20:53 — [Estuche Nintendo Switch](https://www.facebook.com/marketplace/item/966784922827906) — $400 — Usado - Como nuevo — Los Mochis — Vendedor: Robles Jazive
 - 2026-11-11 20:52 — [Nintendo Switch](https://www.facebook.com/marketplace/item/1140352575248205) — $1.900 — Usado - Buen estado — Los Mochis — Vendedor: Antonio Palafox
+- 2026-11-11 19:54 — [Vendo o cambio control de Xbox series](https://www.facebook.com/marketplace/item/1461271369313378) — $750 — Usado — Los Mochis — Vendedor: Pery Lopez
 - 2026-11-11 18:20 — [Controles de xbox 360 sin tapas y kinect](https://www.facebook.com/marketplace/item/1498144648867215) — $400 — Usado - Como nuevo — Los Mochis — Vendedor: Cas Hym
 - 2026-11-11 17:32 — [Xbox 360 slim](https://www.facebook.com/marketplace/item/1704020704613803) — $1.000 — Usado - Buen estado — Los Mochis — Vendedor: Arturo Ramos
 - 2026-11-11 17:10 — [📛CONSOLA X80📛60 MIL JUEGOS✅️ ADAPTABLE A TV💥 HD 💥 ENVIOS A DOMICILIO‼️GARANTIA DE 1 AÑO👌](https://www.facebook.com/marketplace/item/4685549918397577) — $1.500 — Nuevo — Los Mochis — Vendedor: Nutrijugos LA Selva
 - 2026-11-11 16:54 — [Nintendo 2DS Bateria Nueva (Puerto USB C)](https://www.facebook.com/marketplace/item/1085020521232688) — $2.000 — Usado - Buen estado — Los Mochis — Vendedor: Jorge Vega Gz
 - 2026-11-11 15:26 — [Xbox One X](https://www.facebook.com/marketplace/item/1650767393195026) — $2.400 — Usado - Buen estado — Los Mochis — Vendedor: Ktr Lovecraft
+- 2026-11-11 15:17 — [Estuche Zelda nintendo switch](https://www.facebook.com/marketplace/item/1447011380873690) — $360 — Nuevo — Los Mochis — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-11-11 15:14 — [Gamesir control PC y nintendo switch](https://www.facebook.com/marketplace/item/1123527704003667) — $1.700 — Nuevo — Los Mochis — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-11-11 15:02 — [FIFA 22 para XBOX SERIE X](https://www.facebook.com/marketplace/item/1406245591290875) — $200 — Usado - Como nuevo — Los Mochis — Vendedor: Javier Adrián Bátiz Zamudio
 - 2026-11-11 14:45 — [PlayStation 4](https://www.facebook.com/marketplace/item/1608026423794544) — $1.700 — Usado - Buen estado — Los Mochis — Vendedor: Marlene Robles
