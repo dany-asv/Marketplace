@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 116 anuncios disponibles.
+Total: 120 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -61,7 +61,11 @@ Total: 116 anuncios disponibles.
 - 2026-11-09 13:28 — [Nintendo switch 1](https://www.facebook.com/marketplace/item/989617770868445) — $3.500 — Vendedor: Sebastian Cf
 - 2026-10-21 10:59 — [Nintendo Switch + Juego Crash Bandicoot 4 + Accesorios Originales](https://www.facebook.com/marketplace/item/1611977610623455) — $3.500 — Vendedor: TechNova LM
 - 2026-10-06 21:44 — [Nintendo Switch + 1 Juego a Elegir](https://www.facebook.com/marketplace/item/2353605495465533) — $3.500 — Vendedor: Walter Lopez
+- 2026-07-07 08:57 — [Nintendo enterito  10 de 10 ☑️ Sin detalles  Con cargador original 💥 $3500📲](https://www.facebook.com/marketplace/item/2526877594391894) — $3.500 — Vendedor: Karely DK
+- 2026-07-06 11:38 — [Nintendo enterito  10 de 10 ☑️ Sin detalles  Con cargador original 💥 $3500📲](https://www.facebook.com/marketplace/item/1015790897828133) — $3.500 — Vendedor: Karely DK
 - 2026-07-03 14:52 — [Nintendo Switch](https://www.facebook.com/marketplace/item/1749238363057782) — $3.500 — Vendedor: Angélica Herrera
+- 2026-07-01 21:59 — [Nintendo  Enterito](https://www.facebook.com/marketplace/item/1343872493818376) — $3.500 — Vendedor: Karely DK
+- 2026-06-27 15:35 — [Nintendo  Usado  Buen estado  Con cargador  3500$](https://www.facebook.com/marketplace/item/1576136327418639) — $3.500 — Vendedor: Karely Dkk
 - 2026-05-11 15:46 — [Nintendo switch](https://www.facebook.com/marketplace/item/1299697535631862) — $3.500 — Vendedor: Luis Adrian Verdugo
 - 2026-04-24 15:36 — [Nintendo Swicht (Usado)](https://www.facebook.com/marketplace/item/789085007406273) — $3.500 — Vendedor: Victor Ochoa
 - 2026-02-24 23:30 — [NINTENDO SWITCH 1.1 32GB](https://www.facebook.com/marketplace/item/1393657125412946) — $3.500 — Vendedor: Jawaryu Soto

@@ -95,7 +95,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - Consolas:
       - [OLED](9na-nintendo-switch-oled-consolas.md) — 125 anuncios
       - [Lite](9na-nintendo-switch-lite-consolas.md) — 28 anuncios
-      - [Normal](9na-nintendo-switch-normal-consolas.md) — 116 anuncios
+      - [Normal](9na-nintendo-switch-normal-consolas.md) — 120 anuncios
       - [Customs](9na-nintendo-switch-customs-consolas.md) — 31 anuncios
     - [Juegos](9na-nintendo-switch-juegos.md) — 230 anuncios
     - [Accesorios](9na-nintendo-switch-accesorios.md) — 56 anuncios
@@ -111,9 +111,9 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Consolas](10ma-nintendo-switch-2-consolas.md) — 14 anuncios
     - [Juegos](10ma-nintendo-switch-2-juegos.md) — 15 anuncios
 - Otros — Multiplataforma o sin plataforma clara:
-  - [Consolas](otros-consolas.md) — 126 anuncios
+  - [Consolas](otros-consolas.md) — 125 anuncios
   - [Juegos](otros-juegos.md) — 168 anuncios
-  - [Accesorios](otros-accesorios.md) — 45 anuncios
+  - [Accesorios](otros-accesorios.md) — 42 anuncios
 ## Disponibles (de más actual a más viejo)
 
 - 2026-11-11 20:53 — [Estuche Nintendo Switch](https://www.facebook.com/marketplace/item/966784922827906) — $400 — Usado - Como nuevo — Los Mochis — Vendedor: Robles Jazive
