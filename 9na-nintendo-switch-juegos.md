@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 240 anuncios disponibles.
+Total: 241 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -207,6 +207,7 @@ Total: 240 anuncios disponibles.
 - 2026-11-03 19:05 — [Bayonetta 3 Nintendo switch](https://www.facebook.com/marketplace/item/4477918492523823) — $850 — Vendedor: Iram A. Payan
 - 2026-11-03 19:04 — [Astral chain Nintendo switch](https://www.facebook.com/marketplace/item/2208480346369463) — $850 — Vendedor: Iram A. Payan
 - 2026-10-31 13:16 — [Pokémon let`s go Pikachu! Para nintendo switch -original](https://www.facebook.com/marketplace/item/1802361934323301) — $850 — Vendedor: Alonso Vlz
+- 2026-10-29 15:32 — [Nuevos para Nintendo](https://www.facebook.com/marketplace/item/1591474245626325) — $900 — Vendedor: Denisse Vargas
 - 2026-10-17 14:39 — [Super Mario bros wonder](https://www.facebook.com/marketplace/item/1143510954997593) — $900 — Vendedor: Jose Guadalupe Guerrero Bojorquez
 - 2026-10-17 14:37 — [Animal crossing new horizons](https://www.facebook.com/marketplace/item/2188238512075335) — $900 — Vendedor: Jose Guadalupe Guerrero Bojorquez
 - 2026-09-19 09:50 — [Juegos para Nintendo switch](https://www.facebook.com/marketplace/item/1428218419192454) — $900 — Vendedor: Luis Medina
