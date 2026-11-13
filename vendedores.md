@@ -6,7 +6,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
 
-Total: 892 vendedores, 1475 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
+Total: 894 vendedores, 1478 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
 
 ## Vendedores (de mayor a menor número de publicaciones)
 
@@ -83,6 +83,7 @@ Total: 892 vendedores, 1475 anuncios con vendedor identificado (3 anuncios de la
 - [Jesus Eduardo Aragon](https://www.facebook.com/marketplace/profile/714028548) — 3 publicaciones
 - [Jose Cass](https://www.facebook.com/marketplace/profile/100003911546939) — 3 publicaciones
 - [Jose Rios](https://www.facebook.com/marketplace/profile/100002286361346) — 3 publicaciones
+- [Juan Pablo RW](https://www.facebook.com/marketplace/profile/100001666280211) — 3 publicaciones
 - [Jurguen Camacho](https://www.facebook.com/marketplace/profile/61570552576206) — 3 publicaciones ✓
 - [Karely DK](https://www.facebook.com/marketplace/profile/100054816138004) — 3 publicaciones
 - [Karyme Baldenebro](https://www.facebook.com/marketplace/profile/61591692364519) — 3 publicaciones
@@ -173,7 +174,6 @@ Total: 892 vendedores, 1475 anuncios con vendedor identificado (3 anuncios de la
 - [Juan Aceves](https://www.facebook.com/marketplace/profile/1578574071) — 2 publicaciones
 - [Juan Alonso](https://www.facebook.com/marketplace/profile/100090784563627) — 2 publicaciones
 - [Juan Flores](https://www.facebook.com/marketplace/profile/100090547951750) — 2 publicaciones
-- [Juan Pablo RW](https://www.facebook.com/marketplace/profile/100001666280211) — 2 publicaciones
 - [Juan Velazquez](https://www.facebook.com/marketplace/profile/61583165840161) — 2 publicaciones
 - [Juan Velazquez](https://www.facebook.com/marketplace/profile/61575180516289) — 2 publicaciones
 - [Karla Yocupicio](https://www.facebook.com/marketplace/profile/100051637037578) — 2 publicaciones
@@ -541,6 +541,7 @@ Total: 892 vendedores, 1475 anuncios con vendedor identificado (3 anuncios de la
 - [JA Neth](https://www.facebook.com/marketplace/profile/100000854125580) — 1 publicaciones
 - [JL GC](https://www.facebook.com/marketplace/profile/100009209022851) — 1 publicaciones
 - [JP RG](https://www.facebook.com/marketplace/profile/100002477670766) — 1 publicaciones
+- [Juan Vega](https://www.facebook.com/marketplace/profile/100093181730410) — 1 publicaciones
 - [JV Cases Mochis](https://www.facebook.com/marketplace/profile/100092028474191) — 1 publicaciones
 - [Jaciel Cota Castro](https://www.facebook.com/marketplace/profile/100008665778494) — 1 publicaciones
 - [Jack Wein](https://www.facebook.com/marketplace/profile/100014285346414) — 1 publicaciones
@@ -732,6 +733,7 @@ Total: 892 vendedores, 1475 anuncios con vendedor identificado (3 anuncios de la
 - [Martin Navarro Nuñez](https://www.facebook.com/marketplace/profile/61590877902824) — 1 publicaciones
 - [Maryled Rubio](https://www.facebook.com/marketplace/profile/100007433204035) — 1 publicaciones
 - [Mauricio Bismarck Murillo Valle](https://www.facebook.com/marketplace/profile/100000726152385) — 1 publicaciones
+- [Mauro Torres](https://www.facebook.com/marketplace/profile/100001477776784) — 1 publicaciones
 - [Mayra Lizbeth Rodriguez](https://www.facebook.com/marketplace/profile/100016682838288) — 1 publicaciones
 - [Mayra Pelayo Uribe](https://www.facebook.com/marketplace/profile/100003667461572) — 1 publicaciones
 - [Mayra Salazar](https://www.facebook.com/marketplace/profile/100001173958807) — 1 publicaciones
