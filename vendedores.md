@@ -6,11 +6,11 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
 
-Total: 905 vendedores, 1517 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
+Total: 908 vendedores, 1523 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
 
 ## Vendedores (de mayor a menor número de publicaciones)
 
-- [Antonio Lopez](https://www.facebook.com/marketplace/profile/100040731070103) — 39 publicaciones ✓
+- [Antonio Lopez](https://www.facebook.com/marketplace/profile/100040731070103) — 41 publicaciones ✓
 - [Carlos Jiménez](https://www.facebook.com/marketplace/profile/100007976233056) — 38 publicaciones
 - [Sebastian Souza](https://www.facebook.com/marketplace/profile/100002607805317) — 22 publicaciones ✓
 - [Chappy Chappy](https://www.facebook.com/marketplace/profile/100026883520340) — 17 publicaciones ✓
@@ -178,6 +178,7 @@ Total: 905 vendedores, 1517 anuncios con vendedor identificado (3 anuncios de la
 - [Juan Aceves](https://www.facebook.com/marketplace/profile/1578574071) — 2 publicaciones
 - [Juan Alonso](https://www.facebook.com/marketplace/profile/100090784563627) — 2 publicaciones
 - [Juan Flores](https://www.facebook.com/marketplace/profile/100090547951750) — 2 publicaciones
+- [Juan Zavala](https://www.facebook.com/marketplace/profile/61574487886099) — 2 publicaciones
 - [Karla Yocupicio](https://www.facebook.com/marketplace/profile/100051637037578) — 2 publicaciones
 - [Leonardo Cardenas](https://www.facebook.com/marketplace/profile/100011655012573) — 2 publicaciones
 - [Lesli Escobar](https://www.facebook.com/marketplace/profile/100011721222660) — 2 publicaciones
@@ -264,6 +265,7 @@ Total: 905 vendedores, 1517 anuncios con vendedor identificado (3 anuncios de la
 - [Alejandro Lopez](https://www.facebook.com/marketplace/profile/61581741194085) — 1 publicaciones
 - [Alejandro Moreno](https://www.facebook.com/marketplace/profile/61556850391184) — 1 publicaciones
 - [Aleks Figueroa](https://www.facebook.com/marketplace/profile/100003828572950) — 1 publicaciones
+- [Alex Murrieta](https://www.facebook.com/marketplace/profile/657517344) — 1 publicaciones
 - [Alex Ruelas](https://www.facebook.com/marketplace/profile/100080089135217) — 1 publicaciones
 - [Alexa Yamileth](https://www.facebook.com/marketplace/profile/100002692014331) — 1 publicaciones
 - [Alexander López](https://www.facebook.com/marketplace/profile/100016835530223) — 1 publicaciones
@@ -287,6 +289,7 @@ Total: 905 vendedores, 1517 anuncios con vendedor identificado (3 anuncios de la
 - [America Ruiz](https://www.facebook.com/marketplace/profile/100014544731964) — 1 publicaciones
 - [Amy Perez](https://www.facebook.com/marketplace/profile/100017711771367) — 1 publicaciones
 - [Ana Jaquelin](https://www.facebook.com/marketplace/profile/100003366772574) — 1 publicaciones
+- [Ana Lopez](https://www.facebook.com/marketplace/profile/61589270474987) — 1 publicaciones
 - [Ana Lucia G. Melendrez](https://www.facebook.com/marketplace/profile/644311665) — 1 publicaciones
 - [Ana Sofía](https://www.facebook.com/marketplace/profile/100006292812236) — 1 publicaciones
 - [Andres Acosta](https://www.facebook.com/marketplace/profile/61587464752638) — 1 publicaciones
@@ -461,6 +464,7 @@ Total: 905 vendedores, 1517 anuncios con vendedor identificado (3 anuncios de la
 - [Esteban Olguin Avila](https://www.facebook.com/marketplace/profile/100056156096292) — 1 publicaciones
 - [Esthela Limon](https://www.facebook.com/marketplace/profile/100058526850367) — 1 publicaciones
 - [Everardo Padilla](https://www.facebook.com/marketplace/profile/61591761182099) — 1 publicaciones
+- [Fabian JP](https://www.facebook.com/marketplace/profile/61579277709480) — 1 publicaciones
 - [Fabiola Cabrera](https://www.facebook.com/marketplace/profile/563670448) — 1 publicaciones
 - [Fabiola Esparza](https://www.facebook.com/marketplace/profile/744100182) — 1 publicaciones
 - [Fabiola Jimenez Sepulveda](https://www.facebook.com/marketplace/profile/100001677023464) — 1 publicaciones
@@ -635,7 +639,6 @@ Total: 905 vendedores, 1517 anuncios con vendedor identificado (3 anuncios de la
 - [Juan Soto](https://www.facebook.com/marketplace/profile/100001423029474) — 1 publicaciones
 - [Juan Vega](https://www.facebook.com/marketplace/profile/100093181730410) — 1 publicaciones
 - [Juan Villa Jr.](https://www.facebook.com/marketplace/profile/100002137238827) — 1 publicaciones
-- [Juan Zavala](https://www.facebook.com/marketplace/profile/61574487886099) — 1 publicaciones
 - [Juande Lopez Robles](https://www.facebook.com/marketplace/profile/1113647284) — 1 publicaciones
 - [Juanpa Perez](https://www.facebook.com/marketplace/profile/100025163351292) — 1 publicaciones
 - [Julio Cesar Ibarra Rodríguez](https://www.facebook.com/marketplace/profile/61581692120824) — 1 publicaciones

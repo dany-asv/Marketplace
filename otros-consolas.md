@@ -6,10 +6,11 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 83 anuncios disponibles.
+Total: 85 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
+- 2026-11-13 14:20 — [Estación Arcade Retro Multiconsola | Miles de Juegos Clásicos] (https://www.facebook.com/marketplace/item/1414326277394148) — GRATIS — Vendedor: Fabian JP
 - 2026-11-13 13:07 — [‼️Tablero Uso Rudo‼️👾30 Mil Juegos Nuevos Con Garantia,Botones De Repuesto Envios A Domicilio✅️🏡](https://www.facebook.com/marketplace/item/1165589222563823) — GRATIS — Vendedor: Ricardo Sanchez
 - 2026-11-06 08:42 — [Consola de videojuegos](https://www.facebook.com/marketplace/item/1116777441239014) — GRATIS — Vendedor: Victor Juárez
 - 2026-11-02 11:59 — [COMPRO TU CONSOLA NINTENDOO VIDEOJUEGOS](https://www.facebook.com/marketplace/item/4662104024069000) — GRATIS — Vendedor: Miguel Ruiz Chavez
@@ -25,6 +26,7 @@ Total: 83 anuncios disponibles.
 - 2026-06-23 10:47 — [Vendo](https://www.facebook.com/marketplace/item/761713400338338) — GRATIS — Vendedor: Gwendoline Palafox Almanza
 - 2026-03-02 16:48 — [Consolas y juegos PS4 y NINTENDO SWITCH ￼](https://www.facebook.com/marketplace/item/893811733425442) — GRATIS — Vendedor: Rafa Villegas
 - 2025-10-13 20:23 — [Consolas y Juegos Nintendo y Pokemon](https://www.facebook.com/marketplace/item/1849471845937409) — GRATIS — Vendedor: Alejandro Lopez
+- 2026-11-13 14:54 — [BONITO REGALO 💕 X7 PLUS CONSOLA CON MAS DE 15,000 JUEGOS RETRO Y ACTUALES 🎮 REPRODUCE PELICULAS] (https://www.facebook.com/marketplace/item/1445814490420291) — $1 — Vendedor: Ana Lopez
 - 2026-10-18 12:53 — [‼️LLEGÓ CONSOLA 🎮 PORTATIL CON 36 EMULADORES MUCHA VARIEDAD MARIO KART , MARIO 64,RETRO Y MODERNO‼️](https://www.facebook.com/marketplace/item/1321184740023073) — $1 — Vendedor: Jesus Rodriguez
 - 2026-10-17 03:34 — [Artículos varios](https://www.facebook.com/marketplace/item/28352557621112946) — $1 — Vendedor: Chito Hernandez
 - 2026-05-07 05:51 — [Varias cosas](https://www.facebook.com/marketplace/item/992815073246378) — $1 — Vendedor: Carla Lopez
