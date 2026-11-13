@@ -6,7 +6,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
 
-Total: 900 vendedores, 1486 anuncios con vendedor identificado (1 anuncios de la lista no tienen vendedor identificado).
+Total: 901 vendedores, 1487 anuncios con vendedor identificado (1 anuncios de la lista no tienen vendedor identificado).
 
 ## Vendedores (de mayor a menor número de publicaciones)
 
@@ -426,6 +426,7 @@ Total: 900 vendedores, 1486 anuncios con vendedor identificado (1 anuncios de la
 - [Dosc Sc](https://www.facebook.com/marketplace/profile/100018260476358) — 1 publicaciones
 - [Dulce Patiño Lizarraga](https://www.facebook.com/marketplace/profile/100000132052240) — 1 publicaciones
 - [Dylan Vega](https://www.facebook.com/marketplace/profile/100074114528151) — 1 publicaciones
+- [Edgar Jamil Galaviz](https://www.facebook.com/marketplace/profile/100065180105267) — 1 publicaciones
 - [Eduardo Lamphar Jr.](https://www.facebook.com/marketplace/profile/100009412085920) — 1 publicaciones
 - [Eduardo Leyva](https://www.facebook.com/marketplace/profile/100012170745193) — 1 publicaciones
 - [Eduardo Zazueta](https://www.facebook.com/marketplace/profile/61571062927376) — 1 publicaciones
