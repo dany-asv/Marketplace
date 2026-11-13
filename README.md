@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1511 anuncios disponibles.
+Total: 1513 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -28,7 +28,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Consolas](portatiles-ps-vita-consolas.md) — 8 anuncios
   - Nintendo DS:
     - [Consolas](portatiles-nintendo-ds-consolas.md) — 7 anuncios
-    - [Juegos](portatiles-nintendo-ds-juegos.md) — 11 anuncios
+    - [Juegos](portatiles-nintendo-ds-juegos.md) — 12 anuncios
     - [Accesorios](portatiles-nintendo-ds-accesorios.md) — 1 anuncios
   - Nintendo 2DS:
     - [Consolas](portatiles-nintendo-2ds-consolas.md) — 5 anuncios
@@ -112,7 +112,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Accesorios](9na-xbox-series-accesorios.md) — 3 anuncios
 - 10ma generación:
   - Nintendo Switch 2:
-    - [Consolas](10ma-nintendo-switch-2-consolas.md) — 15 anuncios
+    - [Consolas](10ma-nintendo-switch-2-consolas.md) — 16 anuncios
     - [Juegos](10ma-nintendo-switch-2-juegos.md) — 19 anuncios
     - [Accesorios](10ma-nintendo-switch-2-accesorios.md) — 1 anuncios
 - Otros — Multiplataforma o sin plataforma clara:
@@ -120,6 +120,8 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - [Juegos](otros-juegos.md) — 163 anuncios
   - [Accesorios](otros-accesorios.md) — 38 anuncios
 ## Disponibles (de más actual a más viejo)
+- 2026-11-13 10:59 — [Sonic colors para nintendo ds](https://www.facebook.com/marketplace/item/2113605789288013) — $333 — Usado - Buen estado — Los Mochis — Vendedor: Chappy Chappy
+- 2026-11-13 09:10 — [Nintendo Switch 2](https://www.facebook.com/marketplace/item/29051586167803770) — $10.500 — Usado - Como nuevo — Los Mochis — Vendedor: Fernando Gonzales
 - 2026-11-13 10:51 — [JUEGOS DE XBOX360](https://www.facebook.com/marketplace/item/28239644215712487) — $38 — Usado - Como nuevo — Los Mochis — Vendedor: Ryu Hayabusa
 - 2026-11-13 06:53 — [Xbox one, 2 controles y juegos digitales](https://www.facebook.com/marketplace/item/1892108945541837) — $1.700 — Usado - Como nuevo — Los Mochis — Vendedor: Yajahira Torres Soto
 - 2026-11-13 00:01 — [PSP GO](https://www.facebook.com/marketplace/item/29369917675938204) — GRATIS — Usado - Buen estado — Los Mochis — Vendedor: Mariel Haydee Castro Castro

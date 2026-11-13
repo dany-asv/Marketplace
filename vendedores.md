@@ -6,14 +6,14 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
 
-Total: 904 vendedores, 1508 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
+Total: 904 vendedores, 1510 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
 
 ## Vendedores (de mayor a menor número de publicaciones)
 
 - [Antonio Lopez](https://www.facebook.com/marketplace/profile/100040731070103) — 39 publicaciones ✓
 - [Carlos Jiménez](https://www.facebook.com/marketplace/profile/100007976233056) — 38 publicaciones
 - [Sebastian Souza](https://www.facebook.com/marketplace/profile/100002607805317) — 22 publicaciones ✓
-- [Chappy Chappy](https://www.facebook.com/marketplace/profile/100026883520340) — 16 publicaciones ✓
+- [Chappy Chappy](https://www.facebook.com/marketplace/profile/100026883520340) — 17 publicaciones ✓
 - [Ivan Lopez](https://www.facebook.com/marketplace/profile/100021428154020) — 16 publicaciones ✓
 - [Antoni Tony](https://www.facebook.com/marketplace/profile/61557491476801) — 15 publicaciones ✓
 - [Vicente Munguia](https://www.facebook.com/marketplace/profile/509548546) — 14 publicaciones ✓
@@ -82,6 +82,7 @@ Total: 904 vendedores, 1508 anuncios con vendedor identificado (3 anuncios de la
 - [Empeña Facil Pedro Anaya](https://www.facebook.com/marketplace/profile/100082090780298) — 3 publicaciones
 - [Eros Celis](https://www.facebook.com/marketplace/profile/100003874252826) — 3 publicaciones ✓
 - [Fer Gomez](https://www.facebook.com/marketplace/profile/61575379676186) — 3 publicaciones
+- [Fernando Gonzales](https://www.facebook.com/marketplace/profile/100074440808279) — 3 publicaciones
 - [Francisco Arturo](https://www.facebook.com/marketplace/profile/100002335875634) — 3 publicaciones
 - [Jazmin Invitaciones Digitales](https://www.facebook.com/marketplace/profile/61557676108085) — 3 publicaciones
 - [Jesus Eduardo Aragon](https://www.facebook.com/marketplace/profile/714028548) — 3 publicaciones
@@ -149,7 +150,6 @@ Total: 904 vendedores, 1508 anuncios con vendedor identificado (3 anuncios de la
 - [Eidan Aviles](https://www.facebook.com/marketplace/profile/100052023620878) — 2 publicaciones
 - [Enrique Montoya](https://www.facebook.com/marketplace/profile/100015801420448) — 2 publicaciones
 - [Evelin Perea](https://www.facebook.com/marketplace/profile/1287615301) — 2 publicaciones ✓
-- [Fernando Gonzales](https://www.facebook.com/marketplace/profile/100074440808279) — 2 publicaciones
 - [Flaco Donde Estas](https://www.facebook.com/marketplace/profile/100046994176170) — 2 publicaciones
 - [Francisco Perez](https://www.facebook.com/marketplace/profile/61596157953942) — 2 publicaciones
 - [Gabriel Lopez](https://www.facebook.com/marketplace/profile/100003874586803) — 2 publicaciones
