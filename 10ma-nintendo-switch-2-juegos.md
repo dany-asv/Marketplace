@@ -6,11 +6,13 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 20 anuncios disponibles.
+Total: 22 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
 - 2026-11-09 19:18 — [Vendo Zelda Ocarina Of Time NUEVO](https://www.facebook.com/marketplace/item/1635009411463921) — GRATIS — Vendedor: Albano Souza Recio
+- 2026-11-13 15:15 — [Pokopia Nintendo switch 2](https://www.facebook.com/marketplace/item/1779358799846458) — $1 — Vendedor: Iram A. Payan
+- 2026-11-13 12:40 — [Hades 2 Nintendo switch 2](https://www.facebook.com/marketplace/item/1125658543699632) — $1 — Vendedor: Iram A. Payan
 - 2026-11-13 12:40 — [Ciberpunk Nintendo switch 2](https://www.facebook.com/marketplace/item/29473519568910404) — $1 — Vendedor: Iram A. Payan
 - 2026-10-31 20:27 — [Switch 2 juegos nuevos Hades 2 Ciber punk pokopia street figther 6 orbitals metroid](https://www.facebook.com/marketplace/item/1812846470034930) — $1 — Vendedor: Iram A. Payan
 - 2026-11-08 13:24 — [EA FC 27 PARA NINTENDO SWITCH 2](https://www.facebook.com/marketplace/item/1499615025391517) — $12 — Vendedor: Javier Adrián Bátiz Zamudio
