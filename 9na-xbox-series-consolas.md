@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 8 anuncios disponibles.
+Total: 9 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -15,6 +15,7 @@ Total: 8 anuncios disponibles.
 - 2026-11-04 19:19 — [Xbox Series S 512Gb](https://www.facebook.com/marketplace/item/1597893928207904) — $3.400 — Vendedor: Francisco Perez
 - 2026-11-12 11:59 — [Xbox series s](https://www.facebook.com/marketplace/item/1885752179256951) — $3.800 — Vendedor: Juan Pablo RW
 - 2026-11-12 13:19 — [Xbox Series S](https://www.facebook.com/marketplace/item/1125671176871384) — $3.900 — Vendedor: Miguel Escobosa
+- 2026-10-27 12:41 — [Xbox Series s con control no original](https://www.facebook.com/marketplace/item/2091861088141250) — $3.900 — Vendedor: Kevin Rodriguez
 - 2026-11-12 13:18 — [Xbox Series S](https://www.facebook.com/marketplace/item/1812497573362067) — $4.000 — Vendedor: Alexis Herrera
 - 2026-10-12 11:08 — [Xbox series S](https://www.facebook.com/marketplace/item/2001903044099661) — $4.000 — Vendedor: Fernando Espinoza
 - 2026-10-27 15:36 — [Xbox series S](https://www.facebook.com/marketplace/item/1652499659814866) — $5.500 — Vendedor: Cecilia Carrillo

@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 8 anuncios disponibles.
+Total: 9 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -17,4 +17,5 @@ Total: 8 anuncios disponibles.
 - 2026-11-03 16:34 — [Xbox](https://www.facebook.com/marketplace/item/2752915365142587) — $1.234 — Vendedor: Kevin A Escarrega
 - 2026-11-10 09:36 — [Xbox 360 con 3 controles](https://www.facebook.com/marketplace/item/1164042349821312) — $1.500 — Vendedor: Javier Solano Limon
 - 2026-10-29 00:56 — [Xbox 360 Slim Chipeado](https://www.facebook.com/marketplace/item/1879794700043625) — $1.500 — Vendedor: Daniela Trejo
+- 2026-11-06 10:09 — [Xbox 360 con 4 juegos](https://www.facebook.com/marketplace/item/2165838467360363) — $1.600 — Vendedor: Eduardo Infante
 - 2026-11-03 03:04 — [Xbox 360 chipeado](https://www.facebook.com/marketplace/item/802610282947465) — $1.600 — Vendedor: America Ruiz

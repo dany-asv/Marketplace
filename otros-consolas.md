@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 79 anuncios disponibles.
+Total: 81 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -39,6 +39,7 @@ Total: 79 anuncios disponibles.
 - 2025-11-29 10:59 — [Vendo o cambio por algo mejor ofrezcan por lo que sea](https://www.facebook.com/marketplace/item/833801036171724) — $7 — Vendedor: Lupita Felix
 - 2026-09-12 11:29 — [Videojuegos ya sea para colección o jugarlos en su consola](https://www.facebook.com/marketplace/item/858561213908353) — $50 — Vendedor: Jesus Ferrer
 - 2026-11-06 12:33 — [Nintendo Sup Doble control](https://www.facebook.com/marketplace/item/2124308205638398) — $80 — Vendedor: Daniel Sanchez
+- 2026-11-07 15:11 — [Consola sup 400 juegos](https://www.facebook.com/marketplace/item/2129461857691504) — $150 — Vendedor: Diana Soto
 - 2026-11-11 13:48 — [Mini Consola Retro con 620 Juegos](https://www.facebook.com/marketplace/item/1483161533725482) — $250 — Vendedor: Ana Sofía
 - 2026-11-11 12:06 — [Mini Consola Retro con 620 Juegos](https://www.facebook.com/marketplace/item/2618193315306165) — $250 — Vendedor: Karyme Baldenebro
 - 2026-11-10 16:31 — [Mini Consola Retro con 620 Juegos](https://www.facebook.com/marketplace/item/993870053779759) — $250 — Vendedor: Karyme Baldenebro
@@ -87,5 +88,6 @@ Total: 79 anuncios disponibles.
 - 2026-02-19 17:48 — [en venta](https://www.facebook.com/marketplace/item/2670565656632331) — $5.000 — Vendedor: Daniel Navarro
 - 2026-10-21 11:32 — [Kit Simracing Logitech G29 (Volante + Pedales + Palanca Shifter + Freno de Mano USB + Soporte)](https://www.facebook.com/marketplace/item/28718905404424957) — $6.000 — Vendedor: TechNova LM
 - 2026-10-11 18:24 — [Asus Rog Ally z1 Extreme / PC Gamer portatil, COMPLETO TODO O SEPARADO](https://www.facebook.com/marketplace/item/1750907475961346) — $7.000 — Vendedor: Luis Guerrero
+- 2026-11-05 12:28 — [Asus Rog Ally Z1 Extreme con SteamOS](https://www.facebook.com/marketplace/item/29231060263172063) — $8.000 — Vendedor: Miguel Vinsmoke
 - 2025-12-25 11:59 — [Venta PostNavideña 25Dic2025](https://www.facebook.com/marketplace/item/886274910461386) — $5.555.555 — Vendedor: Mi Ge Ru
 - 2025-12-24 12:54 — [Compra Venta Navideña en remate en la plazuela de El Carrizo 24Dic2023](https://www.facebook.com/marketplace/item/1855360348416221) — $7.777.777 — Vendedor: Mi Ge Ru

@@ -6,11 +6,12 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 13 anuncios disponibles.
+Total: 14 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
 - 2026-11-12 16:43 — [CONTROL PLAY 5 NUEVO SELLADO](https://www.facebook.com/marketplace/item/1162012992932539) — GRATIS — Vendedor: Jezuz A Almaraz
+- 2026-11-11 21:44 — [M2 2280 512gb Gen 4](https://www.facebook.com/marketplace/item/1139099532031848) — $1 — Vendedor: Jo Maste
 - 2026-11-11 13:02 — [Control, audífonos y cargador para psp5](https://www.facebook.com/marketplace/item/1692329202679567) — $111 — Vendedor: Mauro Torres
 - 2026-10-19 16:59 — [Estuche y accesorios p/control PS5 DualSense Edge](https://www.facebook.com/marketplace/item/1608244566878716) — $550 — Vendedor: Julio Hernández
 - 2026-11-02 11:46 — [Enfriador y cargado de ps5](https://www.facebook.com/marketplace/item/1656019812825880) — $600 — Vendedor: Manuel Ochoa
