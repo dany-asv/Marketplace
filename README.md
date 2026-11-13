@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1483 anuncios disponibles.
+Total: 1487 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -81,7 +81,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Accesorios](7ma-xbox-360-accesorios.md) — 2 anuncios
 - 8va generación:
   - Wii U:
-    - [Consolas](8va-wii-u-consolas.md) — 3 anuncios
+    - [Consolas](8va-wii-u-consolas.md) — 4 anuncios
     - [Juegos](8va-wii-u-juegos.md) — 4 anuncios
     - [Accesorios](8va-wii-u-accesorios.md) — 1 anuncios
   - PlayStation 4 (PS4):
@@ -97,7 +97,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - Consolas:
       - [OLED](9na-nintendo-switch-oled-consolas.md) — 130 anuncios
       - [Lite](9na-nintendo-switch-lite-consolas.md) — 34 anuncios
-      - [Normal](9na-nintendo-switch-normal-consolas.md) — 125 anuncios
+      - [Normal](9na-nintendo-switch-normal-consolas.md) — 126 anuncios
       - [Customs](9na-nintendo-switch-customs-consolas.md) — 31 anuncios
     - [Juegos](9na-nintendo-switch-juegos.md) — 251 anuncios
     - [Accesorios](9na-nintendo-switch-accesorios.md) — 62 anuncios
@@ -106,7 +106,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](9na-ps5-juegos.md) — 17 anuncios
     - [Accesorios](9na-ps5-accesorios.md) — 13 anuncios
   - Xbox Series X/S:
-    - [Consolas](9na-xbox-series-consolas.md) — 7 anuncios
+    - [Consolas](9na-xbox-series-consolas.md) — 8 anuncios
     - [Juegos](9na-xbox-series-juegos.md) — 1 anuncios
     - [Accesorios](9na-xbox-series-accesorios.md) — 3 anuncios
 - 10ma generación:
@@ -115,11 +115,13 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](10ma-nintendo-switch-2-juegos.md) — 18 anuncios
     - [Accesorios](10ma-nintendo-switch-2-accesorios.md) — 1 anuncios
 - Otros — Multiplataforma o sin plataforma clara:
-  - [Consolas](otros-consolas.md) — 78 anuncios
+  - [Consolas](otros-consolas.md) — 79 anuncios
   - [Juegos](otros-juegos.md) — 161 anuncios
   - [Accesorios](otros-accesorios.md) — 36 anuncios
 ## Disponibles (de más actual a más viejo)
 
+- 2026-11-12 20:31 — [Nintendo switch](https://www.facebook.com/marketplace/item/2202741497341098) — $4.000 — Usado - Buen estado — Los Mochis — Vendedor: Victoria Cota
+- 2026-11-12 20:17 — [Xbox Series S](https://www.facebook.com/marketplace/item/1816698796278290) — $123 — Usado - Como nuevo — Los Mochis — Vendedor: Emi CM
 - 2026-11-12 17:37 — [Xbox one s de 512](https://www.facebook.com/marketplace/item/1789933245612703) — $2.000 — Usado - Como nuevo — Los Mochis — Vendedor: Bianca Espinoza
 - 2026-11-12 17:16 — [NINTENDO SWITCH LITE AZUL](https://www.facebook.com/marketplace/item/1625263598480912) — $1.700 — Usado - Buen estado — Los Mochis — Vendedor: Juan Pablo RW
 - 2026-11-12 17:00 — [Consola Wii](https://www.facebook.com/marketplace/item/2160544954560223) — $1.500 — Usado - Como nuevo — Los Mochis — Vendedor: César López
@@ -129,6 +131,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-12 13:19 — [Xbox Series S](https://www.facebook.com/marketplace/item/1125671176871384) — $3.900 — Usado - Como nuevo — Los Mochis — Vendedor: Miguel Escobosa
 - 2026-11-12 13:18 — [Xbox Series S](https://www.facebook.com/marketplace/item/1812497573362067) — $4.000 — Usado - Como nuevo — Los Mochis — Vendedor: Alexis Herrera
 - 2026-11-12 13:14 — [Zelda Ocarina of Time Nintendo Switch 2](https://www.facebook.com/marketplace/item/1014830541661322) — $1.749 — Nuevo — Los Mochis — Vendedor: Rigoberto Mora
+- 2026-11-12 12:43 — [Wii U negra de 32 GB. Incluye Zelda Breath of the Wild, Splatoon, súper Mario maker, juegos de LEGO](https://www.facebook.com/marketplace/item/1890210042140893) — $2.500 — Usado - Buen estado — Los Mochis — Vendedor: Juan Pablo Gonzalez
 - 2026-11-12 12:42 — [NINTENDO SWITCH OLED](https://www.facebook.com/marketplace/item/1337141401786363) — $5.000 — Usado - Como nuevo — Los Mochis — Vendedor: Luis Camargo
 - 2026-11-12 11:59 — [Xbox series s](https://www.facebook.com/marketplace/item/1885752179256951) — $3.800 — Usado - Buen estado — Los Mochis — Vendedor: Juan Pablo RW
 - 2026-11-12 11:36 — [Juego Sonic Forces Para Nintendo Switch $450 con Caja](https://www.facebook.com/marketplace/item/962177506660699) — $350 — Usado - Como nuevo — Los Mochis — Vendedor: Axel Luna
@@ -147,6 +150,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-11 19:54 — [Vendo o cambio control de Xbox series](https://www.facebook.com/marketplace/item/1461271369313378) — $750 — Usado — Los Mochis — Vendedor: Pery Lopez
 - 2026-11-11 18:20 — [Controles de xbox 360 sin tapas y kinect](https://www.facebook.com/marketplace/item/1498144648867215) — $400 — Usado - Como nuevo — Los Mochis — Vendedor: Cas Hym
 - 2026-11-11 17:32 — [Xbox 360 slim](https://www.facebook.com/marketplace/item/1704020704613803) — $1.000 — Usado - Buen estado — Los Mochis — Vendedor: Arturo Ramos
+- 2026-11-11 17:13 — [🛑🎮GAME STICK PRO🎅🛑30 MIL JUEGOS 44 EMULADORES‼️XBOX🕳PS🕳PSP🕳NINTENDO🕳NEO GEO🕳N64🕳ATARI✅️](https://www.facebook.com/marketplace/item/2009144643105951) — $600 — Nuevo — Los Mochis — Vendedor: Nutrijugos LA Selva
 - 2026-11-11 17:10 — [📛CONSOLA X80📛60 MIL JUEGOS✅️ ADAPTABLE A TV💥 HD 💥 ENVIOS A DOMICILIO‼️GARANTIA DE 1 AÑO👌](https://www.facebook.com/marketplace/item/4685549918397577) — $1.500 — Nuevo — Los Mochis — Vendedor: Nutrijugos LA Selva
 - 2026-11-11 16:54 — [Nintendo 2DS Bateria Nueva (Puerto USB C)](https://www.facebook.com/marketplace/item/1085020521232688) — $2.000 — Usado - Buen estado — Los Mochis — Vendedor: Jorge Vega Gz
 - 2026-11-11 15:26 — [Xbox One X](https://www.facebook.com/marketplace/item/1650767393195026) — $2.400 — Usado - Buen estado — Los Mochis — Vendedor: Ktr Lovecraft
