@@ -6,10 +6,11 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 2 anuncios disponibles.
+Total: 3 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
 
 - 2026-11-10 22:27 — [control Xbox series](https://www.facebook.com/marketplace/item/2377234826368066) — $450 — Vendedor: Alfonso Wrld
+- 2026-11-07 08:06 — [Vendo control de Xbox series](https://www.facebook.com/marketplace/item/3546217208889679) — $600 — Vendedor: Pedro Carrazco
 - 2026-11-11 19:54 — [Vendo o cambio control de Xbox series](https://www.facebook.com/marketplace/item/1461271369313378) — $750 — Vendedor: Pery Lopez
