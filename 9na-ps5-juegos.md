@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 17 anuncios disponibles.
+Total: 19 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -14,6 +14,8 @@ Total: 17 anuncios disponibles.
 - 2026-06-01 10:12 — [Juegos de ps5 baratos con diferentes precios](https://www.facebook.com/marketplace/item/1516229926620357) — $2 — Vendedor: Antonio Lopez
 - 2026-05-05 10:15 — [Juegos ps5](https://www.facebook.com/marketplace/item/2740417399648640) — $123 — Vendedor: Jose Salas
 - 2026-03-28 19:13 — [JUEGOS DE PLAY STATION 5](https://www.facebook.com/marketplace/item/1152933116890176) — $250 — Vendedor: Jose Soto
+- 2026-11-12 00:26 — [FIFA 23 ps5](https://www.facebook.com/marketplace/item/29676039208646385) — $400 — Vendedor: Dante Esquer
+- 2026-11-12 00:27 — [FC 24 ps5 $450](https://www.facebook.com/marketplace/item/4062880204006391) — $450 — Vendedor: Dante Esquer
 - 2026-11-12 00:23 — [FC2025 PS5](https://www.facebook.com/marketplace/item/1662883065372491) — $500 — Vendedor: Dante Esquer
 - 2026-11-08 21:30 — [Fc24 ps5 nuevo](https://www.facebook.com/marketplace/item/1064257223332785) — $500 — Vendedor: Jose Nose
 - 2026-10-26 17:58 — [Juegos ps5 diferentes precios](https://www.facebook.com/marketplace/item/2130992907521483) — $500 — Vendedor: Antonio Lopez

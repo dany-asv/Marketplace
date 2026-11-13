@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 160 anuncios disponibles.
+Total: 163 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -55,6 +55,7 @@ Total: 160 anuncios disponibles.
 - 2024-12-07 19:33 — [Assassin crid](https://www.facebook.com/marketplace/item/1113036633788571) — $250 — Vendedor: Aldo Ceballos Cubedo
 - 2024-12-07 19:29 — [Juego horizon](https://www.facebook.com/marketplace/item/3971873476468264) — $250 — Vendedor: Aldo Ceballos Cubedo
 - 2026-07-02 16:46 — [The last of us remastered](https://www.facebook.com/marketplace/item/1021230187054809) — $280 — Vendedor: Jesus VC
+- 2026-11-12 17:01 — [Juegos Xbox 360 y PlayStation $300 c/u](https://www.facebook.com/marketplace/item/1701838851341168) — $300 — Vendedor: Dulce Palma
 - 2026-11-10 22:44 — [JUEGOS PARA PS4/5 SOLO VENTA, NO CAMBIOS](https://www.facebook.com/marketplace/item/2023442095278651) — $300 — Vendedor: Fabián Rodríguez
 - 2026-11-05 16:28 — [Juegos de PlayStation $300c/u](https://www.facebook.com/marketplace/item/1521965226383474) — $300 — Vendedor: Dulce Palma
 - 2026-09-04 23:05 — [Call of duty mordern warfare](https://www.facebook.com/marketplace/item/1389074929329932) — $300 — Vendedor: Ivan Aguero
@@ -80,6 +81,7 @@ Total: 160 anuncios disponibles.
 - 2023-08-19 20:50 — [RED DEAD REDEMPTION II](https://www.facebook.com/marketplace/item/634168878515828) — $450 — Vendedor: Marcela M Galaviz
 - 2026-01-07 16:14 — [Vendo God of War](https://www.facebook.com/marketplace/item/1522729392329848) — $453 — Vendedor: Luis Higuera
 - 2026-06-12 18:01 — [Juegos Ps4-Ps5](https://www.facebook.com/marketplace/item/1552417576245577) — $499 — Vendedor: Maria CL
+- 2026-11-12 00:28 — [JUEGOS PS5 PS4](https://www.facebook.com/marketplace/item/4150726945058000) — $500 — Vendedor: Dante Esquer
 - 2026-11-10 16:22 — [Se vende videojuegos](https://www.facebook.com/marketplace/item/998895912926631) — $500 — Vendedor: Jazmin Invitaciones Digitales
 - 2026-11-10 16:20 — [Se venden videojuegos](https://www.facebook.com/marketplace/item/1483446283640714) — $500 — Vendedor: Jazmin Invitaciones Digitales
 - 2026-11-10 16:19 — [Se venden videojuegos](https://www.facebook.com/marketplace/item/1484740447169677) — $500 — Vendedor: Jazmin Invitaciones Digitales

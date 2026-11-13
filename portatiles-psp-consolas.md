@@ -6,10 +6,11 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 9 anuncios disponibles.
+Total: 10 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
+- 2026-11-13 00:01 — [PSP GO](https://www.facebook.com/marketplace/item/29369917675938204) — GRATIS — Vendedor: Mariel Haydee Castro Castro
 - 2026-06-30 15:39 — [Psp chipeada 3001 - 3010](https://www.facebook.com/marketplace/item/1012131938214192) — GRATIS — Vendedor: Marco Daniel
 - 2026-09-28 12:30 — [Psp para piezas](https://www.facebook.com/marketplace/item/894876853561658) — $500 — Vendedor: Axel González
 - 2026-11-05 13:22 — [PSP 1001](https://www.facebook.com/marketplace/item/1134038099536769) — $1.200 — Vendedor: Jesus Eduardo Ramirez

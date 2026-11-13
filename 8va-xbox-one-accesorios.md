@@ -6,7 +6,9 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 0 anuncios disponibles.
+Total: 1 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
+
+- 2026-11-01 14:09 — [Pila recargable para control XBOX one s/x o elite](https://www.facebook.com/marketplace/item/1156202253600671) — $123 — Vendedor: Max Flores
 

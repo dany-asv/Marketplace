@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 37 anuncios disponibles.
+Total: 38 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -47,3 +47,4 @@ Total: 37 anuncios disponibles.
 - 2026-10-14 15:10 — [Volante de Carreras HORI RWA (Racing Wheel Apex) para PlayStation 5, PlayStation 4 y PC](https://www.facebook.com/marketplace/item/1781708116470573) — $3.700 — Vendedor: Maribel Acosta
 - 2026-11-05 07:36 — [Volante Logitech G920](https://www.facebook.com/marketplace/item/1893501318563958) — $4.000 — Vendedor: Juan Carlos Fong
 - 2026-10-19 18:31 — [Volante Logitech con palanca y Base](https://www.facebook.com/marketplace/item/1123981040007585) — $4.800 — Vendedor: Paul Romanillo
+- 2026-11-08 11:28 — [LOGITECH G923 + BASE](https://www.facebook.com/marketplace/item/2601511340262902) — $12.345 — Vendedor: Carlos Beltrán
