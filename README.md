@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1519 anuncios disponibles.
+Total: 1520 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -116,10 +116,11 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](10ma-nintendo-switch-2-juegos.md) — 20 anuncios
     - [Accesorios](10ma-nintendo-switch-2-accesorios.md) — 1 anuncios
 - Otros — Multiplataforma o sin plataforma clara:
-  - [Consolas](otros-consolas.md) — 82 anuncios
+  - [Consolas](otros-consolas.md) — 83 anuncios
   - [Juegos](otros-juegos.md) — 163 anuncios
   - [Accesorios](otros-accesorios.md) — 38 anuncios
 ## Disponibles (de más actual a más viejo)
+- 2026-11-13 13:07 — [‼️Tablero Uso Rudo‼️👾30 Mil Juegos Nuevos Con Garantia,Botones De Repuesto Envios A Domicilio✅️🏡](https://www.facebook.com/marketplace/item/1165589222563823) — GRATIS — Nuevo — Los Mochis — Vendedor: Ricardo Sanchez
 - 2026-11-13 12:41 — [Epic Mickey Nintendo switch](https://www.facebook.com/marketplace/item/1673371554516241) — $1 — Nuevo — Los Mochis — Vendedor: Iram A. Payan
 - 2026-11-13 12:41 — [Spyro Nintendo switch](https://www.facebook.com/marketplace/item/1698405801664807) — $1 — Nuevo — Los Mochis — Vendedor: Iram A. Payan
 - 2026-11-13 12:40 — [Ciberpunk Nintendo switch 2](https://www.facebook.com/marketplace/item/29473519568910404) — $1 — Nuevo — Los Mochis — Vendedor: Iram A. Payan
