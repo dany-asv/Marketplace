@@ -6,7 +6,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
 
-Total: 900 vendedores, 1499 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
+Total: 900 vendedores, 1501 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
 
 ## Vendedores (de mayor a menor número de publicaciones)
 
@@ -148,6 +148,7 @@ Total: 900 vendedores, 1499 anuncios con vendedor identificado (3 anuncios de la
 - [Diego Moreno](https://www.facebook.com/marketplace/profile/100050310905759) — 2 publicaciones
 - [Eidan Aviles](https://www.facebook.com/marketplace/profile/100052023620878) — 2 publicaciones
 - [Enrique Montoya](https://www.facebook.com/marketplace/profile/100015801420448) — 2 publicaciones
+- [Evelin Perea](https://www.facebook.com/marketplace/profile/1287615301) — 2 publicaciones ✓
 - [Fernando Gonzales](https://www.facebook.com/marketplace/profile/100074440808279) — 2 publicaciones
 - [Flaco Donde Estas](https://www.facebook.com/marketplace/profile/100046994176170) — 2 publicaciones
 - [Francisco Perez](https://www.facebook.com/marketplace/profile/61596157953942) — 2 publicaciones
@@ -178,6 +179,7 @@ Total: 900 vendedores, 1499 anuncios con vendedor identificado (3 anuncios de la
 - [Juan Alonso](https://www.facebook.com/marketplace/profile/100090784563627) — 2 publicaciones
 - [Juan Flores](https://www.facebook.com/marketplace/profile/100090547951750) — 2 publicaciones
 - [Karla Yocupicio](https://www.facebook.com/marketplace/profile/100051637037578) — 2 publicaciones
+- [Leonardo Cardenas](https://www.facebook.com/marketplace/profile/100011655012573) — 2 publicaciones
 - [Lesli Escobar](https://www.facebook.com/marketplace/profile/100011721222660) — 2 publicaciones
 - [Licenciado Pablo](https://www.facebook.com/marketplace/profile/100045978584370) — 2 publicaciones ✓
 - [Lorenia Leon](https://www.facebook.com/marketplace/profile/61585031330091) — 2 publicaciones
@@ -456,7 +458,6 @@ Total: 900 vendedores, 1499 anuncios con vendedor identificado (3 anuncios de la
 - [Espinoza Alejandro](https://www.facebook.com/marketplace/profile/100081184554668) — 1 publicaciones ✓
 - [Esteban Olguin Avila](https://www.facebook.com/marketplace/profile/100056156096292) — 1 publicaciones
 - [Esthela Limon](https://www.facebook.com/marketplace/profile/100058526850367) — 1 publicaciones
-- [Evelin Perea](https://www.facebook.com/marketplace/profile/1287615301) — 1 publicaciones ✓
 - [Everardo Padilla](https://www.facebook.com/marketplace/profile/61591761182099) — 1 publicaciones
 - [Fabiola Cabrera](https://www.facebook.com/marketplace/profile/563670448) — 1 publicaciones
 - [Fabiola Esparza](https://www.facebook.com/marketplace/profile/744100182) — 1 publicaciones
@@ -669,7 +670,6 @@ Total: 900 vendedores, 1499 anuncios con vendedor identificado (3 anuncios de la
 - [Lau Uribe](https://www.facebook.com/marketplace/profile/100006822303885) — 1 publicaciones
 - [LC JG](https://www.facebook.com/marketplace/profile/100001741784147) — 1 publicaciones
 - [Lenin Alexfideos](https://www.facebook.com/marketplace/profile/61592776874467) — 1 publicaciones
-- [Leonardo Cardenas](https://www.facebook.com/marketplace/profile/100011655012573) — 1 publicaciones
 - [Leonel Castillo](https://www.facebook.com/marketplace/profile/100000406904673) — 1 publicaciones
 - [Liam Collote](https://www.facebook.com/marketplace/profile/61571286046454) — 1 publicaciones
 - [Licenciado Luis Antonio](https://www.facebook.com/marketplace/profile/100005915312380) — 1 publicaciones

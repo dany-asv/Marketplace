@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1502 anuncios disponibles.
+Total: 1504 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -65,6 +65,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](6ta-ps2-juegos.md) — 5 anuncios
     - [Accesorios](6ta-ps2-accesorios.md) — 2 anuncios
   - Xbox Clásico:
+    - [Consolas](6ta-xbox-clasico-consolas.md) — 1 anuncios
     - [Accesorios](6ta-xbox-clasico-accesorios.md) — 1 anuncios
 - 7ma generación:
   - Wii:
@@ -112,7 +113,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 10ma generación:
   - Nintendo Switch 2:
     - [Consolas](10ma-nintendo-switch-2-consolas.md) — 15 anuncios
-    - [Juegos](10ma-nintendo-switch-2-juegos.md) — 18 anuncios
+    - [Juegos](10ma-nintendo-switch-2-juegos.md) — 19 anuncios
     - [Accesorios](10ma-nintendo-switch-2-accesorios.md) — 1 anuncios
 - Otros — Multiplataforma o sin plataforma clara:
   - [Consolas](otros-consolas.md) — 79 anuncios
@@ -123,12 +124,14 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-13 06:53 — [Xbox one, 2 controles y juegos digitales](https://www.facebook.com/marketplace/item/1892108945541837) — $1.700 — Usado - Como nuevo — Los Mochis — Vendedor: Yajahira Torres Soto
 - 2026-11-13 00:01 — [PSP GO](https://www.facebook.com/marketplace/item/29369917675938204) — GRATIS — Usado - Buen estado — Los Mochis — Vendedor: Mariel Haydee Castro Castro
 - 2026-11-12 20:31 — [Nintendo switch](https://www.facebook.com/marketplace/item/2202741497341098) — $4.000 — Usado - Buen estado — Los Mochis — Vendedor: Victoria Cota
+- 2026-11-12 20:29 — [Maquinitas Xbox clásicas se venden o se cambian precio por unidad leer descripción](https://www.facebook.com/marketplace/item/2121377218738716) — $2.500 — Usado - Aceptable — Los Mochis — vendedor en Whitelist de Daniel: Evelin Perea
 - 2026-11-12 20:17 — [Xbox Series S](https://www.facebook.com/marketplace/item/1816698796278290) — $123 — Usado - Como nuevo — Los Mochis — Vendedor: Emi CM
 - 2026-11-12 17:37 — [Xbox one s de 512](https://www.facebook.com/marketplace/item/1789933245612703) — $2.000 — Usado - Como nuevo — Los Mochis — Vendedor: Bianca Espinoza
 - 2026-11-12 17:16 — [NINTENDO SWITCH LITE AZUL](https://www.facebook.com/marketplace/item/1625263598480912) — $1.700 — Usado - Buen estado — Los Mochis — Vendedor: Juan Pablo RW
 - 2026-11-12 17:01 — [Juegos Xbox 360 y PlayStation $300 c/u](https://www.facebook.com/marketplace/item/1701838851341168) — $300 — Usado - Como nuevo — Los Mochis — Vendedor: Dulce Palma
 - 2026-11-12 17:00 — [Consola Wii](https://www.facebook.com/marketplace/item/2160544954560223) — $1.500 — Usado - Como nuevo — Los Mochis — Vendedor: César López
 - 2026-11-12 16:43 — [CONTROL PLAY 5 NUEVO SELLADO](https://www.facebook.com/marketplace/item/1162012992932539) — GRATIS — Nuevo — Los Mochis — Vendedor: Jezuz A Almaraz
+- 2026-11-12 16:25 — [The Legend of Zelda Ocarina of Time Remake | Juego Nintendo Swith 2 | No foil](https://www.facebook.com/marketplace/item/4129664423996844) — $1.300 — Nuevo — Los Mochis — Vendedor: Leonardo Cardenas
 - 2026-11-12 16:07 — [Consola Sony PlayStation 2 Slim | Control Original | 8 Juegos Originales](https://www.facebook.com/marketplace/item/3592571440911332) — $1.600 — Usado — Los Mochis — Vendedor: Vicente Munguia
 - 2026-11-12 14:03 — [Playstation 4pro](https://www.facebook.com/marketplace/item/1901372871298961) — $3.000 — Usado - Como nuevo — Los Mochis — Vendedor: Jesus Ramon Torres
 - 2026-11-12 13:31 — [NINTENDO SWITCH LITE AZUL](https://www.facebook.com/marketplace/item/1522277516382113) — $2.200 — Usado - Buen estado — Los Mochis — Vendedor: Juan Pablo RW
