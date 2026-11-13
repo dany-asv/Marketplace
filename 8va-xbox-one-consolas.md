@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 22 anuncios disponibles.
+Total: 23 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -22,6 +22,7 @@ Total: 22 anuncios disponibles.
 - 2026-10-17 10:06 — [Xbox one fat](https://www.facebook.com/marketplace/item/2200525530899259) — $1.800 — Vendedor: Jesus Bojorquez
 - 2026-11-06 15:14 — [Xbox One](https://www.facebook.com/marketplace/item/1001660172998720) — $1.900 — Vendedor: Jisus Escalante
 - 2026-10-31 11:03 — [Xbox one en perfecto estado](https://www.facebook.com/marketplace/item/1114654358100208) — $1.900 — Vendedor: Armando Armenta
+- 2026-11-12 17:37 — [Xbox one s de 512](https://www.facebook.com/marketplace/item/1789933245612703) — $2.000 — Vendedor: Bianca Espinoza
 - 2026-10-28 19:07 — [Xbox one s](https://www.facebook.com/marketplace/item/1590643582277315) — $2.000 — Vendedor: Luiz Lopez
 - 2026-10-27 19:29 — [Xbox one s 512 gb](https://www.facebook.com/marketplace/item/3794627564019723) — $2.300 — Vendedor: Carlos Niño
 - 2026-11-11 15:26 — [Xbox One X](https://www.facebook.com/marketplace/item/1650767393195026) — $2.400 — Vendedor: Ktr Lovecraft

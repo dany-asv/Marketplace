@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 17 anuncios disponibles.
+Total: 18 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -21,6 +21,7 @@ Total: 17 anuncios disponibles.
 - 2026-06-03 16:54 — [Nintendo wii con smash](https://www.facebook.com/marketplace/item/28381494694770744) — $900 — Vendedor: Jamaicas Las Jamaicas
 - 2026-08-31 19:30 — [Nintendo Wii con 10 juegos](https://www.facebook.com/marketplace/item/2598012340637095) — $1.300 — Vendedor: Dulce Palma
 - 2026-06-27 17:04 — [Consola wii chipeada, con detalles y sd llena REMATO No Menos!!!de Oportunidad](https://www.facebook.com/marketplace/item/2636897203430736) — $1.300 — Vendedor: Rosa Cota
+- 2026-11-12 17:00 — [Consola Wii](https://www.facebook.com/marketplace/item/2160544954560223) — $1.500 — Vendedor: César López
 - 2026-07-02 21:41 — [Vendo wii chipeada](https://www.facebook.com/marketplace/item/700652899810170) — $1.500 — Vendedor: Rosa Cota
 - 2026-04-18 21:47 — [Nintendo Wii consola](https://www.facebook.com/marketplace/item/1001446305545915) — $1.500 — Vendedor: Nuvia Caro
 - 2026-11-02 14:18 — [Wii](https://www.facebook.com/marketplace/item/1692110809146392) — $1.800 — Vendedor: Audrey Baillet
