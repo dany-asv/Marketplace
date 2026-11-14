@@ -6,7 +6,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
 
-Total: 908 vendedores, 1526 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
+Total: 909 vendedores, 1528 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
 
 ## Vendedores (de mayor a menor número de publicaciones)
 
@@ -128,6 +128,7 @@ Total: 908 vendedores, 1526 anuncios con vendedor identificado (3 anuncios de la
 - [Armando Armenta](https://www.facebook.com/marketplace/profile/61575058528477) — 2 publicaciones
 - [Armando López](https://www.facebook.com/marketplace/profile/100002067307616) — 2 publicaciones
 - [Audrey Baillet](https://www.facebook.com/marketplace/profile/100002332093939) — 2 publicaciones
+- [Awa De Horchata](https://www.facebook.com/marketplace/profile/61588710432487) — 2 publicaciones
 - [Axel González](https://www.facebook.com/marketplace/profile/61582328355727) — 2 publicaciones
 - [Bogard Santos Zazueta](https://www.facebook.com/marketplace/profile/100093076062097) — 2 publicaciones ✓
 - [Bosthon R. Vázquez](https://www.facebook.com/marketplace/profile/100005178510098) — 2 publicaciones
@@ -327,7 +328,6 @@ Total: 908 vendedores, 1526 anuncios con vendedor identificado (3 anuncios de la
 - [Ashly Vmy](https://www.facebook.com/marketplace/profile/100056856162499) — 1 publicaciones
 - [Asis Romaas](https://www.facebook.com/marketplace/profile/61589036703482) — 1 publicaciones
 - [Averno Lm](https://www.facebook.com/marketplace/profile/61595977944491) — 1 publicaciones
-- [Awa De Horchata](https://www.facebook.com/marketplace/profile/61588710432487) — 1 publicaciones
 - [Axel Camacho](https://www.facebook.com/marketplace/profile/100002623466714) — 1 publicaciones
 - [Axel Peña](https://www.facebook.com/marketplace/profile/100010386858333) — 1 publicaciones
 - [Axl Soto](https://www.facebook.com/marketplace/profile/100005615072935) — 1 publicaciones
@@ -879,6 +879,7 @@ Total: 908 vendedores, 1526 anuncios con vendedor identificado (3 anuncios de la
 - [Uriel Antuna](https://www.facebook.com/marketplace/profile/61590660472113) — 1 publicaciones
 - [Uriel Quintero](https://www.facebook.com/marketplace/profile/100002571591287) — 1 publicaciones
 - [VB Alo](https://www.facebook.com/marketplace/profile/100022063983954) — 1 publicaciones
+- [Valdez Luis](https://www.facebook.com/marketplace/profile/100044467502398) — 1 publicaciones
 - [Valentina Zambrano](https://www.facebook.com/marketplace/profile/100054765085807) — 1 publicaciones
 - [Ventas Gustavo](https://www.facebook.com/marketplace/profile/100006859452395) — 1 publicaciones
 - [Verduranacida Si](https://www.facebook.com/marketplace/profile/61560321293969) — 1 publicaciones

@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 163 anuncios disponibles.
+Total: 164 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -50,6 +50,7 @@ Total: 163 anuncios disponibles.
 - 2026-01-12 21:45 — [Video juegos](https://www.facebook.com/marketplace/item/1211134600516116) — $200 — Vendedor: Irene ZT
 - 2026-07-01 20:51 — [Mario y Sonic Olympic games](https://www.facebook.com/marketplace/item/1482931430518623) — $240 — Vendedor: Daniela Hernández
 - 2026-06-29 12:01 — [Pikmin 1 + 2](https://www.facebook.com/marketplace/item/3198797993664037) — $240 — Vendedor: Daniela Hernández
+- 2026-11-10 21:04 — [Juegos para XBOX](https://www.facebook.com/marketplace/item/28894008290225612) — $250 — Vendedor: Awa De Horchata
 - 2026-08-17 14:25 — [Video juegos el precio es por  pieza](https://www.facebook.com/marketplace/item/27922304210731601) — $250 — Vendedor: Julio Cesar Ibarra Rodríguez
 - 2026-06-11 08:57 — [Rainbow six siege](https://www.facebook.com/marketplace/item/1985771682070748) — $250 — Vendedor: Cesar Gamez Cruz
 - 2024-12-07 19:33 — [Assassin crid](https://www.facebook.com/marketplace/item/1113036633788571) — $250 — Vendedor: Aldo Ceballos Cubedo
