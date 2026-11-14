@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 63 anuncios disponibles.
+Total: 60 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -27,7 +27,6 @@ Total: 63 anuncios disponibles.
 - 2026-08-28 18:16 — [Control de nintento](https://www.facebook.com/marketplace/item/2533099033779714) — $200 — Vendedor: Elvira Palazuelos
 - 2026-08-19 15:16 — [Grip para Nintendo switch](https://www.facebook.com/marketplace/item/1060892116344128) — $200 — Vendedor: Jose Antonio Menendez
 - 2026-08-19 02:26 — [Grip Para Nintendo Switch](https://www.facebook.com/marketplace/item/1850511762335433) — $200 — Vendedor: Antonio Zayas Nevada
-- 2026-08-16 10:36 — [Joycon Grip Nintendo Switch 1](https://www.facebook.com/marketplace/item/1742649733647492) — $200 — Vendedor: Sergio Castro Félix
 - 2026-07-29 08:28 — [Funda protectora para switch](https://www.facebook.com/marketplace/item/1284719873583643) — $200 — Vendedor: Toys Tools
 - 2026-07-23 06:38 — [Funda Viaje Switch/Switch Oled](https://www.facebook.com/marketplace/item/1019935304201385) — $200 — Vendedor: Gerardo Recio
 - 2026-04-17 18:38 — [Estuche Nintendo switch muy buen estado $280](https://www.facebook.com/marketplace/item/1680377603116707) — $200 — Vendedor: Lluvia Gálvez
@@ -43,7 +42,6 @@ Total: 63 anuncios disponibles.
 - 2026-09-17 21:20 — [Funda uso rudo nintendo Swich](https://www.facebook.com/marketplace/item/1870834753885268) — $350 — Vendedor: Alma Valdez
 - 2026-08-28 15:50 — [Memoria de 128gb micro SD original para Nintendo switch](https://www.facebook.com/marketplace/item/1128289490198218) — $350 — Vendedor: Antoni Tony
 - 2026-11-14 09:30 — [Estuche Zelda nintendo switch](https://www.facebook.com/marketplace/item/2336707090445907) — $360 — Vendedor: Jesus Gilberto Alvarez Vega
-- 2026-11-11 15:17 — [Estuche Zelda nintendo switch](https://www.facebook.com/marketplace/item/1447011380873690) — $360 — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-10-09 20:26 — [Cargador nintendo Swich generico](https://www.facebook.com/marketplace/item/4478131282398391) — $390 — Vendedor: Alma Valdez
 - 2026-11-11 20:53 — [Estuche Nintendo Switch](https://www.facebook.com/marketplace/item/966784922827906) — $400 — Vendedor: Robles Jazive
 - 2026-09-05 21:11 — [Pro Controller Edición Super Smash Bros](https://www.facebook.com/marketplace/item/1043240421865349) — $400 — Vendedor: Alan Roberto Quiroz
@@ -65,10 +63,9 @@ Total: 63 anuncios disponibles.
 - 2026-08-16 14:04 — [Par de joycon 900 par rosa y verde $800](https://www.facebook.com/marketplace/item/1982253825773260) — $900 — Vendedor: Stargames Valenzuela
 - 2026-09-06 00:27 — [Joy cons para Nintendo swict](https://www.facebook.com/marketplace/item/1962822177741143) — $1.100 — Vendedor: Karlita Martinez
 - 2024-08-05 16:56 — [Control pro Nintendo switch](https://www.facebook.com/marketplace/item/2173331779714464) — $1.400 — Vendedor: Sergio Sandoval'v
-- 2026-11-07 19:55 — [Control gamesir nintendo switch 1 y 2, iPhone, Android, celulares, tablet y pc.](https://www.facebook.com/marketplace/item/1625484619312650) — $1.500 — Vendedor: Jesus Gilberto Alvarez Vega
+- 2026-11-14 09:30 — [Control gamesir nintendo switch 1 y 2, iPhone, Android, celulares, tablet y pc.](https://www.facebook.com/marketplace/item/2391912944954186) — $1.500 — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-03-29 16:02 — [Nintendo Switch Joy-Cons blue and orange](https://www.facebook.com/marketplace/item/2243182649842065) — $1.500 — Vendedor: Misael Garcia
 - 2026-11-14 09:30 — [Gamesir control PC y nintendo switch](https://www.facebook.com/marketplace/item/1116196801402525) — $1.700 — Vendedor: Jesus Gilberto Alvarez Vega
-- 2026-11-11 15:14 — [Gamesir control PC y nintendo switch](https://www.facebook.com/marketplace/item/1123527704003667) — $1.700 — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-11-07 19:55 — [Gamesir control PC y nintendo switch](https://www.facebook.com/marketplace/item/1559326676095449) — $1.700 — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-10-07 17:48 — [Nintendo switch normal sin detalles con joycons originales y estuche](https://www.facebook.com/marketplace/item/991775117288773) — $1.999 — Vendedor: Antonio Lopez
 - 2026-10-02 17:31 — [Accesorios de nintendo switch Oled juntos o por separado](https://www.facebook.com/marketplace/item/1102417495828019) — $2.000 — Vendedor: Stargames Valenzuela

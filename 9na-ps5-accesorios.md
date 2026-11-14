@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 14 anuncios disponibles.
+Total: 15 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -23,4 +23,5 @@ Total: 14 anuncios disponibles.
 - 2026-10-25 11:44 — [Ps Portal](https://www.facebook.com/marketplace/item/1437359874541976) — $2.500 — Vendedor: Angel Meza
 - 2026-11-08 00:31 — [Simulador ps5 pc](https://www.facebook.com/marketplace/item/1673047067786336) — $3.400 — Vendedor: Carlos Orduño
 - 2026-11-07 23:45 — [Controles para ps5](https://www.facebook.com/marketplace/item/3245567702303816) — $3.400 — Vendedor: Carlos Orduño
+- 2026-11-10 22:00 — [PS PORTAL EDICION MIDNIGHT BLACK](https://www.facebook.com/marketplace/item/1169995502220819) — $4.000 — Vendedor: Zahamar EA
 - 2026-10-15 10:41 — [Volante y pedales PS5](https://www.facebook.com/marketplace/item/1708317240624776) — $4.500 — Vendedor: Saul Sandoval

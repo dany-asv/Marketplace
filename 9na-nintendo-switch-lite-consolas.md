@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 34 anuncios disponibles.
+Total: 32 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -19,12 +19,10 @@ Total: 34 anuncios disponibles.
 - 2026-11-03 14:21 — [Vendo Nintendo switch Lite](https://www.facebook.com/marketplace/item/1798141628120850) — $1.200 — Vendedor: Diego Cazarez
 - 2026-11-12 17:16 — [NINTENDO SWITCH LITE AZUL](https://www.facebook.com/marketplace/item/1625263598480912) — $1.700 — Vendedor: Juan Pablo RW
 - 2026-09-28 11:58 — [Nintendo switch lite](https://www.facebook.com/marketplace/item/1077738021743766) — $1.700 — Vendedor: César Gutiérrez
-- 2026-10-20 18:28 — [Nintendo switch lite](https://www.facebook.com/marketplace/item/2700866950383282) — $1.850 — Vendedor: Josue Iras
 - 2026-10-27 02:57 — [NINTENDO SWITCH LITE](https://www.facebook.com/marketplace/item/1110392755114203) — $2.000 — Vendedor: Licenciado Luis Antonio
 - 2026-10-09 13:54 — [Nintendo Switch Lite Rosa](https://www.facebook.com/marketplace/item/1836019150883947) — $2.000 — Vendedor: Alexa Yamileth
 - 2026-09-05 14:46 — [nintendo switch lite](https://www.facebook.com/marketplace/item/1600353804972930) — $2.000 — Vendedor: Fermin Enrique Soto
 - 2026-03-24 23:52 — [Nintendo switch lite azul](https://www.facebook.com/marketplace/item/1881400229178039) — $2.000 — Vendedor: Emisel Hoo
-- 2026-10-23 15:10 — [Nintendo switch lite gris](https://www.facebook.com/marketplace/item/1146379167717375) — $2.100 — Vendedor: Ana Lucia G. Melendrez
 - 2026-10-14 02:31 — [Switch lite todo le funciona sin detalles entrego con cargador original, estuche y 1 juego físico](https://www.facebook.com/marketplace/item/3708005469381714) — $2.150 — Vendedor: Antoni Tony
 - 2026-11-12 13:31 — [NINTENDO SWITCH LITE AZUL](https://www.facebook.com/marketplace/item/1522277516382113) — $2.200 — Vendedor: Juan Pablo RW
 - 2026-10-22 21:36 — [Vendo Nintendo swich Lite](https://www.facebook.com/marketplace/item/1606709510765405) — $2.200 — Vendedor: Beto Cota
