@@ -6,10 +6,11 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 164 anuncios disponibles.
+Total: 166 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
+- 2026-11-12 23:59 — [Juegos de nintendo](https://www.facebook.com/marketplace/item/1446917647564716) — GRATIS — Vendedor: Mariel Haydee Castro Castro
 - 2026-11-05 19:37 — [Sonic 2 y ni no kuni](https://www.facebook.com/marketplace/item/2149935728978567) — GRATIS — Vendedor: Antonio Rodriguez
 - 2026-08-27 16:04 — [Juegos de switch, ps5 y xbox](https://www.facebook.com/marketplace/item/1422661659727518) — GRATIS — Vendedor: Ivan Delval
 - 2026-04-27 17:17 — [Juegos de Nintendo](https://www.facebook.com/marketplace/item/1342065097975792) — GRATIS — Vendedor: Iris Martinez
@@ -77,6 +78,7 @@ Total: 164 anuncios disponibles.
 - 2026-05-31 13:41 — [Televisor Panasonic](https://www.facebook.com/marketplace/item/27245231865096143) — $400 — Vendedor: Lizeth Perez
 - 2026-04-16 11:46 — [Juegos de play](https://www.facebook.com/marketplace/item/934317096237786) — $400 — Vendedor: Gael Ramos
 - 2026-04-02 13:27 — [Grand Theft Auto V (GTA 5)](https://www.facebook.com/marketplace/item/25576878495321053) — $400 — Vendedor: Pedro Soto
+- 2026-11-13 19:20 — [Lote Juegos 3DS y DS vendo o cambio](https://www.facebook.com/marketplace/item/28958741827082137) — $450 — Vendedor: Jurguen Camacho
 - 2026-07-28 16:09 — [Juego de mario bros](https://www.facebook.com/marketplace/item/2095819434665387) — $450 — Vendedor: Saul Felix
 - 2026-06-12 15:52 — [CRASH NTRILOGY](https://www.facebook.com/marketplace/item/1289606846495326) — $450 — Vendedor: Saneli Daniel
 - 2023-08-19 20:50 — [RED DEAD REDEMPTION II](https://www.facebook.com/marketplace/item/634168878515828) — $450 — Vendedor: Marcela M Galaviz
