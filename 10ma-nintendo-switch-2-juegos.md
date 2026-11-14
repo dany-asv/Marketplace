@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 23 anuncios disponibles.
+Total: 24 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -24,6 +24,7 @@ Total: 23 anuncios disponibles.
 - 2026-06-26 15:47 — [Star Fox para nintendo switch 2 (código digital)](https://www.facebook.com/marketplace/item/1054365930489769) — $750 — Vendedor: Luis Joestar
 - 2026-10-01 15:05 — [Nintendo Switch BANANZA](https://www.facebook.com/marketplace/item/1623229229496767) — $800 — Vendedor: Ana Jaquelin
 - 2026-11-03 22:31 — [Yooka Nintendo switch 2](https://www.facebook.com/marketplace/item/2207520786812958) — $830 — Vendedor: Iram A. Payan
+- 2026-11-14 09:51 — [Juegos Nintendo switch 2](https://www.facebook.com/marketplace/item/1002871455582330) — $1.000 — Vendedor: Iram A. Payan
 - 2026-10-30 21:51 — [Se vende juego de swich 2](https://www.facebook.com/marketplace/item/1692943958957878) — $1.000
 - 2026-10-10 12:51 — [Pokémon pokopia nintendo switch 2](https://www.facebook.com/marketplace/item/1683097609824513) — $1.000 — Vendedor: Carlos Miranda
 - 2026-08-27 16:09 — [Juegos de nintendo switch 2](https://www.facebook.com/marketplace/item/1609294647512187) — $1.000 — Vendedor: Ivan Delval
