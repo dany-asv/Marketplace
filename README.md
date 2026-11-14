@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1548 anuncios disponibles.
+Total: 1549 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -51,7 +51,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](5ta-nintendo-64-juegos.md) — 13 anuncios
     - [Accesorios](5ta-nintendo-64-accesorios.md) — 1 anuncios
   - PlayStation 1 (PS1):
-    - [Consolas](5ta-ps1-consolas.md) — 4 anuncios
+    - [Consolas](5ta-ps1-consolas.md) — 5 anuncios
     - [Accesorios](5ta-ps1-accesorios.md) — 1 anuncios
 - 6ta generación:
   - GameCube:
@@ -138,6 +138,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-13 19:20 — [Lote Juegos 3DS y DS vendo o cambio](https://www.facebook.com/marketplace/item/28958741827082137) — $450 — Usado - Buen estado — Los Mochis — vendedor en Whitelist de Daniel: Jurguen Camacho
 - 2026-11-13 19:13 — [CONTROLES XBOX SERIES S/X](https://www.facebook.com/marketplace/item/2124136108469490) — $1.299 — Nuevo — Los Mochis — Vendedor: Jesus Valdez
 - 2026-11-13 16:46 — [Control xbox rojo](https://www.facebook.com/marketplace/item/1830430891846220) — GRATIS — Usado - Buen estado — Los Mochis — Vendedor: Gael Leyva
+- 2026-11-13 16:38 — [PlayStation uno](https://www.facebook.com/marketplace/item/1640601887521994) — $999 — Usado - Buen estado — Los Mochis — vendedor en Whitelist de Daniel: Chappy Chappy
 - 2026-11-13 15:15 — [Pokopia Nintendo switch 2](https://www.facebook.com/marketplace/item/1779358799846458) — $1 — Nuevo — Los Mochis — Vendedor: Iram A. Payan
 - 2026-11-13 15:14 — [Metroid Nintendo switch 2](https://www.facebook.com/marketplace/item/29866035029660839) — $1 — Nuevo — Los Mochis — Vendedor: Iram A. Payan
 - 2026-11-13 15:03 — [Vendo juegos de Xbox one y control gamesir kalei flux](https://www.facebook.com/marketplace/item/1122923617202322) — GRATIS — Usado — Los Mochis — Vendedor: Pery Lopez
