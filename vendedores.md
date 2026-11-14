@@ -6,7 +6,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
 
-Total: 915 vendedores, 1519 anuncios con vendedor identificado (2 anuncios de la lista no tienen vendedor identificado).
+Total: 915 vendedores, 1522 anuncios con vendedor identificado (2 anuncios de la lista no tienen vendedor identificado).
 
 ## Vendedores (de mayor a menor número de publicaciones)
 
@@ -46,6 +46,7 @@ Total: 915 vendedores, 1519 anuncios con vendedor identificado (2 anuncios de la
 - [Fer Miranda](https://www.facebook.com/marketplace/profile/61584162783011) — 5 publicaciones ✓
 - [Ivan Delval](https://www.facebook.com/marketplace/profile/722256551) — 5 publicaciones ✓
 - [Janeth Lara Torres](https://www.facebook.com/marketplace/profile/100000583036494) — 5 publicaciones
+- [Jesus Valdez](https://www.facebook.com/marketplace/profile/100006487108435) — 5 publicaciones
 - [Juan Sergio Hernandez Araujo](https://www.facebook.com/marketplace/profile/100000461024234) — 5 publicaciones
 - [Karlita Martinez](https://www.facebook.com/marketplace/profile/100021932332531) — 5 publicaciones
 - [Lizarraga Maria](https://www.facebook.com/marketplace/profile/1635936476) — 5 publicaciones
@@ -85,7 +86,6 @@ Total: 915 vendedores, 1519 anuncios con vendedor identificado (2 anuncios de la
 - [Francisco Arturo](https://www.facebook.com/marketplace/profile/100002335875634) — 3 publicaciones
 - [Jazmin Invitaciones Digitales](https://www.facebook.com/marketplace/profile/61557676108085) — 3 publicaciones
 - [Jesus Eduardo Aragon](https://www.facebook.com/marketplace/profile/714028548) — 3 publicaciones
-- [Jesus Valdez](https://www.facebook.com/marketplace/profile/100006487108435) — 3 publicaciones
 - [Jose Cass](https://www.facebook.com/marketplace/profile/100003911546939) — 3 publicaciones
 - [Jose Rios](https://www.facebook.com/marketplace/profile/100002286361346) — 3 publicaciones
 - [Karely DK](https://www.facebook.com/marketplace/profile/100054816138004) — 3 publicaciones
@@ -136,6 +136,7 @@ Total: 915 vendedores, 1519 anuncios con vendedor identificado (2 anuncios de la
 - [Charly Galaviz](https://www.facebook.com/marketplace/profile/100005035564981) — 2 publicaciones
 - [Charly J Acosta](https://www.facebook.com/marketplace/profile/61591722123130) — 2 publicaciones
 - [Charo Buelna](https://www.facebook.com/marketplace/profile/100001119671012) — 2 publicaciones
+- [Chris Ramirez](https://www.facebook.com/marketplace/profile/100038699142462) — 2 publicaciones
 - [Clau Valen](https://www.facebook.com/marketplace/profile/61584919496798) — 2 publicaciones
 - [César López](https://www.facebook.com/marketplace/profile/100024825966700) — 2 publicaciones
 - [Daniel Eg](https://www.facebook.com/marketplace/profile/61593087527667) — 2 publicaciones
@@ -374,7 +375,6 @@ Total: 915 vendedores, 1519 anuncios con vendedor identificado (2 anuncios de la
 - [Cesar Rosas](https://www.facebook.com/marketplace/profile/100000024365359) — 1 publicaciones
 - [Chendez Alonso](https://www.facebook.com/marketplace/profile/666314247) — 1 publicaciones
 - [Chettos Mini Chettos](https://www.facebook.com/marketplace/profile/61593595515117) — 1 publicaciones
-- [Chris Ramirez](https://www.facebook.com/marketplace/profile/100038699142462) — 1 publicaciones
 - [Christian Lau](https://www.facebook.com/marketplace/profile/100001196998270) — 1 publicaciones
 - [Christopher Gonzalez](https://www.facebook.com/marketplace/profile/61592165302673) — 1 publicaciones
 - [Chrono Trigger](https://www.facebook.com/marketplace/profile/61590277836365) — 1 publicaciones
