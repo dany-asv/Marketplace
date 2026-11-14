@@ -6,7 +6,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
 
-Total: 915 vendedores, 1522 anuncios con vendedor identificado (2 anuncios de la lista no tienen vendedor identificado).
+Total: 916 vendedores, 1524 anuncios con vendedor identificado (2 anuncios de la lista no tienen vendedor identificado).
 
 ## Vendedores (de mayor a menor número de publicaciones)
 
@@ -26,11 +26,11 @@ Total: 915 vendedores, 1522 anuncios con vendedor identificado (2 anuncios de la
 - [Gwendoline Palafox Almanza](https://www.facebook.com/marketplace/profile/61552019004427) — 9 publicaciones
 - [Alonso Vlz](https://www.facebook.com/marketplace/profile/100063709718714) — 8 publicaciones
 - [Jano Sarabia](https://www.facebook.com/marketplace/profile/100002128719711) — 8 publicaciones
+- [Jesus Gilberto Alvarez Vega](https://www.facebook.com/marketplace/profile/100000465903128) — 8 publicaciones
 - [Miguel Armenta](https://www.facebook.com/marketplace/profile/100012389525954) — 8 publicaciones ✓
 - [Ulises Valenzuela Ochoa](https://www.facebook.com/marketplace/profile/100076629746475) — 8 publicaciones ✓
 - [Bianey Alejandra Muñoz Herrera](https://www.facebook.com/marketplace/profile/832647899) — 7 publicaciones
 - [Eduardo Infante](https://www.facebook.com/marketplace/profile/562531441) — 7 publicaciones
-- [Jesus Gilberto Alvarez Vega](https://www.facebook.com/marketplace/profile/100000465903128) — 7 publicaciones
 - [Briann A Morales](https://www.facebook.com/marketplace/profile/61573406002365) — 6 publicaciones
 - [Dulce Palma](https://www.facebook.com/marketplace/profile/100002860850347) — 6 publicaciones
 - [Emmanuel Enciso](https://www.facebook.com/marketplace/profile/100049760887033) — 6 publicaciones
@@ -427,6 +427,7 @@ Total: 915 vendedores, 1522 anuncios con vendedor identificado (2 anuncios de la
 - [Diego Edel](https://www.facebook.com/marketplace/profile/100004119302517) — 1 publicaciones
 - [Diego LV](https://www.facebook.com/marketplace/profile/1693759689) — 1 publicaciones
 - [Diego Muñoz](https://www.facebook.com/marketplace/profile/61579708947376) — 1 publicaciones
+- [Diego Valdez](https://www.facebook.com/marketplace/profile/100040047007058) — 1 publicaciones
 - [Dio Brando](https://www.facebook.com/marketplace/profile/100038714948225) — 1 publicaciones
 - [Dominguez Acel](https://www.facebook.com/marketplace/profile/61582215035457) — 1 publicaciones
 - [Dorys Valle](https://www.facebook.com/marketplace/profile/763819514) — 1 publicaciones
