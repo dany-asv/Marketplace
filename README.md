@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1526 anuncios disponibles.
+Total: 1532 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -65,7 +65,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](6ta-ps2-juegos.md) — 6 anuncios
     - [Accesorios](6ta-ps2-accesorios.md) — 2 anuncios
   - Xbox Clásico:
-    - [Consolas](6ta-xbox-clasico-consolas.md) — 1 anuncios
+    - [Consolas](6ta-xbox-clasico-consolas.md) — 2 anuncios
     - [Accesorios](6ta-xbox-clasico-accesorios.md) — 1 anuncios
 - 7ma generación:
   - Wii:
@@ -96,12 +96,12 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 9na generación:
   - Nintendo Switch:
     - Consolas:
-      - [OLED](9na-nintendo-switch-oled-consolas.md) — 129 anuncios
+      - [OLED](9na-nintendo-switch-oled-consolas.md) — 130 anuncios
       - [Lite](9na-nintendo-switch-lite-consolas.md) — 32 anuncios
       - [Normal](9na-nintendo-switch-normal-consolas.md) — 129 anuncios
       - [Customs](9na-nintendo-switch-customs-consolas.md) — 31 anuncios
     - [Juegos](9na-nintendo-switch-juegos.md) — 246 anuncios
-    - [Accesorios](9na-nintendo-switch-accesorios.md) — 60 anuncios
+    - [Accesorios](9na-nintendo-switch-accesorios.md) — 61 anuncios
   - PlayStation 5 (PS5):
     - [Consolas](9na-ps5-consolas.md) — 2 anuncios
     - [Juegos](9na-ps5-juegos.md) — 19 anuncios
@@ -116,10 +116,16 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](10ma-nintendo-switch-2-juegos.md) — 23 anuncios
     - [Accesorios](10ma-nintendo-switch-2-accesorios.md) — 1 anuncios
 - Otros — Multiplataforma o sin plataforma clara:
-  - [Consolas](otros-consolas.md) — 90 anuncios
+  - [Consolas](otros-consolas.md) — 91 anuncios
   - [Juegos](otros-juegos.md) — 168 anuncios
-  - [Accesorios](otros-accesorios.md) — 40 anuncios
+  - [Accesorios](otros-accesorios.md) — 42 anuncios
 ## Disponibles (de más actual a más viejo)
+- 2026-11-14 14:58 — [Máquina Arcade Retro Doble Palanca | 36,800 Juegos Clásicos](https://www.facebook.com/marketplace/item/1610802756924102) — $2.500 — Nuevo — Los Mochis — Vendedor: Juan Manuel Tapia
+- 2026-11-14 14:46 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/1737857774378418) — $4.000 — Usado - Como nuevo — Los Mochis — Vendedor: Antonio Arias
+- 2026-11-14 14:16 — [Kontrol freek xbox, playstation 4/5](https://www.facebook.com/marketplace/item/1143103431437282) — $135 — Nuevo — Los Mochis — Vendedor: Jesus Gilberto Alvarez Vega
+- 2026-11-14 14:16 — [Kontrolfreek xbox serie X/S xbox one](https://www.facebook.com/marketplace/item/979360618130515) — $110 — Nuevo — Los Mochis — Vendedor: Jesus Gilberto Alvarez Vega
+- 2026-11-14 12:45 — [Estuche pikachu 3D nintendo switch](https://www.facebook.com/marketplace/item/1530267892274163) — $240 — Nuevo — Los Mochis — Vendedor: Jesus Gilberto Alvarez Vega
+- 2026-11-14 11:21 — [Xbox clasico](https://www.facebook.com/marketplace/item/29188810900771023) — $1.400 — Usado - Buen estado — Los Mochis — Vendedor: Luis Portillo Cota
 - 2026-11-14 13:17 — [SELLADO CONTROL XBOX SERIES X/S](https://www.facebook.com/marketplace/item/2233537370851643) — $1.000 — Nuevo — Los Mochis — Vendedor: Diego Valdez
 - 2026-11-14 11:51 — [CONTROLES PLAYSTATION 5](https://www.facebook.com/marketplace/item/1394762279138347) — $1.269 — Nuevo — Los Mochis — Vendedor: Jesus Valdez
 - 2026-11-14 11:34 — [Nintendo switch 1](https://www.facebook.com/marketplace/item/1821220625659604) — $3.900 — Usado - Como nuevo — Los Mochis — Vendedor: Chris Ramirez

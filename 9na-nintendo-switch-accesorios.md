@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 60 anuncios disponibles.
+Total: 61 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -31,6 +31,7 @@ Total: 60 anuncios disponibles.
 - 2026-07-23 06:38 — [Funda Viaje Switch/Switch Oled](https://www.facebook.com/marketplace/item/1019935304201385) — $200 — Vendedor: Gerardo Recio
 - 2026-04-17 18:38 — [Estuche Nintendo switch muy buen estado $280](https://www.facebook.com/marketplace/item/1680377603116707) — $200 — Vendedor: Lluvia Gálvez
 - 2025-10-13 19:33 — [Funda para el Nintendo switch 1](https://www.facebook.com/marketplace/item/1387449993384792) — $200 — Vendedor: Cortes Audeves Jose Guadalupe
+- 2026-11-14 12:45 — [Estuche pikachu 3D nintendo switch](https://www.facebook.com/marketplace/item/1530267892274163) — $240 — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-11-07 19:55 — [Estuche grande switch mario edicion](https://www.facebook.com/marketplace/item/990503590184181) — $240 — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-11-07 08:41 — [Estuche pikachu 3D nintendo switch](https://www.facebook.com/marketplace/item/2233742620536631) — $240 — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-10-25 18:24 — [Control para nintendo switch o pc nuevo](https://www.facebook.com/marketplace/item/1714838913356326) — $250 — Vendedor: German Nuñez

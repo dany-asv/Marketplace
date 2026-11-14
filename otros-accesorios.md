@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 40 anuncios disponibles.
+Total: 42 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -16,9 +16,11 @@ Total: 40 anuncios disponibles.
 - 2026-09-02 01:00 — [Stylus 3ds , Ds Lite Y Xl y gomas para controles](https://www.facebook.com/marketplace/item/1054109230864191) — $50 — Vendedor: Ana Julia Ahumada
 - 2026-10-22 10:10 — [Cable hdmi](https://www.facebook.com/marketplace/item/1439885281614868) — $100 — Vendedor: Jesus Cota
 - 2026-07-22 21:50 — [Cable Hdmi Nintendo original speed  360hz](https://www.facebook.com/marketplace/item/1782433266115664) — $100 — Vendedor: Novio De Guadalupe
+- 2026-11-14 14:16 — [Kontrolfreek xbox serie X/S xbox one](https://www.facebook.com/marketplace/item/979360618130515) — $110 — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-08-04 11:50 — [Cargador Nintendo gameboy, ds, 3ds,dslite,dsi](https://www.facebook.com/marketplace/item/1410720534453492) — $111 — Vendedor: Chappy Chappy
 - 2026-08-04 11:50 — [Funda para nintendo switch y 3ds barato](https://www.facebook.com/marketplace/item/939919522470089) — $120 — Vendedor: Chappy Chappy
 - 2026-11-05 19:29 — [Combo para escritorio, tapete 80x60, teclado mecanico, soporte para laptop, y audifonos inalambricos](https://www.facebook.com/marketplace/item/1454994946562510) — $123 — Vendedor: Verduranacida Si
+- 2026-11-14 14:16 — [Kontrol freek xbox, playstation 4/5](https://www.facebook.com/marketplace/item/1143103431437282) — $135 — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-08-07 15:33 — [Cargadores laptop, Apple MacBookz HP, DELL.](https://www.facebook.com/marketplace/item/902611872905481) — $150 — Vendedor: Jesús Navarro Sicilia
 - 2026-07-27 15:32 — [Cargador para consola Nintendo](https://www.facebook.com/marketplace/item/2589144904871344) — $250 — Vendedor: Ivan Lopez
 - 2026-10-22 10:49 — [Convertídor hdmi para nintendo 64,super nes gamecube](https://www.facebook.com/marketplace/item/1464828052261025) — $300 — Vendedor: Chappy Chappy
