@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 120 anuncios disponibles.
+Total: 118 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -26,7 +26,6 @@ Total: 120 anuncios disponibles.
 - 2026-05-16 13:01 — [Ps4](https://www.facebook.com/marketplace/item/1678170283333636) — $1.500 — Vendedor: Axl Soto
 - 2026-04-17 21:53 — [Play 4](https://www.facebook.com/marketplace/item/1953168535591909) — $1.600 — Vendedor: Gabriel Lopez
 - 2025-06-09 10:19 — [Play station 4 slim buen estado 500 Gb vendo o cambio por algo de mi agrado](https://www.facebook.com/marketplace/item/574245225730063) — $1.600 — Vendedor: Oscar Montoya
-- 2026-11-11 14:45 — [PlayStation 4](https://www.facebook.com/marketplace/item/1608026423794544) — $1.700 — Vendedor: Marlene Robles
 - 2026-06-11 15:21 — [PlayStation 4](https://www.facebook.com/marketplace/item/1757764265651282) — $1.800 — Vendedor: Elisa Valenzuela
 - 2026-09-22 13:11 — [Playstation 4](https://www.facebook.com/marketplace/item/1511485934113322) — $1.900 — Vendedor: Bladimir Bermudez
 - 2026-11-08 04:27 — [Playstation 4 fat](https://www.facebook.com/marketplace/item/2671638733352947) — $2.000 — Vendedor: Cesar Arredondo
@@ -86,7 +85,6 @@ Total: 120 anuncios disponibles.
 - 2026-08-05 14:57 — [PLAYSTATION FAT (ps4) incluye control de spiderman y dos juegos (days gone) (injustice 2)](https://www.facebook.com/marketplace/item/1036014959350391) — $2.900 — Vendedor: Roberto Valenzuela
 - 2026-08-14 09:25 — [Ps4 con varios juegos, ps plus y periféricos completos sin detalles](https://www.facebook.com/marketplace/item/1367928004848573) — $2.999 — Vendedor: Danielito Soto
 - 2026-11-12 14:03 — [Playstation 4pro](https://www.facebook.com/marketplace/item/1901372871298961) — $3.000 — Vendedor: Jesus Ramon Torres
-- 2026-11-08 01:22 — [Play 4](https://www.facebook.com/marketplace/item/1456907256545625) — $3.000 — Vendedor: Eduardo Medina
 - 2026-11-06 17:52 — [Play station 4 en venta sin fallas dos controles](https://www.facebook.com/marketplace/item/1129822423273774) — $3.000 — Vendedor: Adan Uribe
 - 2026-10-17 13:48 — [Play Station 4](https://www.facebook.com/marketplace/item/1850780232947855) — $3.000 — Vendedor: Adriel D. Aguirre Lopez
 - 2026-10-11 18:44 — [Play 4 slim se puede negociar el precio o también intercambios](https://www.facebook.com/marketplace/item/1134588509278568) — $3.000 — Vendedor: Raul Popelle

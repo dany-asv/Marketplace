@@ -13,7 +13,6 @@ Total: 11 anuncios disponibles.
 - 2026-11-11 22:29 — [Xbox Series S ⭐️✅  Todo incluido funcionando al 100 poco uso   📺 Monitor LG UltraGear 24GS50F  * 24](https://www.facebook.com/marketplace/item/2322029451893733) — $66 — Vendedor: Alvarez Fierro Jose
 - 2026-11-12 20:17 — [Xbox Series S](https://www.facebook.com/marketplace/item/1816698796278290) — $123 — Vendedor: Emi CM
 - 2026-11-04 19:19 — [Xbox Series S 512Gb](https://www.facebook.com/marketplace/item/1597893928207904) — $3.400 — Vendedor: Francisco Perez
-- 2026-11-12 11:59 — [Xbox series s](https://www.facebook.com/marketplace/item/1885752179256951) — $3.800 — Vendedor: Juan Pablo RW
 - 2026-11-12 13:19 — [Xbox Series S](https://www.facebook.com/marketplace/item/1125671176871384) — $3.900 — Vendedor: Miguel Escobosa
 - 2026-10-27 12:41 — [Xbox Series s con control no original](https://www.facebook.com/marketplace/item/2091861088141250) — $3.900 — Vendedor: Kevin Rodriguez
 - 2026-11-12 13:18 — [Xbox Series S](https://www.facebook.com/marketplace/item/1812497573362067) — $4.000 — Vendedor: Alexis Herrera
@@ -21,3 +20,5 @@ Total: 11 anuncios disponibles.
 - 2026-10-18 22:32 — [Xbox series S](https://www.facebook.com/marketplace/item/1934202568030559) — $4.500 — Vendedor: Julio Castro
 - 2026-10-27 15:36 — [Xbox series S](https://www.facebook.com/marketplace/item/1652499659814866) — $5.500 — Vendedor: Cecilia Carrillo
 - 2026-10-30 16:06 — [Xbox Series S + Juegos](https://www.facebook.com/marketplace/item/1814677796341479) — $6.000 — Vendedor: Fernando Velasquez
+
+- 2026-11-13 21:25 — [XBOX SERIES S](https://www.facebook.com/marketplace/item/976005778507201) — $6.999 — Vendedor: Jesus Valdez

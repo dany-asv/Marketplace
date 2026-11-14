@@ -24,7 +24,6 @@ Total: 127 anuncios disponibles.
 - 2026-09-11 13:41 — [Nintendo switch](https://www.facebook.com/marketplace/item/1083502440934361) — $400 — Vendedor: Bryan Alexis Soto Villela
 - 2026-11-11 20:53 — [Nintendo Switch](https://www.facebook.com/marketplace/item/2622661358146733) — $1.900 — Vendedor: Antonio Palafox
 - 2026-11-11 20:52 — [Nintendo Switch](https://www.facebook.com/marketplace/item/1140352575248205) — $1.900 — Vendedor: Antonio Palafox
-- 2026-11-07 11:13 — [Consola de videojuegos Nintendo Switch](https://www.facebook.com/marketplace/item/1648807713289928) — $2.000 — Vendedor: Leonardo Cardenas
 - 2026-10-25 20:47 — [Nintendo Switch](https://www.facebook.com/marketplace/item/1666238878331387) — $2.000 — Vendedor: Gnivri Lugo
 - 2026-10-13 14:39 — [Nintendo switch](https://www.facebook.com/marketplace/item/1983211035701346) — $2.000 — Vendedor: Yis Leyva
 - 2026-08-12 20:55 — [Nintendo](https://www.facebook.com/marketplace/item/2024918761484228) — $2.000 — Vendedor: Yis Leyva
@@ -50,6 +49,7 @@ Total: 127 anuncios disponibles.
 - 2026-08-23 18:53 — [Nintendo switch](https://www.facebook.com/marketplace/item/937368092068367) — $2.800
 - 2026-08-26 12:43 — [Nintendo switch 01 32 GB con doc, HDMI, correas, cargador y joycon grip](https://www.facebook.com/marketplace/item/1390020969773794) — $2.900 — Vendedor: Antonio Padilla
 - 2026-08-04 15:58 — [Nintendo Switch](https://www.facebook.com/marketplace/item/1670143517421493) — $2.950 — Vendedor: Angel Zuñiga
+- 2026-11-13 21:19 — [Nintendo switch 1](https://www.facebook.com/marketplace/item/1131522689662539) — $3.000 — Vendedor: Janeth Rosas
 - 2026-09-16 12:26 — [nintendo switch](https://www.facebook.com/marketplace/item/1121642567085729) — $3.000 — Vendedor: Irving Hernández
 - 2026-07-13 15:41 — [Nintendo Switch standard con estuche](https://www.facebook.com/marketplace/item/1722003672149876) — $3.000 — Vendedor: Jorge Trs
 - 2026-06-28 09:43 — [Nintendo switch](https://www.facebook.com/marketplace/item/1518504266634174) — $3.000 — Vendedor: Angel Rodriguez

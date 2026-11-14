@@ -71,6 +71,7 @@ Total: 85 anuncios disponibles.
 - 2026-11-05 13:49 — [Consolas Nintendo retro](https://www.facebook.com/marketplace/item/1808346203699556) — $1.500 — Vendedor: Héctor Peñuelas
 - 2026-08-20 11:08 — [Nintendo con un juego y un control](https://www.facebook.com/marketplace/item/1071608498708028) — $1.500 — Vendedor: Juan Velazquez
 - 2025-12-01 18:37 — [Televisión análoga](https://www.facebook.com/marketplace/item/1623570255272841) — $1.500 — Vendedor: Mara Soto
+- 2026-11-13 20:14 — [Tablero Maquinita Pandora💥70 Mil Juegos Clasicos,Consola Retro‼️Emuladores Top✅️Videojuegos Top✅️🎮](https://www.facebook.com/marketplace/item/1473520258073335) — $2.100 — Vendedor: Nutrijugos LA Selva
 - 2026-11-06 19:59 — [Tablero Maquinita Pandora💥70 Mil Juegos Clasicos,Consola Retro‼️Emuladores Top✅️Videojuegos Top✅️🎮](https://www.facebook.com/marketplace/item/1867991544374421) — $2.100 — Vendedor: Nutrijugos LA Selva
 - 2026-11-06 19:59 — [Tableros Arcade‼️Consola 70 Mil Juegos Retro💥Tipo Maquinitas Emuladores Variados Top‼️🤩🏡🛵💨](https://www.facebook.com/marketplace/item/1656210535884771) — $2.100 — Vendedor: Nutrijugos LA Selva
 - 2026-11-04 19:35 — [Tablero Maquinita Pandora💥70 Mil Juegos Clasicos,Consola Retro‼️Emuladores Top✅️Videojuegos Top✅️🎮](https://www.facebook.com/marketplace/item/1161129149598394) — $2.100 — Vendedor: Nutrijugos LA Selva
@@ -78,7 +79,6 @@ Total: 85 anuncios disponibles.
 - 2026-11-02 20:16 — [Tablero Maquinita Pandora💥70 Mil Juegos Clasicos,Consola Retro‼️Emuladores Top✅️Videojuegos Top✅️🎮](https://www.facebook.com/marketplace/item/1785551825864826) — $2.100 — Vendedor: Nutrijugos LA Selva
 - 2026-11-02 20:15 — [Tableros Arcade‼️Consola 70 Mil Juegos Retro💥Tipo Maquinitas Emuladores Variados Top‼️🤩🏡🛵💨](https://www.facebook.com/marketplace/item/1655309465997120) — $2.100 — Vendedor: Nutrijugos LA Selva
 - 2026-11-02 20:13 — [Tablero Pandora Pro Plus👾🕹CONSOLA Árcade Retro 70 Mil Juegos🎮‼️Videojuegos Top 4K🏡🛵💨](https://www.facebook.com/marketplace/item/1679688227165301) — $2.100 — Vendedor: Nutrijugos LA Selva
-- 2026-11-10 15:37 — [🎮 MÁQUINAS ARCADE MULTIJUEGOS – ESTILO XBOX CLÁSICO 🎮](https://www.facebook.com/marketplace/item/2686963851743349) — $2.500 — Vendedor: Evelin Perea
 - 2026-11-02 17:54 — [Tablero Arcade](https://www.facebook.com/marketplace/item/1152695513965348) — $2.500 — Vendedor: Catalina Rodrigez
 - 2026-10-25 14:07 — [😍 Desde los clásicos🕹️ 📺🕹️ de 8 bits hasta la era 3D: todo en la Pandora Pro.](https://www.facebook.com/marketplace/item/2019062505473498) — $2.500 — Vendedor: Paola Zepeda
 - 2026-10-25 13:33 — [😍 Desde los clásicos🕹️ 📺🕹️ de 8 bits hasta la era 3D: todo en la Pandora Pro.](https://www.facebook.com/marketplace/item/1111368518259030) — $2.500 — Vendedor: Paola Zepeda
