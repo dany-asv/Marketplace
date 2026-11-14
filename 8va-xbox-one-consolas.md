@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 28 anuncios disponibles.
+Total: 30 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -30,11 +30,13 @@ Total: 28 anuncios disponibles.
 - 2026-10-19 13:00 — [Xbox One s](https://www.facebook.com/marketplace/item/4781921825373690) — $2.200 — Vendedor: Daniel Parra Ruiz
 - 2026-10-27 19:29 — [Xbox one s 512 gb](https://www.facebook.com/marketplace/item/3794627564019723) — $2.300 — Vendedor: Carlos Niño
 - 2026-11-11 15:26 — [Xbox One X](https://www.facebook.com/marketplace/item/1650767393195026) — $2.400 — Vendedor: Ktr Lovecraft
+- 2026-11-13 20:04 — [Xbox one s 1tb con dos controles y juegos](https://www.facebook.com/marketplace/item/1144267388004120) — $2.500 — Vendedor: Alberto Mendivil
 - 2026-11-11 13:00 — [Xbox one s](https://www.facebook.com/marketplace/item/1336706561822170) — $2.500 — Vendedor: Candi Land
 - 2026-10-26 17:55 — [Xbox one s](https://www.facebook.com/marketplace/item/1503373261841624) — $2.500 — Vendedor: Emmanuel Vega
 - 2026-11-08 00:28 — [Xbox one S de un 1tera](https://www.facebook.com/marketplace/item/1801398635328858) — $2.700 — Vendedor: Jona Lopez
 - 2026-11-08 00:27 — [Xbox one S de 1 tera](https://www.facebook.com/marketplace/item/1132394109682783) — $2.700 — Vendedor: Markis Lz
 - 2026-11-03 18:42 — [Vendo o cambio Xbox one x](https://www.facebook.com/marketplace/item/1822595792199212) — $2.700 — Vendedor: Pery Lopez
 - 2026-10-23 12:19 — [Vendo+xbox+one+x+](https://www.facebook.com/marketplace/item/1088430740737011) — $2.800 — Vendedor: Pedro Carrazco
+- 2026-11-03 16:07 — [Xbox One S All-Digital Edition](https://www.facebook.com/marketplace/item/1692126262330560) — $3.000 — Vendedor: Diego Muñoz
 - 2026-08-11 17:17 — [Vendo Xbox one en buen estado tiene video de la entrada tiene dos controles cable hdmi.](https://www.facebook.com/marketplace/item/2265418454218318) — $3.500 — Vendedor: Guzman Yunnuel
 - 2026-11-09 22:51 — [Xbox One con accesorios con cuenta de game pass por un año](https://www.facebook.com/marketplace/item/2710384966085234) — $5.500 — Vendedor: Daniel Ricardo Meza Soto

@@ -6,10 +6,11 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 90 anuncios disponibles.
+Total: 91 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
+- 2026-11-14 04:18 — [Se vende o se cambia play 4 y nintendo switch](https://www.facebook.com/marketplace/item/907770985755877) — GRATIS — Vendedor: Emiliano Rico
 - 2026-11-13 14:21 — [Estación Arcade Retro Multiconsola | Miles de Juegos Clásicos](https://www.facebook.com/marketplace/item/2361763091256204) — GRATIS — Vendedor: Fabian JP
 - 2026-11-13 14:20 — [Estación Arcade Retro Multiconsola | Miles de Juegos Clásicos] (https://www.facebook.com/marketplace/item/1414326277394148) — GRATIS — Vendedor: Fabian JP
 - 2026-11-13 13:07 — [‼️Tablero Uso Rudo‼️👾30 Mil Juegos Nuevos Con Garantia,Botones De Repuesto Envios A Domicilio✅️🏡](https://www.facebook.com/marketplace/item/1165589222563823) — GRATIS — Vendedor: Ricardo Sanchez
