@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1532 anuncios disponibles.
+Total: 1534 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -47,7 +47,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](4ta-snes-juegos.md) — 3 anuncios
 - 5ta generación:
   - Nintendo 64 (N64):
-    - [Consolas](5ta-nintendo-64-consolas.md) — 10 anuncios
+    - [Consolas](5ta-nintendo-64-consolas.md) — 11 anuncios
     - [Juegos](5ta-nintendo-64-juegos.md) — 13 anuncios
     - [Accesorios](5ta-nintendo-64-accesorios.md) — 1 anuncios
   - PlayStation 1 (PS1):
@@ -109,7 +109,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - Xbox Series X/S:
     - [Consolas](9na-xbox-series-consolas.md) — 13 anuncios
     - [Juegos](9na-xbox-series-juegos.md) — 1 anuncios
-    - [Accesorios](9na-xbox-series-accesorios.md) — 3 anuncios
+    - [Accesorios](9na-xbox-series-accesorios.md) — 4 anuncios
 - 10ma generación:
   - Nintendo Switch 2:
     - [Consolas](10ma-nintendo-switch-2-consolas.md) — 16 anuncios
@@ -120,8 +120,10 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - [Juegos](otros-juegos.md) — 168 anuncios
   - [Accesorios](otros-accesorios.md) — 42 anuncios
 ## Disponibles (de más actual a más viejo)
+- 2026-11-14 16:47 — [Control Xbox Series nuevo sellado](https://www.facebook.com/marketplace/item/2268620670747108) — $1.000 — Nuevo — Los Mochis — Vendedor: Santiago Garcia
 - 2026-11-14 14:58 — [Máquina Arcade Retro Doble Palanca | 36,800 Juegos Clásicos](https://www.facebook.com/marketplace/item/1610802756924102) — $2.500 — Nuevo — Los Mochis — Vendedor: Juan Manuel Tapia
 - 2026-11-14 14:46 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/1737857774378418) — $4.000 — Usado - Como nuevo — Los Mochis — Vendedor: Antonio Arias
+- 2026-11-14 14:20 — [Nintendo 64 a la venta completo y sin detalles.](https://www.facebook.com/marketplace/item/1156528463533325) — $1.500 — Usado - Buen estado — Los Mochis — Vendedor: Juan Sergio Hernandez Araujo
 - 2026-11-14 14:16 — [Kontrol freek xbox, playstation 4/5](https://www.facebook.com/marketplace/item/1143103431437282) — $135 — Nuevo — Los Mochis — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-11-14 14:16 — [Kontrolfreek xbox serie X/S xbox one](https://www.facebook.com/marketplace/item/979360618130515) — $110 — Nuevo — Los Mochis — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-11-14 12:45 — [Estuche pikachu 3D nintendo switch](https://www.facebook.com/marketplace/item/1530267892274163) — $240 — Nuevo — Los Mochis — Vendedor: Jesus Gilberto Alvarez Vega
