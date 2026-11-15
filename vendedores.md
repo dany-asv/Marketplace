@@ -3,13 +3,13 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - El nombre de cada vendedor es una liga a su perfil de Marketplace.
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
-Total: 925 vendedores, 1541 anuncios con vendedor identificado (2 anuncios de la lista no tienen vendedor identificado).
+Total: 927 vendedores, 1544 anuncios con vendedor identificado (2 anuncios de la lista no tienen vendedor identificado).
 ## Vendedores (de mayor a menor número de publicaciones)
 - [Antonio Lopez](https://www.facebook.com/marketplace/profile/100040731070103) — 41 publicaciones ✓
 - [Carlos Jiménez](https://www.facebook.com/marketplace/profile/100007976233056) — 36 publicaciones
 - [Sebastian Souza](https://www.facebook.com/marketplace/profile/100002607805317) — 22 publicaciones ✓
 - [Chappy Chappy](https://www.facebook.com/marketplace/profile/100026883520340) — 18 publicaciones ✓
-- [Iram A. Payan](https://www.facebook.com/marketplace/profile/628453454) — 17 publicaciones
+- [Iram A. Payan](https://www.facebook.com/marketplace/profile/628453454) — 18 publicaciones
 - [Ivan Lopez](https://www.facebook.com/marketplace/profile/100021428154020) — 16 publicaciones ✓
 - [Nutrijugos LA Selva](https://www.facebook.com/marketplace/profile/100082976675996) — 15 publicaciones
 - [Antoni Tony](https://www.facebook.com/marketplace/profile/61557491476801) — 14 publicaciones ✓
@@ -930,3 +930,5 @@ Total: 925 vendedores, 1541 anuncios con vendedor identificado (2 anuncios de la
 - [Marbella Medina](https://www.facebook.com/marketplace/profile/100000569582735) — 1 publicaciones
 - [Santiago Arce](https://www.facebook.com/marketplace/profile/61593890240563) — 1 publicaciones
 - [Isabella Rojas Diaz](https://www.facebook.com/marketplace/profile/100003827285166) — 1 publicaciones
+- [Edel Muñoz Combs](https://www.facebook.com/marketplace/profile/511703308) — 1 publicaciones
+- [Emi CM](https://www.facebook.com/marketplace/profile/100012840994557) — 1 publicaciones

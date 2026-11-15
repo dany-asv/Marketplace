@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 19 anuncios disponibles.
+Total: 20 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -23,6 +23,7 @@ Total: 19 anuncios disponibles.
 - 2026-06-01 10:12 — [Juegos ps5 en buenas condiciones se van en $500$ cada uno](https://www.facebook.com/marketplace/item/2937953079883311) — $500 — Vendedor: Antonio Lopez
 - 2026-01-16 15:35 — [Se vende o se cambia juego digital call of duty ops 6 para ps5](https://www.facebook.com/marketplace/item/903463258883582) — $500 — Vendedor: Andy Rubio
 - 2026-10-11 12:03 — [Sillent hill Townfall PS5](https://www.facebook.com/marketplace/item/1115472197556304) — $600 — Vendedor: Roberto Ortega
+- 2026-11-15 11:40 — [Juegos PS5](https://www.facebook.com/marketplace/item/1141286178871583) — $650 — Vendedor: Edel Muñoz Combs
 - 2026-11-12 00:24 — [Hogwarts legacy PS5](https://www.facebook.com/marketplace/item/1625533765489329) — $700 — Vendedor: Dante Esquer
 - 2026-10-14 12:39 — [Paquete de juegos para PS5 por $1000](https://www.facebook.com/marketplace/item/1100358862736889) — $999 — Vendedor: Iván Castro León
 - 2026-02-10 09:51 — [Juegos ps5](https://www.facebook.com/marketplace/item/777754828104379) — $1.222 — Vendedor: Sebastian Souza
