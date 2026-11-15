@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 21 anuncios disponibles.
+Total: 22 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -15,6 +15,7 @@ Total: 21 anuncios disponibles.
 - 2026-11-13 15:14 — [Metroid Nintendo switch 2](https://www.facebook.com/marketplace/item/29866035029660839) — $1 — Vendedor: Iram A. Payan
 - 2026-11-13 12:40 — [Hades 2 Nintendo switch 2](https://www.facebook.com/marketplace/item/1125658543699632) — $1 — Vendedor: Iram A. Payan
 - 2026-11-13 12:40 — [Ciberpunk Nintendo switch 2](https://www.facebook.com/marketplace/item/29473519568910404) — $1 — Vendedor: Iram A. Payan
+- 2026-11-10 19:01 — [Street figther 6 juego Nintendo switch 2 years 1-2](https://www.facebook.com/marketplace/item/1441329714219484) — $1 — Vendedor: Iram A. Payan
 - 2026-10-31 20:27 — [Switch 2 juegos nuevos Hades 2 Ciber punk pokopia street figther 6 orbitals metroid](https://www.facebook.com/marketplace/item/1812846470034930) — $1 — Vendedor: Iram A. Payan
 - 2026-11-10 07:42 — [Zelda foil Nintendo switch 2](https://www.facebook.com/marketplace/item/1544480564402064) — $50 — Vendedor: Iram A. Payan
 - 2026-07-23 20:21 — [Pacman switch 2 está en perfectas condiciones](https://www.facebook.com/marketplace/item/872268125621808) — $500 — Vendedor: Antoni Tony

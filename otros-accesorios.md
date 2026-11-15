@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 45 anuncios disponibles.
+Total: 46 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -24,6 +24,7 @@ Total: 45 anuncios disponibles.
 - 2026-11-14 14:16 — [Kontrol freek xbox, playstation 4/5](https://www.facebook.com/marketplace/item/1143103431437282) — $135 — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-08-07 15:33 — [Cargadores laptop, Apple MacBookz HP, DELL.](https://www.facebook.com/marketplace/item/902611872905481) — $150 — Vendedor: Jesús Navarro Sicilia
 - 2026-07-27 15:32 — [Cargador para consola Nintendo](https://www.facebook.com/marketplace/item/2589144904871344) — $250 — Vendedor: Ivan Lopez
+- 2026-11-15 13:12 — [Control Xbox con drift](https://www.facebook.com/marketplace/item/1702698078119720) — $300 — Vendedor: Emilio Cossio
 - 2026-10-22 10:49 — [Convertídor hdmi para nintendo 64,super nes gamecube](https://www.facebook.com/marketplace/item/1464828052261025) — $300 — Vendedor: Chappy Chappy
 - 2026-08-28 16:23 — [Control de Nintendo](https://www.facebook.com/marketplace/item/1083992344102863) — $300 — Vendedor: Lenin Alexfideos
 - 2026-07-27 15:32 — [Cable para diferentes consolas todo en uno](https://www.facebook.com/marketplace/item/1805304460832061) — $300 — Vendedor: Ivan Lopez

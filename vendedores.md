@@ -3,20 +3,20 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - El nombre de cada vendedor es una liga a su perfil de Marketplace.
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
-Total: 928 vendedores, 1545 anuncios con vendedor identificado (2 anuncios de la lista no tienen vendedor identificado).
+Total: 934 vendedores, 1555 anuncios con vendedor identificado (2 anuncios de la lista no tienen vendedor identificado).
 ## Vendedores (de mayor a menor número de publicaciones)
 - [Antonio Lopez](https://www.facebook.com/marketplace/profile/100040731070103) — 41 publicaciones ✓
 - [Carlos Jiménez](https://www.facebook.com/marketplace/profile/100007976233056) — 36 publicaciones
 - [Sebastian Souza](https://www.facebook.com/marketplace/profile/100002607805317) — 22 publicaciones ✓
+- [Iram A. Payan](https://www.facebook.com/marketplace/profile/628453454) — 20 publicaciones
 - [Chappy Chappy](https://www.facebook.com/marketplace/profile/100026883520340) — 18 publicaciones ✓
-- [Iram A. Payan](https://www.facebook.com/marketplace/profile/628453454) — 18 publicaciones
 - [Ivan Lopez](https://www.facebook.com/marketplace/profile/100021428154020) — 16 publicaciones ✓
 - [Nutrijugos LA Selva](https://www.facebook.com/marketplace/profile/100082976675996) — 15 publicaciones
 - [Antoni Tony](https://www.facebook.com/marketplace/profile/61557491476801) — 14 publicaciones ✓
 - [Vicente Munguia](https://www.facebook.com/marketplace/profile/509548546) — 14 publicaciones ✓
 - [Carla Lopez](https://www.facebook.com/marketplace/profile/100009128428674) — 12 publicaciones
 - [Ivan Aguero](https://www.facebook.com/marketplace/profile/61591098105339) — 12 publicaciones
-- [Axel Luna](https://www.facebook.com/marketplace/profile/100041876418121) — 11 publicaciones
+- [Axel Luna](https://www.facebook.com/marketplace/profile/100041876418121) — 12 publicaciones
 - [Jesus Gilberto Alvarez Vega](https://www.facebook.com/marketplace/profile/100000465903128) — 11 publicaciones
 - [Stargames Valenzuela](https://www.facebook.com/marketplace/profile/61553128845022) — 10 publicaciones ✓
 - [Gwendoline Palafox Almanza](https://www.facebook.com/marketplace/profile/61552019004427) — 9 publicaciones
@@ -214,6 +214,7 @@ Total: 928 vendedores, 1545 anuncios con vendedor identificado (2 anuncios de la
 - [Yankarlo Gi](https://www.facebook.com/marketplace/profile/100088915606738) — 2 publicaciones
 - [Yessica Astrid Lopez Galaviz](https://www.facebook.com/marketplace/profile/556050265) — 2 publicaciones
 - [Yis Leyva](https://www.facebook.com/marketplace/profile/100023420531398) — 2 publicaciones
+- [Ernesto Ayala Piña](https://www.facebook.com/marketplace/profile/100050515188718) — 2 publicaciones
 - [A Usiel A Palafox](https://www.facebook.com/marketplace/profile/100088914757602) — 1 publicaciones
 - [Aaron Guzman](https://www.facebook.com/marketplace/profile/100000543765190) — 1 publicaciones
 - [Aaron Medina](https://www.facebook.com/marketplace/profile/100013961595727) — 1 publicaciones
@@ -443,7 +444,6 @@ Total: 928 vendedores, 1545 anuncios con vendedor identificado (2 anuncios de la
 - [Enrique Padilla](https://www.facebook.com/marketplace/profile/631743058) — 1 publicaciones
 - [Erick CE](https://www.facebook.com/marketplace/profile/100018487663797) — 1 publicaciones
 - [Erik Ruben Avila Corrales](https://www.facebook.com/marketplace/profile/100000598736226) — 1 publicaciones
-- [Ernesto Ayala Piña](https://www.facebook.com/marketplace/profile/100050515188718) — 1 publicaciones
 - [Ernesto Fontes](https://www.facebook.com/marketplace/profile/61587160715474) — 1 publicaciones
 - [Ernesto Lugo](https://www.facebook.com/marketplace/profile/1147987995) — 1 publicaciones
 - [Espinoza Alejandro](https://www.facebook.com/marketplace/profile/100081184554668) — 1 publicaciones ✓
@@ -933,3 +933,9 @@ Total: 928 vendedores, 1545 anuncios con vendedor identificado (2 anuncios de la
 - [Edel Muñoz Combs](https://www.facebook.com/marketplace/profile/511703308) — 1 publicaciones
 - [Emi CM](https://www.facebook.com/marketplace/profile/100012840994557) — 1 publicaciones
 - [Mireya Buelna](https://www.facebook.com/marketplace/profile/796459907) — 1 publicaciones
+- [Rafaela Gastelo Torres](https://www.facebook.com/marketplace/profile/100052660340699) — 1 publicaciones
+- [Ruben Vazquez](https://www.facebook.com/marketplace/profile/100002062127815) — 1 publicaciones
+- [Emilio Cossio](https://www.facebook.com/marketplace/profile/61554891851323) — 1 publicaciones
+- [Matthew Gutierrez](https://www.facebook.com/marketplace/profile/100046179486077) — 1 publicaciones
+- [Jose Gonzalez](https://www.facebook.com/marketplace/profile/61590490030952) — 1 publicaciones
+- [Xhavi Manzanarez](https://www.facebook.com/marketplace/profile/100007264414367) — 1 publicaciones

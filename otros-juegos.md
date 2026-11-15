@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 169 anuncios disponibles.
+Total: 171 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -16,6 +16,7 @@ Total: 169 anuncios disponibles.
 - 2026-04-27 17:17 — [Juegos de Nintendo](https://www.facebook.com/marketplace/item/1342065097975792) — GRATIS — Vendedor: Iris Martinez
 - 2026-04-27 13:57 — [Juegos de ps4 y ps5🔥](https://www.facebook.com/marketplace/item/803629019153954) — GRATIS — Vendedor: Andres Acosta
 - 2026-04-21 16:55 — [Amiibo y figuras de colección de videojuegos](https://www.facebook.com/marketplace/item/848565951611208) — GRATIS — Vendedor: Lizarraga Maria
+- 2026-11-15 10:47 — [Se venden juegos de xbox one y xbox 360](https://www.facebook.com/marketplace/item/1843036790058982) — $1 — Vendedor: Ernesto Ayala Piña
 - 2026-11-10 12:26 — [Nintendo super mario bros](https://www.facebook.com/marketplace/item/1085566247817446) — $1 — Vendedor: Daniel Ochoa
 - 2026-11-03 21:31 — [FIFA 23 y call of duty ghosts](https://www.facebook.com/marketplace/item/1795979078286100) — $1 — Vendedor: Nh Ponce
 - 2026-10-29 16:42 — [Juegos](https://www.facebook.com/marketplace/item/1762895271426187) — $1 — Vendedor: Yahir Sanchez
@@ -113,6 +114,7 @@ Total: 169 anuncios disponibles.
 - 2026-10-23 00:16 — [Juegos nuevos baratos](https://www.facebook.com/marketplace/item/1736880077411137) — $599 — Vendedor: Daniel Eg
 - 2026-08-05 22:38 — [Minecraft edicion Mario Bros Nintendo Switch Nuevo sellado compatible Switch 2](https://www.facebook.com/marketplace/item/1692369952062867) — $599 — Vendedor: Vicente Munguia
 - 2026-06-08 21:23 — [Juegos Ps4-Ps5](https://www.facebook.com/marketplace/item/3061640007364823) — $599 — Vendedor: Maria CL
+- 2026-11-15 13:30 — [Videojuegos nintendo Switch play y wii](https://www.facebook.com/marketplace/item/1039832102455774) — $600 — Vendedor: Rafaela Gastelo Torres
 - 2026-11-08 14:32 — [Videojuegos 🎮 PS5 y Nintendo switch](https://www.facebook.com/marketplace/item/1678842957089134) — $600 — Vendedor: Karla Rodriguez
 - 2026-10-21 10:45 — [Mortal Kombat 1](https://www.facebook.com/marketplace/item/1423279409961562) — $600 — Vendedor: Manuel Borquez
 - 2026-09-21 19:52 — [Súper Mario maker2](https://www.facebook.com/marketplace/item/937524275637505) — $600 — Vendedor: Franklin Gamez Rocha

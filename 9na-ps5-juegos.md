@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 20 anuncios disponibles.
+Total: 21 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -29,4 +29,5 @@ Total: 20 anuncios disponibles.
 - 2026-02-10 09:51 — [Juegos ps5](https://www.facebook.com/marketplace/item/777754828104379) — $1.222 — Vendedor: Sebastian Souza
 - 2026-10-17 07:47 — [Call of Duty MW3 ps5](https://www.facebook.com/marketplace/item/1871113177656811) — $1.234 — Vendedor: Jose Guadalupe Guerrero Bojorquez
 - 2026-10-17 06:46 — [Lies of P play5](https://www.facebook.com/marketplace/item/1420992386908645) — $1.234 — Vendedor: Jose Guadalupe Guerrero Bojorquez
+- 2026-11-15 09:37 — [Pragmata PlayStation 5](https://www.facebook.com/marketplace/item/1471593009365169) — $1.400 — Vendedor: Iram A. Payan
 - 2025-11-10 14:04 — [Juegos de ps5 y ps5](https://www.facebook.com/marketplace/item/1160052455720373) — $5.505 — Vendedor: Sebastian Souza
