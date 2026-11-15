@@ -3,7 +3,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - El nombre de cada vendedor es una liga a su perfil de Marketplace.
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
-Total: 929 vendedores, 1544 anuncios con vendedor identificado (2 anuncios de la lista no tienen vendedor identificado).
+Total: 930 vendedores, 1545 anuncios con vendedor identificado (2 anuncios de la lista no tienen vendedor identificado).
 ## Vendedores (de mayor a menor número de publicaciones)
 - [Antonio Lopez](https://www.facebook.com/marketplace/profile/100040731070103) — 41 publicaciones ✓
 - [Carlos Jiménez](https://www.facebook.com/marketplace/profile/100007976233056) — 36 publicaciones
@@ -934,3 +934,4 @@ Total: 929 vendedores, 1544 anuncios con vendedor identificado (2 anuncios de la
 - [Paola Vázquez](https://www.facebook.com/marketplace/profile/100055951713549) — 1 publicaciones
 - [Zamver Zamver](https://www.facebook.com/marketplace/profile/100004525335955) — 1 publicaciones
 - [Irving Alvarez Velazquez](https://www.facebook.com/marketplace/profile/100002765150014) — 1 publicaciones
+- [Alejandro Lopez Ceceña](https://www.facebook.com/marketplace/profile/100000363086375) — 1 publicaciones
