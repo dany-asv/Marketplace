@@ -3,7 +3,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - El nombre de cada vendedor es una liga a su perfil de Marketplace.
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
-Total: 935 vendedores, 1557 anuncios con vendedor identificado (2 anuncios de la lista no tienen vendedor identificado).
+Total: 936 vendedores, 1559 anuncios con vendedor identificado (2 anuncios de la lista no tienen vendedor identificado).
 ## Vendedores (de mayor a menor número de publicaciones)
 - [Antonio Lopez](https://www.facebook.com/marketplace/profile/100040731070103) — 41 publicaciones ✓
 - [Carlos Jiménez](https://www.facebook.com/marketplace/profile/100007976233056) — 36 publicaciones
@@ -341,6 +341,7 @@ Total: 935 vendedores, 1557 anuncios con vendedor identificado (2 anuncios de la
 - [Candi Land](https://www.facebook.com/marketplace/profile/61556795802915) — 1 publicaciones
 - [Carlos Avila](https://www.facebook.com/marketplace/profile/100072576524780) — 1 publicaciones
 - [Carlos Beltrán](https://www.facebook.com/marketplace/profile/1553000790) — 1 publicaciones
+- [Carlos Carlon](https://www.facebook.com/marketplace/profile/100003591595969) — 1 publicaciones
 - [Carlos Espinoza](https://www.facebook.com/marketplace/profile/100083401536626) — 1 publicaciones
 - [Carlos Felix](https://www.facebook.com/marketplace/profile/100041251031861) — 1 publicaciones
 - [Carlos Fierro](https://www.facebook.com/marketplace/profile/1673692766) — 1 publicaciones
@@ -715,6 +716,7 @@ Total: 935 vendedores, 1557 anuncios con vendedor identificado (2 anuncios de la
 - [Manuel Moreno](https://www.facebook.com/marketplace/profile/61576356575644) — 1 publicaciones
 - [Manuel Rojo](https://www.facebook.com/marketplace/profile/61591938569111) — 1 publicaciones
 - [Manuel Sanchez Vejas](https://www.facebook.com/marketplace/profile/100065102613111) — 1 publicaciones
+- [Manuel Viz](https://www.facebook.com/marketplace/profile/61596612928353) — 1 publicaciones
 - [Mara Soto](https://www.facebook.com/marketplace/profile/1246279455) — 1 publicaciones
 - [Marcela M Galaviz](https://www.facebook.com/marketplace/profile/680436939) — 1 publicaciones
 - [Marcelo Gabriel](https://www.facebook.com/marketplace/profile/100027990376055) — 1 publicaciones

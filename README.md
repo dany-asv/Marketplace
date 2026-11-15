@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1559 anuncios disponibles.
+Total: 1561 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -86,7 +86,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](8va-wii-u-juegos.md) — 4 anuncios
     - [Accesorios](8va-wii-u-accesorios.md) — 1 anuncios
   - PlayStation 4 (PS4):
-    - [Consolas](8va-ps4-consolas.md) — 115 anuncios
+    - [Consolas](8va-ps4-consolas.md) — 116 anuncios
     - [Juegos](8va-ps4-juegos.md) — 134 anuncios
     - [Accesorios](8va-ps4-accesorios.md) — 11 anuncios
   - Xbox One:
@@ -107,7 +107,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](9na-ps5-juegos.md) — 21 anuncios
     - [Accesorios](9na-ps5-accesorios.md) — 16 anuncios
   - Xbox Series X/S:
-    - [Consolas](9na-xbox-series-consolas.md) — 13 anuncios
+    - [Consolas](9na-xbox-series-consolas.md) — 14 anuncios
     - [Juegos](9na-xbox-series-juegos.md) — 1 anuncios
     - [Accesorios](9na-xbox-series-accesorios.md) — 4 anuncios
 - 10ma generación:
@@ -159,6 +159,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-14 09:30 — [Estuche Zelda nintendo switch](https://www.facebook.com/marketplace/item/2336707090445907) — $360 — Nuevo — Los Mochis — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-11-14 09:30 — [Control gamesir nintendo switch 1 y 2, iPhone, Android, celulares, tablet y pc.](https://www.facebook.com/marketplace/item/2391912944954186) — $1.500 — Nuevo — Los Mochis — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-11-14 09:29 — [Juegos xbox nuevos](https://www.facebook.com/marketplace/item/1659577642380869) — $250 — Nuevo — Los Mochis — Vendedor: Jesus Gilberto Alvarez Vega
+- 2026-11-14 08:41 — [Vendo Xbox series s](https://www.facebook.com/marketplace/item/3562438340597082) — $3.000 — Usado - Como nuevo — Los Mochis — Vendedor: Manuel Viz
 - 2026-11-14 04:18 — [Se vende o se cambia play 4 y nintendo switch](https://www.facebook.com/marketplace/item/907770985755877) — GRATIS — Usado - Buen estado — Los Mochis — Vendedor: Emiliano Rico
 - 2026-11-14 02:13 — [Ps5 Slim Discos](https://www.facebook.com/marketplace/item/2878987842501947) — $8.500 — Usado - Como nuevo — Los Mochis — Vendedor: Juan Eduardo Gonzalez Mendez
 - 2026-11-14 00:20 — [🕹️ Videojuegos arcade para revivir la nostalgia](https://www.facebook.com/marketplace/item/1145671781197073) — $123 — Nuevo — Los Mochis — Vendedor: Manuel Cardoza
@@ -378,6 +379,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-06 19:59 — [Tablero Maquinita Pandora💥70 Mil Juegos Clasicos,Consola Retro‼️Emuladores Top✅️Videojuegos Top✅️🎮](https://www.facebook.com/marketplace/item/1867991544374421) — $2.100 — Nuevo — Los Mochis — Vendedor: Nutrijugos LA Selva
 - 2026-11-06 19:59 — [Tableros Arcade‼️Consola 70 Mil Juegos Retro💥Tipo Maquinitas Emuladores Variados Top‼️🤩🏡🛵💨](https://www.facebook.com/marketplace/item/1656210535884771) — $2.100 — Nuevo — Los Mochis — Vendedor: Nutrijugos LA Selva
 - 2026-11-06 17:52 — [Play station 4 en venta sin fallas dos controles](https://www.facebook.com/marketplace/item/1129822423273774) — $3.000 — Usado - Aceptable — Los Mochis — Vendedor: Adan Uribe
+- 2026-11-06 17:15 — [PS4 Fat Magica 1TB c/Mantenimiento| GARANTIA/CAMBIOS](https://www.facebook.com/marketplace/item/1991473858195387) — $2.800 — Usado - Como nuevo — Los Mochis — Vendedor: Carlos Carlon
 - 2026-11-06 15:14 — [Xbox One](https://www.facebook.com/marketplace/item/1001660172998720) — $1.900 — Usado - Como nuevo — Los Mochis — Vendedor: Jisus Escalante
 - 2026-11-06 15:10 — [Nintendo Swich Oled](https://www.facebook.com/marketplace/item/1831643834646021) — $4.200 — Usado - Buen estado — Los Mochis — Vendedor: Omar De la Vega
 - 2026-11-06 14:20 — [Days Gone](https://www.facebook.com/marketplace/item/1583914160207078) — $400 — Usado - Como nuevo — Los Mochis — Vendedor: Ulises Valenzuela Ochoa
