@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1546 anuncios disponibles.
+Total: 1547 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -101,7 +101,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
       - [Normal](9na-nintendo-switch-normal-consolas.md) — 129 anuncios
       - [Customs](9na-nintendo-switch-customs-consolas.md) — 31 anuncios
     - [Juegos](9na-nintendo-switch-juegos.md) — 246 anuncios
-    - [Accesorios](9na-nintendo-switch-accesorios.md) — 61 anuncios
+    - [Accesorios](9na-nintendo-switch-accesorios.md) — 62 anuncios
   - PlayStation 5 (PS5):
     - [Consolas](9na-ps5-consolas.md) — 3 anuncios
     - [Juegos](9na-ps5-juegos.md) — 20 anuncios
@@ -123,6 +123,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-15 11:40 — [Juegos PS5](https://www.facebook.com/marketplace/item/1141286178871583) — $650 — Usado - Como nuevo — Los Mochis — Vendedor: Edel Muñoz Combs
 - 2026-11-15 10:57 — [Xbox 360 con juegos](https://www.facebook.com/marketplace/item/1691779785622149) — $1.600 — Usado - Buen estado — Los Mochis — Vendedor: Emi CM
 - 2026-11-15 10:47 — [Madden 20 xbox one y series s/x](https://www.facebook.com/marketplace/item/2197299967882415) — $100 — Usado - Buen estado — Los Mochis — Vendedor: Ernesto Ayala Piña
+- 2026-11-15 10:31 — [Controles para nintendo switch compatible con switch 2 Audifonos](https://www.facebook.com/marketplace/item/1678707586933322) — GRATIS — Nuevo — Los Mochis — Vendedor: Mireya Buelna
 - 2026-11-15 09:46 — [NINTENDO SWITCH LIFE](https://www.facebook.com/marketplace/item/4048191658823179) — $2.500 — Nuevo — Los Mochis — Vendedor: Marbella Medina
 - 2026-11-15 09:07 — [Xbox series s](https://www.facebook.com/marketplace/item/2118871792086289) — $4.700 — Usado - Como nuevo — Los Mochis — Vendedor: Santiago Arce
 - 2026-11-15 09:06 — [Mario galaxy 1 y 2 Nintendo switch](https://www.facebook.com/marketplace/item/3029717657362300) — $1 — Usado - Como nuevo — Los Mochis — Vendedor: Iram A. Payan
