@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 93 anuncios disponibles.
+Total: 94 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -101,5 +101,6 @@ Total: 93 anuncios disponibles.
 - 2026-10-21 11:32 — [Kit Simracing Logitech G29 (Volante + Pedales + Palanca Shifter + Freno de Mano USB + Soporte)](https://www.facebook.com/marketplace/item/28718905404424957) — $6.000 — Vendedor: TechNova LM
 - 2026-10-11 18:24 — [Asus Rog Ally z1 Extreme / PC Gamer portatil, COMPLETO TODO O SEPARADO](https://www.facebook.com/marketplace/item/1750907475961346) — $7.000 — Vendedor: Luis Guerrero
 - 2026-11-05 12:28 — [Asus Rog Ally Z1 Extreme con SteamOS](https://www.facebook.com/marketplace/item/29231060263172063) — $8.000 — Vendedor: Miguel Vinsmoke
+- 2026-11-13 08:39 — [Inf.6681162962](https://www.facebook.com/marketplace/item/1548899253765704) — $123.456 — Vendedor: Pablo Altamirano
 - 2025-12-25 11:59 — [Venta PostNavideña 25Dic2025](https://www.facebook.com/marketplace/item/886274910461386) — $5.555.555 — Vendedor: Mi Ge Ru
 - 2025-12-24 12:54 — [Compra Venta Navideña en remate en la plazuela de El Carrizo 24Dic2023](https://www.facebook.com/marketplace/item/1855360348416221) — $7.777.777 — Vendedor: Mi Ge Ru

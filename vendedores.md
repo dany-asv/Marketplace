@@ -3,7 +3,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - El nombre de cada vendedor es una liga a su perfil de Marketplace.
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
-Total: 935 vendedores, 1556 anuncios con vendedor identificado (2 anuncios de la lista no tienen vendedor identificado).
+Total: 935 vendedores, 1557 anuncios con vendedor identificado (2 anuncios de la lista no tienen vendedor identificado).
 ## Vendedores (de mayor a menor número de publicaciones)
 - [Antonio Lopez](https://www.facebook.com/marketplace/profile/100040731070103) — 41 publicaciones ✓
 - [Carlos Jiménez](https://www.facebook.com/marketplace/profile/100007976233056) — 36 publicaciones
@@ -195,6 +195,7 @@ Total: 935 vendedores, 1556 anuncios con vendedor identificado (2 anuncios de la
 - [Nunez Edy](https://www.facebook.com/marketplace/profile/100008016241919) — 2 publicaciones
 - [Oliver Castro](https://www.facebook.com/marketplace/profile/61551375500900) — 2 publicaciones
 - [Omar Reyes](https://www.facebook.com/marketplace/profile/100012390378268) — 2 publicaciones
+- [Pablo Altamirano](https://www.facebook.com/marketplace/profile/100053995751049) — 2 publicaciones
 - [Paola Zepeda](https://www.facebook.com/marketplace/profile/61592897038900) — 2 publicaciones
 - [Pedro Escalante](https://www.facebook.com/marketplace/profile/100011535155323) — 2 publicaciones
 - [Pedro Rodriguez](https://www.facebook.com/marketplace/profile/61568322603327) — 2 publicaciones
@@ -785,7 +786,6 @@ Total: 935 vendedores, 1556 anuncios con vendedor identificado (2 anuncios de la
 - [Oscar Montoya](https://www.facebook.com/marketplace/profile/100003104600033) — 1 publicaciones
 - [Oscar Palma Navarrete](https://www.facebook.com/marketplace/profile/100001143011554) — 1 publicaciones
 - [Oswaldo Orduño](https://www.facebook.com/marketplace/profile/100026507860245) — 1 publicaciones
-- [Pablo Altamirano](https://www.facebook.com/marketplace/profile/100053995751049) — 1 publicaciones
 - [Pacheco Eric](https://www.facebook.com/marketplace/profile/100000773765058) — 1 publicaciones
 - [Paloma JP](https://www.facebook.com/marketplace/profile/100006723938085) — 1 publicaciones
 - [Patricio Lopez](https://www.facebook.com/marketplace/profile/100022992041792) — 1 publicaciones

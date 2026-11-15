@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1558 anuncios disponibles.
+Total: 1559 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -116,7 +116,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](10ma-nintendo-switch-2-juegos.md) — 22 anuncios
     - [Accesorios](10ma-nintendo-switch-2-accesorios.md) — 1 anuncios
 - Otros — Multiplataforma o sin plataforma clara:
-  - [Consolas](otros-consolas.md) — 93 anuncios
+  - [Consolas](otros-consolas.md) — 94 anuncios
   - [Juegos](otros-juegos.md) — 171 anuncios
   - [Accesorios](otros-accesorios.md) — 47 anuncios
 ## Disponibles (de más actual a más viejo)
@@ -199,6 +199,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-13 10:54 — [JUEGOS DE PS2](https://www.facebook.com/marketplace/item/1828070495060916) — $27 — Usado - Como nuevo — Los Mochis — Vendedor: Ryu Hayabusa
 - 2026-11-13 10:51 — [JUEGOS DE XBOX360](https://www.facebook.com/marketplace/item/28239644215712487) — $38 — Usado - Como nuevo — Los Mochis — Vendedor: Ryu Hayabusa
 - 2026-11-13 09:10 — [Nintendo Switch 2](https://www.facebook.com/marketplace/item/29051586167803770) — $10.500 — Usado - Como nuevo — Los Mochis — Vendedor: Fernando Gonzales
+- 2026-11-13 08:39 — [Inf.6681162962](https://www.facebook.com/marketplace/item/1548899253765704) — $123.456 — Usado - Como nuevo — Los Mochis — Vendedor: Pablo Altamirano
 - 2026-11-13 07:31 — [Switch 2] (https://www.facebook.com/marketplace/item/1643907950559116) — GRATIS — Usado - Como nuevo — Los Mochis — Vendedor: Alex Murrieta
 - 2026-11-13 06:53 — [Xbox one, 2 controles y juegos digitales](https://www.facebook.com/marketplace/item/1892108945541837) — $1.700 — Usado - Como nuevo — Los Mochis — Vendedor: Yajahira Torres Soto
 - 2026-11-13 00:01 — [PSP GO](https://www.facebook.com/marketplace/item/29369917675938204) — GRATIS — Usado - Buen estado — Los Mochis — Vendedor: Mariel Haydee Castro Castro
