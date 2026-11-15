@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 171 anuncios disponibles.
+Total: 173 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -56,6 +56,7 @@ Total: 171 anuncios disponibles.
 - 2026-06-29 12:01 — [Pikmin 1 + 2](https://www.facebook.com/marketplace/item/3198797993664037) — $240 — Vendedor: Daniela Hernández
 - 2026-11-14 09:29 — [Juegos xbox nuevos](https://www.facebook.com/marketplace/item/1659577642380869) — $250 — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-11-10 21:04 — [Juegos para XBOX](https://www.facebook.com/marketplace/item/28894008290225612) — $250 — Vendedor: Awa De Horchata
+- 2026-10-16 10:40 — [Vendo discos de juego God of Wars,FIFA 18, FC23,the last of us 250c/u](https://www.facebook.com/marketplace/item/1661986658794511) — $250 — Vendedor: Felic Berrelleza
 - 2026-08-17 14:25 — [Video juegos el precio es por  pieza](https://www.facebook.com/marketplace/item/27922304210731601) — $250 — Vendedor: Julio Cesar Ibarra Rodríguez
 - 2026-06-11 08:57 — [Rainbow six siege](https://www.facebook.com/marketplace/item/1985771682070748) — $250 — Vendedor: Cesar Gamez Cruz
 - 2024-12-07 19:33 — [Assassin crid](https://www.facebook.com/marketplace/item/1113036633788571) — $250 — Vendedor: Aldo Ceballos Cubedo
@@ -107,6 +108,7 @@ Total: 171 anuncios disponibles.
 - 2025-11-04 10:44 — [Juegos ps4 y ps5](https://www.facebook.com/marketplace/item/826567806450664) — $500 — Vendedor: Alquimia AD
 - 2026-11-08 18:23 — [Juegos+de+nintendo+switch+y+nintendo+switch+2](https://www.facebook.com/marketplace/item/2458993241509145) — $550 — Vendedor: Rguez Nore
 - 2026-11-03 18:55 — [Videojuegos play station 5 ps4 split fiction , elden ring, the división 2 , sonic , Naruto resident](https://www.facebook.com/marketplace/item/1455200049881264) — $550 — Vendedor: Iram A. Payan
+- 2026-11-02 18:59 — [Videojuegos🎮🎮](https://www.facebook.com/marketplace/item/1434685782067024) — $550 — Vendedor: Dayanna Fuentes Lara
 - 2026-11-01 21:44 — [Videojuegos🎮🎮](https://www.facebook.com/marketplace/item/1121497877366747) — $550 — Vendedor: Jazmin Fuentes
 - 2026-07-14 16:10 — [Mario Rabbids Kingdom Battle](https://www.facebook.com/marketplace/item/3386168638222761) — $550 — Vendedor: Mauricio Bismarck Murillo Valle
 - 2026-02-20 14:42 — [Mario & Sonic - At The Olympic Games](https://www.facebook.com/marketplace/item/1992731911650295) — $550 — Vendedor: Maria Herrera

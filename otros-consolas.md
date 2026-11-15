@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 94 anuncios disponibles.
+Total: 97 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -46,6 +46,7 @@ Total: 94 anuncios disponibles.
 - 2026-11-06 12:33 — [Nintendo Sup Doble control](https://www.facebook.com/marketplace/item/2124308205638398) — $80 — Vendedor: Daniel Sanchez
 - 2026-10-25 11:27 — [Consola retro con 620 juegos](https://www.facebook.com/marketplace/item/1265526825759911) — $100 — Vendedor: Juan Sergio Hernandez Araujo
 - 2026-11-07 15:11 — [Consola sup 400 juegos](https://www.facebook.com/marketplace/item/2129461857691504) — $150 — Vendedor: Diana Soto
+- 2026-11-06 22:02 — [Consola de videojuegos retro para niños, 500 juegos clasicos de nintendo](https://www.facebook.com/marketplace/item/1120271460858118) — $249 — Vendedor: Angel SG
 - 2026-11-11 13:48 — [Mini Consola Retro con 620 Juegos](https://www.facebook.com/marketplace/item/1483161533725482) — $250 — Vendedor: Ana Sofía
 - 2026-11-11 12:06 — [Mini Consola Retro con 620 Juegos](https://www.facebook.com/marketplace/item/2618193315306165) — $250 — Vendedor: Karyme Baldenebro
 - 2026-11-10 16:31 — [Mini Consola Retro con 620 Juegos](https://www.facebook.com/marketplace/item/993870053779759) — $250 — Vendedor: Karyme Baldenebro
@@ -87,7 +88,9 @@ Total: 94 anuncios disponibles.
 - 2026-11-02 20:13 — [Tablero Pandora Pro Plus👾🕹CONSOLA Árcade Retro 70 Mil Juegos🎮‼️Videojuegos Top 4K🏡🛵💨](https://www.facebook.com/marketplace/item/1679688227165301) — $2.100 — Vendedor: Nutrijugos LA Selva
 - 2026-11-14 14:58 — [Máquina Arcade Retro Doble Palanca | 36,800 Juegos Clásicos](https://www.facebook.com/marketplace/item/1610802756924102) — $2.500 — Vendedor: Juan Manuel Tapia
 - 2026-11-13 22:27 — [Tablero de videojuegos retro 🛑✨](https://www.facebook.com/marketplace/item/1130514773191913) — $2.500 — Vendedor: Almazan Mireya
+- 2026-11-13 22:22 — [Tablero de videojuegos retro 🛑](https://www.facebook.com/marketplace/item/1671971580995590) — $2.500 — Vendedor: Almazan Mireya
 - 2026-11-13 22:17 — [Videojuegos retro ✨](https://www.facebook.com/marketplace/item/4047782088697856) — $2.500 — Vendedor: Almazan Mireya
+- 2026-11-13 22:16 — [Videojuegos retro 🛑✨🛑✨🛑✨✨](https://www.facebook.com/marketplace/item/2701412226984416) — $2.500 — Vendedor: Almazan Mireya
 - 2026-11-13 22:14 — [Tablero de videojuegos retro ✨](https://www.facebook.com/marketplace/item/879033361934603) — $2.500 — Vendedor: Almazan Mireya
 - 2026-11-02 17:54 — [Tablero Arcade](https://www.facebook.com/marketplace/item/1152695513965348) — $2.500 — Vendedor: Catalina Rodrigez
 - 2026-10-25 14:07 — [😍 Desde los clásicos🕹️ 📺🕹️ de 8 bits hasta la era 3D: todo en la Pandora Pro.](https://www.facebook.com/marketplace/item/2019062505473498) — $2.500 — Vendedor: Paola Zepeda
