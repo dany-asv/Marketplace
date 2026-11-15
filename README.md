@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1557 anuncios disponibles.
+Total: 1558 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -118,7 +118,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - Otros — Multiplataforma o sin plataforma clara:
   - [Consolas](otros-consolas.md) — 93 anuncios
   - [Juegos](otros-juegos.md) — 171 anuncios
-  - [Accesorios](otros-accesorios.md) — 46 anuncios
+  - [Accesorios](otros-accesorios.md) — 47 anuncios
 ## Disponibles (de más actual a más viejo)
 - 2026-11-15 13:30 — [Videojuegos nintendo Switch play y wii](https://www.facebook.com/marketplace/item/1039832102455774) — $600 — Usado - Como nuevo — Los Mochis — Vendedor: Rafaela Gastelo Torres
 - 2026-11-15 13:25 — [Xbox one](https://www.facebook.com/marketplace/item/1527390922772406) — $900 — Usado - Como nuevo — Los Mochis — Vendedor: Ruben Vazquez
@@ -205,6 +205,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-12 23:59 — [Juegos de nintendo](https://www.facebook.com/marketplace/item/1446917647564716) — GRATIS — Usado - Como nuevo — Los Mochis — Vendedor: Mariel Haydee Castro Castro
 - 2026-11-12 22:42 — [Tablero de juegos arcade](https://www.facebook.com/marketplace/item/4379962472257230) — $2.100 — Nuevo — Los Mochis — Vendedor: Isabella Rojas Diaz
 - 2026-11-12 22:28 — [JUEGOS DE PS3](https://www.facebook.com/marketplace/item/2380671292667909) — $55 — Usado - Como nuevo — Los Mochis — Vendedor: Ryu Hayabusa
+- 2026-11-12 21:00 — [COTROL CON HALL EFFECT, DE ALTA CALIDAD DISEÑO RETRO](https://www.facebook.com/marketplace/item/1402202558651976) — $470 — Nuevo — Los Mochis — Vendedor: HM Smart Home
 - 2026-11-12 20:31 — [Nintendo switch](https://www.facebook.com/marketplace/item/2202741497341098) — $4.000 — Usado - Buen estado — Los Mochis — Vendedor: Victoria Cota
 - 2026-11-12 20:29 — [Maquinitas Xbox clásicas se venden o se cambian precio por unidad leer descripción](https://www.facebook.com/marketplace/item/2121377218738716) — $2.500 — Usado - Aceptable — Los Mochis — vendedor en Whitelist de Daniel: Evelin Perea
 - 2026-11-12 17:55 — [Volante para xbox y computadora](https://www.facebook.com/marketplace/item/28738335302533636) — $2.200 — Usado - Como nuevo — Los Mochis — Vendedor: Luis Vergara Rojo
