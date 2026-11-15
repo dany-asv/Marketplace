@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1534 anuncios disponibles.
+Total: 1535 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -77,7 +77,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](7ma-ps3-juegos.md) — 13 anuncios
     - [Accesorios](7ma-ps3-accesorios.md) — 1 anuncios
   - Xbox 360:
-    - [Consolas](7ma-xbox-360-consolas.md) — 7 anuncios
+    - [Consolas](7ma-xbox-360-consolas.md) — 8 anuncios
     - [Juegos](7ma-xbox-360-juegos.md) — 1 anuncios
     - [Accesorios](7ma-xbox-360-accesorios.md) — 2 anuncios
 - 8va generación:
@@ -121,6 +121,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - [Accesorios](otros-accesorios.md) — 42 anuncios
 ## Disponibles (de más actual a más viejo)
 - 2026-11-14 16:47 — [Control Xbox Series nuevo sellado](https://www.facebook.com/marketplace/item/2268620670747108) — $1.000 — Nuevo — Los Mochis — Vendedor: Santiago Garcia
+- 2026-11-14 16:28 — [Xbox 360 Slim Chipeado + de 25 juegos](https://www.facebook.com/marketplace/item/1159490323116798) — $1.600 — Usado - Buen estado — Los Mochis — Vendedor: Daniela Trejo
 - 2026-11-14 14:58 — [Máquina Arcade Retro Doble Palanca | 36,800 Juegos Clásicos](https://www.facebook.com/marketplace/item/1610802756924102) — $2.500 — Nuevo — Los Mochis — Vendedor: Juan Manuel Tapia
 - 2026-11-14 14:46 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/1737857774378418) — $4.000 — Usado - Como nuevo — Los Mochis — Vendedor: Antonio Arias
 - 2026-11-14 14:20 — [Nintendo 64 a la venta completo y sin detalles.](https://www.facebook.com/marketplace/item/1156528463533325) — $1.500 — Usado - Buen estado — Los Mochis — Vendedor: Juan Sergio Hernandez Araujo

@@ -3,7 +3,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - El nombre de cada vendedor es una liga a su perfil de Marketplace.
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
-Total: 920 vendedores, 1532 anuncios con vendedor identificado (2 anuncios de la lista no tienen vendedor identificado).
+Total: 920 vendedores, 1533 anuncios con vendedor identificado (2 anuncios de la lista no tienen vendedor identificado).
 ## Vendedores (de mayor a menor número de publicaciones)
 - [Antonio Lopez](https://www.facebook.com/marketplace/profile/100040731070103) — 41 publicaciones ✓
 - [Carlos Jiménez](https://www.facebook.com/marketplace/profile/100007976233056) — 36 publicaciones
@@ -71,6 +71,7 @@ Total: 920 vendedores, 1532 anuncios con vendedor identificado (2 anuncios de la
 - [Carlos Moreno Lopez](https://www.facebook.com/marketplace/profile/534189741) — 3 publicaciones
 - [Daniel Soto](https://www.facebook.com/marketplace/profile/100013097498883) — 3 publicaciones
 - [Daniela Gutierrez](https://www.facebook.com/marketplace/profile/61559926702451) — 3 publicaciones
+- [Daniela Trejo](https://www.facebook.com/marketplace/profile/100069539765355) — 3 publicaciones
 - [David Cañedo](https://www.facebook.com/marketplace/profile/61573154990280) — 3 publicaciones
 - [David Lopez](https://www.facebook.com/marketplace/profile/61589449161478) — 3 publicaciones
 - [Elvira Palazuelos](https://www.facebook.com/marketplace/profile/61588456977440) — 3 publicaciones
@@ -140,7 +141,6 @@ Total: 920 vendedores, 1532 anuncios con vendedor identificado (2 anuncios de la
 - [Daniel Torres](https://www.facebook.com/marketplace/profile/100001481330655) — 2 publicaciones
 - [Daniel Vs](https://www.facebook.com/marketplace/profile/61590502478173) — 2 publicaciones
 - [Daniela Hernández](https://www.facebook.com/marketplace/profile/61566490391063) — 2 publicaciones
-- [Daniela Trejo](https://www.facebook.com/marketplace/profile/100069539765355) — 2 publicaciones
 - [Danielito Soto](https://www.facebook.com/marketplace/profile/100013009621645) — 2 publicaciones
 - [Diego Moreno](https://www.facebook.com/marketplace/profile/100050310905759) — 2 publicaciones
 - [Eidan Aviles](https://www.facebook.com/marketplace/profile/100052023620878) — 2 publicaciones
