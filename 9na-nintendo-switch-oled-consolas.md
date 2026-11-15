@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 130 anuncios disponibles.
+Total: 131 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -101,6 +101,7 @@ Total: 130 anuncios disponibles.
 - 2026-08-14 19:24 — [Switch Oled](https://www.facebook.com/marketplace/item/2469473620219193) — $4.700 — Vendedor: Selene Espinoza
 - 2026-05-17 18:59 — [NINTENDO SWITCH OLED](https://www.facebook.com/marketplace/item/1513565680390600) — $4.800 — Vendedor: Victor EspFe
 - 2026-03-23 13:27 — [Nintendo swtich oled](https://www.facebook.com/marketplace/item/2446361379196053) — $4.800 — Vendedor: Francisco Sincel
+- 2026-11-14 23:23 — [Nintendo Switch OLED](https://www.facebook.com/marketplace/item/2073530253300408) — $4.900 — Vendedor: Sinuhe CM
 - 2026-09-06 14:52 — [Nintendo Switch OLED 64 gb blanca.](https://www.facebook.com/marketplace/item/1550507326225244) — $4.900 — Vendedor: Andrea Angulo
 - 2026-01-23 21:18 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/2151914472303578) — $4.900 — Vendedor: Abraham Chairez
 - 2026-09-17 18:07 — [Nintendo switch OLED ( versión internacional) + Mario party + Mario kart](https://www.facebook.com/marketplace/item/1078800448447100) — $4.999 — Vendedor: Alejandro Cabrera
