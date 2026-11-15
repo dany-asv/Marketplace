@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1555 anuncios disponibles.
+Total: 1543 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -65,7 +65,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](6ta-ps2-juegos.md) — 6 anuncios
     - [Accesorios](6ta-ps2-accesorios.md) — 2 anuncios
   - Xbox Clásico:
-    - [Consolas](6ta-xbox-clasico-consolas.md) — 2 anuncios
+    - [Consolas](6ta-xbox-clasico-consolas.md) — 1 anuncios
     - [Accesorios](6ta-xbox-clasico-accesorios.md) — 1 anuncios
 - 7ma generación:
   - Wii:
@@ -90,36 +90,37 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](8va-ps4-juegos.md) — 134 anuncios
     - [Accesorios](8va-ps4-accesorios.md) — 11 anuncios
   - Xbox One:
-    - [Consolas](8va-xbox-one-consolas.md) — 31 anuncios
+    - [Consolas](8va-xbox-one-consolas.md) — 28 anuncios
     - [Juegos](8va-xbox-one-juegos.md) — 4 anuncios
     - [Accesorios](8va-xbox-one-accesorios.md) — 1 anuncios
 - 9na generación:
   - Nintendo Switch:
     - Consolas:
-      - [OLED](9na-nintendo-switch-oled-consolas.md) — 131 anuncios
-      - [Lite](9na-nintendo-switch-lite-consolas.md) — 34 anuncios
-      - [Normal](9na-nintendo-switch-normal-consolas.md) — 130 anuncios
+      - [OLED](9na-nintendo-switch-oled-consolas.md) — 130 anuncios
+      - [Lite](9na-nintendo-switch-lite-consolas.md) — 33 anuncios
+      - [Normal](9na-nintendo-switch-normal-consolas.md) — 129 anuncios
       - [Customs](9na-nintendo-switch-customs-consolas.md) — 31 anuncios
-    - [Juegos](9na-nintendo-switch-juegos.md) — 247 anuncios
+    - [Juegos](9na-nintendo-switch-juegos.md) — 245 anuncios
     - [Accesorios](9na-nintendo-switch-accesorios.md) — 61 anuncios
   - PlayStation 5 (PS5):
     - [Consolas](9na-ps5-consolas.md) — 3 anuncios
     - [Juegos](9na-ps5-juegos.md) — 19 anuncios
     - [Accesorios](9na-ps5-accesorios.md) — 16 anuncios
   - Xbox Series X/S:
-    - [Consolas](9na-xbox-series-consolas.md) — 14 anuncios
+    - [Consolas](9na-xbox-series-consolas.md) — 13 anuncios
     - [Juegos](9na-xbox-series-juegos.md) — 1 anuncios
     - [Accesorios](9na-xbox-series-accesorios.md) — 4 anuncios
 - 10ma generación:
   - Nintendo Switch 2:
     - [Consolas](10ma-nintendo-switch-2-consolas.md) — 16 anuncios
-    - [Juegos](10ma-nintendo-switch-2-juegos.md) — 23 anuncios
+    - [Juegos](10ma-nintendo-switch-2-juegos.md) — 21 anuncios
     - [Accesorios](10ma-nintendo-switch-2-accesorios.md) — 1 anuncios
 - Otros — Multiplataforma o sin plataforma clara:
-  - [Consolas](otros-consolas.md) — 94 anuncios
-  - [Juegos](otros-juegos.md) — 168 anuncios
+  - [Consolas](otros-consolas.md) — 93 anuncios
+  - [Juegos](otros-juegos.md) — 169 anuncios
   - [Accesorios](otros-accesorios.md) — 45 anuncios
 ## Disponibles (de más actual a más viejo)
+- 2026-11-15 10:47 — [Madden 20 xbox one y series s/x](https://www.facebook.com/marketplace/item/2197299967882415) — $100 — Usado - Buen estado — Los Mochis — Vendedor: Ernesto Ayala Piña
 - 2026-11-15 09:46 — [NINTENDO SWITCH LIFE](https://www.facebook.com/marketplace/item/4048191658823179) — $2.500 — Nuevo — Los Mochis — Vendedor: Marbella Medina
 - 2026-11-15 09:07 — [Xbox series s](https://www.facebook.com/marketplace/item/2118871792086289) — $4.700 — Usado - Como nuevo — Los Mochis — Vendedor: Santiago Arce
 - 2026-11-15 08:33 — [🎮 ¡JUEGOS DE NINTENDO SWITCH EN VENTA! 🎮](https://www.facebook.com/marketplace/item/1783557352761546) — $600 — Usado - Como nuevo — Los Mochis — Vendedor: JI Medina Robles
@@ -138,12 +139,10 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-14 14:16 — [Kontrolfreek xbox serie X/S xbox one](https://www.facebook.com/marketplace/item/979360618130515) — $110 — Nuevo — Los Mochis — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-11-14 14:14 — [Cajita para baterías xbox 360](https://www.facebook.com/marketplace/item/2355208668632638) — $70 — Nuevo — Los Mochis — Vendedor: Juan Sergio Hernandez Araujo
 - 2026-11-14 12:45 — [Estuche pikachu 3D nintendo switch](https://www.facebook.com/marketplace/item/1530267892274163) — $240 — Nuevo — Los Mochis — Vendedor: Jesus Gilberto Alvarez Vega
-- 2026-11-14 11:21 — [Xbox clasico](https://www.facebook.com/marketplace/item/29188810900771023) — $1.400 — Usado - Buen estado — Los Mochis — Vendedor: Luis Portillo Cota
 - 2026-11-14 13:17 — [SELLADO CONTROL XBOX SERIES X/S](https://www.facebook.com/marketplace/item/2233537370851643) — $1.000 — Nuevo — Los Mochis — Vendedor: Diego Valdez
 - 2026-11-14 11:51 — [CONTROLES PLAYSTATION 5](https://www.facebook.com/marketplace/item/1394762279138347) — $1.269 — Nuevo — Los Mochis — Vendedor: Jesus Valdez
 - 2026-11-14 11:34 — [Nintendo switch 1](https://www.facebook.com/marketplace/item/1821220625659604) — $3.900 — Usado - Como nuevo — Los Mochis — Vendedor: Chris Ramirez
 - 2026-11-14 11:10 — [NINTENDO SWITCH](https://www.facebook.com/marketplace/item/1167406185626020) — $5.599 — Nuevo — Los Mochis — Vendedor: Jesus Valdez
-- 2026-11-14 09:59 — [REMATO BARATO Xbox One sin detalles](https://www.facebook.com/marketplace/item/1689903262923394) — $1.650 — Usado - Como nuevo — Los Mochis — Vendedor: KA CE
 - 2026-11-14 09:30 — [Gamesir control PC y nintendo switch](https://www.facebook.com/marketplace/item/1116196801402525) — $1.700 — Nuevo — Los Mochis — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-11-14 09:30 — [Estuche Zelda nintendo switch](https://www.facebook.com/marketplace/item/2336707090445907) — $360 — Nuevo — Los Mochis — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-11-14 09:30 — [Control gamesir nintendo switch 1 y 2, iPhone, Android, celulares, tablet y pc.](https://www.facebook.com/marketplace/item/2391912944954186) — $1.500 — Nuevo — Los Mochis — Vendedor: Jesus Gilberto Alvarez Vega
@@ -157,11 +156,9 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-13 22:17 — [Videojuegos retro ✨](https://www.facebook.com/marketplace/item/4047782088697856) — $2.500 — Nuevo — Los Mochis — Vendedor: Almazan Mireya
 - 2026-11-13 22:14 — [Tablero de videojuegos retro ✨](https://www.facebook.com/marketplace/item/879033361934603) — $2.500 — Nuevo — Los Mochis — Vendedor: Almazan Mireya
 - 2026-11-13 21:25 — [XBOX SERIES S](https://www.facebook.com/marketplace/item/976005778507201) — $6.999 — Nuevo — Los Mochis — Vendedor: Jesus Valdez
-- 2026-11-13 21:19 — [Nintendo switch 1](https://www.facebook.com/marketplace/item/1131522689662539) — $3.000 — Usado - Como nuevo — Los Mochis — Vendedor: Janeth Rosas
 - 2026-11-13 20:57 — [Nintendo Switch 1](https://www.facebook.com/marketplace/item/1679142133930742) — $3.700 — Usado - Buen estado — Los Mochis — Vendedor: José Roxs
 - 2026-11-13 20:14 — [Tablero Maquinita Pandora💥70 Mil Juegos Clasicos,Consola Retro‼️Emuladores Top✅️Videojuegos Top✅️🎮](https://www.facebook.com/marketplace/item/1473520258073335) — $2.100 — Nuevo — Los Mochis — Vendedor: Nutrijugos LA Selva
 - 2026-11-13 20:11 — [Tablero Pandora Pro Plus👾🕹CONSOLA Árcade Retro 70 Mil Juegos🎮‼️Videojuegos Top 4K🏡🛵💨](https://www.facebook.com/marketplace/item/2473003429775757) — $2.100 — Nuevo — Los Mochis — Vendedor: Nutrijugos LA Selva
-- 2026-11-13 20:04 — [Xbox one s 1tb con dos controles y juegos](https://www.facebook.com/marketplace/item/1144267388004120) — $2.500 — Usado - Como nuevo — Los Mochis — Vendedor: Alberto Mendivil
 - 2026-11-13 19:38 — [Ps5 pro con lectora de discos 2 teras](https://www.facebook.com/marketplace/item/2676071876155360) — $19.000 — Usado - Como nuevo — Los Mochis — Vendedor: Luis Enrique
 - 2026-11-13 19:32 — [👌 Conexión sencilla🔌🎮🖥️🎮 (VGA y más) y 3D Pandora Pro  ¡Configuración en minutos!](https://www.facebook.com/marketplace/item/978820278174809) — $2.100 — Nuevo — Los Mochis — Vendedor: Manuel Rojo
 - 2026-11-13 19:20 — [Lote Juegos 3DS y DS vendo o cambio](https://www.facebook.com/marketplace/item/28958741827082137) — $450 — Usado - Buen estado — Los Mochis — vendedor en Whitelist de Daniel: Jurguen Camacho
@@ -198,14 +195,12 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-12 22:28 — [JUEGOS DE PS3](https://www.facebook.com/marketplace/item/2380671292667909) — $55 — Usado - Como nuevo — Los Mochis — Vendedor: Ryu Hayabusa
 - 2026-11-12 20:31 — [Nintendo switch](https://www.facebook.com/marketplace/item/2202741497341098) — $4.000 — Usado - Buen estado — Los Mochis — Vendedor: Victoria Cota
 - 2026-11-12 20:29 — [Maquinitas Xbox clásicas se venden o se cambian precio por unidad leer descripción](https://www.facebook.com/marketplace/item/2121377218738716) — $2.500 — Usado - Aceptable — Los Mochis — vendedor en Whitelist de Daniel: Evelin Perea
-- 2026-11-12 20:17 — [Xbox Series S](https://www.facebook.com/marketplace/item/1816698796278290) — $123 — Usado - Como nuevo — Los Mochis — Vendedor: Emi CM
 - 2026-11-12 17:55 — [Volante para xbox y computadora](https://www.facebook.com/marketplace/item/28738335302533636) — $2.200 — Usado - Como nuevo — Los Mochis — Vendedor: Luis Vergara Rojo
 - 2026-11-12 17:37 — [Xbox one s de 512](https://www.facebook.com/marketplace/item/1789933245612703) — $2.000 — Usado - Como nuevo — Los Mochis — Vendedor: Bianca Espinoza
 - 2026-11-12 17:16 — [NINTENDO SWITCH LITE AZUL](https://www.facebook.com/marketplace/item/1625263598480912) — $1.700 — Usado - Buen estado — Los Mochis — Vendedor: Juan Pablo RW
 - 2026-11-12 17:01 — [Juegos Xbox 360 y PlayStation $300 c/u](https://www.facebook.com/marketplace/item/1701838851341168) — $300 — Usado - Como nuevo — Los Mochis — Vendedor: Dulce Palma
 - 2026-11-12 17:00 — [Consola Wii](https://www.facebook.com/marketplace/item/2160544954560223) — $1.500 — Usado - Como nuevo — Los Mochis — Vendedor: César López
 - 2026-11-12 16:43 — [CONTROL PLAY 5 NUEVO SELLADO](https://www.facebook.com/marketplace/item/1162012992932539) — GRATIS — Nuevo — Los Mochis — Vendedor: Jezuz A Almaraz
-- 2026-11-12 16:25 — [The Legend of Zelda Ocarina of Time Remake | Juego Nintendo Swith 2 | No foil](https://www.facebook.com/marketplace/item/4129664423996844) — $1.300 — Nuevo — Los Mochis — Vendedor: Leonardo Cardenas
 - 2026-11-12 16:07 — [Consola Sony PlayStation 2 Slim | Control Original | 8 Juegos Originales](https://www.facebook.com/marketplace/item/3592571440911332) — $1.600 — Usado — Los Mochis — Vendedor: Vicente Munguia
 - 2026-11-12 14:03 — [Playstation 4pro](https://www.facebook.com/marketplace/item/1901372871298961) — $3.000 — Usado - Como nuevo — Los Mochis — Vendedor: Jesus Ramon Torres
 - 2026-11-12 13:31 — [NINTENDO SWITCH LITE AZUL](https://www.facebook.com/marketplace/item/1522277516382113) — $2.200 — Usado - Buen estado — Los Mochis — Vendedor: Juan Pablo RW
@@ -333,7 +328,6 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-08 16:02 — [PLAY STATION 2](https://www.facebook.com/marketplace/item/2980759965657039) — $600 — Usado - Aceptable — Los Mochis — Vendedor: Mario Aguilar
 - 2026-11-08 14:51 — [-Ps4  -estacion de carga -3 controles -5 juegos](https://www.facebook.com/marketplace/item/2261495224414733) — $3.500 — Usado - Como nuevo — Los Mochis — Vendedor: Karely Barrera Valdez
 - 2026-11-08 14:32 — [Videojuegos 🎮 PS5 y Nintendo switch](https://www.facebook.com/marketplace/item/1678842957089134) — $600 — Usado - Como nuevo — Los Mochis — Vendedor: Karla Rodriguez
-- 2026-11-08 13:24 — [EA FC 27 PARA NINTENDO SWITCH 2](https://www.facebook.com/marketplace/item/1499615025391517) — $12 — Usado - Como nuevo — Los Mochis — Vendedor: Javier Adrián Bátiz Zamudio
 - 2026-11-08 12:16 — [Ps4 Slim con 5 juegos y dos controles](https://www.facebook.com/marketplace/item/3264788557052068) — $4 — Usado - Como nuevo — Los Mochis — Vendedor: Armando López
 - 2026-11-08 12:14 — [Nintendo switch](https://www.facebook.com/marketplace/item/29432954193007098) — $4 — Usado - Como nuevo — Los Mochis — Vendedor: Armando López
 - 2026-11-08 12:04 — [Ps4](https://www.facebook.com/marketplace/item/1167132786270740) — $1.500 — Usado - Como nuevo — Los Mochis — Vendedor: Luis Rey
@@ -424,12 +418,10 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-03 19:04 — [Astral chain Nintendo switch](https://www.facebook.com/marketplace/item/2208480346369463) — $850 — Nuevo — Los Mochis — Vendedor: Iram A. Payan
 - 2026-11-03 19:03 — [Videojuegos Nintendo switch No more héroes, spyro, Cosmic invasión , epic Mickey](https://www.facebook.com/marketplace/item/1433865802261304) — $750 — Nuevo — Los Mochis — Vendedor: Iram A. Payan
 - 2026-11-03 18:55 — [Videojuegos play station 5 ps4 split fiction , elden ring, the división 2 , sonic , Naruto resident](https://www.facebook.com/marketplace/item/1455200049881264) — $550 — Nuevo — Los Mochis — Vendedor: Iram A. Payan
-- 2026-11-03 18:42 — [Vendo o cambio Xbox one x](https://www.facebook.com/marketplace/item/1822595792199212) — $2.700 — Usado — Los Mochis — Vendedor: Pery Lopez
 - 2026-11-03 16:43 — [Controles para ps4, Game cube y super nintendo](https://www.facebook.com/marketplace/item/2222182731673283) — $400 — Nuevo — Los Mochis — Vendedor: Stargames Valenzuela
 - 2026-11-03 16:07 — [Xbox One S All-Digital Edition](https://www.facebook.com/marketplace/item/1692126262330560) — $3.000 — Usado - Como nuevo — Los Mochis — Vendedor: Diego Muñoz
 - 2026-11-03 15:03 — [Pley 4](https://www.facebook.com/marketplace/item/1563813242177251) — $2.000 — Usado - Buen estado — Los Mochis — Vendedor: Brandon Salazar
 - 2026-11-03 14:35 — [Nintendo Switch  Oled : Zelda versión ( sin detalles ) como nuevos](https://www.facebook.com/marketplace/item/1144968241315530) — $6.200 — Usado - Como nuevo — Los Mochis — Vendedor: Jorge A Armenta Payan
-- 2026-11-03 14:21 — [Vendo Nintendo switch Lite](https://www.facebook.com/marketplace/item/1798141628120850) — $1.200 — Usado - Aceptable — Los Mochis — Vendedor: Diego Cazarez
 - 2026-11-03 13:28 — [Nintendo switch oled Zelda edición](https://www.facebook.com/marketplace/item/1428575159447513) — $5.000 — Usado - Como nuevo — Los Mochis — Vendedor: Iram A. Payan
 - 2026-11-03 12:47 — [Animal Crossing: New Horizons](https://www.facebook.com/marketplace/item/1870903497444882) — $550 — Usado - Como nuevo — Los Mochis — Vendedor: Jose Zuniga
 - 2026-11-03 09:48 — [PS4 con magia y todos los juegos gratis de ps4/ps2 emuladores](https://www.facebook.com/marketplace/item/1478474480835701) — $3.500 — Nuevo — Los Mochis — Vendedor: Danielito Soto
@@ -459,7 +451,6 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-01 20:54 — [Control de Nintendo Swatch](https://www.facebook.com/marketplace/item/1505816929273560) — $350 — Los Mochis — Vendedor: Francisco Verdugo
 - 2026-11-01 19:42 — [Mario Kart 8 Deluxe](https://www.facebook.com/marketplace/item/1115096998014298) — $700 — Usado - Como nuevo — Los Mochis — Vendedor: Diego LV
 - 2026-11-01 16:56 — [Vendo o cambio juegos por de switch 2 y 1](https://www.facebook.com/marketplace/item/1556796989800019) — $650 — Usado - Como nuevo — Los Mochis — Vendedor: Jose Rios
-- 2026-11-01 16:43 — [Nintendo switch oled](https://www.facebook.com/marketplace/item/1447109824177005) — $6.000 — Usado - Buen estado — Los Mochis — Vendedor: Francisco Acosta
 - 2026-11-01 16:24 — [Ps2](https://www.facebook.com/marketplace/item/1689141656141722) — $1.500 — Usado - Como nuevo — Los Mochis — Vendedor: Manuel Ochoa
 - 2026-11-01 15:33 — [8bitdo](https://www.facebook.com/marketplace/item/1833935207753499) — $550 — Usado - Como nuevo — Los Mochis — Vendedor: Rafael Aguilar
 - 2026-11-01 14:27 — [vendo o cambio por iPad](https://www.facebook.com/marketplace/item/2326220478130133) — $6.000 — Usado - Como nuevo — Los Mochis — Vendedor: Jesus Reynaldo Valenzuela
@@ -586,7 +577,6 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-10-20 21:13 — [Volante para Xbox original sin uso](https://www.facebook.com/marketplace/item/4491282314468033) — $1.500 — Nuevo — Los Mochis — Vendedor: Cesar Gb
 - 2026-10-20 19:35 — [Nintendo switch](https://www.facebook.com/marketplace/item/978817785304236) — $2.700 — Usado - Aceptable — Los Mochis — Vendedor: David Cañedo
 - 2026-10-20 17:24 — [CONTROL INALÁMBRICO PS4 –DualShock 4) EDICION CAMUFLAJE VERDE](https://www.facebook.com/marketplace/item/1626337922333764) — $500 — Usado - Como nuevo — Los Mochis — Vendedor: Enrique Padilla
-- 2026-10-20 16:53 — [Kit simulación de manejo para videojuegos](https://www.facebook.com/marketplace/item/1016915540808394) — $3.500 — Usado - Como nuevo — Los Mochis — Vendedor: Gerardo Salazar
 - 2026-10-20 16:15 — [VENDO !!! NINTENDO SWITCH OLED BLANCO](https://www.facebook.com/marketplace/item/1804449077429817) — $5.000 — Usado - Como nuevo — Los Mochis — Vendedor: Marisol Sandoval Bojorquez
 - 2026-10-20 11:15 — [Juego Jumanji Para Nintendo Switch con caja $400](https://www.facebook.com/marketplace/item/1900872631276899) — $300 — Usado - Como nuevo — Los Mochis — Vendedor: Axel Luna
 - 2026-10-20 10:15 — [Playstation 4 slim](https://www.facebook.com/marketplace/item/1137549338632113) — $2.000 — Usado - Buen estado — Los Mochis — Vendedor: Kevin Zavala
@@ -804,7 +794,6 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-09-27 18:14 — [Venta juegos usados](https://www.facebook.com/marketplace/item/1384779526693061) — $500 — Usado - Buen estado — Los Mochis — Vendedor: Hector Padilla
 - 2026-09-27 12:51 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/1413558367412346) — $4.000 — Nuevo — Los Mochis — Vendedor: Carlos Jiménez
 - 2026-09-26 21:10 — [Ps4 con un juego](https://www.facebook.com/marketplace/item/3023097008035035) — $2.000 — Usado - Buen estado — Los Mochis — Vendedor: Diego Moreno
-- 2026-09-26 19:06 — [Zelda Nintendo switch](https://www.facebook.com/marketplace/item/2161351368108641) — $700 — Usado - Buen estado — Los Mochis — Vendedor: Karla Yocupicio
 - 2026-09-26 19:03 — [Videojuego Nintendo switch](https://www.facebook.com/marketplace/item/1972051523753417) — $700 — Usado - Buen estado — Los Mochis — Vendedor: Karla Yocupicio
 - 2026-09-26 12:08 — [Juego Nintendo switch Yoshis](https://www.facebook.com/marketplace/item/4537108653231578) — $600 — Usado - Como nuevo — Los Mochis — Vendedor: Kc Ruiz
 - 2026-09-26 10:53 — [Pokémon black](https://www.facebook.com/marketplace/item/1633000018621871) — $2.000 — Usado - Buen estado — Los Mochis — Vendedor: Alan Inzunza
@@ -814,7 +803,6 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-09-24 15:42 — [Juegos de nintendo switch](https://www.facebook.com/marketplace/item/1639008717651366) — GRATIS — Nuevo — Los Mochis — Vendedor: Briann A Morales
 - 2026-09-24 12:59 — [Super Mario 3D Word](https://www.facebook.com/marketplace/item/1357876882825481) — GRATIS — Nuevo — Los Mochis — Vendedor: Briann A Morales
 - 2026-09-24 12:48 — [Nintendo Switch Lite y 2 juegos](https://www.facebook.com/marketplace/item/1990224551642118) — $2.900 — Usado - Buen estado — Los Mochis — Vendedor: Isaac Ruiz
-- 2026-09-24 01:15 — [Zelda tears of the kingdom](https://www.facebook.com/marketplace/item/1061090210101631) — $750 — Usado - Como nuevo — Los Mochis — Vendedor: Mukuy Castro
 - 2026-09-24 00:35 — [Juego ps4 batman](https://www.facebook.com/marketplace/item/1744977676731041) — $200 — Usado - Como nuevo — Los Mochis — Vendedor: Clau Valen
 - 2026-09-24 00:34 — [Juego ps4](https://www.facebook.com/marketplace/item/919945087548513) — $200 — Usado - Como nuevo — Los Mochis — Vendedor: Clau Valen
 - 2026-09-23 08:38 — [Nintendo switch lite](https://www.facebook.com/marketplace/item/917225891181552) — $2.600 — Usado - Como nuevo — Los Mochis — Vendedor: Marte Verdugo Gil

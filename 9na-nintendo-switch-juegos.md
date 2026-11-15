@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 247 anuncios disponibles.
+Total: 245 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -175,7 +175,6 @@ Total: 247 anuncios disponibles.
 - 2026-11-01 19:42 — [Mario Kart 8 Deluxe](https://www.facebook.com/marketplace/item/1115096998014298) — $700 — Vendedor: Diego LV
 - 2026-10-18 13:40 — [Mario Kart 8deluxe](https://www.facebook.com/marketplace/item/1443474684372719) — $700 — Vendedor: Robles Jazive
 - 2026-10-08 15:17 — [Juego para switch](https://www.facebook.com/marketplace/item/1830375724751885) — $700 — Vendedor: Ingrid Daniela Osorio Carreon
-- 2026-09-26 19:06 — [Zelda Nintendo switch](https://www.facebook.com/marketplace/item/2161351368108641) — $700 — Vendedor: Karla Yocupicio
 - 2026-09-26 19:03 — [Videojuego Nintendo switch](https://www.facebook.com/marketplace/item/1972051523753417) — $700 — Vendedor: Karla Yocupicio
 - 2026-09-18 22:22 — [Mario Party Superstars](https://www.facebook.com/marketplace/item/1024549583966819) — $700 — Vendedor: Luis Angel IR
 - 2026-08-26 19:16 — [Super Mario 3d world + bowser's fury](https://www.facebook.com/marketplace/item/4742653442685606) — $700 — Vendedor: Ventas Gustavo
@@ -195,7 +194,6 @@ Total: 247 anuncios disponibles.
 - 2026-10-28 17:58 — [Sonic x Shadow Generations juego Nintendo switch](https://www.facebook.com/marketplace/item/1831852888014883) — $750 — Vendedor: Janeth Gutierrez
 - 2026-10-28 17:54 — [Omori juego Nintendo switch](https://www.facebook.com/marketplace/item/1098333916379914) — $750 — Vendedor: Janeth Gutierrez
 - 2026-10-16 17:03 — [Super Mario 3D world + Bowser fury](https://www.facebook.com/marketplace/item/1769880007424268) — $750 — Vendedor: Miguel Serrano
-- 2026-09-24 01:15 — [Zelda tears of the kingdom](https://www.facebook.com/marketplace/item/1061090210101631) — $750 — Vendedor: Mukuy Castro
 - 2026-07-13 15:44 — [Mario Kart 8 Deluxe y Súper Mario Oddysey](https://www.facebook.com/marketplace/item/1305094178279725) — $750 — Vendedor: Jorge Trs
 - 2026-11-05 19:38 — [Legends of zelda tears of the kingdom](https://www.facebook.com/marketplace/item/1932708384376872) — $800 — Vendedor: Mony TO
 - 2026-11-04 17:00 — [Se venden Juegos para Nintendo switch](https://www.facebook.com/marketplace/item/1956339339080429) — $800 — Vendedor: Pau Almada

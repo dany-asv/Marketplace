@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 31 anuncios disponibles.
+Total: 28 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -19,7 +19,6 @@ Total: 31 anuncios disponibles.
 - 2026-11-08 08:08 — [Xbox one](https://www.facebook.com/marketplace/item/1145090754611229) — $1.400 — Vendedor: Eidan Aviles
 - 2026-11-10 18:50 — [Vendo Xbox one S](https://www.facebook.com/marketplace/item/1070644342694050) — $1.500 — Vendedor: Javier Lopez
 - 2026-11-10 09:38 — [Xbox one con 3 juegos y un control funcionando perfecto](https://www.facebook.com/marketplace/item/1687277409702372) — $1.600 — Vendedor: Javier Solano Limon
-- 2026-11-14 09:59 — [REMATO BARATO Xbox One sin detalles](https://www.facebook.com/marketplace/item/1689903262923394) — $1.650 — Vendedor: KA CE
 - 2026-11-13 06:53 — [Xbox one, 2 controles y juegos digitales](https://www.facebook.com/marketplace/item/1892108945541837) — $1.700 — Vendedor: Yajahira Torres Soto
 - 2026-10-17 10:06 — [Xbox one fat](https://www.facebook.com/marketplace/item/2200525530899259) — $1.800 — Vendedor: Jesus Bojorquez
 - 2026-11-06 15:14 — [Xbox One](https://www.facebook.com/marketplace/item/1001660172998720) — $1.900 — Vendedor: Jisus Escalante
@@ -31,12 +30,10 @@ Total: 31 anuncios disponibles.
 - 2026-10-19 13:00 — [Xbox One s](https://www.facebook.com/marketplace/item/4781921825373690) — $2.200 — Vendedor: Daniel Parra Ruiz
 - 2026-10-27 19:29 — [Xbox one s 512 gb](https://www.facebook.com/marketplace/item/3794627564019723) — $2.300 — Vendedor: Carlos Niño
 - 2026-11-11 15:26 — [Xbox One X](https://www.facebook.com/marketplace/item/1650767393195026) — $2.400 — Vendedor: Ktr Lovecraft
-- 2026-11-13 20:04 — [Xbox one s 1tb con dos controles y juegos](https://www.facebook.com/marketplace/item/1144267388004120) — $2.500 — Vendedor: Alberto Mendivil
 - 2026-11-11 13:00 — [Xbox one s](https://www.facebook.com/marketplace/item/1336706561822170) — $2.500 — Vendedor: Candi Land
 - 2026-10-26 17:55 — [Xbox one s](https://www.facebook.com/marketplace/item/1503373261841624) — $2.500 — Vendedor: Emmanuel Vega
 - 2026-11-08 00:28 — [Xbox one S de un 1tera](https://www.facebook.com/marketplace/item/1801398635328858) — $2.700 — Vendedor: Jona Lopez
 - 2026-11-08 00:27 — [Xbox one S de 1 tera](https://www.facebook.com/marketplace/item/1132394109682783) — $2.700 — Vendedor: Markis Lz
-- 2026-11-03 18:42 — [Vendo o cambio Xbox one x](https://www.facebook.com/marketplace/item/1822595792199212) — $2.700 — Vendedor: Pery Lopez
 - 2026-11-03 16:07 — [Xbox One S All-Digital Edition](https://www.facebook.com/marketplace/item/1692126262330560) — $3.000 — Vendedor: Diego Muñoz
 - 2026-11-13 11:34 — [venta de xbox one s](https://www.facebook.com/marketplace/item/1612454666665925) — $3.500 — Vendedor: Isa Gill
 - 2026-08-11 17:17 — [Vendo Xbox one en buen estado tiene video de la entrada tiene dos controles cable hdmi.](https://www.facebook.com/marketplace/item/2265418454218318) — $3.500 — Vendedor: Guzman Yunnuel

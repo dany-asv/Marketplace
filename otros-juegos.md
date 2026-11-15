@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 168 anuncios disponibles.
+Total: 169 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -26,6 +26,7 @@ Total: 168 anuncios disponibles.
 - 2026-03-16 21:46 — [Juegos](https://www.facebook.com/marketplace/item/1249308707164012) — $1 — Vendedor: Luis Ricardo Peraza
 - 2026-02-01 18:15 — [Juegos de Nintendo](https://www.facebook.com/marketplace/item/853742464199575) — $1 — Vendedor: Alma Renteria Acosta
 - 2026-01-15 23:49 — [Discos de juego Pley 3 Uno de pley 50 pesos cada 1 al que venga por el  BATMAN y WOLFENSTEIN VENDIDO](https://www.facebook.com/marketplace/item/1813741709587226) — $50 — Vendedor: Aaron Guzman
+- 2026-11-15 10:47 — [Madden 20 xbox one y series s/x](https://www.facebook.com/marketplace/item/2197299967882415) — $100 — Vendedor: Ernesto Ayala Piña
 - 2026-09-14 20:51 — [Juegos de pley 3](https://www.facebook.com/marketplace/item/1562580961713625) — $100 — Vendedor: Angel Sauceda
 - 2026-09-04 13:57 — [Juegos de video $100 c/u](https://www.facebook.com/marketplace/item/2490347631456861) — $100 — Vendedor: Dulce Palma
 - 2026-07-27 15:33 — [Caset para Nintendo DS y gameboy](https://www.facebook.com/marketplace/item/1963174394397831) — $100 — Vendedor: Ivan Lopez
