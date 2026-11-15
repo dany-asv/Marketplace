@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1551 anuncios disponibles.
+Total: 1552 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -100,7 +100,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
       - [Lite](9na-nintendo-switch-lite-consolas.md) — 33 anuncios
       - [Normal](9na-nintendo-switch-normal-consolas.md) — 130 anuncios
       - [Customs](9na-nintendo-switch-customs-consolas.md) — 31 anuncios
-    - [Juegos](9na-nintendo-switch-juegos.md) — 246 anuncios
+    - [Juegos](9na-nintendo-switch-juegos.md) — 247 anuncios
     - [Accesorios](9na-nintendo-switch-accesorios.md) — 61 anuncios
   - PlayStation 5 (PS5):
     - [Consolas](9na-ps5-consolas.md) — 3 anuncios
@@ -120,6 +120,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - [Juegos](otros-juegos.md) — 168 anuncios
   - [Accesorios](otros-accesorios.md) — 45 anuncios
 ## Disponibles (de más actual a más viejo)
+- 2026-11-15 08:33 — [🎮 ¡JUEGOS DE NINTENDO SWITCH EN VENTA! 🎮](https://www.facebook.com/marketplace/item/1783557352761546) — $600 — Usado - Como nuevo — Los Mochis — Vendedor: JI Medina Robles
 - 2026-11-14 23:23 — [Nintendo Switch OLED](https://www.facebook.com/marketplace/item/2073530253300408) — $4.900 — Nuevo — Los Mochis — Vendedor: Sinuhe CM
 - 2026-11-14 22:49 — [Playstation 4 1TB](https://www.facebook.com/marketplace/item/1804453257341640) — $2.500 — Usado - Como nuevo — Los Mochis — Vendedor: Alejandro Lopez Ceceña
 - 2026-11-14 20:59 — [Control Xbox de cable](https://www.facebook.com/marketplace/item/2438217556987948) — $450 — Usado - Como nuevo — Los Mochis — Vendedor: Elreyes GN
