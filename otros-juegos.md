@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 177 anuncios disponibles.
+Total: 178 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -140,6 +140,7 @@ Total: 177 anuncios disponibles.
 - 2026-06-22 20:17 — [Luigis mansión 3](https://www.facebook.com/marketplace/item/27242296318769031) — $700 — Vendedor: Bianey Alejandra Muñoz Herrera
 - 2026-06-22 15:17 — [Cambio pokemon violet por super smash bros](https://www.facebook.com/marketplace/item/1306163944831031) — $700 — Vendedor: Jose Villegas
 - 2026-04-16 20:16 — [Métroid , Zelda ,no Mario no Pokémon](https://www.facebook.com/marketplace/item/1262453598880728) — $700 — Vendedor: Orlando Alfredo Souza
+- 2026-11-15 16:06 — [Videojuego METROID](https://www.facebook.com/marketplace/item/1647293817139531) — $750 — Vendedor: Hazel Acosta Ruiz
 - 2026-09-13 17:04 — [Videojuegos nuevos nintendo switch 2 Nintendo switch y play station 5](https://www.facebook.com/marketplace/item/939163175376802) — $750 — Vendedor: Iram A. Payan
 - 2026-08-29 14:06 — [Resident Evil 4 nuevecito](https://www.facebook.com/marketplace/item/2279037292948739) — $750 — Vendedor: Jose Luis Luna
 - 2026-08-10 10:45 — [Juegos para PS4 y PS5](https://www.facebook.com/marketplace/item/1057886853444073) — $750 — Vendedor: Yessenia Villaseñor
