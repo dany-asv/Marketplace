@@ -141,3 +141,4 @@ Total: 131 anuncios disponibles.
 - 2026-08-27 15:36 — [Nintendo switch oled edición Zelda TOTK](https://www.facebook.com/marketplace/item/1039972765541092) — $8.000 — Vendedor: Carlos Miranda
 - 2026-05-13 13:23 — [Nintendo switch 1era generación edición oled Pokémon](https://www.facebook.com/marketplace/item/1313032654254264) — $8.000 — Vendedor: David Arvizu
 - 2025-12-18 19:54 — [Nintendo switch OLED](https://www.facebook.com/marketplace/item/1912626339637337) — $8.000 — Vendedor: Julissa De Aguirre
+- 2026-11-15 23:18 — [Nintendo switch oled](https://www.facebook.com/marketplace/item/1037165832730571) — $12.345 — Vendedor: Marco Perez

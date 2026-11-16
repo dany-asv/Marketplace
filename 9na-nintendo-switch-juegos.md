@@ -95,6 +95,7 @@ Total: 249 anuncios disponibles.
 - 2026-06-15 14:40 — [Dragon Ball FighterZ para Switch](https://www.facebook.com/marketplace/item/985266987598836) — $400 — Vendedor: Maria Beatriz Valenzuela
 - 2026-06-15 14:36 — [Dragon Ball FighterZ para Switch](https://www.facebook.com/marketplace/item/958898993905269) — $400 — Vendedor: Maria Beatriz Valenzuela
 - 2026-03-14 15:11 — [Bluey para switch](https://www.facebook.com/marketplace/item/963284813309184) — $400 — Vendedor: Jesus Eduardo
+- 2026-11-16 01:41 — [FC 25 para Nintendo Switch](https://www.facebook.com/marketplace/item/1147982394798178) — $450 — Vendedor: Gustavo Flores
 - 2026-11-10 18:58 — [Juegos switch 450 cada uno](https://www.facebook.com/marketplace/item/2349709749159061) — $450 — Vendedor: Antonio Lopez
 - 2026-10-14 11:18 — [Juego para nintendo switch Minecraft](https://www.facebook.com/marketplace/item/1828072735199656) — $450 — Vendedor: Jose Cass
 - 2026-10-11 13:05 — [Sonic Forces para nintendo switch](https://www.facebook.com/marketplace/item/1647524947084183) — $450 — Vendedor: Jose Cass

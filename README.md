@@ -1,13 +1,13 @@
 # Disponibles — Marketplace Los Mochis (videojuegos)
 
-Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa, al 15 de noviembre de 2026. Ordenada de más actual a más viejo según la fecha y hora de publicación (hora de Los Mochis).
+Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa, al 16 de noviembre de 2026. Ordenada de más actual a más viejo según la fecha y hora de publicación (hora de Los Mochis).
 
 - Base: lista de guardados de Daniel, páginas 1 a 128 (2,540 anuncios revisados; la página 129 falló con error 500 de Facebook, así que la lista sigue incompleta después de enero de 2026).
-- Más los anuncios nuevos verificados como disponibles en las revisiones de vigilancia del 10, 11, 12, 13, 14 y 15 de noviembre de 2026.
+- Más los anuncios nuevos verificados como disponibles en las revisiones de vigilancia del 10, 11, 12, 13, 14, 15 y 16 de noviembre de 2026.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1591 anuncios disponibles.
+Total: 1594 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -96,18 +96,18 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 9na generación:
   - Nintendo Switch:
     - Consolas:
-      - [OLED](9na-nintendo-switch-oled-consolas.md) — 131 anuncios
+      - [OLED](9na-nintendo-switch-oled-consolas.md) — 132 anuncios
       - [Lite](9na-nintendo-switch-lite-consolas.md) — 34 anuncios
       - [Normal](9na-nintendo-switch-normal-consolas.md) — 129 anuncios
       - [Customs](9na-nintendo-switch-customs-consolas.md) — 31 anuncios
-    - [Juegos](9na-nintendo-switch-juegos.md) — 249 anuncios
+    - [Juegos](9na-nintendo-switch-juegos.md) — 250 anuncios
     - [Accesorios](9na-nintendo-switch-accesorios.md) — 63 anuncios
   - PlayStation 5 (PS5):
     - [Consolas](9na-ps5-consolas.md) — 3 anuncios
     - [Juegos](9na-ps5-juegos.md) — 21 anuncios
     - [Accesorios](9na-ps5-accesorios.md) — 17 anuncios
   - Xbox Series X/S:
-    - [Consolas](9na-xbox-series-consolas.md) — 15 anuncios
+    - [Consolas](9na-xbox-series-consolas.md) — 16 anuncios
     - [Juegos](9na-xbox-series-juegos.md) — 1 anuncios
     - [Accesorios](9na-xbox-series-accesorios.md) — 6 anuncios
 - 10ma generación:
@@ -120,7 +120,10 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - [Juegos](otros-juegos.md) — 178 anuncios
   - [Accesorios](otros-accesorios.md) — 47 anuncios
 ## Disponibles (de más actual a más viejo)
+- 2026-11-16 01:41 — [FC 25 para Nintendo Switch](https://www.facebook.com/marketplace/item/1147982394798178) — $450 — Usado - Como nuevo — Los Mochis — Vendedor: Gustavo Flores
+- 2026-11-15 23:18 — [Nintendo switch oled](https://www.facebook.com/marketplace/item/1037165832730571) — $12.345 — Usado - Como nuevo — Los Mochis — Vendedor: Marco Perez
 - 2026-11-15 20:45 — [Consola de videojuegos retro KS36🎮](https://www.facebook.com/marketplace/item/2230485104236354) — $1.000 — Usado - Como nuevo — Los Mochis — Vendedor: Leonor Elii
+- 2026-11-15 18:42 — [Xbox series S 1TB en excelente estado](https://www.facebook.com/marketplace/item/996893113468381) — $7.400 — Usado - Buen estado — Los Mochis — Vendedor: Esther Yovicha
 - 2026-11-15 18:41 — [Control Xbox series](https://www.facebook.com/marketplace/item/1665819924982070) — $123 — Usado - Como nuevo — Los Mochis — Vendedor: Emi CM
 - 2026-11-15 18:21 — [Nintendo switch](https://www.facebook.com/marketplace/item/1888704042296671) — $3.500 — Usado - Como nuevo — Los Mochis — Vendedor: Lizeth Manzanarez
 - 2026-11-15 18:10 — [Final fantasy nintendo switch](https://www.facebook.com/marketplace/item/1448985034104585) — $600 — Usado - Como nuevo — Los Mochis — Vendedor: Miguel Angel Ochoa
