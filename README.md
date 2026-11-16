@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1584 anuncios disponibles.
+Total: 1587 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -78,7 +78,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Accesorios](7ma-ps3-accesorios.md) — 1 anuncios
   - Xbox 360:
     - [Consolas](7ma-xbox-360-consolas.md) — 9 anuncios
-    - [Juegos](7ma-xbox-360-juegos.md) — 4 anuncios
+    - [Juegos](7ma-xbox-360-juegos.md) — 5 anuncios
     - [Accesorios](7ma-xbox-360-accesorios.md) — 3 anuncios
 - 8va generación:
   - Wii U:
@@ -116,10 +116,11 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](10ma-nintendo-switch-2-juegos.md) — 22 anuncios
     - [Accesorios](10ma-nintendo-switch-2-accesorios.md) — 1 anuncios
 - Otros — Multiplataforma o sin plataforma clara:
-  - [Consolas](otros-consolas.md) — 101 anuncios
-  - [Juegos](otros-juegos.md) — 176 anuncios
+  - [Consolas](otros-consolas.md) — 102 anuncios
+  - [Juegos](otros-juegos.md) — 177 anuncios
   - [Accesorios](otros-accesorios.md) — 47 anuncios
 ## Disponibles (de más actual a más viejo)
+- 2026-11-15 20:45 — [Consola de videojuegos retro KS36🎮](https://www.facebook.com/marketplace/item/2230485104236354) — $1.000 — Usado - Como nuevo — Los Mochis — Vendedor: Leonor Elii
 - 2026-11-15 18:41 — [Control Xbox series](https://www.facebook.com/marketplace/item/1665819924982070) — $123 — Usado - Como nuevo — Los Mochis — Vendedor: Emi CM
 - 2026-11-15 18:21 — [Nintendo switch](https://www.facebook.com/marketplace/item/1888704042296671) — $3.500 — Usado - Como nuevo — Los Mochis — Vendedor: Lizeth Manzanarez
 - 2026-11-15 18:10 — [Final fantasy nintendo switch](https://www.facebook.com/marketplace/item/1448985034104585) — $600 — Usado - Como nuevo — Los Mochis — Vendedor: Miguel Angel Ochoa
@@ -131,6 +132,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-15 16:11 — [Videojuego](https://www.facebook.com/marketplace/item/1902691554287719) — $250 — Usado - Buen estado — Los Mochis — Vendedor: Hazel Acosta Ruiz
 - 2026-11-15 16:01 — [Consola de Videojuegos](https://www.facebook.com/marketplace/item/2848194602226976) — $1 — Usado - Buen estado — Los Mochis — Vendedor: Hazel Acosta Ruiz
 - 2026-11-15 15:55 — [Control Xbox clásico](https://www.facebook.com/marketplace/item/1491202196240033) — $320 — Nuevo — Los Mochis — Vendedor: Alma Valdez
+- 2026-11-15 15:05 — [Videojuegos🎮🎮](https://www.facebook.com/marketplace/item/1836672987543075) — $550 — Nuevo — Los Mochis — Vendedor: Jazmin Fuentes
 - 2026-11-15 15:00 — [Videojuegos](https://www.facebook.com/marketplace/item/1159281740037549) — $550 — Nuevo — Los Mochis — Vendedor: Jazmin Fuentes
 - 2026-11-15 13:30 — [Videojuegos nintendo Switch play y wii](https://www.facebook.com/marketplace/item/1039832102455774) — $600 — Usado - Como nuevo — Los Mochis — Vendedor: Rafaela Gastelo Torres
 - 2026-11-15 13:25 — [Xbox one](https://www.facebook.com/marketplace/item/1527390922772406) — $900 — Usado - Como nuevo — Los Mochis — Vendedor: Ruben Vazquez
@@ -139,6 +141,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-15 12:05 — [5 juegos Xbox 360 todos por $600](https://www.facebook.com/marketplace/item/2682936752139673) — $600 — Usado - Como nuevo — Los Mochis — Vendedor: Xhavi Manzanarez
 - 2026-11-15 12:05 — [5 juegos Xbox 360 todos por $600](https://www.facebook.com/marketplace/item/2017179318979573) — $600 — Usado - Como nuevo — Los Mochis — Vendedor: Xhavi Manzanarez
 - 2026-11-15 12:05 — [5 juegos Xbox 360 todos por $600](https://www.facebook.com/marketplace/item/1143397324816586) — $600 — Usado - Como nuevo — Los Mochis — Vendedor: Xhavi Manzanarez
+- 2026-11-15 12:05 — [5 juegos Xbox 360 todos por $600](https://www.facebook.com/marketplace/item/1668844984983381) — $600 — Usado - Como nuevo — Los Mochis — Vendedor: Xhavi Manzanarez
 - 2026-11-15 11:40 — [Juegos PS5](https://www.facebook.com/marketplace/item/1141286178871583) — $650 — Usado - Como nuevo — Los Mochis — Vendedor: Edel Muñoz Combs
 - 2026-11-15 10:57 — [Xbox 360 con juegos](https://www.facebook.com/marketplace/item/1691779785622149) — $1.600 — Usado - Buen estado — Los Mochis — Vendedor: Emi CM
 - 2026-11-15 10:56 — [Nintendo Switch Lite con varios juegos](https://www.facebook.com/marketplace/item/2257621274798511) — $123 — Usado - Como nuevo — Los Mochis — Vendedor: Emi CM
