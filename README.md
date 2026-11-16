@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1594 anuncios disponibles.
+Total: 1597 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -90,7 +90,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](8va-ps4-juegos.md) — 134 anuncios
     - [Accesorios](8va-ps4-accesorios.md) — 11 anuncios
   - Xbox One:
-    - [Consolas](8va-xbox-one-consolas.md) — 31 anuncios
+    - [Consolas](8va-xbox-one-consolas.md) — 32 anuncios
     - [Juegos](8va-xbox-one-juegos.md) — 4 anuncios
     - [Accesorios](8va-xbox-one-accesorios.md) — 1 anuncios
 - 9na generación:
@@ -98,7 +98,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - Consolas:
       - [OLED](9na-nintendo-switch-oled-consolas.md) — 127 anuncios
       - [Lite](9na-nintendo-switch-lite-consolas.md) — 34 anuncios
-      - [Normal](9na-nintendo-switch-normal-consolas.md) — 128 anuncios
+      - [Normal](9na-nintendo-switch-normal-consolas.md) — 129 anuncios
       - [Customs](9na-nintendo-switch-customs-consolas.md) — 31 anuncios
     - [Juegos](9na-nintendo-switch-juegos.md) — 251 anuncios
     - [Accesorios](9na-nintendo-switch-accesorios.md) — 63 anuncios
@@ -109,7 +109,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - Xbox Series X/S:
     - [Consolas](9na-xbox-series-consolas.md) — 15 anuncios
     - [Juegos](9na-xbox-series-juegos.md) — 1 anuncios
-    - [Accesorios](9na-xbox-series-accesorios.md) — 6 anuncios
+    - [Accesorios](9na-xbox-series-accesorios.md) — 7 anuncios
 - 10ma generación:
   - Nintendo Switch 2:
     - [Consolas](10ma-nintendo-switch-2-consolas.md) — 16 anuncios
@@ -120,6 +120,8 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - [Juegos](otros-juegos.md) — 179 anuncios
   - [Accesorios](otros-accesorios.md) — 47 anuncios
 ## Disponibles (de más actual a más viejo)
+- 2026-11-16 15:03 — [Nintendo switch](https://www.facebook.com/marketplace/item/2952905408426249) — $5.000 — Usado - Como nuevo — Los Mochis — Vendedor: Karen Gpe Valenzuela
+- 2026-11-16 14:55 — [Xbox one s](https://www.facebook.com/marketplace/item/1154673613719773) — $2.500 — Usado - Como nuevo — Los Mochis — Vendedor: Jose Aguilar
 - 2026-11-16 14:16 — [Videojuegos usados](https://www.facebook.com/marketplace/item/2461039508034702) — GRATIS — Usado - Buen estado — Los Mochis — Vendedor: Mario Olivas
 - 2026-11-16 13:56 — [Nintendo Switch](https://www.facebook.com/marketplace/item/2738777403191620) — $1.700 — Usado - Buen estado — Los Mochis — Vendedor: Cindy Cota
 - 2026-11-16 12:33 — [nintendo 3DS XL](https://www.facebook.com/marketplace/item/1080635241695253) — $1 — Usado - Buen estado — Los Mochis — Vendedor: Vanessa Armenta Almeida
@@ -173,6 +175,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-14 22:56 — [$2000 por todo](https://www.facebook.com/marketplace/item/2212673649315508) — $2.000 — Usado - Como nuevo — Los Mochis — Vendedor: Jose Gonzalez
 - 2026-11-14 22:49 — [Playstation 4 1TB](https://www.facebook.com/marketplace/item/1804453257341640) — $2.500 — Usado - Como nuevo — Los Mochis — Vendedor: Alejandro Lopez Ceceña
 - 2026-11-14 22:39 — [Guitar hero 3 ps2](https://www.facebook.com/marketplace/item/1824919435443217) — $200 — Usado - Aceptable — Los Mochis — Vendedor: Victor Lamphar
+- 2026-11-14 20:41 — [Vendo par de baterías recargables para control de Xbox series](https://www.facebook.com/marketplace/item/1161649783060637) — $300 — Usado — Los Mochis — Vendedor: Pery Lopez
 - 2026-11-14 16:47 — [Control Xbox Series nuevo sellado](https://www.facebook.com/marketplace/item/2268620670747108) — $1.000 — Nuevo — Los Mochis — Vendedor: Santiago Garcia
 - 2026-11-14 16:28 — [Xbox 360 Slim Chipeado + de 25 juegos](https://www.facebook.com/marketplace/item/1159490323116798) — $1.600 — Usado - Buen estado — Los Mochis — Vendedor: Daniela Trejo
 - 2026-11-14 14:58 — [Máquina Arcade Retro Doble Palanca | 36,800 Juegos Clásicos](https://www.facebook.com/marketplace/item/1610802756924102) — $2.500 — Nuevo — Los Mochis — Vendedor: Juan Manuel Tapia

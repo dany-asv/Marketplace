@@ -3,7 +3,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - El nombre de cada vendedor es una liga a su perfil de Marketplace.
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
-Total: 947 vendedores, 1593 anuncios con vendedor identificado (1 anuncios de la lista no tienen vendedor identificado).
+Total: 949 vendedores, 1596 anuncios con vendedor identificado (1 anuncios de la lista no tienen vendedor identificado).
 ## Vendedores (de mayor a menor número de publicaciones)
 - [Antonio Lopez](https://www.facebook.com/marketplace/profile/100040731070103) — 41 publicaciones ✓
 - [Carlos Jiménez](https://www.facebook.com/marketplace/profile/100007976233056) — 31 publicaciones
@@ -227,6 +227,7 @@ Total: 947 vendedores, 1593 anuncios con vendedor identificado (1 anuncios de la
 - [Cas Hym](https://www.facebook.com/marketplace/profile/100042253533833) — 2 publicaciones
 - [Alicia García](https://www.facebook.com/marketplace/profile/100009676094768) — 2 publicaciones
 - [Paola Vázquez](https://www.facebook.com/marketplace/profile/100055951713549) — 2 publicaciones
+- [Pery Lopez](https://www.facebook.com/marketplace/profile/61558387123669) — 2 publicaciones
 - [Lizeth Manzanarez](https://www.facebook.com/marketplace/profile/100011396976689) — 1 publicaciones
 - [A Usiel A Palafox](https://www.facebook.com/marketplace/profile/100088914757602) — 1 publicaciones
 - [Aaron Guzman](https://www.facebook.com/marketplace/profile/100000543765190) — 1 publicaciones
@@ -808,7 +809,6 @@ Total: 947 vendedores, 1593 anuncios con vendedor identificado (1 anuncios de la
 - [Pedro Carrazco](https://www.facebook.com/marketplace/profile/100078272504239) — 1 publicaciones
 - [Pedro Hernandez](https://www.facebook.com/marketplace/profile/100032240701820) — 1 publicaciones
 - [Pedro Neyoy Diosdado](https://www.facebook.com/marketplace/profile/100007526200755) — 1 publicaciones
-- [Pery Lopez](https://www.facebook.com/marketplace/profile/61558387123669) — 1 publicaciones
 - [Pf Clothin](https://www.facebook.com/marketplace/profile/61583973574028) — 1 publicaciones
 - [Poka Luz](https://www.facebook.com/marketplace/profile/100014671811948) — 1 publicaciones
 - [Raf Payan](https://www.facebook.com/marketplace/profile/1011711891) — 1 publicaciones
@@ -953,3 +953,5 @@ Total: 947 vendedores, 1593 anuncios con vendedor identificado (1 anuncios de la
 - [Cindy Cota](https://www.facebook.com/marketplace/profile/100036148051766) — 1 publicaciones
 - [Vanessa Armenta Almeida](https://www.facebook.com/marketplace/profile/100009957758052) — 1 publicaciones
 - [Francisco Bojorquez](https://www.facebook.com/marketplace/profile/100003709309397) — 1 publicaciones
+- [Jose Aguilar](https://www.facebook.com/marketplace/profile/61595715527671) — 1 publicaciones
+- [Karen Gpe Valenzuela](https://www.facebook.com/marketplace/profile/100016227697060) — 1 publicaciones
