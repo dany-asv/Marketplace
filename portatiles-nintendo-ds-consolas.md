@@ -13,6 +13,7 @@ Total: 7 anuncios disponibles.
 - 2026-08-06 13:05 — [Nintendo DS NDS](https://www.facebook.com/marketplace/item/1392751272774419) — GRATIS — Vendedor: Plays Hacks
 - 2026-10-17 17:55 — [NFS MW Nintendo DS en caja con sus manuales](https://www.facebook.com/marketplace/item/1410311597816278) — $300 — Vendedor: Sergio Castro Félix
 - 2026-11-11 22:51 — [Nintendo dsi](https://www.facebook.com/marketplace/item/1781135323003413) — $650 — Vendedor: Paola Vázquez
+- 2026-11-11 11:38 — [Nintendo dsi](https://www.facebook.com/marketplace/item/2288499815348914) — $700 — Vendedor: Paola Vázquez
 - 2026-07-03 22:11 — [Nintendo ds i con cargador y 1 juego físico, solo detalles estéticos y l y r no funcionan](https://www.facebook.com/marketplace/item/986011240729454) — $900 — Vendedor: Serrano Guadalupe
 - 2026-09-30 20:06 — [Consola DS Lite](https://www.facebook.com/marketplace/item/1372393049285409) — $1.300 — Vendedor: Gomez Gamboa
 - 2026-10-18 21:33 — [nintendo Ds-lite](https://www.facebook.com/marketplace/item/2601910576967457) — $1.350 — Vendedor: Toys Tools

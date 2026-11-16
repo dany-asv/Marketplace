@@ -10,6 +10,7 @@ Total: 10 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
+- 2026-11-16 12:33 — [nintendo 3DS XL](https://www.facebook.com/marketplace/item/1080635241695253) — $1 — Vendedor: Vanessa Armenta Almeida
 - 2026-11-14 14:55 — [Nintendo 3DS Color Negro en buen estado](https://www.facebook.com/marketplace/item/1892843775469861) — $2.000 — Vendedor: Jurguen Camacho
 - 2026-06-16 21:26 — [Compro 3ds](https://www.facebook.com/marketplace/item/872921785254753) — $2.000 — Vendedor: Sergio Lopez
 - 2026-10-15 13:21 — [Nintendo 3ds Original 1era edicion color negro](https://www.facebook.com/marketplace/item/1415749340084706) — $2.500 — Vendedor: Flip Jjr

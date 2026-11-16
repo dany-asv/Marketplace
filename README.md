@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1589 anuncios disponibles.
+Total: 1594 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -27,13 +27,13 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - PS Vita:
     - [Consolas](portatiles-ps-vita-consolas.md) — 8 anuncios
   - Nintendo DS:
-    - [Consolas](portatiles-nintendo-ds-consolas.md) — 7 anuncios
+    - [Consolas](portatiles-nintendo-ds-consolas.md) — 8 anuncios
     - [Juegos](portatiles-nintendo-ds-juegos.md) — 12 anuncios
     - [Accesorios](portatiles-nintendo-ds-accesorios.md) — 1 anuncios
   - Nintendo 2DS:
     - [Consolas](portatiles-nintendo-2ds-consolas.md) — 5 anuncios
   - Nintendo 3DS:
-    - [Consolas](portatiles-nintendo-3ds-consolas.md) — 10 anuncios
+    - [Consolas](portatiles-nintendo-3ds-consolas.md) — 11 anuncios
     - [Juegos](portatiles-nintendo-3ds-juegos.md) — 12 anuncios
     - [Accesorios](portatiles-nintendo-3ds-accesorios.md) — 1 anuncios
 - 1ra, 2da y 3ra generación:
@@ -69,7 +69,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Accesorios](6ta-xbox-clasico-accesorios.md) — 2 anuncios
 - 7ma generación:
   - Wii:
-    - [Consolas](7ma-wii-consolas.md) — 16 anuncios
+    - [Consolas](7ma-wii-consolas.md) — 17 anuncios
     - [Juegos](7ma-wii-juegos.md) — 5 anuncios
     - [Accesorios](7ma-wii-accesorios.md) — 6 anuncios
   - PlayStation 3 (PS3):
@@ -98,7 +98,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - Consolas:
       - [OLED](9na-nintendo-switch-oled-consolas.md) — 127 anuncios
       - [Lite](9na-nintendo-switch-lite-consolas.md) — 34 anuncios
-      - [Normal](9na-nintendo-switch-normal-consolas.md) — 127 anuncios
+      - [Normal](9na-nintendo-switch-normal-consolas.md) — 128 anuncios
       - [Customs](9na-nintendo-switch-customs-consolas.md) — 31 anuncios
     - [Juegos](9na-nintendo-switch-juegos.md) — 251 anuncios
     - [Accesorios](9na-nintendo-switch-accesorios.md) — 63 anuncios
@@ -117,9 +117,12 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Accesorios](10ma-nintendo-switch-2-accesorios.md) — 2 anuncios
 - Otros — Multiplataforma o sin plataforma clara:
   - [Consolas](otros-consolas.md) — 102 anuncios
-  - [Juegos](otros-juegos.md) — 178 anuncios
+  - [Juegos](otros-juegos.md) — 179 anuncios
   - [Accesorios](otros-accesorios.md) — 47 anuncios
 ## Disponibles (de más actual a más viejo)
+- 2026-11-16 14:16 — [Videojuegos usados](https://www.facebook.com/marketplace/item/2461039508034702) — GRATIS — Usado - Buen estado — Los Mochis — Vendedor: Mario Olivas
+- 2026-11-16 13:56 — [Nintendo Switch](https://www.facebook.com/marketplace/item/2738777403191620) — $1.700 — Usado - Buen estado — Los Mochis — Vendedor: Cindy Cota
+- 2026-11-16 12:33 — [nintendo 3DS XL](https://www.facebook.com/marketplace/item/1080635241695253) — $1 — Usado - Buen estado — Los Mochis — Vendedor: Vanessa Armenta Almeida
 - 2026-11-16 12:11 — [Control Pro Nintendo Switch 2](https://www.facebook.com/marketplace/item/1664776435287252) — $1.300 — Usado - Como nuevo — Los Mochis — Vendedor: Alberto Rio
 - 2026-11-16 09:48 — [Control gamesir nintendo switch 1 y 2, iPhone, Android, celulares, tablet y pc.](https://www.facebook.com/marketplace/item/1393209785983047) — $1.500 — Nuevo — Los Mochis — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-11-16 09:48 — [Gamesir control PC y nintendo switch](https://www.facebook.com/marketplace/item/2195557977723385) — $1.700 — Nuevo — Los Mochis — Vendedor: Jesus Gilberto Alvarez Vega
@@ -292,6 +295,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-11 12:26 — [DualSense Camuflaje Original PS5 + Funda Rígida Magnética](https://www.facebook.com/marketplace/item/1342161464594247) — $1.050 — Nuevo — Los Mochis — Vendedor: Plays Hacks
 - 2026-11-11 12:10 — [Nintendo](https://www.facebook.com/marketplace/item/3199522023772255) — $2.300 — Usado - Aceptable — Los Mochis — Vendedor: Alejandra Mochis
 - 2026-11-11 12:06 — [Mini Consola Retro con 620 Juegos](https://www.facebook.com/marketplace/item/2618193315306165) — $250 — Nuevo — Los Mochis — Vendedor: Karyme Baldenebro
+- 2026-11-11 11:38 — [Nintendo dsi](https://www.facebook.com/marketplace/item/2288499815348914) — $700 — Usado - Aceptable — Los Mochis — Vendedor: Paola Vázquez
 - 2026-11-11 10:49 — [Vendo Nintendo Switch (detalles por uso)](https://www.facebook.com/marketplace/item/1595279695620271) — $2.800 — Usado - Buen estado — Los Mochis — Vendedor: Luis Quintero Villegas
 - 2026-11-11 09:44 — [Xbox one fat solo le falta la tapa](https://www.facebook.com/marketplace/item/1591358789677713) — $1.400 — Usado - Aceptable — Los Mochis — Vendedor: Juan Flores
 - 2026-11-11 08:46 — [Juegos Nintendo 64 originales $200 c/u](https://www.facebook.com/marketplace/item/4154199678203621) — $200 — Usado - Aceptable — Los Mochis — Vendedor: Jano Sarabia
@@ -326,6 +330,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-10 14:07 — [Consola M15 Pro 4K +20000 Juegos](https://www.facebook.com/marketplace/item/2671169333355846) — $650 — Nuevo — Los Mochis — Vendedor: Charly Galaviz
 - 2026-11-10 13:12 — [Nintendo 64 más juego](https://www.facebook.com/marketplace/item/2001639840502768) — $1.500 — Usado — Los Mochis — Vendedor: Ivan Gortarez
 - 2026-11-10 12:26 — [Nintendo super mario bros](https://www.facebook.com/marketplace/item/1085566247817446) — $1 — Usado - Como nuevo — Los Mochis — Vendedor: Daniel Ochoa
+- 2026-11-10 12:12 — [Wii sin control](https://www.facebook.com/marketplace/item/1417993857082585) — $800 — Usado - Buen estado — Los Mochis — Vendedor: Francisco Bojorquez
 - 2026-11-10 11:58 — [Juegos 3Ds](https://www.facebook.com/marketplace/item/1752925119110872) — $350 — Usado - Como nuevo — Los Mochis — Vendedor: Efrain Villegas
 - 2026-11-10 11:43 — [Mini Consola Retro con 620 Juegos](https://www.facebook.com/marketplace/item/1081638551497298) — $250 — Nuevo — Los Mochis — Vendedor: Charly J Acosta
 - 2026-11-10 11:42 — [Consola M14 Pro 4K +20000 Juegos](https://www.facebook.com/marketplace/item/2179267716185712) — $650 — Los Mochis — Vendedor: Charly J Acosta

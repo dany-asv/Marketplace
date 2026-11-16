@@ -10,6 +10,7 @@ Total: 178 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
+- 2026-11-16 14:16 — [Videojuegos usados](https://www.facebook.com/marketplace/item/2461039508034702) — GRATIS — Vendedor: Mario Olivas
 - 2026-11-12 23:59 — [Juegos de nintendo](https://www.facebook.com/marketplace/item/1446917647564716) — GRATIS — Vendedor: Mariel Haydee Castro Castro
 - 2026-11-05 19:37 — [Sonic 2 y ni no kuni](https://www.facebook.com/marketplace/item/2149935728978567) — GRATIS — Vendedor: Antonio Rodriguez
 - 2026-08-27 16:04 — [Juegos de switch, ps5 y xbox](https://www.facebook.com/marketplace/item/1422661659727518) — GRATIS — Vendedor: Ivan Delval

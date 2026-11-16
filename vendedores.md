@@ -3,7 +3,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - El nombre de cada vendedor es una liga a su perfil de Marketplace.
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
-Total: 943 vendedores, 1588 anuncios con vendedor identificado (1 anuncios de la lista no tienen vendedor identificado).
+Total: 947 vendedores, 1593 anuncios con vendedor identificado (1 anuncios de la lista no tienen vendedor identificado).
 ## Vendedores (de mayor a menor número de publicaciones)
 - [Antonio Lopez](https://www.facebook.com/marketplace/profile/100040731070103) — 41 publicaciones ✓
 - [Carlos Jiménez](https://www.facebook.com/marketplace/profile/100007976233056) — 31 publicaciones
@@ -226,6 +226,7 @@ Total: 943 vendedores, 1588 anuncios con vendedor identificado (1 anuncios de la
 - [Dayanna Fuentes Lara](https://www.facebook.com/marketplace/profile/61574053739865) — 2 publicaciones
 - [Cas Hym](https://www.facebook.com/marketplace/profile/100042253533833) — 2 publicaciones
 - [Alicia García](https://www.facebook.com/marketplace/profile/100009676094768) — 2 publicaciones
+- [Paola Vázquez](https://www.facebook.com/marketplace/profile/100055951713549) — 2 publicaciones
 - [Lizeth Manzanarez](https://www.facebook.com/marketplace/profile/100011396976689) — 1 publicaciones
 - [A Usiel A Palafox](https://www.facebook.com/marketplace/profile/100088914757602) — 1 publicaciones
 - [Aaron Guzman](https://www.facebook.com/marketplace/profile/100000543765190) — 1 publicaciones
@@ -926,7 +927,6 @@ Total: 943 vendedores, 1588 anuncios con vendedor identificado (1 anuncios de la
 - [Luis Enrique](https://www.facebook.com/marketplace/profile/100001984576090) — 1 publicaciones
 - [Isa Gill](https://www.facebook.com/marketplace/profile/61579677501605) — 1 publicaciones
 - [Luis Vergara Rojo](https://www.facebook.com/marketplace/profile/541681473) — 1 publicaciones
-- [Paola Vázquez](https://www.facebook.com/marketplace/profile/100055951713549) — 1 publicaciones
 - [Zamver Zamver](https://www.facebook.com/marketplace/profile/100004525335955) — 1 publicaciones
 - [Irving Alvarez Velazquez](https://www.facebook.com/marketplace/profile/100002765150014) — 1 publicaciones
 - [Alejandro Lopez Ceceña](https://www.facebook.com/marketplace/profile/100000363086375) — 1 publicaciones
@@ -948,3 +948,8 @@ Total: 943 vendedores, 1588 anuncios con vendedor identificado (1 anuncios de la
 - [Miguel Angel Ochoa](https://www.facebook.com/marketplace/profile/100001339531130) — 1 publicaciones
 - [Leonor Elii](https://www.facebook.com/marketplace/profile/100072820763828) — 1 publicaciones
 - [Alberto Rio](https://www.facebook.com/marketplace/profile/100006427051787) — 1 publicaciones
+
+- [Mario Olivas](https://www.facebook.com/marketplace/profile/61585643583702) — 1 publicaciones
+- [Cindy Cota](https://www.facebook.com/marketplace/profile/100036148051766) — 1 publicaciones
+- [Vanessa Armenta Almeida](https://www.facebook.com/marketplace/profile/100009957758052) — 1 publicaciones
+- [Francisco Bojorquez](https://www.facebook.com/marketplace/profile/100003709309397) — 1 publicaciones
