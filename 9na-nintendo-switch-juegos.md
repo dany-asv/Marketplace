@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 250 anuncios disponibles.
+Total: 251 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -216,6 +216,7 @@ Total: 250 anuncios disponibles.
 - 2026-05-15 08:26 — [Animal crossing switch](https://www.facebook.com/marketplace/item/1721048892400778) — $800 — Vendedor: Aarón Martinez Orduño
 - 2026-05-13 13:28 — [Videojuego Para Nintendo Switch 1 FIFA 22](https://www.facebook.com/marketplace/item/1998518117407840) — $800 — Vendedor: Emmanuel Enciso
 - 2026-04-27 09:19 — [SE VENDE POKEMON ARCEUS](https://www.facebook.com/marketplace/item/924431277260357) — $800 — Vendedor: Sebastian Souza
+- 2026-11-15 16:06 — [Súper mario party](https://www.facebook.com/marketplace/item/2399165664232321) — $850 — Vendedor: Alicia García
 - 2026-11-03 19:04 — [Astral chain Nintendo switch](https://www.facebook.com/marketplace/item/2208480346369463) — $850 — Vendedor: Iram A. Payan
 - 2026-10-31 13:16 — [Pokémon let`s go Pikachu! Para nintendo switch -original](https://www.facebook.com/marketplace/item/1802361934323301) — $850 — Vendedor: Alonso Vlz
 - 2026-10-29 15:32 — [Nuevos para Nintendo](https://www.facebook.com/marketplace/item/1591474245626325) — $900 — Vendedor: Denisse Vargas
