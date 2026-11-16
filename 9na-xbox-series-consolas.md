@@ -20,7 +20,6 @@ Total: 15 anuncios disponibles.
 - 2026-10-12 11:08 — [Xbox series S](https://www.facebook.com/marketplace/item/2001903044099661) — $4.000 — Vendedor: Fernando Espinoza
 - 2026-10-24 16:42 — [Xbox series s](https://www.facebook.com/marketplace/item/1816646059755981) — $4.500 — Vendedor: Francisco Pacheco
 - 2026-10-18 22:32 — [Xbox series S](https://www.facebook.com/marketplace/item/1934202568030559) — $4.500 — Vendedor: Julio Castro
-- 2026-11-15 09:07 — [Xbox series s](https://www.facebook.com/marketplace/item/2118871792086289) — $4.700 — Vendedor: Santiago Arce
 - 2026-10-27 15:36 — [Xbox series S](https://www.facebook.com/marketplace/item/1652499659814866) — $5.500 — Vendedor: Cecilia Carrillo
 - 2026-10-30 16:06 — [Xbox Series S + Juegos](https://www.facebook.com/marketplace/item/1814677796341479) — $6.000 — Vendedor: Fernando Velasquez
 - 2026-11-13 21:25 — [XBOX SERIES S](https://www.facebook.com/marketplace/item/976005778507201) — $6.999 — Vendedor: Jesus Valdez

@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 131 anuncios disponibles.
+Total: 126 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -19,26 +19,21 @@ Total: 131 anuncios disponibles.
 - 2026-07-03 22:00 — [Switch oled con los accesorios de la foto y estuche](https://www.facebook.com/marketplace/item/2038584110365489) — $3.300 — Vendedor: Antoni Tony
 - 2026-10-14 00:56 — [Nintendo switch oled](https://www.facebook.com/marketplace/item/2198886641061359) — $3.400 — Vendedor: David Cañedo
 - 2026-10-18 21:11 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/4691387284516351) — $3.499 — Vendedor: Acosta Fierro
-- 2026-11-15 18:21 — [Nintendo switch](https://www.facebook.com/marketplace/item/1888704042296671) — $3.500 — Vendedor: Lizeth Manzanarez
 - 2026-11-03 22:09 — [Nintendo switch OLED](https://www.facebook.com/marketplace/item/2272331210290426) — $3.500 — Vendedor: Jose E. AlaLu
 - 2026-10-11 17:03 — [Nintendo](https://www.facebook.com/marketplace/item/1637986604347005) — $3.500 — Vendedor: Alondra AR Cam
 - 2026-10-04 16:06 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/1435665041991193) — $3.500 — Vendedor: Carlos Jiménez
-- 2026-10-04 10:14 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/1060869980278569) — $3.500 — Vendedor: Carlos Jiménez
 - 2026-10-03 21:23 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/4400677966927865) — $3.500 — Vendedor: Carlos Jiménez
 - 2026-10-03 20:07 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/1546458690569581) — $3.500 — Vendedor: Carlos Jiménez
 - 2026-10-03 17:11 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/2807223086319690) — $3.500 — Vendedor: Carlos Jiménez
-- 2026-10-02 23:09 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/1391991056353905) — $3.500 — Vendedor: Carlos Jiménez
 - 2026-06-12 22:37 — [nintendo swich oled blanca](https://www.facebook.com/marketplace/item/984626107826370) — $3.500 — Vendedor: Marelly Yalita
 - 2026-05-01 19:54 — [Nintendo switch oled](https://www.facebook.com/marketplace/item/1002197775573052) — $3.500 — Vendedor: Danitza Vallejo
 - 2026-10-04 10:56 — [nintendo switch edición zelda: tears of the kingdom y nintendo switch oled](https://www.facebook.com/marketplace/item/1087838933955803) — $3.700 — Vendedor: Luis Peraza
 - 2026-11-08 11:26 — [Nintendo Oled 64gb](https://www.facebook.com/marketplace/item/1134008732608888) — $3.800 — Vendedor: Keidy Gonzalez
 - 2026-11-05 18:49 — [Nintendo Switch OLED Blanco](https://www.facebook.com/marketplace/item/2204331920497091) — $3.800 — Vendedor: Felipe Mendoza
-- 2026-10-05 16:24 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/4574399629554154) — $3.800 — Vendedor: Carlos Jiménez
 - 2026-10-05 16:21 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/1110946614662253) — $3.800 — Vendedor: Carlos Jiménez
 - 2026-10-02 20:11 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/4115692535390106) — $3.800 — Vendedor: Carlos Jiménez
 - 2026-10-02 20:09 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/1653524959897618) — $3.800 — Vendedor: Carlos Jiménez
 - 2026-10-02 16:22 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/1359661289519364) — $3.800 — Vendedor: Carlos Jiménez
-- 2026-10-02 14:05 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/1577046214165653) — $3.800 — Vendedor: Carlos Jiménez
 - 2026-10-02 12:59 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/2209803136244569) — $3.800 — Vendedor: Carlos Jiménez
 - 2026-10-02 11:06 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/2314780299062364) — $3.800 — Vendedor: Carlos Jiménez
 - 2026-10-02 11:04 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/1464978725678498) — $3.800 — Vendedor: Carlos Jiménez
@@ -58,7 +53,6 @@ Total: 131 anuncios disponibles.
 - 2026-10-01 22:16 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/1812761706632391) — $4.000 — Vendedor: Carlos Jiménez
 - 2026-10-01 17:03 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/4135502983411525) — $4.000 — Vendedor: Carlos Jiménez
 - 2026-10-01 17:01 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/2177168446195585) — $4.000 — Vendedor: Carlos Jiménez
-- 2026-09-30 22:30 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/1916155326023223) — $4.000 — Vendedor: Carlos Jiménez
 - 2026-09-30 22:24 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/1115400510929970) — $4.000 — Vendedor: Carlos Jiménez
 - 2026-09-30 19:03 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/1870124443971408) — $4.000 — Vendedor: Carlos Jiménez
 - 2026-09-29 15:16 — [Nintendo Switch Oled](https://www.facebook.com/marketplace/item/1410719087088376) — $4.000 — Vendedor: Carlos Jiménez
