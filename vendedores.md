@@ -1,9 +1,9 @@
 # Vendedores por número de publicaciones — Marketplace Los Mochis (videojuegos)
-Vendedores ordenados de mayor a menor número de publicaciones disponibles de videojuegos en Los Mochis, según la lista del repositorio (README.md, al 15 de noviembre de 2026).
+Vendedores ordenados de mayor a menor número de publicaciones disponibles de videojuegos en Los Mochis, según la lista del repositorio (README.md, al 16 de noviembre de 2026).
 - El nombre de cada vendedor es una liga a su perfil de Marketplace.
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
-Total: 948 vendedores, 1594 anuncios con vendedor identificado (1 anuncios de la lista no tienen vendedor identificado).
+Total: 949 vendedores, 1596 anuncios con vendedor identificado (1 anuncios de la lista no tienen vendedor identificado).
 ## Vendedores (de mayor a menor número de publicaciones)
 - [Antonio Lopez](https://www.facebook.com/marketplace/profile/100040731070103) — 41 publicaciones ✓
 - [Carlos Jiménez](https://www.facebook.com/marketplace/profile/100007976233056) — 36 publicaciones
@@ -17,7 +17,7 @@ Total: 948 vendedores, 1594 anuncios con vendedor identificado (1 anuncios de la
 - [Carla Lopez](https://www.facebook.com/marketplace/profile/100009128428674) — 12 publicaciones
 - [Ivan Aguero](https://www.facebook.com/marketplace/profile/61591098105339) — 12 publicaciones
 - [Axel Luna](https://www.facebook.com/marketplace/profile/100041876418121) — 12 publicaciones
-- [Jesus Gilberto Alvarez Vega](https://www.facebook.com/marketplace/profile/100000465903128) — 11 publicaciones
+- [Jesus Gilberto Alvarez Vega](https://www.facebook.com/marketplace/profile/100000465903128) — 12 publicaciones
 - [Stargames Valenzuela](https://www.facebook.com/marketplace/profile/61553128845022) — 10 publicaciones ✓
 - [Gwendoline Palafox Almanza](https://www.facebook.com/marketplace/profile/61552019004427) — 9 publicaciones
 - [Juan Sergio Hernandez Araujo](https://www.facebook.com/marketplace/profile/100000461024234) — 9 publicaciones
@@ -619,6 +619,7 @@ Total: 948 vendedores, 1594 anuncios con vendedor identificado (1 anuncios de la
 - [Jose Rivera](https://www.facebook.com/marketplace/profile/61577496621548) — 1 publicaciones
 - [Jose Salas](https://www.facebook.com/marketplace/profile/61580891845796) — 1 publicaciones
 - [Jose Soto](https://www.facebook.com/marketplace/profile/100048689357220) — 1 publicaciones
+- [Josemiguel Vizcarra](https://www.facebook.com/marketplace/profile/61586280028301) — 1 publicaciones
 - [Joss Etzo](https://www.facebook.com/marketplace/profile/61580174618480) — 1 publicaciones
 - [Josue Iras](https://www.facebook.com/marketplace/profile/100028168365903) — 1 publicaciones
 - [Josue Navarro](https://www.facebook.com/marketplace/profile/100001709506397) — 1 publicaciones

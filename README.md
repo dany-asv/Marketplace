@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1595 anuncios disponibles.
+Total: 1597 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -90,7 +90,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](8va-ps4-juegos.md) — 134 anuncios
     - [Accesorios](8va-ps4-accesorios.md) — 11 anuncios
   - Xbox One:
-    - [Consolas](8va-xbox-one-consolas.md) — 30 anuncios
+    - [Consolas](8va-xbox-one-consolas.md) — 31 anuncios
     - [Juegos](8va-xbox-one-juegos.md) — 4 anuncios
     - [Accesorios](8va-xbox-one-accesorios.md) — 1 anuncios
 - 9na generación:
@@ -101,7 +101,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
       - [Normal](9na-nintendo-switch-normal-consolas.md) — 129 anuncios
       - [Customs](9na-nintendo-switch-customs-consolas.md) — 31 anuncios
     - [Juegos](9na-nintendo-switch-juegos.md) — 250 anuncios
-    - [Accesorios](9na-nintendo-switch-accesorios.md) — 63 anuncios
+    - [Accesorios](9na-nintendo-switch-accesorios.md) — 64 anuncios
   - PlayStation 5 (PS5):
     - [Consolas](9na-ps5-consolas.md) — 3 anuncios
     - [Juegos](9na-ps5-juegos.md) — 21 anuncios
@@ -120,6 +120,8 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - [Juegos](otros-juegos.md) — 178 anuncios
   - [Accesorios](otros-accesorios.md) — 47 anuncios
 ## Disponibles (de más actual a más viejo)
+- 2026-11-16 09:48 — [Gamesir control PC y nintendo switch](https://www.facebook.com/marketplace/item/2195557977723385) — $1.700 — Nuevo — Los Mochis — Vendedor: Jesus Gilberto Alvarez Vega
+- 2026-11-15 22:30 — [Xbox one 1tb](https://www.facebook.com/marketplace/item/1688688382775535) — $1.700 — Usado - Como nuevo — Los Mochis — Vendedor: Josemiguel Vizcarra
 - 2026-11-16 01:41 — [FC 25 para Nintendo Switch](https://www.facebook.com/marketplace/item/1147982394798178) — $450 — Usado - Como nuevo — Los Mochis — Vendedor: Gustavo Flores
 - 2026-11-15 23:18 — [Nintendo switch oled](https://www.facebook.com/marketplace/item/1037165832730571) — $12.345 — Usado - Como nuevo — Los Mochis — Vendedor: Marco Perez
 - 2026-11-15 20:45 — [Consola de videojuegos retro KS36🎮](https://www.facebook.com/marketplace/item/2230485104236354) — $1.000 — Usado - Como nuevo — Los Mochis — Vendedor: Leonor Elii
