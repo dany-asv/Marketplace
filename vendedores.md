@@ -3,15 +3,15 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - El nombre de cada vendedor es una liga a su perfil de Marketplace.
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
-Total: 941 vendedores, 1578 anuncios con vendedor identificado (1 anuncios de la lista no tienen vendedor identificado).
+Total: 942 vendedores, 1583 anuncios con vendedor identificado (1 anuncios de la lista no tienen vendedor identificado).
 ## Vendedores (de mayor a menor número de publicaciones)
 - [Antonio Lopez](https://www.facebook.com/marketplace/profile/100040731070103) — 41 publicaciones ✓
 - [Carlos Jiménez](https://www.facebook.com/marketplace/profile/100007976233056) — 36 publicaciones
 - [Sebastian Souza](https://www.facebook.com/marketplace/profile/100002607805317) — 22 publicaciones ✓
 - [Iram A. Payan](https://www.facebook.com/marketplace/profile/628453454) — 21 publicaciones
 - [Chappy Chappy](https://www.facebook.com/marketplace/profile/100026883520340) — 18 publicaciones ✓
+- [Nutrijugos LA Selva](https://www.facebook.com/marketplace/profile/100082976675996) — 18 publicaciones
 - [Ivan Lopez](https://www.facebook.com/marketplace/profile/100021428154020) — 16 publicaciones ✓
-- [Nutrijugos LA Selva](https://www.facebook.com/marketplace/profile/100082976675996) — 16 publicaciones
 - [Antoni Tony](https://www.facebook.com/marketplace/profile/61557491476801) — 14 publicaciones ✓
 - [Vicente Munguia](https://www.facebook.com/marketplace/profile/509548546) — 14 publicaciones ✓
 - [Carla Lopez](https://www.facebook.com/marketplace/profile/100009128428674) — 12 publicaciones
@@ -74,7 +74,9 @@ Total: 941 vendedores, 1578 anuncios con vendedor identificado (1 anuncios de la
 - [David Cañedo](https://www.facebook.com/marketplace/profile/61573154990280) — 3 publicaciones
 - [David Lopez](https://www.facebook.com/marketplace/profile/61589449161478) — 3 publicaciones
 - [Elvira Palazuelos](https://www.facebook.com/marketplace/profile/61588456977440) — 3 publicaciones
+- [Emi CM](https://www.facebook.com/marketplace/profile/100012840994557) — 3 publicaciones
 - [Empeña Facil Pedro Anaya](https://www.facebook.com/marketplace/profile/100082090780298) — 3 publicaciones
+- [Ernesto Ayala Piña](https://www.facebook.com/marketplace/profile/100050515188718) — 3 publicaciones
 - [Eros Celis](https://www.facebook.com/marketplace/profile/100003874252826) — 3 publicaciones ✓
 - [Fer Gomez](https://www.facebook.com/marketplace/profile/61575379676186) — 3 publicaciones
 - [Fernando Gonzales](https://www.facebook.com/marketplace/profile/100074440808279) — 3 publicaciones
@@ -217,10 +219,8 @@ Total: 941 vendedores, 1578 anuncios con vendedor identificado (1 anuncios de la
 - [Yankarlo Gi](https://www.facebook.com/marketplace/profile/100088915606738) — 2 publicaciones
 - [Yessica Astrid Lopez Galaviz](https://www.facebook.com/marketplace/profile/556050265) — 2 publicaciones
 - [Yis Leyva](https://www.facebook.com/marketplace/profile/100023420531398) — 2 publicaciones
-- [Ernesto Ayala Piña](https://www.facebook.com/marketplace/profile/100050515188718) — 2 publicaciones
 - [Angel SG](https://www.facebook.com/marketplace/profile/100002237047895) — 2 publicaciones
 - [Dayanna Fuentes Lara](https://www.facebook.com/marketplace/profile/61574053739865) — 2 publicaciones
-- [Emi CM](https://www.facebook.com/marketplace/profile/100012840994557) — 2 publicaciones
 - [Jazmin Fuentes](https://www.facebook.com/marketplace/profile/61591816410848) — 2 publicaciones
 - [Hazel Acosta Ruiz](https://www.facebook.com/marketplace/profile/100001407237810) — 2 publicaciones
 - [Lizeth Manzanarez](https://www.facebook.com/marketplace/profile/100011396976689) — 2 publicaciones
@@ -946,3 +946,4 @@ Total: 941 vendedores, 1578 anuncios con vendedor identificado (1 anuncios de la
 - [Valdez Luis](https://www.facebook.com/marketplace/profile/100044467502398) — 1 publicaciones
 - [Felic Berrelleza](https://www.facebook.com/marketplace/profile/61586840705647) — 1 publicaciones
 - [Samuel Rosas](https://www.facebook.com/marketplace/profile/100001286280715) — 1 publicaciones
+- [Miguel Angel Ochoa](https://www.facebook.com/marketplace/profile/100001339531130) — 1 publicaciones

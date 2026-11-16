@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1579 anuncios disponibles.
+Total: 1584 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -100,7 +100,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
       - [Lite](9na-nintendo-switch-lite-consolas.md) — 34 anuncios
       - [Normal](9na-nintendo-switch-normal-consolas.md) — 129 anuncios
       - [Customs](9na-nintendo-switch-customs-consolas.md) — 31 anuncios
-    - [Juegos](9na-nintendo-switch-juegos.md) — 248 anuncios
+    - [Juegos](9na-nintendo-switch-juegos.md) — 249 anuncios
     - [Accesorios](9na-nintendo-switch-accesorios.md) — 63 anuncios
   - PlayStation 5 (PS5):
     - [Consolas](9na-ps5-consolas.md) — 3 anuncios
@@ -109,20 +109,25 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - Xbox Series X/S:
     - [Consolas](9na-xbox-series-consolas.md) — 15 anuncios
     - [Juegos](9na-xbox-series-juegos.md) — 1 anuncios
-    - [Accesorios](9na-xbox-series-accesorios.md) — 5 anuncios
+    - [Accesorios](9na-xbox-series-accesorios.md) — 6 anuncios
 - 10ma generación:
   - Nintendo Switch 2:
     - [Consolas](10ma-nintendo-switch-2-consolas.md) — 16 anuncios
     - [Juegos](10ma-nintendo-switch-2-juegos.md) — 22 anuncios
     - [Accesorios](10ma-nintendo-switch-2-accesorios.md) — 1 anuncios
 - Otros — Multiplataforma o sin plataforma clara:
-  - [Consolas](otros-consolas.md) — 99 anuncios
-  - [Juegos](otros-juegos.md) — 175 anuncios
+  - [Consolas](otros-consolas.md) — 101 anuncios
+  - [Juegos](otros-juegos.md) — 176 anuncios
   - [Accesorios](otros-accesorios.md) — 47 anuncios
 ## Disponibles (de más actual a más viejo)
+- 2026-11-15 18:41 — [Control Xbox series](https://www.facebook.com/marketplace/item/1665819924982070) — $123 — Usado - Como nuevo — Los Mochis — Vendedor: Emi CM
 - 2026-11-15 18:21 — [Nintendo switch](https://www.facebook.com/marketplace/item/1888704042296671) — $3.500 — Usado - Como nuevo — Los Mochis — Vendedor: Lizeth Manzanarez
+- 2026-11-15 18:10 — [Final fantasy nintendo switch](https://www.facebook.com/marketplace/item/1448985034104585) — $600 — Usado - Como nuevo — Los Mochis — Vendedor: Miguel Angel Ochoa
+- 2026-11-15 16:59 — [Se venden juegos de xbox one y xbox 360](https://www.facebook.com/marketplace/item/4158223351138755) — $1 — Usado - Como nuevo — Los Mochis — Vendedor: Ernesto Ayala Piña
 - 2026-11-15 16:50 — [Xbox Series S](https://www.facebook.com/marketplace/item/1096189336790501) — $4.000 — Usado - Buen estado — Los Mochis — Vendedor: Samuel Rosas
+- 2026-11-15 16:32 — [♦️CONSOLA🕹R36S♦️👾15 MIL JUEGOS TOP‼️VIDEOJUEGOS ARCADE Y DESTACADOS✅️NINTENDO ❗️🏡🛵💨](https://www.facebook.com/marketplace/item/1432057545578922) — $950 — Nuevo — Los Mochis — Vendedor: Nutrijugos LA Selva
 - 2026-11-15 16:29 — [Consola R36S🔥🔥Videojuegos Top Arcade Y Tendencia‼️15 Mil Juegos De Emuladores Virales✅️Envios🔴🏡](https://www.facebook.com/marketplace/item/1424627213194082) — $950 — Nuevo — Los Mochis — Vendedor: Nutrijugos LA Selva
+- 2026-11-15 16:29 — [CONSOLA R36S❗️👾🕹🎰♦️15 MIL JUEGOS TOP✅️ASSASINS CREED♦️GTA VICE CITY♦️FIFA STREET♦️KOF♦️NFS♦️](https://www.facebook.com/marketplace/item/1898078881632807) — $950 — Nuevo — Los Mochis — Vendedor: Nutrijugos LA Selva
 - 2026-11-15 16:11 — [Videojuego](https://www.facebook.com/marketplace/item/1902691554287719) — $250 — Usado - Buen estado — Los Mochis — Vendedor: Hazel Acosta Ruiz
 - 2026-11-15 16:01 — [Consola de Videojuegos](https://www.facebook.com/marketplace/item/2848194602226976) — $1 — Usado - Buen estado — Los Mochis — Vendedor: Hazel Acosta Ruiz
 - 2026-11-15 15:55 — [Control Xbox clásico](https://www.facebook.com/marketplace/item/1491202196240033) — $320 — Nuevo — Los Mochis — Vendedor: Alma Valdez
