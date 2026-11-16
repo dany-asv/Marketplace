@@ -3,7 +3,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - El nombre de cada vendedor es una liga a su perfil de Marketplace.
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
-Total: 941 vendedores, 1577 anuncios con vendedor identificado (1 anuncios de la lista no tienen vendedor identificado).
+Total: 941 vendedores, 1578 anuncios con vendedor identificado (1 anuncios de la lista no tienen vendedor identificado).
 ## Vendedores (de mayor a menor número de publicaciones)
 - [Antonio Lopez](https://www.facebook.com/marketplace/profile/100040731070103) — 41 publicaciones ✓
 - [Carlos Jiménez](https://www.facebook.com/marketplace/profile/100007976233056) — 36 publicaciones
@@ -223,6 +223,7 @@ Total: 941 vendedores, 1577 anuncios con vendedor identificado (1 anuncios de la
 - [Emi CM](https://www.facebook.com/marketplace/profile/100012840994557) — 2 publicaciones
 - [Jazmin Fuentes](https://www.facebook.com/marketplace/profile/61591816410848) — 2 publicaciones
 - [Hazel Acosta Ruiz](https://www.facebook.com/marketplace/profile/100001407237810) — 2 publicaciones
+- [Lizeth Manzanarez](https://www.facebook.com/marketplace/profile/100011396976689) — 2 publicaciones
 - [A Usiel A Palafox](https://www.facebook.com/marketplace/profile/100088914757602) — 1 publicaciones
 - [Aaron Guzman](https://www.facebook.com/marketplace/profile/100000543765190) — 1 publicaciones
 - [Aaron Medina](https://www.facebook.com/marketplace/profile/100013961595727) — 1 publicaciones
@@ -678,7 +679,6 @@ Total: 941 vendedores, 1577 anuncios con vendedor identificado (1 anuncios de la
 - [Liam Collote](https://www.facebook.com/marketplace/profile/61571286046454) — 1 publicaciones
 - [Licenciado Luis Antonio](https://www.facebook.com/marketplace/profile/100005915312380) — 1 publicaciones
 - [Lili Ramirez](https://www.facebook.com/marketplace/profile/61565577222313) — 1 publicaciones
-- [Lizeth Manzanarez](https://www.facebook.com/marketplace/profile/100011396976689) — 1 publicaciones
 - [Lizeth Perez](https://www.facebook.com/marketplace/profile/100093523717323) — 1 publicaciones
 - [Lizeth Romero](https://www.facebook.com/marketplace/profile/61550109563417) — 1 publicaciones
 - [Lizárraga Jose](https://www.facebook.com/marketplace/profile/100095070431075) — 1 publicaciones
