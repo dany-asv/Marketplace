@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1594 anuncios disponibles.
+Total: 1595 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -78,7 +78,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Accesorios](7ma-ps3-accesorios.md) — 1 anuncios
   - Xbox 360:
     - [Consolas](7ma-xbox-360-consolas.md) — 9 anuncios
-    - [Juegos](7ma-xbox-360-juegos.md) — 5 anuncios
+    - [Juegos](7ma-xbox-360-juegos.md) — 6 anuncios
     - [Accesorios](7ma-xbox-360-accesorios.md) — 3 anuncios
 - 8va generación:
   - Wii U:
@@ -146,6 +146,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-15 12:05 — [5 juegos Xbox 360 todos por $600](https://www.facebook.com/marketplace/item/2017179318979573) — $600 — Usado - Como nuevo — Los Mochis — Vendedor: Xhavi Manzanarez
 - 2026-11-15 12:05 — [5 juegos Xbox 360 todos por $600](https://www.facebook.com/marketplace/item/1143397324816586) — $600 — Usado - Como nuevo — Los Mochis — Vendedor: Xhavi Manzanarez
 - 2026-11-15 12:05 — [5 juegos Xbox 360 todos por $600](https://www.facebook.com/marketplace/item/1668844984983381) — $600 — Usado - Como nuevo — Los Mochis — Vendedor: Xhavi Manzanarez
+- 2026-11-15 12:05 — [5 juegos Xbox 360 todos por $600](https://www.facebook.com/marketplace/item/1160799573563758) — $600 — Usado - Como nuevo — Los Mochis — Vendedor: Xhavi Manzanarez
 - 2026-11-15 11:40 — [Juegos PS5](https://www.facebook.com/marketplace/item/1141286178871583) — $650 — Usado - Como nuevo — Los Mochis — Vendedor: Edel Muñoz Combs
 - 2026-11-15 10:57 — [Xbox 360 con juegos](https://www.facebook.com/marketplace/item/1691779785622149) — $1.600 — Usado - Buen estado — Los Mochis — Vendedor: Emi CM
 - 2026-11-15 10:56 — [Nintendo Switch Lite con varios juegos](https://www.facebook.com/marketplace/item/2257621274798511) — $123 — Usado - Como nuevo — Los Mochis — Vendedor: Emi CM

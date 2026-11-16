@@ -3,7 +3,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - El nombre de cada vendedor es una liga a su perfil de Marketplace.
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
-Total: 948 vendedores, 1593 anuncios con vendedor identificado (1 anuncios de la lista no tienen vendedor identificado).
+Total: 948 vendedores, 1594 anuncios con vendedor identificado (1 anuncios de la lista no tienen vendedor identificado).
 ## Vendedores (de mayor a menor número de publicaciones)
 - [Antonio Lopez](https://www.facebook.com/marketplace/profile/100040731070103) — 41 publicaciones ✓
 - [Carlos Jiménez](https://www.facebook.com/marketplace/profile/100007976233056) — 36 publicaciones
@@ -51,6 +51,7 @@ Total: 948 vendedores, 1593 anuncios con vendedor identificado (1 anuncios de la
 - [Rafael Aguilar](https://www.facebook.com/marketplace/profile/100000272730913) — 5 publicaciones ✓
 - [Alma Valdez](https://www.facebook.com/marketplace/profile/100000462968670) — 5 publicaciones
 - [Almazan Mireya](https://www.facebook.com/marketplace/profile/61595220577284) — 5 publicaciones
+- [Xhavi Manzanarez](https://www.facebook.com/marketplace/profile/100007264414367) — 5 publicaciones
 - [Antonio Rodriguez](https://www.facebook.com/marketplace/profile/61581509220352) — 4 publicaciones
 - [Carlos Orduño](https://www.facebook.com/marketplace/profile/100005645436364) — 4 publicaciones
 - [Cinthya Olguin](https://www.facebook.com/marketplace/profile/100014333196532) — 4 publicaciones
@@ -62,7 +63,6 @@ Total: 948 vendedores, 1593 anuncios con vendedor identificado (1 anuncios de la
 - [Paulina Flores](https://www.facebook.com/marketplace/profile/100085636571583) — 4 publicaciones ✓
 - [Ryu Hayabusa](https://www.facebook.com/marketplace/profile/61594526679821) — 4 publicaciones
 - [Semilla Césped Bermuda Pasto](https://www.facebook.com/marketplace/profile/100041839343590) — 4 publicaciones
-- [Xhavi Manzanarez](https://www.facebook.com/marketplace/profile/100007264414367) — 4 publicaciones
 - [Aldo Ceballos Cubedo](https://www.facebook.com/marketplace/profile/100049672665133) — 3 publicaciones
 - [Alejandra Mochis](https://www.facebook.com/marketplace/profile/100033516701492) — 3 publicaciones
 - [Andrea Lopez](https://www.facebook.com/marketplace/profile/61553485727563) — 3 publicaciones
