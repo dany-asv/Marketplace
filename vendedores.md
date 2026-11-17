@@ -3,7 +3,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - El nombre de cada vendedor es una liga a su perfil de Marketplace.
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
-Total: 955 vendedores, 1605 anuncios con vendedor identificado (1 anuncios de la lista no tienen vendedor identificado).
+Total: 956 vendedores, 1608 anuncios con vendedor identificado (1 anuncios de la lista no tienen vendedor identificado).
 ## Vendedores (de mayor a menor número de publicaciones)
 - [Antonio Lopez](https://www.facebook.com/marketplace/profile/100040731070103) — 41 publicaciones ✓
 - [Carlos Jiménez](https://www.facebook.com/marketplace/profile/100007976233056) — 31 publicaciones
@@ -229,6 +229,8 @@ Total: 955 vendedores, 1605 anuncios con vendedor identificado (1 anuncios de la
 - [Paola Vázquez](https://www.facebook.com/marketplace/profile/100055951713549) — 2 publicaciones
 - [Pery Lopez](https://www.facebook.com/marketplace/profile/61558387123669) — 2 publicaciones
 - [Angel Sauceda](https://www.facebook.com/marketplace/profile/61585832033136) — 2 publicaciones
+- [Axel González](https://www.facebook.com/marketplace/profile/100091589749124) — 2 publicaciones
+- [Pedro Carrazco](https://www.facebook.com/marketplace/profile/100078272504239) — 2 publicaciones
 - [Lizeth Manzanarez](https://www.facebook.com/marketplace/profile/100011396976689) — 1 publicaciones
 - [A Usiel A Palafox](https://www.facebook.com/marketplace/profile/100088914757602) — 1 publicaciones
 - [Aaron Guzman](https://www.facebook.com/marketplace/profile/100000543765190) — 1 publicaciones
@@ -328,7 +330,6 @@ Total: 955 vendedores, 1605 anuncios con vendedor identificado (1 anuncios de la
 - [Asis Romaas](https://www.facebook.com/marketplace/profile/61589036703482) — 1 publicaciones
 - [Averno Lm](https://www.facebook.com/marketplace/profile/61595977944491) — 1 publicaciones
 - [Axel Camacho](https://www.facebook.com/marketplace/profile/100002623466714) — 1 publicaciones
-- [Axel González](https://www.facebook.com/marketplace/profile/100091589749124) — 1 publicaciones
 - [Axel González](https://www.facebook.com/marketplace/profile/61582328355727) — 1 publicaciones
 - [Axel Peña](https://www.facebook.com/marketplace/profile/100010386858333) — 1 publicaciones
 - [Axl Soto](https://www.facebook.com/marketplace/profile/100005615072935) — 1 publicaciones
@@ -807,7 +808,6 @@ Total: 955 vendedores, 1605 anuncios con vendedor identificado (1 anuncios de la
 - [Paulette Montoya](https://www.facebook.com/marketplace/profile/1408005462) — 1 publicaciones
 - [Paulina Arellano](https://www.facebook.com/marketplace/profile/100042153559387) — 1 publicaciones
 - [Paulina Montiel](https://www.facebook.com/marketplace/profile/100033932415977) — 1 publicaciones
-- [Pedro Carrazco](https://www.facebook.com/marketplace/profile/100078272504239) — 1 publicaciones
 - [Pedro Hernandez](https://www.facebook.com/marketplace/profile/100032240701820) — 1 publicaciones
 - [Pedro Neyoy Diosdado](https://www.facebook.com/marketplace/profile/100007526200755) — 1 publicaciones
 - [Pf Clothin](https://www.facebook.com/marketplace/profile/61583973574028) — 1 publicaciones
@@ -961,3 +961,4 @@ Total: 955 vendedores, 1605 anuncios con vendedor identificado (1 anuncios de la
 - [Diego Ventura](https://www.facebook.com/marketplace/profile/61589723795657) — 1 publicaciones
 - [Orlando Montes](https://www.facebook.com/marketplace/profile/100070270766365) — 1 publicaciones
 - [Cesar Lima](https://www.facebook.com/marketplace/profile/61550312090869) — 1 publicaciones
+- [Diego Gaxiola](https://www.facebook.com/marketplace/profile/100025661712960) — 1 publicaciones
