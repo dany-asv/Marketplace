@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 102 anuncios disponibles.
+Total: 103 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -75,6 +75,7 @@ Total: 102 anuncios disponibles.
 - 2026-11-15 20:45 — [Consola de videojuegos retro KS36🎮](https://www.facebook.com/marketplace/item/2230485104236354) — $1.000 — Vendedor: Leonor Elii
 - 2026-11-09 15:17 — [Magia para Xbox Series S y X , juegos de nintendo en Xbox Series S y X](https://www.facebook.com/marketplace/item/2228101624756533) — $1.000 — Vendedor: Persival Carlos Aguilar Mondragon
 - 2026-10-17 23:25 — [Teclado Gaming 75%, Mause AOC y Atack Shark L60(Incluye el Mausepad)](https://www.facebook.com/marketplace/item/2442549629864107) — $1.200 — Vendedor: Sebastian C. Falomir
+- 2026-11-17 07:03 — [‼️Tablero Uso Rudo‼️Retro Arcade Uso Rudo✅️30 Mil Juegos🎮 Sega,Nintendo,Atari,Xbox,Game,Boy Etc😃✅️](https://www.facebook.com/marketplace/item/2696641717511016) — $1.500 — Vendedor: Manuel Rojo
 - 2026-11-11 17:10 — [📛CONSOLA X80📛60 MIL JUEGOS✅️ ADAPTABLE A TV💥 HD 💥 ENVIOS A DOMICILIO‼️GARANTIA DE 1 AÑO👌](https://www.facebook.com/marketplace/item/4685549918397577) — $1.500 — Vendedor: Nutrijugos LA Selva
 - 2026-11-07 18:15 — [Consola M27 NUEVAS](https://www.facebook.com/marketplace/item/1659378839044542) — $1.500 — Vendedor: Zamver Zamver
 - 2026-11-05 13:49 — [Consolas Nintendo retro](https://www.facebook.com/marketplace/item/1808346203699556) — $1.500 — Vendedor: Héctor Peñuelas

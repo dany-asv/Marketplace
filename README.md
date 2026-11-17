@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1627 anuncios disponibles.
+Total: 1630 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -44,7 +44,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 4ta generación:
   - Super Nintendo (SNES):
     - [Consolas](4ta-snes-consolas.md) — 2 anuncios
-    - [Juegos](4ta-snes-juegos.md) — 3 anuncios
+    - [Juegos](4ta-snes-juegos.md) — 4 anuncios
 - 5ta generación:
   - Nintendo 64 (N64):
     - [Consolas](5ta-nintendo-64-consolas.md) — 12 anuncios
@@ -109,19 +109,21 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - Xbox Series X/S:
     - [Consolas](9na-xbox-series-consolas.md) — 17 anuncios
     - [Juegos](9na-xbox-series-juegos.md) — 1 anuncios
-    - [Accesorios](9na-xbox-series-accesorios.md) — 9 anuncios
+    - [Accesorios](9na-xbox-series-accesorios.md) — 10 anuncios
 - 10ma generación:
   - Nintendo Switch 2:
     - [Consolas](10ma-nintendo-switch-2-consolas.md) — 16 anuncios
     - [Juegos](10ma-nintendo-switch-2-juegos.md) — 21 anuncios
     - [Accesorios](10ma-nintendo-switch-2-accesorios.md) — 2 anuncios
 - Otros — Multiplataforma o sin plataforma clara:
-  - [Consolas](otros-consolas.md) — 102 anuncios
+  - [Consolas](otros-consolas.md) — 103 anuncios
   - [Juegos](otros-juegos.md) — 180 anuncios
   - [Accesorios](otros-accesorios.md) — 49 anuncios
 ## Disponibles (de más actual a más viejo)
+- 2026-11-17 09:05 — [Juegos de Super Nintendo](https://www.facebook.com/marketplace/item/1654779712806504) — $450 — Usado - Como nuevo — Los Mochis — vendedor en Whitelist de Daniel: Sebastián Nozato
 - 2026-11-17 08:46 — [Xbox series s](https://www.facebook.com/marketplace/item/4197534517211833) — $3.000 — Usado - Como nuevo — Los Mochis — Vendedor: Sebastian Medina
 - 2026-11-17 07:09 — [Vendo juegos de ps4 y ps5](https://www.facebook.com/marketplace/item/1648020756762827) — $350 — Usado - Como nuevo — Los Mochis — Vendedor: Karinn Taylor
+- 2026-11-17 07:03 — [‼️Tablero Uso Rudo‼️Retro Arcade Uso Rudo✅️30 Mil Juegos🎮 Sega,Nintendo,Atari,Xbox,Game,Boy Etc😃✅️](https://www.facebook.com/marketplace/item/2696641717511016) — $1.500 — Nuevo — Los Mochis — Vendedor: Manuel Rojo
 - 2026-11-17 04:40 — [control xbox series x/s](https://www.facebook.com/marketplace/item/1689293406155020) — $650 — Usado - Buen estado — Los Mochis — Vendedor: Marco Antonio Araya Lara
 - 2026-11-16 23:02 — [Nintendo switch Oled](https://www.facebook.com/marketplace/item/3719077051602236) — $4.500 — Usado - Como nuevo — Los Mochis — Vendedor: Beli Bet
 - 2026-11-16 22:49 — [NINTENDO SWITCH LITE](https://www.facebook.com/marketplace/item/1495869382441961) — $2.800 — Usado - Como nuevo — Los Mochis — Vendedor: Ulises Valenzuela Ochoa
@@ -165,6 +167,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-15 16:29 — [Consola R36S🔥🔥Videojuegos Top Arcade Y Tendencia‼️15 Mil Juegos De Emuladores Virales✅️Envios🔴🏡](https://www.facebook.com/marketplace/item/1424627213194082) — $950 — Nuevo — Los Mochis — Vendedor: Nutrijugos LA Selva
 - 2026-11-15 16:29 — [CONSOLA R36S❗️👾🕹🎰♦️15 MIL JUEGOS TOP✅️ASSASINS CREED♦️GTA VICE CITY♦️FIFA STREET♦️KOF♦️NFS♦️](https://www.facebook.com/marketplace/item/1898078881632807) — $950 — Nuevo — Los Mochis — Vendedor: Nutrijugos LA Selva
 - 2026-11-15 16:11 — [Videojuego](https://www.facebook.com/marketplace/item/1902691554287719) — $250 — Usado - Buen estado — Los Mochis — Vendedor: Hazel Acosta Ruiz
+- 2026-11-15 16:09 — [Control Gamesir g7 pro edición zzz inalambrico para xbox pc y Android](https://www.facebook.com/marketplace/item/1674878364260279) — $2.200 — Nuevo — Los Mochis — Vendedor: Victor Almaraz
 - 2026-11-15 16:06 — [Videojuego METROID](https://www.facebook.com/marketplace/item/1647293817139531) — $750 — Usado - Buen estado — Los Mochis — Vendedor: Hazel Acosta Ruiz
 - 2026-11-15 16:06 — [Súper mario party](https://www.facebook.com/marketplace/item/2399165664232321) — $850 — Usado - Como nuevo — Los Mochis — Vendedor: Alicia García
 - 2026-11-15 16:01 — [Consola de Videojuegos](https://www.facebook.com/marketplace/item/2848194602226976) — $1 — Usado - Buen estado — Los Mochis — Vendedor: Hazel Acosta Ruiz

@@ -3,7 +3,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - El nombre de cada vendedor es una liga a su perfil de Marketplace.
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
-Total: 961 vendedores, 1626 anuncios con vendedor identificado (1 anuncios de la lista no tienen vendedor identificado).
+Total: 963 vendedores, 1629 anuncios con vendedor identificado (1 anuncios de la lista no tienen vendedor identificado).
 ## Vendedores (de mayor a menor número de publicaciones)
 - [Antonio Lopez](https://www.facebook.com/marketplace/profile/100040731070103) — 41 publicaciones ✓
 - [Iram A. Payan](https://www.facebook.com/marketplace/profile/628453454) — 24 publicaciones
@@ -63,6 +63,7 @@ Total: 961 vendedores, 1626 anuncios con vendedor identificado (1 anuncios de la
 - [Paul Arenivas](https://www.facebook.com/marketplace/profile/100002980960365) — 4 publicaciones
 - [Paulina Flores](https://www.facebook.com/marketplace/profile/100085636571583) — 4 publicaciones ✓
 - [Ryu Hayabusa](https://www.facebook.com/marketplace/profile/61594526679821) — 4 publicaciones
+- [Sebastián Nozato](https://www.facebook.com/marketplace/profile/526183942) — 4 publicaciones ✓
 - [Semilla Césped Bermuda Pasto](https://www.facebook.com/marketplace/profile/100041839343590) — 4 publicaciones
 - [Aldo Ceballos Cubedo](https://www.facebook.com/marketplace/profile/100049672665133) — 3 publicaciones
 - [Alejandra Mochis](https://www.facebook.com/marketplace/profile/100033516701492) — 3 publicaciones
@@ -103,7 +104,6 @@ Total: 961 vendedores, 1626 anuncios con vendedor identificado (1 anuncios de la
 - [Plays Hacks](https://www.facebook.com/marketplace/profile/100007175611717) — 3 publicaciones
 - [Ricardo Beltrán](https://www.facebook.com/marketplace/profile/100036793715241) — 3 publicaciones ✓
 - [Robles Jazive](https://www.facebook.com/marketplace/profile/100008407186541) — 3 publicaciones
-- [Sebastián Nozato](https://www.facebook.com/marketplace/profile/526183942) — 3 publicaciones ✓
 - [Sergio Castro Félix](https://www.facebook.com/marketplace/profile/100055020152693) — 3 publicaciones ✓
 - [Tadeo Borq](https://www.facebook.com/marketplace/profile/61565758652844) — 3 publicaciones
 - [Teo Teodorovich](https://www.facebook.com/marketplace/profile/100018891193780) — 3 publicaciones
@@ -966,3 +966,5 @@ Total: 961 vendedores, 1626 anuncios con vendedor identificado (1 anuncios de la
 - [Diego Gaxiola](https://www.facebook.com/marketplace/profile/100025661712960) — 1 publicaciones
 - [Sergio Cárdenas](https://www.facebook.com/marketplace/profile/100002371161215) — 1 publicaciones
 - [Sebastian Medina](https://www.facebook.com/marketplace/profile/100007108688808) — 1 publicaciones
+- [Manuel Rojo](https://www.facebook.com/marketplace/profile/61595073395457) — 1 publicaciones
+- [Victor Almaraz](https://www.facebook.com/marketplace/profile/61570027910292) — 1 publicaciones
