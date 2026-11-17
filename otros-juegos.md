@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 180 anuncios disponibles.
+Total: 179 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -22,7 +22,6 @@ Total: 180 anuncios disponibles.
 - 2026-11-10 12:26 — [Nintendo super mario bros](https://www.facebook.com/marketplace/item/1085566247817446) — $1 — Vendedor: Daniel Ochoa
 - 2026-11-03 21:31 — [FIFA 23 y call of duty ghosts](https://www.facebook.com/marketplace/item/1795979078286100) — $1 — Vendedor: Nh Ponce
 - 2026-10-29 16:42 — [Juegos](https://www.facebook.com/marketplace/item/1762895271426187) — $1 — Vendedor: Yahir Sanchez
-- 2026-10-28 21:55 — [Zelda](https://www.facebook.com/marketplace/item/4696253194028504) — $1 — Vendedor: Marcelo Gabriel
 - 2026-07-28 16:51 — [Juegos de switch y play 5](https://www.facebook.com/marketplace/item/1041335918502925) — $1 — Vendedor: Arthur Morgan
 - 2026-05-08 05:57 — [Video juego](https://www.facebook.com/marketplace/item/989772040370020) — $1 — Vendedor: Carla Lopez
 - 2026-05-01 16:05 — [Juegos ps4-ps5](https://www.facebook.com/marketplace/item/961200043061215) — $1 — Vendedor: Felix Guadalupe

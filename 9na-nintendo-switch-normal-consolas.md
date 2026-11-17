@@ -23,6 +23,7 @@ Total: 130 anuncios disponibles.
 - 2026-02-10 21:47 — [Nintendo switch](https://www.facebook.com/marketplace/item/1440054061128241) — $200 — Vendedor: Eduardo Zazueta
 - 2026-09-11 13:41 — [Nintendo switch](https://www.facebook.com/marketplace/item/1083502440934361) — $400 — Vendedor: Bryan Alexis Soto Villela
 - 2026-11-16 13:56 — [Nintendo Switch](https://www.facebook.com/marketplace/item/2738777403191620) — $1.700 — Vendedor: Cindy Cota
+- 2026-11-17 10:38 — [Nintendo switch](https://www.facebook.com/marketplace/item/4227843517513075) — $1.900 — Vendedor: Angel Ibarra
 - 2026-11-11 20:53 — [Nintendo Switch](https://www.facebook.com/marketplace/item/2622661358146733) — $1.900 — Vendedor: Antonio Palafox
 - 2026-11-11 20:52 — [Nintendo Switch](https://www.facebook.com/marketplace/item/1140352575248205) — $1.900 — Vendedor: Antonio Palafox
 - 2026-10-25 20:47 — [Nintendo Switch](https://www.facebook.com/marketplace/item/1666238878331387) — $2.000 — Vendedor: Gnivri Lugo
@@ -33,7 +34,6 @@ Total: 130 anuncios disponibles.
 - 2026-05-11 23:48 — [Nintendo Switch](https://www.facebook.com/marketplace/item/1970031997211288) — $2.400 — Vendedor: Santiago Ruiz
 - 2026-11-16 20:52 — [Nintendo switch](https://www.facebook.com/marketplace/item/1914086546683818) — $2.500 — Vendedor: Enrique Talamante Irazoqui
 - 2026-09-19 10:04 — [🎮 Nintendo Switch](https://www.facebook.com/marketplace/item/1113693594348024) — $2.500 — Vendedor: Walter Lopez
-- 2026-09-06 08:47 — [Nintendo switch](https://www.facebook.com/marketplace/item/1086093530583700) — $2.500 — Vendedor: Jorge Luis
 - 2026-08-23 11:59 — [Nintendo Switch](https://www.facebook.com/marketplace/item/2054582121931555) — $2.500 — Vendedor: Jorge Kevin Contreras
 - 2026-07-12 15:42 — [Nintendo switch](https://www.facebook.com/marketplace/item/1444467884185413) — $2.500 — Vendedor: Joaquin L Beltran
 - 2026-07-06 14:17 — [Nintendo SWITCH](https://www.facebook.com/marketplace/item/1314242077492479) — $2.500 — Vendedor: Paul de la Herrán

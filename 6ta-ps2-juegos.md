@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 8 anuncios disponibles.
+Total: 7 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -17,4 +17,3 @@ Total: 8 anuncios disponibles.
 - 2026-11-14 22:39 — [Guitar hero 3 ps2](https://www.facebook.com/marketplace/item/1824919435443217) — $200 — Vendedor: Victor Lamphar
 - 2026-11-08 18:36 — [JUEGOS PARA PLAYSTATION 2](https://www.facebook.com/marketplace/item/2209967619917749) — $250 — Vendedor: Mario Aguilar
 - 2026-11-07 05:00 — [Juegos para PS2](https://www.facebook.com/marketplace/item/1092374926968032) — $300 — Vendedor: Chito Hernandez
-- 2026-11-09 15:26 — [God of wat playstation 2](https://www.facebook.com/marketplace/item/1455756676519459) — $99.999 — Vendedor: Alham Alor
