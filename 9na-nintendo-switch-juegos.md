@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 254 anuncios disponibles.
+Total: 255 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -203,6 +203,7 @@ Total: 254 anuncios disponibles.
 - 2026-10-28 17:54 — [Omori juego Nintendo switch](https://www.facebook.com/marketplace/item/1098333916379914) — $750 — Vendedor: Janeth Gutierrez
 - 2026-10-16 17:03 — [Super Mario 3D world + Bowser fury](https://www.facebook.com/marketplace/item/1769880007424268) — $750 — Vendedor: Miguel Serrano
 - 2026-07-13 15:44 — [Mario Kart 8 Deluxe y Súper Mario Oddysey](https://www.facebook.com/marketplace/item/1305094178279725) — $750 — Vendedor: Jorge Trs
+- 2026-11-15 09:07 — [Dragon Ball sparking zero juego Nintendo switch](https://www.facebook.com/marketplace/item/2341833969908938) — $800 — Vendedor: Iram A. Payan
 - 2026-11-05 19:38 — [Legends of zelda tears of the kingdom](https://www.facebook.com/marketplace/item/1932708384376872) — $800 — Vendedor: Mony TO
 - 2026-11-04 17:00 — [Se venden Juegos para Nintendo switch](https://www.facebook.com/marketplace/item/1956339339080429) — $800 — Vendedor: Pau Almada
 - 2026-11-04 16:50 — [Juegos para Nintendo switch](https://www.facebook.com/marketplace/item/1491051216291993) — $800 — Vendedor: Pau Almada
