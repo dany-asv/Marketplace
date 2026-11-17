@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1605 anuncios disponibles.
+Total: 1606 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -118,8 +118,9 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - Otros — Multiplataforma o sin plataforma clara:
   - [Consolas](otros-consolas.md) — 102 anuncios
   - [Juegos](otros-juegos.md) — 179 anuncios
-  - [Accesorios](otros-accesorios.md) — 48 anuncios
+  - [Accesorios](otros-accesorios.md) — 49 anuncios
 ## Disponibles (de más actual a más viejo)
+- 2026-11-16 17:55 — [Control xbox one series como nuevo](https://www.facebook.com/marketplace/item/1466519608919336) — $650 — Nuevo — Los Mochis — Vendedor: Guillermo Ruiz Felix
 - 2026-11-16 17:28 — [Juegos para switch](https://www.facebook.com/marketplace/item/1694451945691995) — $600 — Usado - Como nuevo — Los Mochis — Vendedor: Cesar Lima
 - 2026-11-16 16:22 — [Control ps5](https://www.facebook.com/marketplace/item/1479660944124694) — $1.300 — Nuevo — Los Mochis — Vendedor: Lily Lopez
 - 2026-11-16 15:49 — [Vendo Xbox 360 Con 5 Discos de juegos y juegos instalados dentro de la consola con control y cables](https://www.facebook.com/marketplace/item/1505594331433257) — $1.600 — Usado - Como nuevo — Los Mochis — Vendedor: Diego Ventura
