@@ -3,7 +3,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - El nombre de cada vendedor es una liga a su perfil de Marketplace.
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
-Total: 950 vendedores, 1599 anuncios con vendedor identificado (1 anuncios de la lista no tienen vendedor identificado).
+Total: 954 vendedores, 1604 anuncios con vendedor identificado (1 anuncios de la lista no tienen vendedor identificado).
 ## Vendedores (de mayor a menor número de publicaciones)
 - [Antonio Lopez](https://www.facebook.com/marketplace/profile/100040731070103) — 41 publicaciones ✓
 - [Carlos Jiménez](https://www.facebook.com/marketplace/profile/100007976233056) — 31 publicaciones
@@ -228,6 +228,7 @@ Total: 950 vendedores, 1599 anuncios con vendedor identificado (1 anuncios de la
 - [Alicia García](https://www.facebook.com/marketplace/profile/100009676094768) — 2 publicaciones
 - [Paola Vázquez](https://www.facebook.com/marketplace/profile/100055951713549) — 2 publicaciones
 - [Pery Lopez](https://www.facebook.com/marketplace/profile/61558387123669) — 2 publicaciones
+- [Angel Sauceda](https://www.facebook.com/marketplace/profile/61585832033136) — 2 publicaciones
 - [Lizeth Manzanarez](https://www.facebook.com/marketplace/profile/100011396976689) — 1 publicaciones
 - [A Usiel A Palafox](https://www.facebook.com/marketplace/profile/100088914757602) — 1 publicaciones
 - [Aaron Guzman](https://www.facebook.com/marketplace/profile/100000543765190) — 1 publicaciones
@@ -302,7 +303,6 @@ Total: 950 vendedores, 1599 anuncios con vendedor identificado (1 anuncios de la
 - [Angel Meza](https://www.facebook.com/marketplace/profile/100026659264312) — 1 publicaciones
 - [Angel Reyes](https://www.facebook.com/marketplace/profile/61555148141995) — 1 publicaciones
 - [Angel Rodriguez](https://www.facebook.com/marketplace/profile/61585670921473) — 1 publicaciones
-- [Angel Sauceda](https://www.facebook.com/marketplace/profile/61585832033136) — 1 publicaciones
 - [Angel Valenzuela Peña](https://www.facebook.com/marketplace/profile/1073901254) — 1 publicaciones
 - [Angélica Herrera](https://www.facebook.com/marketplace/profile/100007717655870) — 1 publicaciones
 - [Anthony López Armenta](https://www.facebook.com/marketplace/profile/1563684330) — 1 publicaciones
@@ -956,3 +956,7 @@ Total: 950 vendedores, 1599 anuncios con vendedor identificado (1 anuncios de la
 - [Jose Aguilar](https://www.facebook.com/marketplace/profile/61595715527671) — 1 publicaciones
 - [Karen Gpe Valenzuela](https://www.facebook.com/marketplace/profile/100016227697060) — 1 publicaciones
 - [Javier Leopoldo Ceja Hernandez](https://www.facebook.com/marketplace/profile/61591726397891) — 1 publicaciones
+- [Lily Lopez](https://www.facebook.com/marketplace/profile/100028559174291) — 1 publicaciones
+- [Diego Ventura](https://www.facebook.com/marketplace/profile/61589723795657) — 1 publicaciones
+- [Orlando Montes](https://www.facebook.com/marketplace/profile/100070270766365) — 1 publicaciones
+- [Cesar Lima](https://www.facebook.com/marketplace/profile/61550312090869) — 1 publicaciones
