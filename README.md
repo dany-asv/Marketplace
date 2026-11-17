@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1623 anuncios disponibles.
+Total: 1626 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -107,7 +107,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](9na-ps5-juegos.md) — 24 anuncios
     - [Accesorios](9na-ps5-accesorios.md) — 18 anuncios
   - Xbox Series X/S:
-    - [Consolas](9na-xbox-series-consolas.md) — 15 anuncios
+    - [Consolas](9na-xbox-series-consolas.md) — 16 anuncios
     - [Juegos](9na-xbox-series-juegos.md) — 1 anuncios
     - [Accesorios](9na-xbox-series-accesorios.md) — 10 anuncios
 - 10ma generación:
@@ -116,10 +116,11 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](10ma-nintendo-switch-2-juegos.md) — 21 anuncios
     - [Accesorios](10ma-nintendo-switch-2-accesorios.md) — 2 anuncios
 - Otros — Multiplataforma o sin plataforma clara:
-  - [Consolas](otros-consolas.md) — 101 anuncios
+  - [Consolas](otros-consolas.md) — 102 anuncios
   - [Juegos](otros-juegos.md) — 179 anuncios
-  - [Accesorios](otros-accesorios.md) — 49 anuncios
+  - [Accesorios](otros-accesorios.md) — 50 anuncios
 ## Disponibles (de más actual a más viejo)
+- 2026-11-17 12:41 — [Xbox series S](https://www.facebook.com/marketplace/item/1659736928896430) — $4.000 — Usado - Como nuevo — Los Mochis — Vendedor: Alejandro Cital Garcia
 - 2026-11-17 10:57 — [Xbox One S 500gb](https://www.facebook.com/marketplace/item/2044458626470750) — $2.200 — Usado - Como nuevo — Los Mochis — Vendedor: Roberto Lopez
 - 2026-11-17 10:47 — [Vendo Xbox 360 14 juegos instalados 5 discos de juegos cables y control  Sin detalles](https://www.facebook.com/marketplace/item/2692694867869275) — $1.600 — Usado - Como nuevo — Los Mochis — Vendedor: Diego Ventura
 - 2026-11-17 09:19 — [Gran Turismo 7 y Astro Bot PS5 - Códigos de descarga](https://www.facebook.com/marketplace/item/1667846451391737) — $600 — Nuevo — Los Mochis — Vendedor: Eduardo Alarcon
@@ -317,6 +318,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-11 17:10 — [📛CONSOLA X80📛60 MIL JUEGOS✅️ ADAPTABLE A TV💥 HD 💥 ENVIOS A DOMICILIO‼️GARANTIA DE 1 AÑO👌](https://www.facebook.com/marketplace/item/4685549918397577) — $1.500 — Nuevo — Los Mochis — Vendedor: Nutrijugos LA Selva
 - 2026-11-11 16:54 — [Nintendo 2DS Bateria Nueva (Puerto USB C)](https://www.facebook.com/marketplace/item/1085020521232688) — $2.000 — Usado - Buen estado — Los Mochis — Vendedor: Jorge Vega Gz
 - 2026-11-11 16:24 — [CONSOLA R36S❗️👾🕹🎰♦️15 MIL JUEGOS TOP✅️ASSASINS CREED♦️GTA VICE CITY♦️FIFA STREET♦️KOF♦️NFS♦️](https://www.facebook.com/marketplace/item/1512695580919688) — $950 — Nuevo — Los Mochis — Vendedor: Nutrijugos LA Selva
+- 2026-11-11 16:18 — [Consola M15 Pro 4K con +20000 Juegos](https://www.facebook.com/marketplace/item/1855719722280149) — $650 — Nuevo — Los Mochis — Vendedor: Jose Torres
 - 2026-11-11 15:26 — [Xbox One X](https://www.facebook.com/marketplace/item/1650767393195026) — $2.400 — Usado - Buen estado — Los Mochis — Vendedor: Ktr Lovecraft
 - 2026-11-11 15:02 — [FIFA 22 para XBOX SERIE X](https://www.facebook.com/marketplace/item/1406245591290875) — $200 — Usado - Como nuevo — Los Mochis — Vendedor: Javier Adrián Bátiz Zamudio
 - 2026-11-11 14:32 — [Control para XBOX 360](https://www.facebook.com/marketplace/item/3371230653076185) — $600 — Usado - Como nuevo — Los Mochis — Vendedor: Awa De Horchata
@@ -586,6 +588,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-10-27 23:32 — [Plumas para consolas DS, Dsi, Dsi XL, 3ds, 3ds XL, New 3dsxl y 2ds, New 2ds XL , Wii u](https://www.facebook.com/marketplace/item/1144531488090080) — $50 — Nuevo — Los Mochis — vendedor en Whitelist de Daniel: Star Games
 - 2026-10-27 21:43 — [Nintendo switch oled](https://www.facebook.com/marketplace/item/1010999845374803) — GRATIS — Usado - Como nuevo — Los Mochis — Vendedor: Carlos Gastelum
 - 2026-10-27 19:29 — [Xbox one s 512 gb](https://www.facebook.com/marketplace/item/3794627564019723) — $2.300 — Usado - Buen estado — Los Mochis — Vendedor: Carlos Niño
+- 2026-10-27 18:19 — [Control](https://www.facebook.com/marketplace/item/1114693921547525) — $5 — Usado - Buen estado — Los Mochis — Vendedor: Ramiro Ramirez
 - 2026-10-27 18:15 — [Audífonos Xbox](https://www.facebook.com/marketplace/item/1820455375868718) — $5 — Usado - Como nuevo — Los Mochis — precio a confirmar: $5 parece error — Vendedor: Ramiro Ramirez
 - 2026-10-27 16:12 — [Cables originales para nintendo Gamecube](https://www.facebook.com/marketplace/item/1009082828890218) — $500 — Usado - Como nuevo — Los Mochis — Vendedor: Brian Woodill
 - 2026-10-27 16:12 — [Control pro original de nintendo switch edicion especial zelda](https://www.facebook.com/marketplace/item/2000786184551657) — $700 — Usado - Como nuevo — Los Mochis — Vendedor: Brian Woodill

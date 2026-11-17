@@ -3,7 +3,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - El nombre de cada vendedor es una liga a su perfil de Marketplace.
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
-Total: 957 vendedores, 1622 anuncios con vendedor identificado (1 anuncios de la lista no tienen vendedor identificado).
+Total: 958 vendedores, 1625 anuncios con vendedor identificado (1 anuncios de la lista no tienen vendedor identificado).
 ## Vendedores (de mayor a menor número de publicaciones)
 - [Antonio Lopez](https://www.facebook.com/marketplace/profile/100040731070103) — 41 publicaciones ✓
 - [Iram A. Payan](https://www.facebook.com/marketplace/profile/628453454) — 24 publicaciones
@@ -235,6 +235,8 @@ Total: 957 vendedores, 1622 anuncios con vendedor identificado (1 anuncios de la
 - [Angel Sauceda](https://www.facebook.com/marketplace/profile/61585832033136) — 2 publicaciones
 - [Axel González](https://www.facebook.com/marketplace/profile/100091589749124) — 2 publicaciones
 - [Pedro Carrazco](https://www.facebook.com/marketplace/profile/100078272504239) — 2 publicaciones
+- [Alejandro Cital Garcia](https://www.facebook.com/marketplace/profile/100034740890343) — 2 publicaciones
+- [Ramiro Ramirez](https://www.facebook.com/marketplace/profile/61579490158804) — 2 publicaciones
 - [Enrique Talamante Irazoqui](https://www.facebook.com/marketplace/profile/783118002) — 1 publicaciones
 - [Lizeth Manzanarez](https://www.facebook.com/marketplace/profile/100011396976689) — 1 publicaciones
 - [A Usiel A Palafox](https://www.facebook.com/marketplace/profile/100088914757602) — 1 publicaciones
@@ -272,7 +274,6 @@ Total: 957 vendedores, 1622 anuncios con vendedor identificado (1 anuncios de la
 - [Alejandro Aguilar](https://www.facebook.com/marketplace/profile/100003365449415) — 1 publicaciones
 - [Alejandro Alonso Aguilasocho](https://www.facebook.com/marketplace/profile/100035848262474) — 1 publicaciones
 - [Alejandro Cabrera](https://www.facebook.com/marketplace/profile/566902847) — 1 publicaciones
-- [Alejandro Cital Garcia](https://www.facebook.com/marketplace/profile/100034740890343) — 1 publicaciones
 - [Alejandro Lopez](https://www.facebook.com/marketplace/profile/61581741194085) — 1 publicaciones
 - [Alejandro Moreno](https://www.facebook.com/marketplace/profile/61556850391184) — 1 publicaciones
 - [Aleks Figueroa](https://www.facebook.com/marketplace/profile/100003828572950) — 1 publicaciones
@@ -814,7 +815,6 @@ Total: 957 vendedores, 1622 anuncios con vendedor identificado (1 anuncios de la
 - [Rafa Villegas](https://www.facebook.com/marketplace/profile/100013424196544) — 1 publicaciones
 - [Rafaela Verdugo Meraz](https://www.facebook.com/marketplace/profile/61557504572063) — 1 publicaciones
 - [Ramiro Flores](https://www.facebook.com/marketplace/profile/100023762976838) — 1 publicaciones
-- [Ramiro Ramirez](https://www.facebook.com/marketplace/profile/61579490158804) — 1 publicaciones
 - [Ramon Luis Acedo Araujo](https://www.facebook.com/marketplace/profile/61576007404748) — 1 publicaciones
 - [Raul Simental Orozco](https://www.facebook.com/marketplace/profile/100042900771699) — 1 publicaciones
 - [Recicladora Bascula Mochis](https://www.facebook.com/marketplace/profile/100049054005702) — 1 publicaciones
@@ -962,3 +962,4 @@ Total: 957 vendedores, 1622 anuncios con vendedor identificado (1 anuncios de la
 - [Angel Ibarra](https://www.facebook.com/marketplace/profile/100047523401067) — 1 publicaciones
 - [Roberto Lopez](https://www.facebook.com/marketplace/profile/100077314163568) — 1 publicaciones
 - [Eduardo Alarcon](https://www.facebook.com/marketplace/profile/1265135581) — 1 publicaciones
+- [Jose Torres](https://www.facebook.com/marketplace/profile/100025033964919) — 1 publicaciones

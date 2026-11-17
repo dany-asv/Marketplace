@@ -6,12 +6,13 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 49 anuncios disponibles.
+Total: 50 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
 - 2026-11-14 14:18 — [Cambio de joystick PS5, Xbox S/X, PS4, etc.](https://www.facebook.com/marketplace/item/1773281067492759) — GRATIS — Vendedor: Juan Sergio Hernandez Araujo
 - 2026-11-13 16:46 — [Control xbox rojo](https://www.facebook.com/marketplace/item/1830430891846220) — GRATIS — Vendedor: Gael Leyva
+- 2026-10-27 18:19 — [Control](https://www.facebook.com/marketplace/item/1114693921547525) — $5 — Vendedor: Ramiro Ramirez
 - 2026-10-27 18:15 — [Audífonos Xbox](https://www.facebook.com/marketplace/item/1820455375868718) — $5 — Vendedor: Ramiro Ramirez
 - 2026-10-27 23:32 — [Plumas para consolas DS, Dsi, Dsi XL, 3ds, 3ds XL, New 3dsxl y 2ds, New 2ds XL , Wii u](https://www.facebook.com/marketplace/item/1144531488090080) — $50 — Vendedor: Stargames Valenzuela
 - 2026-10-25 10:44 — [Gomas grip para control ps5, ps4, xbox one, series](https://www.facebook.com/marketplace/item/1474881397867918) — $50 — Vendedor: Stargames Valenzuela
