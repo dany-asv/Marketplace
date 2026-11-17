@@ -3,7 +3,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - El nombre de cada vendedor es una liga a su perfil de Marketplace.
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
-Total: 955 vendedores, 1618 anuncios con vendedor identificado (1 anuncios de la lista no tienen vendedor identificado).
+Total: 957 vendedores, 1622 anuncios con vendedor identificado (1 anuncios de la lista no tienen vendedor identificado).
 ## Vendedores (de mayor a menor número de publicaciones)
 - [Antonio Lopez](https://www.facebook.com/marketplace/profile/100040731070103) — 41 publicaciones ✓
 - [Iram A. Payan](https://www.facebook.com/marketplace/profile/628453454) — 24 publicaciones
@@ -63,7 +63,7 @@ Total: 955 vendedores, 1618 anuncios con vendedor identificado (1 anuncios de la
 - [Paul Arenivas](https://www.facebook.com/marketplace/profile/100002980960365) — 4 publicaciones
 - [Paulina Flores](https://www.facebook.com/marketplace/profile/100085636571583) — 4 publicaciones ✓
 - [Ryu Hayabusa](https://www.facebook.com/marketplace/profile/61594526679821) — 4 publicaciones
-- [Sebastián Nozato](https://www.facebook.com/marketplace/profile/526183942) — 5 publicaciones ✓
+- [Sebastián Nozato](https://www.facebook.com/marketplace/profile/526183942) — 6 publicaciones ✓
 - [Semilla Césped Bermuda Pasto](https://www.facebook.com/marketplace/profile/100041839343590) — 4 publicaciones
 - [Aldo Ceballos Cubedo](https://www.facebook.com/marketplace/profile/100049672665133) — 3 publicaciones
 - [Alejandra Mochis](https://www.facebook.com/marketplace/profile/100033516701492) — 3 publicaciones
@@ -76,7 +76,7 @@ Total: 955 vendedores, 1618 anuncios con vendedor identificado (1 anuncios de la
 - [Daniela Trejo](https://www.facebook.com/marketplace/profile/100069539765355) — 3 publicaciones
 - [David Cañedo](https://www.facebook.com/marketplace/profile/61573154990280) — 3 publicaciones
 - [David Lopez](https://www.facebook.com/marketplace/profile/61589449161478) — 3 publicaciones
-- [Diego Ventura](https://www.facebook.com/marketplace/profile/61589723795657) — 3 publicaciones
+- [Diego Ventura](https://www.facebook.com/marketplace/profile/61589723795657) — 4 publicaciones
 - [Elvira Palazuelos](https://www.facebook.com/marketplace/profile/61588456977440) — 3 publicaciones
 - [Empeña Facil Pedro Anaya](https://www.facebook.com/marketplace/profile/100082090780298) — 3 publicaciones
 - [Ernesto Ayala Piña](https://www.facebook.com/marketplace/profile/100050515188718) — 3 publicaciones
@@ -960,3 +960,5 @@ Total: 955 vendedores, 1618 anuncios con vendedor identificado (1 anuncios de la
 - [Manuel Rojo](https://www.facebook.com/marketplace/profile/61595073395457) — 1 publicaciones
 - [Victor Almaraz](https://www.facebook.com/marketplace/profile/61570027910292) — 1 publicaciones
 - [Angel Ibarra](https://www.facebook.com/marketplace/profile/100047523401067) — 1 publicaciones
+- [Roberto Lopez](https://www.facebook.com/marketplace/profile/100077314163568) — 1 publicaciones
+- [Eduardo Alarcon](https://www.facebook.com/marketplace/profile/1265135581) — 1 publicaciones

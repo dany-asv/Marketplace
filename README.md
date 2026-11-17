@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1619 anuncios disponibles.
+Total: 1623 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -44,7 +44,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 4ta generación:
   - Super Nintendo (SNES):
     - [Consolas](4ta-snes-consolas.md) — 2 anuncios
-    - [Juegos](4ta-snes-juegos.md) — 4 anuncios
+    - [Juegos](4ta-snes-juegos.md) — 5 anuncios
 - 5ta generación:
   - Nintendo 64 (N64):
     - [Consolas](5ta-nintendo-64-consolas.md) — 12 anuncios
@@ -77,7 +77,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](7ma-ps3-juegos.md) — 13 anuncios
     - [Accesorios](7ma-ps3-accesorios.md) — 1 anuncios
   - Xbox 360:
-    - [Consolas](7ma-xbox-360-consolas.md) — 12 anuncios
+    - [Consolas](7ma-xbox-360-consolas.md) — 13 anuncios
     - [Juegos](7ma-xbox-360-juegos.md) — 8 anuncios
     - [Accesorios](7ma-xbox-360-accesorios.md) — 5 anuncios
 - 8va generación:
@@ -90,7 +90,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](8va-ps4-juegos.md) — 134 anuncios
     - [Accesorios](8va-ps4-accesorios.md) — 11 anuncios
   - Xbox One:
-    - [Consolas](8va-xbox-one-consolas.md) — 30 anuncios
+    - [Consolas](8va-xbox-one-consolas.md) — 31 anuncios
     - [Juegos](8va-xbox-one-juegos.md) — 4 anuncios
     - [Accesorios](8va-xbox-one-accesorios.md) — 3 anuncios
 - 9na generación:
@@ -104,7 +104,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Accesorios](9na-nintendo-switch-accesorios.md) — 63 anuncios
   - PlayStation 5 (PS5):
     - [Consolas](9na-ps5-consolas.md) — 4 anuncios
-    - [Juegos](9na-ps5-juegos.md) — 23 anuncios
+    - [Juegos](9na-ps5-juegos.md) — 24 anuncios
     - [Accesorios](9na-ps5-accesorios.md) — 18 anuncios
   - Xbox Series X/S:
     - [Consolas](9na-xbox-series-consolas.md) — 15 anuncios
@@ -120,6 +120,10 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - [Juegos](otros-juegos.md) — 179 anuncios
   - [Accesorios](otros-accesorios.md) — 49 anuncios
 ## Disponibles (de más actual a más viejo)
+- 2026-11-17 10:57 — [Xbox One S 500gb](https://www.facebook.com/marketplace/item/2044458626470750) — $2.200 — Usado - Como nuevo — Los Mochis — Vendedor: Roberto Lopez
+- 2026-11-17 10:47 — [Vendo Xbox 360 14 juegos instalados 5 discos de juegos cables y control  Sin detalles](https://www.facebook.com/marketplace/item/2692694867869275) — $1.600 — Usado - Como nuevo — Los Mochis — Vendedor: Diego Ventura
+- 2026-11-17 09:19 — [Gran Turismo 7 y Astro Bot PS5 - Códigos de descarga](https://www.facebook.com/marketplace/item/1667846451391737) — $600 — Nuevo — Los Mochis — Vendedor: Eduardo Alarcon
+- 2026-11-17 09:00 — [Double dragon SNES](https://www.facebook.com/marketplace/item/1298086895817801) — $400 — Usado - Como nuevo — Los Mochis — vendedor en Whitelist de Daniel: Sebastián Nozato
 - 2026-11-17 10:38 — [Nintendo switch](https://www.facebook.com/marketplace/item/4227843517513075) — $1.900 — Usado - Como nuevo — Los Mochis — Vendedor: Angel Ibarra
 - 2026-11-17 09:05 — [Juegos de Super Nintendo](https://www.facebook.com/marketplace/item/1654779712806504) — $450 — Usado - Como nuevo — Los Mochis — vendedor en Whitelist de Daniel: Sebastián Nozato
 - 2026-11-17 08:59 — [Playstation 2](https://www.facebook.com/marketplace/item/2181613339094005) — $1.400 — Usado - Como nuevo — Los Mochis — vendedor en Whitelist de Daniel: Sebastián Nozato
