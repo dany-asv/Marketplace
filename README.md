@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1626 anuncios disponibles.
+Total: 1631 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -87,12 +87,12 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Accesorios](8va-wii-u-accesorios.md) — 1 anuncios
   - PlayStation 4 (PS4):
     - [Consolas](8va-ps4-consolas.md) — 117 anuncios
-    - [Juegos](8va-ps4-juegos.md) — 134 anuncios
+    - [Juegos](8va-ps4-juegos.md) — 135 anuncios
     - [Accesorios](8va-ps4-accesorios.md) — 11 anuncios
   - Xbox One:
     - [Consolas](8va-xbox-one-consolas.md) — 31 anuncios
     - [Juegos](8va-xbox-one-juegos.md) — 4 anuncios
-    - [Accesorios](8va-xbox-one-accesorios.md) — 3 anuncios
+    - [Accesorios](8va-xbox-one-accesorios.md) — 4 anuncios
 - 9na generación:
   - Nintendo Switch:
     - Consolas:
@@ -101,11 +101,11 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
       - [Normal](9na-nintendo-switch-normal-consolas.md) — 130 anuncios
       - [Customs](9na-nintendo-switch-customs-consolas.md) — 31 anuncios
     - [Juegos](9na-nintendo-switch-juegos.md) — 254 anuncios
-    - [Accesorios](9na-nintendo-switch-accesorios.md) — 63 anuncios
+    - [Accesorios](9na-nintendo-switch-accesorios.md) — 64 anuncios
   - PlayStation 5 (PS5):
     - [Consolas](9na-ps5-consolas.md) — 4 anuncios
     - [Juegos](9na-ps5-juegos.md) — 24 anuncios
-    - [Accesorios](9na-ps5-accesorios.md) — 18 anuncios
+    - [Accesorios](9na-ps5-accesorios.md) — 20 anuncios
   - Xbox Series X/S:
     - [Consolas](9na-xbox-series-consolas.md) — 16 anuncios
     - [Juegos](9na-xbox-series-juegos.md) — 1 anuncios
@@ -120,6 +120,8 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - [Juegos](otros-juegos.md) — 179 anuncios
   - [Accesorios](otros-accesorios.md) — 50 anuncios
 ## Disponibles (de más actual a más viejo)
+- 2026-11-17 13:24 — [Juegos PlayStation 4](https://www.facebook.com/marketplace/item/2303458527173215) — $1.500 — Nuevo — Los Mochis — Vendedor: Jorge Apodaca
+- 2026-11-17 13:17 — [CONTROL DE PLAYSTATION 5 NUEVO](https://www.facebook.com/marketplace/item/4526002204340081) — GRATIS — Nuevo — Los Mochis — Vendedor: Jezuz A Almaraz
 - 2026-11-17 12:41 — [Xbox series S](https://www.facebook.com/marketplace/item/1659736928896430) — $4.000 — Usado - Como nuevo — Los Mochis — Vendedor: Alejandro Cital Garcia
 - 2026-11-17 10:57 — [Xbox One S 500gb](https://www.facebook.com/marketplace/item/2044458626470750) — $2.200 — Usado - Como nuevo — Los Mochis — Vendedor: Roberto Lopez
 - 2026-11-17 10:47 — [Vendo Xbox 360 14 juegos instalados 5 discos de juegos cables y control  Sin detalles](https://www.facebook.com/marketplace/item/2692694867869275) — $1.600 — Usado - Como nuevo — Los Mochis — Vendedor: Diego Ventura
@@ -181,6 +183,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-15 15:05 — [Videojuegos🎮🎮](https://www.facebook.com/marketplace/item/1836672987543075) — $550 — Nuevo — Los Mochis — Vendedor: Jazmin Fuentes
 - 2026-11-15 15:00 — [Videojuegos](https://www.facebook.com/marketplace/item/1159281740037549) — $550 — Nuevo — Los Mochis — Vendedor: Jazmin Fuentes
 - 2026-11-15 13:30 — [Videojuegos nintendo Switch play y wii](https://www.facebook.com/marketplace/item/1039832102455774) — $600 — Usado - Como nuevo — Los Mochis — Vendedor: Rafaela Gastelo Torres
+- 2026-11-15 13:13 — [Control para switch alámbrico](https://www.facebook.com/marketplace/item/4497239673862179) — $150 — Usado - Como nuevo — Los Mochis — vendedor en Whitelist de Daniel: Rafael Aguilar
 - 2026-11-15 13:12 — [Control Xbox con drift](https://www.facebook.com/marketplace/item/1702698078119720) — $300 — Usado - Buen estado — Los Mochis — Vendedor: Emilio Cossio
 - 2026-11-15 12:52 — [Minecraft para nintendo switch](https://www.facebook.com/marketplace/item/1685357253098224) — $350 — Usado - Como nuevo — Los Mochis — Vendedor: Axel Luna
 - 2026-11-15 12:05 — [5 juegos Xbox 360 todos por $600](https://www.facebook.com/marketplace/item/2682936752139673) — $600 — Usado - Como nuevo — Los Mochis — Vendedor: Xhavi Manzanarez
@@ -281,6 +284,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-12 20:29 — [Maquinitas Xbox clásicas se venden o se cambian precio por unidad leer descripción](https://www.facebook.com/marketplace/item/2121377218738716) — $2.500 — Usado - Aceptable — Los Mochis — vendedor en Whitelist de Daniel: Evelin Perea
 - 2026-11-12 17:55 — [Volante para xbox y computadora](https://www.facebook.com/marketplace/item/28738335302533636) — $2.200 — Usado - Como nuevo — Los Mochis — Vendedor: Luis Vergara Rojo
 - 2026-11-12 17:37 — [Xbox one s de 512](https://www.facebook.com/marketplace/item/1789933245612703) — $2.000 — Usado - Como nuevo — Los Mochis — Vendedor: Bianca Espinoza
+- 2026-11-12 17:06 — [Auriculares play station 5](https://www.facebook.com/marketplace/item/1081426001591618) — $2.000 — Usado - Como nuevo — Los Mochis — Vendedor: هوبر راموس
 - 2026-11-12 17:01 — [Juegos Xbox 360 y PlayStation $300 c/u](https://www.facebook.com/marketplace/item/1701838851341168) — $300 — Usado - Como nuevo — Los Mochis — Vendedor: Dulce Palma
 - 2026-11-12 17:00 — [Consola Wii](https://www.facebook.com/marketplace/item/2160544954560223) — $1.500 — Usado - Como nuevo — Los Mochis — Vendedor: César López
 - 2026-11-12 16:43 — [CONTROL PLAY 5 NUEVO SELLADO](https://www.facebook.com/marketplace/item/1162012992932539) — GRATIS — Nuevo — Los Mochis — Vendedor: Jezuz A Almaraz
@@ -595,6 +599,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-10-27 16:10 — [Juegos para play 4 $1000 por todos](https://www.facebook.com/marketplace/item/2031883150822589) — $1.000 — Usado - Buen estado — Los Mochis — Vendedor: Brian Woodill
 - 2026-10-27 15:36 — [Xbox series S](https://www.facebook.com/marketplace/item/1652499659814866) — $5.500 — Usado - Como nuevo — Los Mochis — Vendedor: Cecilia Carrillo
 - 2026-10-27 12:41 — [Xbox Series s con control no original](https://www.facebook.com/marketplace/item/2091861088141250) — $3.900 — Usado - Buen estado — Los Mochis — Vendedor: Kevin Rodriguez
+- 2026-10-27 11:56 — [Fuente xbox one s](https://www.facebook.com/marketplace/item/998996613223380) — $500 — Usado - Buen estado — Los Mochis — Vendedor: Amamiya Yuki
 - 2026-10-27 11:33 — [Donkey Kong Country Tropical Freeze](https://www.facebook.com/marketplace/item/1659485772380877) — $600 — Usado - Como nuevo — Los Mochis — Vendedor: Daniel Arturo Salinas Verduzco
 - 2026-10-27 09:31 — [Ps4](https://www.facebook.com/marketplace/item/1786988685889597) — $2.100 — Usado - Como nuevo — Los Mochis — Vendedor: Luis Rey
 - 2026-10-27 07:55 — [Mákina con muchos juegos clásicos y modernos..miles..$3500 tel.6681993508](https://www.facebook.com/marketplace/item/1584985079561237) — $350 — Los Mochis — precio a confirmar: el título dice $3,500 y el precio publicado es $350 — Vendedor: Daniel López

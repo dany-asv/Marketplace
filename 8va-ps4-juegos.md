@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 134 anuncios disponibles.
+Total: 135 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -119,7 +119,7 @@ Total: 134 anuncios disponibles.
 - 2026-08-02 15:16 — [Coleccion Resident](https://www.facebook.com/marketplace/item/1360612665533261) — $450 — Vendedor: Ulises Valenzuela Ochoa
 - 2025-12-16 15:10 — [Lost judgement (tipo Yakuza) para Playstation 4](https://www.facebook.com/marketplace/item/1165194862351826) — $450 — Vendedor: Orlando Alfredo Souza
 - 2026-09-20 13:25 — [Juegos de ps4](https://www.facebook.com/marketplace/item/1530161702471381) — $500 — Vendedor: Diego Moreno
-- 2026-07-18 23:50 — [SPIDER-MAN PS4 Y RESIDENT EVIL BIOHAZRD PS4](https://www.facebook.com/marketplace/item/1035111252229342) — $500 — $500
+- 2026-07-18 23:50 — [SPIDER-MAN PS4 Y RESIDENT EVIL BIOHAZRD PS4](https://www.facebook.com/marketplace/item/1035111252229342) — $500
 - 2026-07-14 23:50 — [REMATE JUEGOS BARATOS PS4](https://www.facebook.com/marketplace/item/2426244804455776) — $500 — Vendedor: Gael Rodríguez
 - 2026-07-03 15:48 — [Juegos para ps4](https://www.facebook.com/marketplace/item/957064144047757) — $500 — Vendedor: Karen Mayen
 - 2026-05-04 22:10 — [Discos de ps4](https://www.facebook.com/marketplace/item/1683765699428451) — $500 — Vendedor: Alex Rome
@@ -137,6 +137,7 @@ Total: 134 anuncios disponibles.
 - 2026-03-23 14:48 — [JUEGOS PARA PS4 A BUEN PRECIO PRECIO INDIVIDUAL O LOTE COMPLETO](https://www.facebook.com/marketplace/item/904988649034330) — $1.234 — Vendedor: Saneli Daniel
 - 2026-01-01 14:37 — [Juegos de ps4](https://www.facebook.com/marketplace/item/2931379323734070) — $1.234 — Vendedor: Luis Daniel Miranda Cota
 - 2026-11-05 22:10 — [World of Final Fantasy Collector’s Edition PS4, sin juego](https://www.facebook.com/marketplace/item/1802655614843365) — $1.400 — Vendedor: Francisco Arturo
+- 2026-11-17 13:24 — [Juegos PlayStation 4](https://www.facebook.com/marketplace/item/2303458527173215) — $1.500 — Vendedor: Jorge Apodaca
 - 2026-02-10 09:50 — [Juegos ps4](https://www.facebook.com/marketplace/item/3394160537415025) — $2.000 — Vendedor: Sebastian Souza
 - 2026-11-05 22:14 — [Final Fantasy XII Zodiac Age Collector’s Edition PS4 completa](https://www.facebook.com/marketplace/item/1106295665549699) — $2.400 — Vendedor: Francisco Arturo
 - 2026-08-13 20:07 — [Juegos ps4](https://www.facebook.com/marketplace/item/1014127154771351) — $3.000 — Vendedor: Juan Garcia

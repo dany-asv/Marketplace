@@ -6,10 +6,11 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 18 anuncios disponibles.
+Total: 20 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
+- 2026-11-17 13:17 — [CONTROL DE PLAYSTATION 5 NUEVO](https://www.facebook.com/marketplace/item/4526002204340081) — GRATIS — Vendedor: Jezuz A Almaraz
 - 2026-11-12 16:43 — [CONTROL PLAY 5 NUEVO SELLADO](https://www.facebook.com/marketplace/item/1162012992932539) — GRATIS — Vendedor: Jezuz A Almaraz
 - 2026-11-11 21:44 — [M2 2280 512gb Gen 4](https://www.facebook.com/marketplace/item/1139099532031848) — $1 — Vendedor: Jo Maste
 - 2026-11-11 13:02 — [Control, audífonos y cargador para psp5](https://www.facebook.com/marketplace/item/1692329202679567) — $111 — Vendedor: Mauro Torres
@@ -22,6 +23,7 @@ Total: 18 anuncios disponibles.
 - 2026-11-14 11:51 — [CONTROLES PLAYSTATION 5](https://www.facebook.com/marketplace/item/1394762279138347) — $1.269 — Vendedor: Jesus Valdez
 - 2026-11-16 16:22 — [Control ps5](https://www.facebook.com/marketplace/item/1479660944124694) — $1.300 — Vendedor: Lily Lopez
 - 2026-11-12 10:56 — [Control PS5 DualSense Inalámbrico Original | Nuevo Sellado | 4 colores](https://www.facebook.com/marketplace/item/2404407236970463) — $1.300 — Vendedor: Vicente Munguia
+- 2026-11-12 17:06 — [Auriculares play station 5](https://www.facebook.com/marketplace/item/1081426001591618) — $2.000 — Vendedor: هوبر راموس
 - 2026-10-25 11:44 — [Ps Portal](https://www.facebook.com/marketplace/item/1437359874541976) — $2.500 — Vendedor: Angel Meza
 - 2026-11-08 00:31 — [Simulador ps5 pc](https://www.facebook.com/marketplace/item/1673047067786336) — $3.400 — Vendedor: Carlos Orduño
 - 2026-11-07 23:45 — [Controles para ps5](https://www.facebook.com/marketplace/item/3245567702303816) — $3.400 — Vendedor: Carlos Orduño
