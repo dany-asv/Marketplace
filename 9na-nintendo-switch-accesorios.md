@@ -36,6 +36,7 @@ Total: 64 anuncios disponibles.
 - 2026-11-14 12:45 — [Estuche pikachu 3D nintendo switch](https://www.facebook.com/marketplace/item/1530267892274163) — $240 — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-11-07 19:55 — [Estuche grande switch mario edicion](https://www.facebook.com/marketplace/item/990503590184181) — $240 — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-11-07 08:41 — [Estuche pikachu 3D nintendo switch](https://www.facebook.com/marketplace/item/2233742620536631) — $240 — Vendedor: Jesus Gilberto Alvarez Vega
+- 2026-11-07 08:41 — [Estuche grande switch blanco](https://www.facebook.com/marketplace/item/1405341581680894) — $250 — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-10-25 18:24 — [Control para nintendo switch o pc nuevo](https://www.facebook.com/marketplace/item/1714838913356326) — $250 — Vendedor: German Nuñez
 - 2026-10-19 17:48 — [Estuche para Nintendo Switch Nuevo](https://www.facebook.com/marketplace/item/1096735826484349) — $250 — Vendedor: Jano Sarabia
 - 2026-10-25 10:31 — [Grip para joycon nintendo switch](https://www.facebook.com/marketplace/item/2608802699622938) — $300 — Vendedor: Chappy Chappy

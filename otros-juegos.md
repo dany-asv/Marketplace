@@ -45,6 +45,7 @@ Total: 179 anuncios disponibles.
 - 2026-07-24 13:14 — [Juegos de PS4 , PS5 Y XBOX ONE](https://www.facebook.com/marketplace/item/2619162841874186) — $150 — Vendedor: Ulises Valenzuela Ochoa
 - 2026-03-15 17:04 — [Juegos de ps4 y ps5](https://www.facebook.com/marketplace/item/2395477627568502) — $150 — Vendedor: LC JG
 - 2025-11-16 23:18 — [Videojuegos](https://www.facebook.com/marketplace/item/1491506838754471) — $150 — Vendedor: Carmen Bernardo
+- 2026-10-25 15:59 — [Juegos varios](https://www.facebook.com/marketplace/item/2048418189196396) — $200 — Vendedor: Daniel Nieblas
 - 2026-09-04 23:07 — [Assassins cred unity](https://www.facebook.com/marketplace/item/2609561686180826) — $200 — Vendedor: Ivan Aguero
 - 2026-09-04 23:06 — [FIFA 21](https://www.facebook.com/marketplace/item/38087170387598334) — $200 — Vendedor: Ivan Aguero
 - 2026-09-04 23:06 — [Horizon zero dawn](https://www.facebook.com/marketplace/item/1683883649380903) — $200 — Vendedor: Ivan Aguero
@@ -74,6 +75,7 @@ Total: 179 anuncios disponibles.
 - 2026-02-24 15:47 — [Gta v](https://www.facebook.com/marketplace/item/1977082312886759) — $300 — Vendedor: Santiago Leal
 - 2025-10-07 15:43 — [Juegos de ps4 y 1 de ps5](https://www.facebook.com/marketplace/item/687787003766194) — $300 — Vendedor: Joss Etzo
 - 2026-11-17 07:09 — [Vendo juegos de ps4 y ps5](https://www.facebook.com/marketplace/item/1648020756762827) — $350 — Vendedor: Karinn Taylor
+- 2026-11-16 21:18 — [XBOX GAMES](https://www.facebook.com/marketplace/item/2383352072424225) — $350 — Vendedor: Ulises Valenzuela Ochoa
 - 2026-11-10 23:49 — [JUEGOS PARA PS4/5 SOLO VENTA, NO CAMBIOS](https://www.facebook.com/marketplace/item/2072967550069874) — $350 — Vendedor: Karinn Taylor
 - 2026-08-12 00:35 — [Juego Crash](https://www.facebook.com/marketplace/item/3279780668885187) — $350 — Vendedor: Dany Herrera Fong
 - 2026-07-22 18:12 — [Will juegos y mas](https://www.facebook.com/marketplace/item/1027628266647740) — $350 — Vendedor: Ventura Miranda Gomez
