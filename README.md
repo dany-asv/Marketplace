@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1626 anuncios disponibles.
+Total: 1627 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -107,7 +107,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](9na-ps5-juegos.md) — 23 anuncios
     - [Accesorios](9na-ps5-accesorios.md) — 18 anuncios
   - Xbox Series X/S:
-    - [Consolas](9na-xbox-series-consolas.md) — 16 anuncios
+    - [Consolas](9na-xbox-series-consolas.md) — 17 anuncios
     - [Juegos](9na-xbox-series-juegos.md) — 1 anuncios
     - [Accesorios](9na-xbox-series-accesorios.md) — 9 anuncios
 - 10ma generación:
@@ -120,6 +120,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - [Juegos](otros-juegos.md) — 180 anuncios
   - [Accesorios](otros-accesorios.md) — 49 anuncios
 ## Disponibles (de más actual a más viejo)
+- 2026-11-17 08:46 — [Xbox series s](https://www.facebook.com/marketplace/item/4197534517211833) — $3.000 — Usado - Como nuevo — Los Mochis — Vendedor: Sebastian Medina
 - 2026-11-17 07:09 — [Vendo juegos de ps4 y ps5](https://www.facebook.com/marketplace/item/1648020756762827) — $350 — Usado - Como nuevo — Los Mochis — Vendedor: Karinn Taylor
 - 2026-11-17 04:40 — [control xbox series x/s](https://www.facebook.com/marketplace/item/1689293406155020) — $650 — Usado - Buen estado — Los Mochis — Vendedor: Marco Antonio Araya Lara
 - 2026-11-16 23:02 — [Nintendo switch Oled](https://www.facebook.com/marketplace/item/3719077051602236) — $4.500 — Usado - Como nuevo — Los Mochis — Vendedor: Beli Bet
