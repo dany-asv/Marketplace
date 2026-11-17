@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1609 anuncios disponibles.
+Total: 1612 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -92,12 +92,12 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - Xbox One:
     - [Consolas](8va-xbox-one-consolas.md) — 32 anuncios
     - [Juegos](8va-xbox-one-juegos.md) — 4 anuncios
-    - [Accesorios](8va-xbox-one-accesorios.md) — 2 anuncios
+    - [Accesorios](8va-xbox-one-accesorios.md) — 3 anuncios
 - 9na generación:
   - Nintendo Switch:
     - Consolas:
       - [OLED](9na-nintendo-switch-oled-consolas.md) — 128 anuncios
-      - [Lite](9na-nintendo-switch-lite-consolas.md) — 34 anuncios
+      - [Lite](9na-nintendo-switch-lite-consolas.md) — 35 anuncios
       - [Normal](9na-nintendo-switch-normal-consolas.md) — 129 anuncios
       - [Customs](9na-nintendo-switch-customs-consolas.md) — 31 anuncios
     - [Juegos](9na-nintendo-switch-juegos.md) — 254 anuncios
@@ -109,7 +109,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - Xbox Series X/S:
     - [Consolas](9na-xbox-series-consolas.md) — 16 anuncios
     - [Juegos](9na-xbox-series-juegos.md) — 1 anuncios
-    - [Accesorios](9na-xbox-series-accesorios.md) — 7 anuncios
+    - [Accesorios](9na-xbox-series-accesorios.md) — 8 anuncios
 - 10ma generación:
   - Nintendo Switch 2:
     - [Consolas](10ma-nintendo-switch-2-consolas.md) — 16 anuncios
@@ -120,6 +120,9 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - [Juegos](otros-juegos.md) — 179 anuncios
   - [Accesorios](otros-accesorios.md) — 49 anuncios
 ## Disponibles (de más actual a más viejo)
+- 2026-11-16 21:32 — [Control Xbox Series](https://www.facebook.com/marketplace/item/1122494990663916) — $123 — Nuevo — Los Mochis — Vendedor: Emi CM
+- 2026-11-16 21:31 — [Nintendo Switch Lite](https://www.facebook.com/marketplace/item/1162023380119934) — $123 — Usado - Como nuevo — Los Mochis — Vendedor: Emi CM
+- 2026-11-16 20:29 — [Control elite 1 xbox](https://www.facebook.com/marketplace/item/1189056910187585) — $700 — Usado - Aceptable — Los Mochis — Vendedor: Sergio Cárdenas
 - 2026-11-16 20:27 — [Nintendo oled](https://www.facebook.com/marketplace/item/2267704303962288) — $3.300 — Usado - Buen estado — Los Mochis — Vendedor: Axel González
 - 2026-11-16 20:23 — [Juegos Nintendo Switch](https://www.facebook.com/marketplace/item/1463917911738013) — $1 — Usado - Buen estado — Los Mochis — Vendedor: Diego Gaxiola
 - 2026-11-16 17:55 — [Control xbox one series como nuevo](https://www.facebook.com/marketplace/item/1466519608919336) — $650 — Nuevo — Los Mochis — Vendedor: Guillermo Ruiz Felix
