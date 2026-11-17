@@ -3,7 +3,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - El nombre de cada vendedor es una liga a su perfil de Marketplace.
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
-Total: 963 vendedores, 1635 anuncios con vendedor identificado (1 anuncios de la lista no tienen vendedor identificado).
+Total: 966 vendedores, 1643 anuncios con vendedor identificado (1 anuncios de la lista no tienen vendedor identificado).
 ## Vendedores (de mayor a menor número de publicaciones)
 - [Antonio Lopez](https://www.facebook.com/marketplace/profile/100040731070103) — 41 publicaciones ✓
 - [Carlos Jiménez](https://www.facebook.com/marketplace/profile/100007976233056) — 31 publicaciones
@@ -11,9 +11,9 @@ Total: 963 vendedores, 1635 anuncios con vendedor identificado (1 anuncios de la
 - [Sebastian Souza](https://www.facebook.com/marketplace/profile/100002607805317) — 22 publicaciones ✓
 - [Chappy Chappy](https://www.facebook.com/marketplace/profile/100026883520340) — 19 publicaciones ✓
 - [Nutrijugos LA Selva](https://www.facebook.com/marketplace/profile/100082976675996) — 18 publicaciones
+- [Antoni Tony](https://www.facebook.com/marketplace/profile/61557491476801) — 18 publicaciones ✓
 - [Ivan Lopez](https://www.facebook.com/marketplace/profile/100021428154020) — 16 publicaciones ✓
 - [Vicente Munguia](https://www.facebook.com/marketplace/profile/509548546) — 15 publicaciones ✓
-- [Antoni Tony](https://www.facebook.com/marketplace/profile/61557491476801) — 14 publicaciones ✓
 - [Carla Lopez](https://www.facebook.com/marketplace/profile/100009128428674) — 12 publicaciones
 - [Ivan Aguero](https://www.facebook.com/marketplace/profile/61591098105339) — 12 publicaciones
 - [Axel Luna](https://www.facebook.com/marketplace/profile/100041876418121) — 12 publicaciones
@@ -66,6 +66,7 @@ Total: 963 vendedores, 1635 anuncios con vendedor identificado (1 anuncios de la
 - [Ryu Hayabusa](https://www.facebook.com/marketplace/profile/61594526679821) — 4 publicaciones
 - [Semilla Césped Bermuda Pasto](https://www.facebook.com/marketplace/profile/100041839343590) — 4 publicaciones
 - [Diego Ventura](https://www.facebook.com/marketplace/profile/61589723795657) — 4 publicaciones
+- [Eros Celis](https://www.facebook.com/marketplace/profile/100003874252826) — 4 publicaciones ✓
 - [Aldo Ceballos Cubedo](https://www.facebook.com/marketplace/profile/100049672665133) — 3 publicaciones
 - [Alejandra Mochis](https://www.facebook.com/marketplace/profile/100033516701492) — 3 publicaciones
 - [Andrea Lopez](https://www.facebook.com/marketplace/profile/61553485727563) — 3 publicaciones
@@ -80,7 +81,6 @@ Total: 963 vendedores, 1635 anuncios con vendedor identificado (1 anuncios de la
 - [Elvira Palazuelos](https://www.facebook.com/marketplace/profile/61588456977440) — 3 publicaciones
 - [Empeña Facil Pedro Anaya](https://www.facebook.com/marketplace/profile/100082090780298) — 3 publicaciones
 - [Ernesto Ayala Piña](https://www.facebook.com/marketplace/profile/100050515188718) — 3 publicaciones
-- [Eros Celis](https://www.facebook.com/marketplace/profile/100003874252826) — 3 publicaciones ✓
 - [Fer Gomez](https://www.facebook.com/marketplace/profile/61575379676186) — 3 publicaciones
 - [Fernando Gonzales](https://www.facebook.com/marketplace/profile/100074440808279) — 3 publicaciones
 - [Francisco Arturo](https://www.facebook.com/marketplace/profile/100002335875634) — 3 publicaciones
@@ -968,3 +968,6 @@ Total: 963 vendedores, 1635 anuncios con vendedor identificado (1 anuncios de la
 - [Amamiya Yuki](https://www.facebook.com/marketplace/profile/100037917971629) — 1 publicaciones
 - [Diego Soto](https://www.facebook.com/marketplace/profile/100025011472042) — 1 publicaciones
 - [Daniel Nieblas](https://www.facebook.com/marketplace/profile/100002821964437) — 1 publicaciones
+- [Jhany Estrada](https://www.facebook.com/marketplace/profile/1725563134) — 1 publicaciones
+- [Isabella Dejesus](https://www.facebook.com/marketplace/profile/61595869487239) — 1 publicaciones
+- [Jassiel Laurean](https://www.facebook.com/marketplace/profile/100078922954579) — 1 publicaciones

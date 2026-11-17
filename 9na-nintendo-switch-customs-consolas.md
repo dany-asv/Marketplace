@@ -6,10 +6,11 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 31 anuncios disponibles.
+Total: 32 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
+- 2026-11-17 15:45 — [Nintendo switch oled edición Zelda chipeada 256gb](https://www.facebook.com/marketplace/item/3481680098700457) — GRATIS — Vendedor: Eros Celis
 - 2026-09-10 19:08 — [Nintendo swich chipeado](https://www.facebook.com/marketplace/item/1637118264697418) — GRATIS — Vendedor: Rodriguez Angel
 - 2026-05-16 11:10 — [NINTENDO SWITCH Libera su potencial Juegos Android y mucho mas](https://www.facebook.com/marketplace/item/2912777539059903) — GRATIS — Vendedor: Vicente Munguia
 - 2026-04-21 13:08 — [Magia para nintendo switch garantizado local establecido](https://www.facebook.com/marketplace/item/5296821210542171) — GRATIS — Vendedor: Vicente Munguia
