@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 182 anuncios disponibles.
+Total: 183 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -65,6 +65,7 @@ Total: 182 anuncios disponibles.
 - 2024-12-07 19:33 — [Assassin crid](https://www.facebook.com/marketplace/item/1113036633788571) — $250 — Vendedor: Aldo Ceballos Cubedo
 - 2024-12-07 19:29 — [Juego horizon](https://www.facebook.com/marketplace/item/3971873476468264) — $250 — Vendedor: Aldo Ceballos Cubedo
 - 2026-07-02 16:46 — [The last of us remastered](https://www.facebook.com/marketplace/item/1021230187054809) — $280 — Vendedor: Jesus VC
+- 2026-11-17 18:55 — [Videojuegos incluye todoo](https://www.facebook.com/marketplace/item/2040881883259990) — $300 — Vendedor: Adilene Ochoa
 - 2026-11-12 17:01 — [Juegos Xbox 360 y PlayStation $300 c/u](https://www.facebook.com/marketplace/item/1701838851341168) — $300 — Vendedor: Dulce Palma
 - 2026-11-10 22:44 — [JUEGOS PARA PS4/5 SOLO VENTA, NO CAMBIOS](https://www.facebook.com/marketplace/item/2023442095278651) — $300 — Vendedor: Fabián Rodríguez
 - 2026-11-05 16:28 — [Juegos de PlayStation $300c/u](https://www.facebook.com/marketplace/item/1521965226383474) — $300 — Vendedor: Dulce Palma

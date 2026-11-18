@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1659 anuncios disponibles.
+Total: 1664 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -100,15 +100,15 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
       - [Lite](9na-nintendo-switch-lite-consolas.md) — 34 anuncios
       - [Normal](9na-nintendo-switch-normal-consolas.md) — 132 anuncios
       - [Customs](9na-nintendo-switch-customs-consolas.md) — 32 anuncios
-    - [Juegos](9na-nintendo-switch-juegos.md) — 260 anuncios
+    - [Juegos](9na-nintendo-switch-juegos.md) — 261 anuncios
     - [Accesorios](9na-nintendo-switch-accesorios.md) — 65 anuncios
   - PlayStation 5 (PS5):
     - [Consolas](9na-ps5-consolas.md) — 4 anuncios
     - [Juegos](9na-ps5-juegos.md) — 26 anuncios
     - [Accesorios](9na-ps5-accesorios.md) — 22 anuncios
   - Xbox Series X/S:
-    - [Consolas](9na-xbox-series-consolas.md) — 17 anuncios
-    - [Juegos](9na-xbox-series-juegos.md) — 1 anuncios
+    - [Consolas](9na-xbox-series-consolas.md) — 18 anuncios
+    - [Juegos](9na-xbox-series-juegos.md) — 2 anuncios
     - [Accesorios](9na-xbox-series-accesorios.md) — 11 anuncios
 - 10ma generación:
   - Nintendo Switch 2:
@@ -117,12 +117,17 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Accesorios](10ma-nintendo-switch-2-accesorios.md) — 2 anuncios
 - Otros — Multiplataforma o sin plataforma clara:
   - [Consolas](otros-consolas.md) — 102 anuncios
-  - [Juegos](otros-juegos.md) — 182 anuncios
-  - [Accesorios](otros-accesorios.md) — 52 anuncios
+  - [Juegos](otros-juegos.md) — 183 anuncios
+  - [Accesorios](otros-accesorios.md) — 53 anuncios
 ## Disponibles (de más actual a más viejo)
+- 2026-11-17 22:36 — [Xbox series S](https://www.facebook.com/marketplace/item/992237297288816) — $3.800 — Usado - Como nuevo — Los Mochis — Vendedor: Emiliano Gonzalez
+- 2026-11-17 22:31 — [Se vende juego GTA 5 para xbox series x sin mapa.](https://www.facebook.com/marketplace/item/2909772319408850) — $500 — Nuevo — Los Mochis — Vendedor: Esmy C. Hernandez
 - 2026-11-17 21:38 — [Nintendo Switch: 4 juegos, 3 controles e incluye Dock](https://www.facebook.com/marketplace/item/1416295277335449) — $5.500 — Usado - Buen estado — Los Mochis — Vendedor: Drake Castillo
 - 2026-11-17 21:23 — [Xbox One Fat 500gb](https://www.facebook.com/marketplace/item/1140656205015597) — $1.800 — Usado — Los Mochis — Vendedor: Acosta Fierro
+- 2026-11-17 20:52 — [JUEGOS NINTENDO SWITCH](https://www.facebook.com/marketplace/item/1443724443978021) — $1.200 — Usado - Buen estado — Los Mochis — Vendedor: Rodrigo Camacho Montes
+- 2026-11-17 20:42 — [Control de Xbox](https://www.facebook.com/marketplace/item/3776954765787496) — $400 — Usado - Como nuevo — Los Mochis — Vendedor: Alvarito Barraza
 - 2026-11-17 19:45 — [Nintendo 3DS XL](https://www.facebook.com/marketplace/item/1085150561235846) — $3.000 — Usado - Como nuevo — Los Mochis — Vendedor: Becker Gerardo
+- 2026-11-17 18:55 — [Videojuegos incluye todoo](https://www.facebook.com/marketplace/item/2040881883259990) — $300 — Usado - Como nuevo — Los Mochis — Vendedor: Adilene Ochoa
 - 2026-11-17 18:08 — [Control de Xbox Game sir g7 se nuevo](https://www.facebook.com/marketplace/item/30113527374915963) — $900 — Nuevo — Los Mochis — Vendedor: Alfonso Wrld
 - 2026-11-17 16:53 — [Xbox control](https://www.facebook.com/marketplace/item/1130274739924215) — $1.000 — Nuevo — Los Mochis — Vendedor: Vinicio Serrano
 - 2026-11-17 16:52 — [Juegos de Ps4 y Ps5](https://www.facebook.com/marketplace/item/1690150825957998) — $350 — Usado - Como nuevo — Los Mochis — Vendedor: Karinn Taylor
