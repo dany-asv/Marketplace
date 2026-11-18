@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 50 anuncios disponibles.
+Total: 52 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -49,6 +49,7 @@ Total: 50 anuncios disponibles.
 - 2026-11-10 11:38 — [Control inalambrico para xbox one / series S X](https://www.facebook.com/marketplace/item/982711948242170) — $800 — Vendedor: Ana Julia Ahumada
 - 2026-11-11 02:38 — [Gamesir G8 Plus, control móvil, compatible con Android, IOS, Nintendo Switch, PC, Funda incluida.](https://www.facebook.com/marketplace/item/1181023214249098) — $900 — Vendedor: Pedro Hernandez
 - 2026-06-22 19:56 — [Controles hori split pad pro](https://www.facebook.com/marketplace/item/1773597353808712) — $900 — Vendedor: Bianey Alejandra Muñoz Herrera
+- 2026-11-17 16:53 — [Xbox control](https://www.facebook.com/marketplace/item/1130274739924215) — $1.000 — Vendedor: Vinicio Serrano
 - 2026-11-10 16:27 — [Volante para videojuegos](https://www.facebook.com/marketplace/item/1465493755011389) — $1.200 — Vendedor: Fer Laurean
 - 2026-10-15 17:30 — [Control Xbox pro](https://www.facebook.com/marketplace/item/2624830337945887) — $1.200 — Vendedor: Jesus Valenzuela
 - 2026-11-09 14:35 — [Control Xbox élite 2](https://www.facebook.com/marketplace/item/1450408693178284) — $1.600 — Vendedor: Rafael Aguilar
