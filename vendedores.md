@@ -3,15 +3,15 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - El nombre de cada vendedor es una liga a su perfil de Marketplace.
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
-Total: 967 vendedores, 1645 anuncios con vendedor identificado (1 anuncios de la lista no tienen vendedor identificado).
+Total: 968 vendedores, 1651 anuncios con vendedor identificado (1 anuncios de la lista no tienen vendedor identificado).
 ## Vendedores (de mayor a menor número de publicaciones)
 - [Antonio Lopez](https://www.facebook.com/marketplace/profile/100040731070103) — 41 publicaciones ✓
 - [Carlos Jiménez](https://www.facebook.com/marketplace/profile/100007976233056) — 31 publicaciones
 - [Iram A. Payan](https://www.facebook.com/marketplace/profile/628453454) — 24 publicaciones
 - [Sebastian Souza](https://www.facebook.com/marketplace/profile/100002607805317) — 22 publicaciones ✓
+- [Antoni Tony](https://www.facebook.com/marketplace/profile/61557491476801) — 22 publicaciones ✓
 - [Chappy Chappy](https://www.facebook.com/marketplace/profile/100026883520340) — 19 publicaciones ✓
 - [Nutrijugos LA Selva](https://www.facebook.com/marketplace/profile/100082976675996) — 18 publicaciones
-- [Antoni Tony](https://www.facebook.com/marketplace/profile/61557491476801) — 18 publicaciones ✓
 - [Ivan Lopez](https://www.facebook.com/marketplace/profile/100021428154020) — 16 publicaciones ✓
 - [Vicente Munguia](https://www.facebook.com/marketplace/profile/509548546) — 15 publicaciones ✓
 - [Carla Lopez](https://www.facebook.com/marketplace/profile/100009128428674) — 12 publicaciones
@@ -110,7 +110,7 @@ Total: 967 vendedores, 1645 anuncios con vendedor identificado (1 anuncios de la
 - [Jazmin Fuentes](https://www.facebook.com/marketplace/profile/61591816410848) — 3 publicaciones
 - [Javier Solano Limon](https://www.facebook.com/marketplace/profile/100001463067303) — 3 publicaciones
 - [Karinn Taylor](https://www.facebook.com/marketplace/profile/100000581718463) — 3 publicaciones
-- [Ricardo Beltrán](https://www.facebook.com/marketplace/profile/100036793715241) — 2 publicaciones ✓
+- [Ricardo Beltrán](https://www.facebook.com/marketplace/profile/100036793715241) — 3 publicaciones ✓
 - [Abel Galindo](https://www.facebook.com/marketplace/profile/61579144591707) — 2 publicaciones
 - [Abraham Peralta Sr.](https://www.facebook.com/marketplace/profile/61576342450778) — 2 publicaciones
 - [Adrian K-ztro](https://www.facebook.com/marketplace/profile/657367464) — 2 publicaciones
@@ -972,3 +972,4 @@ Total: 967 vendedores, 1645 anuncios con vendedor identificado (1 anuncios de la
 - [Isabella Dejesus](https://www.facebook.com/marketplace/profile/61595869487239) — 1 publicaciones
 - [Jassiel Laurean](https://www.facebook.com/marketplace/profile/100078922954579) — 1 publicaciones
 - [Vinicio Serrano](https://www.facebook.com/marketplace/profile/100002813848448) — 1 publicaciones
+- [Sebastian Armenta](https://www.facebook.com/marketplace/profile/100010382146014) — 1 publicaciones
