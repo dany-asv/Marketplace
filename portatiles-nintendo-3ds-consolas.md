@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 11 anuncios disponibles.
+Total: 12 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -17,6 +17,7 @@ Total: 11 anuncios disponibles.
 - 2026-07-03 18:10 — [3DS](https://www.facebook.com/marketplace/item/1616755913348464) — $2.500 — Vendedor: Luis López
 - 2026-11-10 07:40 — [Nintendo 3Ds Aqua Azul](https://www.facebook.com/marketplace/item/2192892814966499) — $2.800 — Vendedor: Akeem Espinoza
 - 2026-10-04 19:01 — [Old 3ds chipeada](https://www.facebook.com/marketplace/item/949429991086967) — $2.800 — Vendedor: David David
+- 2026-11-17 19:45 — [Nintendo 3DS XL](https://www.facebook.com/marketplace/item/1085150561235846) — $3.000 — Vendedor: Becker Gerardo
 - 2026-10-23 14:16 — [Nintendo 3DS 1ra edición](https://www.facebook.com/marketplace/item/1136186772688671) — $3.000 — Vendedor: Alejandro Alonso Aguilasocho
 - 2026-07-29 14:02 — [New Nintendo 3ds chipeada](https://www.facebook.com/marketplace/item/2826161461087736) — $3.000 — Vendedor: Jose Parra
 - 2026-11-10 18:53 — [3ds xl liberada ya con juegos descargados y viene con su cargador original, tiene detalles estéticos] (https://www.facebook.com/marketplace/item/2644437759337641) — $3.300 — Vendedor: Antonio Lopez
