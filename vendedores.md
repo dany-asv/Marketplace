@@ -3,7 +3,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - El nombre de cada vendedor es una liga a su perfil de Marketplace.
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
-Total: 969 vendedores, 1655 anuncios con vendedor identificado (1 anuncios de la lista no tienen vendedor identificado).
+Total: 971 vendedores, 1658 anuncios con vendedor identificado (1 anuncios de la lista no tienen vendedor identificado).
 ## Vendedores (de mayor a menor número de publicaciones)
 - [Antonio Lopez](https://www.facebook.com/marketplace/profile/100040731070103) — 41 publicaciones ✓
 - [Carlos Jiménez](https://www.facebook.com/marketplace/profile/100007976233056) — 31 publicaciones
@@ -239,6 +239,7 @@ Total: 969 vendedores, 1655 anuncios con vendedor identificado (1 anuncios de la
 - [Ramiro Ramirez](https://www.facebook.com/marketplace/profile/61579490158804) — 2 publicaciones
 - [Jezuz A Almaraz](https://www.facebook.com/marketplace/profile/61576925235412) — 2 publicaciones
 - [Alfonso Wrld](https://www.facebook.com/marketplace/profile/100040752772653) — 2 publicaciones
+- [Acosta Fierro](https://www.facebook.com/marketplace/profile/61594296872867) — 2 publicaciones
 - [Juan Pablo RW](https://www.facebook.com/marketplace/profile/100001666280211) — 1 publicaciones
 - [Enrique Talamante Irazoqui](https://www.facebook.com/marketplace/profile/783118002) — 1 publicaciones
 - [Lizeth Manzanarez](https://www.facebook.com/marketplace/profile/100011396976689) — 1 publicaciones
@@ -249,7 +250,6 @@ Total: 969 vendedores, 1655 anuncios con vendedor identificado (1 anuncios de la
 - [Abraham Berrelleza](https://www.facebook.com/marketplace/profile/61568481278454) — 1 publicaciones
 - [Abraham Chairez](https://www.facebook.com/marketplace/profile/100007517530947) — 1 publicaciones
 - [Abraham Noe](https://www.facebook.com/marketplace/profile/100081139292290) — 1 publicaciones
-- [Acosta Fierro](https://www.facebook.com/marketplace/profile/61594296872867) — 1 publicaciones
 - [Acosta Ramon](https://www.facebook.com/marketplace/profile/100071043593516) — 1 publicaciones
 - [Adan Uribe](https://www.facebook.com/marketplace/profile/61577965957464) — 1 publicaciones
 - [Adbiel Huiqui](https://www.facebook.com/marketplace/profile/100021200111499) — 1 publicaciones
@@ -974,3 +974,6 @@ Total: 969 vendedores, 1655 anuncios con vendedor identificado (1 anuncios de la
 - [Vinicio Serrano](https://www.facebook.com/marketplace/profile/100002813848448) — 1 publicaciones
 - [Sebastian Armenta](https://www.facebook.com/marketplace/profile/100010382146014) — 1 publicaciones
 - [Becker Gerardo](https://www.facebook.com/marketplace/profile/100046645655775) — 1 publicaciones
+
+- [Drake Castillo](https://www.facebook.com/marketplace/profile/61570351300226) — 1 publicaciones
+- [Pedro Perez](https://www.facebook.com/marketplace/profile/100006569404329) — 1 publicaciones

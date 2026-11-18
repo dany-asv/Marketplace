@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 1656 anuncios disponibles.
+Total: 1659 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -90,15 +90,15 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
     - [Juegos](8va-ps4-juegos.md) — 135 anuncios
     - [Accesorios](8va-ps4-accesorios.md) — 11 anuncios
   - Xbox One:
-    - [Consolas](8va-xbox-one-consolas.md) — 33 anuncios
+    - [Consolas](8va-xbox-one-consolas.md) — 34 anuncios
     - [Juegos](8va-xbox-one-juegos.md) — 4 anuncios
     - [Accesorios](8va-xbox-one-accesorios.md) — 4 anuncios
 - 9na generación:
   - Nintendo Switch:
     - Consolas:
-      - [OLED](9na-nintendo-switch-oled-consolas.md) — 129 anuncios
+      - [OLED](9na-nintendo-switch-oled-consolas.md) — 130 anuncios
       - [Lite](9na-nintendo-switch-lite-consolas.md) — 34 anuncios
-      - [Normal](9na-nintendo-switch-normal-consolas.md) — 131 anuncios
+      - [Normal](9na-nintendo-switch-normal-consolas.md) — 132 anuncios
       - [Customs](9na-nintendo-switch-customs-consolas.md) — 32 anuncios
     - [Juegos](9na-nintendo-switch-juegos.md) — 260 anuncios
     - [Accesorios](9na-nintendo-switch-accesorios.md) — 65 anuncios
@@ -120,6 +120,8 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - [Juegos](otros-juegos.md) — 182 anuncios
   - [Accesorios](otros-accesorios.md) — 52 anuncios
 ## Disponibles (de más actual a más viejo)
+- 2026-11-17 21:38 — [Nintendo Switch: 4 juegos, 3 controles e incluye Dock](https://www.facebook.com/marketplace/item/1416295277335449) — $5.500 — Usado - Buen estado — Los Mochis — Vendedor: Drake Castillo
+- 2026-11-17 21:23 — [Xbox One Fat 500gb](https://www.facebook.com/marketplace/item/1140656205015597) — $1.800 — Usado — Los Mochis — Vendedor: Acosta Fierro
 - 2026-11-17 19:45 — [Nintendo 3DS XL](https://www.facebook.com/marketplace/item/1085150561235846) — $3.000 — Usado - Como nuevo — Los Mochis — Vendedor: Becker Gerardo
 - 2026-11-17 18:08 — [Control de Xbox Game sir g7 se nuevo](https://www.facebook.com/marketplace/item/30113527374915963) — $900 — Nuevo — Los Mochis — Vendedor: Alfonso Wrld
 - 2026-11-17 16:53 — [Xbox control](https://www.facebook.com/marketplace/item/1130274739924215) — $1.000 — Nuevo — Los Mochis — Vendedor: Vinicio Serrano
@@ -137,6 +139,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-17 15:19 — [Juegos de Nintendo switch sin caja en 500 cada uno, el de sin carátula es el pokémon let's go evee](https://www.facebook.com/marketplace/item/1292669206359621) — $500 — Usado - Como nuevo — Los Mochis — vendedor en Whitelist de Daniel: Antoni Tony
 - 2026-11-17 14:52 — [Nintendo switch normal con 2 juegos, cuphead y Mario kart también trae todos sus accesorios original](https://www.facebook.com/marketplace/item/1685407260037214) — $2.700 — Usado - Como nuevo — Los Mochis — vendedor en Whitelist de Daniel: Antoni Tony
 - 2026-11-17 14:51 — [Nintendo switch oled con 1 juego que es el Mario party y sus accesorios originales todo funcionando](https://www.facebook.com/marketplace/item/1444607201178516) — $3.500 — Usado - Como nuevo — Los Mochis — vendedor en Whitelist de Daniel: Antoni Tony
+- 2026-11-17 14:49 — [Nintendo switch oled](https://www.facebook.com/marketplace/item/1852470852573420) — $3.900 — Usado — Los Mochis — Vendedor: Pedro Perez
 - 2026-11-17 13:24 — [Juegos PlayStation 4](https://www.facebook.com/marketplace/item/2303458527173215) — $1.500 — Nuevo — Los Mochis — Vendedor: Jorge Apodaca
 - 2026-11-17 13:17 — [CONTROL DE PLAYSTATION 5 NUEVO](https://www.facebook.com/marketplace/item/4526002204340081) — GRATIS — Nuevo — Los Mochis — Vendedor: Jezuz A Almaraz
 - 2026-11-17 12:41 — [Xbox series S](https://www.facebook.com/marketplace/item/1659736928896430) — $4.000 — Usado - Como nuevo — Los Mochis — Vendedor: Alejandro Cital Garcia
