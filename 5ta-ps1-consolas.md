@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 5 anuncios disponibles.
+Total: 6 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -15,3 +15,4 @@ Total: 5 anuncios disponibles.
 - 2026-09-17 20:06 — [PlayStation 1](https://www.facebook.com/marketplace/item/1948070155863354) — $400 — Vendedor: Wonk Walker
 - 2026-08-11 10:35 — [Ps1 fat sin detalles jalando al cien](https://www.facebook.com/marketplace/item/1969857373716309) — $888 — Vendedor: Chappy Chappy
 - 2026-11-13 16:38 — [PlayStation uno](https://www.facebook.com/marketplace/item/1640601887521994) — $999 — Vendedor: Chappy Chappy
+- 2026-08-30 13:47 — [Videojuegos Playstation mini](https://www.facebook.com/marketplace/item/1333891589804862) — $1.699 — Vendedor: Electronicajr Mochis

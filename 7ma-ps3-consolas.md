@@ -6,10 +6,11 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 9 anuncios disponibles.
+Total: 10 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
+- 2026-08-06 13:05 — [PlayStation 3 PS3](https://www.facebook.com/marketplace/item/1373729728069279) — GRATIS — Vendedor: Plays Hacks
 - 2026-07-02 09:31 — [ps3](https://www.facebook.com/marketplace/item/27545320798494459) — GRATIS — Vendedor: Marco Daniel
 - 2026-10-12 09:02 — [PS3slim para piezas 👾❌](https://www.facebook.com/marketplace/item/1865653891068444) — $300 — Vendedor: Silver Slv
 - 2026-06-12 18:21 — [PS3 chipeado con hen, con juegos descargados y viene con una tienda para descargar juegos gratis](https://www.facebook.com/marketplace/item/1056052597080841) — $1.200 — Vendedor: Antonio Lopez

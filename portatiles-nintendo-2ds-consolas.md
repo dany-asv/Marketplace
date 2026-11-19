@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 5 anuncios disponibles.
+Total: 6 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -15,3 +15,4 @@ Total: 5 anuncios disponibles.
 - 2026-06-30 22:46 — [Nintendo 2 Ds hackeada](https://www.facebook.com/marketplace/item/1004863818990361) — $2.200 — Vendedor: Apodaca Karla Marisol
 - 2026-06-06 21:57 — [Nintendo 2ds  Hackeada juegos ya instalados](https://www.facebook.com/marketplace/item/2473654403142998) — $2.200 — Vendedor: Apodaca Karla Marisol
 - 2026-05-09 21:16 — [Nintendo 2DS + Catálogo Increíble (Liberada) 🎮✨](https://www.facebook.com/marketplace/item/1494080025500832) — $2.600 — Vendedor: Aleks Figueroa
+- 2026-11-18 19:22 — [New nintendo 2DS XL](https://www.facebook.com/marketplace/item/1478578421123775) — $4.500 — Vendedor: Vanessa Armenta Almeida

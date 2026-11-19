@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 135 anuncios disponibles.
+Total: 137 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -102,6 +102,7 @@ Total: 135 anuncios disponibles.
 - 2026-01-30 15:35 — [Juegos PS4 $](https://www.facebook.com/marketplace/item/1608569350276173) — $300 — Vendedor: Dosc Sc
 - 2026-01-06 13:56 — [Vendo INJUSTICE 2](https://www.facebook.com/marketplace/item/1427416099010088) — $315 — Vendedor: Luis Higuera
 - 2026-07-27 15:32 — [Discos ps4](https://www.facebook.com/marketplace/item/2026368941582435) — $333 — Vendedor: Ivan Lopez
+- 2026-11-17 14:42 — [GTA 5 PS4](https://www.facebook.com/marketplace/item/2940529192988139) — $350 — Vendedor: Ulises Valenzuela Ochoa
 - 2026-10-15 21:29 — [Juegos Ps4](https://www.facebook.com/marketplace/item/2165243631035916) — $350 — Vendedor: Ulises Valenzuela Ochoa
 - 2026-10-10 10:45 — [Spiderman Miles Morales PS4](https://www.facebook.com/marketplace/item/1918874599093253) — $350 — Vendedor: Bosthon R. Vázquez
 - 2026-09-15 09:26 — [Juego de play 4   CTR Crash Team Racing Nitro Fueled](https://www.facebook.com/marketplace/item/1392548875800951) — $350 — Vendedor: Alma Gonzalez
@@ -118,6 +119,7 @@ Total: 135 anuncios disponibles.
 - 2026-02-01 09:04 — [Juegos PS4 en caja](https://www.facebook.com/marketplace/item/1615722469471502) — $400 — Vendedor: Oswaldo Orduño
 - 2026-08-02 15:16 — [Coleccion Resident](https://www.facebook.com/marketplace/item/1360612665533261) — $450 — Vendedor: Ulises Valenzuela Ochoa
 - 2025-12-16 15:10 — [Lost judgement (tipo Yakuza) para Playstation 4](https://www.facebook.com/marketplace/item/1165194862351826) — $450 — Vendedor: Orlando Alfredo Souza
+- 2026-10-11 14:16 — [Juegos para PS4](https://www.facebook.com/marketplace/item/1411821580498363) — $500 — Vendedor: Alex Elias
 - 2026-09-20 13:25 — [Juegos de ps4](https://www.facebook.com/marketplace/item/1530161702471381) — $500 — Vendedor: Diego Moreno
 - 2026-07-18 23:50 — [SPIDER-MAN PS4 Y RESIDENT EVIL BIOHAZRD PS4](https://www.facebook.com/marketplace/item/1035111252229342) — $500
 - 2026-07-14 23:50 — [REMATE JUEGOS BARATOS PS4](https://www.facebook.com/marketplace/item/2426244804455776) — $500 — Vendedor: Gael Rodríguez
