@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 8 anuncios disponibles.
+Total: 7 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -16,5 +16,4 @@ Total: 8 anuncios disponibles.
 - 2026-11-11 11:38 — [Nintendo dsi](https://www.facebook.com/marketplace/item/2288499815348914) — $700 — Vendedor: Paola Vázquez
 - 2026-07-03 22:11 — [Nintendo ds i con cargador y 1 juego físico, solo detalles estéticos y l y r no funcionan](https://www.facebook.com/marketplace/item/986011240729454) — $900 — Vendedor: Serrano Guadalupe
 - 2026-09-30 20:06 — [Consola DS Lite](https://www.facebook.com/marketplace/item/1372393049285409) — $1.300 — Vendedor: Gomez Gamboa
-- 2026-10-18 21:33 — [nintendo Ds-lite](https://www.facebook.com/marketplace/item/2601910576967457) — $1.350 — Vendedor: Toys Tools
 - 2026-08-04 00:06 — [Nintendo DS Lite Buen Estado](https://www.facebook.com/marketplace/item/1063532446368481) — $2.000 — Vendedor: Mikky Sep

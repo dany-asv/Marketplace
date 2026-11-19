@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 135 anuncios disponibles.
+Total: 132 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -18,7 +18,6 @@ Total: 135 anuncios disponibles.
 - 2026-04-04 08:43 — [Nintendo Switch](https://www.facebook.com/marketplace/item/2124904208274910) — $1 — Vendedor: Mariel Lopez Iribe
 - 2026-11-08 12:14 — [Nintendo switch](https://www.facebook.com/marketplace/item/29432954193007098) — $4 — Vendedor: Armando López
 - 2026-03-23 12:59 — [Nintendo switch](https://www.facebook.com/marketplace/item/1272844564983794) — $5 — Vendedor: Stephanie Salas
-- 2026-11-08 19:42 — [Switch](https://www.facebook.com/marketplace/item/4801133286797563) — $25 — Vendedor: Juan Aceves
 - 2026-03-28 23:25 — [Nintendo switch](https://www.facebook.com/marketplace/item/1012182744570812) — $35 — Vendedor: Jorge Ramos
 - 2026-02-10 21:47 — [Nintendo switch](https://www.facebook.com/marketplace/item/1440054061128241) — $200 — Vendedor: Eduardo Zazueta
 - 2026-09-11 13:41 — [Nintendo switch](https://www.facebook.com/marketplace/item/1083502440934361) — $400 — Vendedor: Bryan Alexis Soto Villela
@@ -34,14 +33,12 @@ Total: 135 anuncios disponibles.
 - 2026-10-17 12:18 — [Nintendo switch](https://www.facebook.com/marketplace/item/1844710606692153) — $2.200 — Vendedor: Empeña Facil Canteras
 - 2026-08-24 13:01 — [Nintendo switc](https://www.facebook.com/marketplace/item/1860533582523040) — $2.200 — Vendedor: KGeovanna Ante
 - 2026-05-11 23:48 — [Nintendo Switch](https://www.facebook.com/marketplace/item/1970031997211288) — $2.400 — Vendedor: Santiago Ruiz
-- 2026-11-16 20:52 — [Nintendo switch](https://www.facebook.com/marketplace/item/1914086546683818) — $2.500 — Vendedor: Enrique Talamante Irazoqui
 - 2026-09-19 10:04 — [🎮 Nintendo Switch](https://www.facebook.com/marketplace/item/1113693594348024) — $2.500 — Vendedor: Walter Lopez
 - 2026-08-23 11:59 — [Nintendo Switch](https://www.facebook.com/marketplace/item/2054582121931555) — $2.500 — Vendedor: Jorge Kevin Contreras
 - 2026-07-12 15:42 — [Nintendo switch](https://www.facebook.com/marketplace/item/1444467884185413) — $2.500 — Vendedor: Joaquin L Beltran
 - 2026-07-06 14:17 — [Nintendo SWITCH](https://www.facebook.com/marketplace/item/1314242077492479) — $2.500 — Vendedor: Paul de la Herrán
 - 2026-06-30 17:21 — [Nintendo switch con sus accesorios y estuche](https://www.facebook.com/marketplace/item/1343294977157166) — $2.500 — Vendedor: Antoni Tony
 - 2026-10-30 10:08 — [Nintendo switch](https://www.facebook.com/marketplace/item/4408432062743524) — $2.520 — Vendedor: Martha Igareda
-- 2026-10-29 17:44 — [Intento switch](https://www.facebook.com/marketplace/item/1658454512380452) — $2.600 — Vendedor: Junior Lamphar
 - 2026-11-17 14:52 — [Nintendo switch normal con 2 juegos, cuphead y Mario kart también trae todos sus accesorios original](https://www.facebook.com/marketplace/item/1685407260037214) — $2.700 — Vendedor: Antoni Tony
 - 2026-11-11 14:26 — [Nintendo switch en caja con todos sus accesorios originales y una memoria de 32gb de regalo] (https://www.facebook.com/marketplace/item/3037789636559624) — $2.700 — Vendedor: Antonio Lopez
 - 2026-10-20 19:35 — [Nintendo switch](https://www.facebook.com/marketplace/item/978817785304236) — $2.700 — Vendedor: David Cañedo
@@ -49,7 +46,6 @@ Total: 135 anuncios disponibles.
 - 2026-06-29 22:45 — [Nintendo switch con todos sus accesorios](https://www.facebook.com/marketplace/item/2514538425684497) — $2.700 — Vendedor: Antonio Lopez
 - 2026-11-11 10:49 — [Vendo Nintendo Switch (detalles por uso)](https://www.facebook.com/marketplace/item/1595279695620271) — $2.800 — Vendedor: Luis Quintero Villegas
 - 2026-11-06 12:46 — [NINTENDO SWITCH](https://www.facebook.com/marketplace/item/1172179005378802) — $2.800 — Vendedor: Eduardo Lamphar Jr.
-- 2026-09-04 10:58 — [Nintendo switch 2da generación](https://www.facebook.com/marketplace/item/2601553623592299) — $2.800 — Vendedor: Empeña Facil Pedro Anaya
 - 2026-08-23 18:53 — [Nintendo switch](https://www.facebook.com/marketplace/item/937368092068367) — $2.800
 - 2026-08-26 12:43 — [Nintendo switch 01 32 GB con doc, HDMI, correas, cargador y joycon grip](https://www.facebook.com/marketplace/item/1390020969773794) — $2.900 — Vendedor: Antonio Padilla
 - 2026-08-04 15:58 — [Nintendo Switch](https://www.facebook.com/marketplace/item/1670143517421493) — $2.950 — Vendedor: Angel Zuñiga
@@ -61,6 +57,7 @@ Total: 135 anuncios disponibles.
 - 2026-06-25 17:16 — [Nintendo switch](https://www.facebook.com/marketplace/item/4544751325801204) — $3.100 — Vendedor: Valentina Zambrano
 - 2026-01-20 10:40 — [Nintendo Swich con 12 juegos en la consola](https://www.facebook.com/marketplace/item/1561744211597403) — $3.100 — Vendedor: Karla Yisel Chavira
 - 2026-08-20 10:50 — [Nintendo switch](https://www.facebook.com/marketplace/item/1824204142287147) — $3.199 — Vendedor: Empeña Facil Jiquilpan
+- 2026-11-18 20:08 — [Nintendo Switch](https://www.facebook.com/marketplace/item/1016467798164730) — $3.200 — Vendedor: Alexis Beltrán
 - 2026-06-05 18:07 — [Nintendo switch todos sus accesorios originales  1 control extra, memoria 128 gb, y un juego](https://www.facebook.com/marketplace/item/1477054440284812) — $3.200 — Vendedor: Fernanda EH
 - 2026-04-24 13:05 — [Nintendo Switch](https://www.facebook.com/marketplace/item/2573407016388059) — $3.250 — Vendedor: Angel Navarrete
 - 2026-05-18 13:02 — [Nintendo switch](https://www.facebook.com/marketplace/item/1453866656048683) — $3.400 — Vendedor: Luis Adrian Verdugo

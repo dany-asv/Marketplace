@@ -69,6 +69,7 @@ Total: 195 anuncios disponibles.
 - 2026-10-16 10:40 — [Vendo discos de juego God of Wars,FIFA 18, FC23,the last of us 250c/u](https://www.facebook.com/marketplace/item/1661986658794511) — $250 — Vendedor: Felic Berrelleza
 - 2026-08-19 15:21 — [FIFA 23](https://www.facebook.com/marketplace/item/2087656532123331) — $250 — Vendedor: Ulises Valenzuela Ochoa
 - 2026-08-17 14:25 — [Video juegos el precio es por  pieza](https://www.facebook.com/marketplace/item/27922304210731601) — $250 — Vendedor: Julio Cesar Ibarra Rodríguez
+- 2026-07-22 10:23 — [juegos Xbox en disco](https://www.facebook.com/marketplace/item/1333173395163018) — $250 — Vendedor: Leonardo Arredondo
 - 2026-06-11 08:57 — [Rainbow six siege](https://www.facebook.com/marketplace/item/1985771682070748) — $250 — Vendedor: Cesar Gamez Cruz
 - 2024-12-07 19:33 — [Assassin crid](https://www.facebook.com/marketplace/item/1113036633788571) — $250 — Vendedor: Aldo Ceballos Cubedo
 - 2024-12-07 19:29 — [Juego horizon](https://www.facebook.com/marketplace/item/3971873476468264) — $250 — Vendedor: Aldo Ceballos Cubedo
@@ -190,7 +191,6 @@ Total: 195 anuncios disponibles.
 - 2026-09-26 10:53 — [Pokémon black](https://www.facebook.com/marketplace/item/1633000018621871) — $2.000 — Vendedor: Alan Inzunza
 - 2026-09-17 22:44 — [Juegos para ps4 y ps5](https://www.facebook.com/marketplace/item/2214007749525805) — $2.100 — Vendedor: Movil Brillo
 - 2026-11-05 20:07 — [The legend of Zelda ocarina of time](https://www.facebook.com/marketplace/item/2232672043957860) — $2.500 — Vendedor: Chrono Trigger
-- 2026-10-31 10:55 — [Videojuego Arcade](https://www.facebook.com/marketplace/item/1827245588283533) — $2.500 — Vendedor: Adiel Tamayo Beltran
 - 2026-09-08 20:01 — [Video juego](https://www.facebook.com/marketplace/item/1056326770336017) — $3.000 — Vendedor: Julián Cadena
 - 2026-09-18 18:58 — [Juegos](https://www.facebook.com/marketplace/item/1517373977088273) — $3.500 — Vendedor: Elvira Palazuelos
 - 2026-06-08 00:10 — [Nintendo swich oled blanca con mortal kombat 1 todos los dlc y tomodachi life](https://www.facebook.com/marketplace/item/27586306701008854) — $4.000 — Vendedor: Yoshi Matt

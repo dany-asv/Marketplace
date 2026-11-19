@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 72 anuncios disponibles.
+Total: 70 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -14,7 +14,6 @@ Total: 72 anuncios disponibles.
 - 2026-02-23 13:37 — [Control para Switch](https://www.facebook.com/marketplace/item/1130578819101816) — GRATIS — Vendedor: Maria Herrera
 - 2025-05-17 00:40 — [Estuche de Nintendo](https://www.facebook.com/marketplace/item/696382659444016) — GRATIS — Vendedor: Tiny Gastelum
 - 2026-04-05 15:37 — [Se vende Dock de nintendo Switch OLED y Mario Party superstars](https://www.facebook.com/marketplace/item/2696903357354176) — $1 — Vendedor: Carla Lopez
-- 2026-11-03 20:55 — [Joycons](https://www.facebook.com/marketplace/item/2352601045481070) — $5 — Vendedor: Juan Aceves
 - 2026-07-08 21:40 — [Accesorios para Nintendo switch](https://www.facebook.com/marketplace/item/1344661641154844) — $9 — Vendedor: Alma Valdez
 - 2026-07-04 05:53 — [Par de gomas para JoyCon](https://www.facebook.com/marketplace/item/1360612995998081) — $50 — Vendedor: Daniel Arturo Salinas Verduzco
 - 2026-07-04 05:53 — [Par de tapas de repuesto para palanca de JoyCon](https://www.facebook.com/marketplace/item/1006873118863907) — $50 — Vendedor: Daniel Arturo Salinas Verduzco
@@ -23,7 +22,6 @@ Total: 72 anuncios disponibles.
 - 2026-08-05 17:59 — [Dock blanco para nintendo switch](https://www.facebook.com/marketplace/item/1443267880945157) — $111 — Vendedor: Chappy Chappy
 - 2026-08-02 11:28 — [Dock para Nintendo](https://www.facebook.com/marketplace/item/2088648235192630) — $111 — Vendedor: Ivan Lopez
 - 2026-07-27 15:36 — [Accesorios para cargar Nintendo switch](https://www.facebook.com/marketplace/item/1049915067433242) — $111 — Vendedor: Ivan Lopez
-- 2026-11-15 13:13 — [Control para switch alámbrico](https://www.facebook.com/marketplace/item/4497239673862179) — $150 — Vendedor: Rafael Aguilar
 - 2026-08-20 11:42 — [Par de correas para joycons/controles nintendo Switch - Joycons](https://www.facebook.com/marketplace/item/1610268643846929) — $150 — Vendedor: Roberto Vega
 - 2026-10-23 20:09 — [Funda para Nintendo Switch Lite](https://www.facebook.com/marketplace/item/996232606852477) — $200 — Vendedor: Jose Zuniga
 - 2026-08-28 18:16 — [Control de nintento](https://www.facebook.com/marketplace/item/2533099033779714) — $200 — Vendedor: Elvira Palazuelos

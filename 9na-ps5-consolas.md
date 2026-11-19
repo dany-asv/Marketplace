@@ -23,7 +23,7 @@ Total: 18 anuncios disponibles.
 - 2026-09-28 20:44 — [PlayStation 5 slim + FC26](https://www.facebook.com/marketplace/item/2228000091101823) — $7.600 — Vendedor: Julio Castro
 - 2026-10-09 14:23 — [PlayStation 5 + Juego + base de carga](https://www.facebook.com/marketplace/item/1570437731521786) — $8.000 — Vendedor: Julio Castro
 - 2026-06-21 23:06 — [Ps5 salimos digital y discp](https://www.facebook.com/marketplace/item/1535600208167358) — $8.000 — Vendedor: Abraham Peralta Sr.
-- 2026-11-16 16:09 — [Ps5 slim en caja](https://www.facebook.com/marketplace/item/1160428669661216) — $9.500 — Vendedor: Helen Lopezgax
+- 2026-11-18 19:57 — [Playstation 5](https://www.facebook.com/marketplace/item/1141110318316005) — $8.500 — Vendedor: Josue Iras
 - 2026-11-11 06:35 — [Ps5 pro 4tb SSD](https://www.facebook.com/marketplace/item/2353400685405589) — $14.000 — Vendedor: Jose Nava
 - 2026-11-16 16:10 — [Ps5 slim edición 30 aniversario](https://www.facebook.com/marketplace/item/2032969994063475) — $16.000 — Vendedor: Helen Lopezgax
 - 2026-11-13 19:38 — [Ps5 pro con lectora de discos 2 teras](https://www.facebook.com/marketplace/item/2676071876155360) — $19.000 — Vendedor: Luis Enrique

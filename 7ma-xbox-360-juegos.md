@@ -6,11 +6,12 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 12 anuncios disponibles.
+Total: 13 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
 - 2026-11-13 10:51 — [JUEGOS DE XBOX360](https://www.facebook.com/marketplace/item/28239644215712487) — $38 — Vendedor: Ryu Hayabusa
+- 2026-07-29 13:23 — [Juegos para Xbox 360 original de 50 y 100 c/u](https://www.facebook.com/marketplace/item/4401802750136699) — $50 — Vendedor: Stargames Valenzuela
 - 2026-07-14 11:05 — [Juegos Xbox 360 OFERTA ESPECIAL](https://www.facebook.com/marketplace/item/980731861632568) — $70 — Vendedor: Dey GE
 - 2026-10-08 12:04 — [JUEGOS XBOX 360](https://www.facebook.com/marketplace/item/28766057249657692) — $150 — Vendedor: Luis Carlos Ayala Miranda
 - 2026-10-09 17:02 — [Videojuegos para Xbox 360 recién pulidos y calados](https://www.facebook.com/marketplace/item/2280767365799605) — $200 — Vendedor: Stargames Valenzuela

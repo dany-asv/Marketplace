@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 121 anuncios disponibles.
+Total: 119 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -46,7 +46,6 @@ Total: 121 anuncios disponibles.
 - 2026-11-04 10:31 — [Play 4 Slim](https://www.facebook.com/marketplace/item/2770559736674717) — $2.100 — Vendedor: Karen Muñoz
 - 2026-10-27 09:31 — [Ps4](https://www.facebook.com/marketplace/item/1786988685889597) — $2.100 — Vendedor: Luis Rey
 - 2026-03-18 20:46 — [Consola de videos juegos](https://www.facebook.com/marketplace/item/903801625978587) — $2.100 — Vendedor: Rosario Guadalupe
-- 2026-10-19 11:31 — [Playstation 4 funcionando bien con todos sus cables y 1 control](https://www.facebook.com/marketplace/item/1489781589675658) — $2.200 — Vendedor: Abraham Noe
 - 2026-05-05 07:25 — [Play 4](https://www.facebook.com/marketplace/item/891132253979105) — $2.200 — Vendedor: Fernando Medina
 - 2026-09-11 20:13 — [Play station 4 1tb](https://www.facebook.com/marketplace/item/28857256590544861) — $2.300 — Vendedor: Daniel Álvarez
 - 2026-04-17 23:01 — [Ps4 Slim sin caja  Dos controles](https://www.facebook.com/marketplace/item/2129437944573215) — $2.300 — Vendedor: Josue RV
@@ -76,7 +75,6 @@ Total: 121 anuncios disponibles.
 - 2026-10-21 19:49 — [💥Playstation 4 💥incluye 1 juego](https://www.facebook.com/marketplace/item/1111055978073747) — $2.700 — Vendedor: Pau Bojorquez
 - 2026-10-14 02:45 — [Ps4 pro versión 13.50 con 1 control y todos sus cables el control es genérico pero funciona](https://www.facebook.com/marketplace/item/2211133333137186) — $2.750 — Vendedor: Antoni Tony
 - 2026-11-13 16:18 — [Ps4](https://www.facebook.com/marketplace/item/1665700791867854) — $2.800 — Vendedor: Orlando Montes
-- 2026-11-06 17:15 — [PS4 Fat Magica 1TB c/Mantenimiento| GARANTIA/CAMBIOS](https://www.facebook.com/marketplace/item/1991473858195387) — $2.800 — Vendedor: Carlos Carlon
 - 2026-10-09 22:08 — [play station 4 y juegos](https://www.facebook.com/marketplace/item/2234054757166393) — $2.800 — Vendedor: Amy Perez
 - 2026-08-10 15:18 — [Ps4](https://www.facebook.com/marketplace/item/1875729600499668) — $2.800 — Vendedor: Ernesto Fontes
 - 2026-02-27 10:41 — [Ps4 pro](https://www.facebook.com/marketplace/item/1249279214013686) — $2.800 — Vendedor: Cinthya Olguin

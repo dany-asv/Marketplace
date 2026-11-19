@@ -6,10 +6,11 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 14 anuncios disponibles.
+Total: 15 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
+- 2026-09-08 12:53 — [Play 2](https://www.facebook.com/marketplace/item/2161018164476814) — GRATIS — Vendedor: Celeste Vargas Tigres
 - 2026-07-02 09:32 — [PS2](https://www.facebook.com/marketplace/item/2918471068487113) — GRATIS — Vendedor: Marco Daniel
 - 2025-10-26 16:03 — [Play 2 (completo)](https://www.facebook.com/marketplace/item/1490849821965535) — GRATIS — Vendedor: Antonio Rodriguez
 - 2026-09-11 11:45 — [Play2](https://www.facebook.com/marketplace/item/1101424196157168) — $150 — Vendedor: Fer Miranda

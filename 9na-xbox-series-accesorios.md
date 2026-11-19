@@ -13,12 +13,12 @@ Total: 11 anuncios disponibles.
 
 - 2026-11-16 21:32 — [Control Xbox Series](https://www.facebook.com/marketplace/item/1122494990663916) — $123 — Vendedor: Emi CM
 - 2026-11-15 18:41 — [Control Xbox series](https://www.facebook.com/marketplace/item/1665819924982070) — $123 — Vendedor: Emi CM
+- 2026-07-24 10:39 — [Soportes Xbox Series S](https://www.facebook.com/marketplace/item/1351576779939325) — $200 — Vendedor: Diego A. Beytia
 - 2026-11-14 20:41 — [Vendo par de baterías recargables para control de Xbox series](https://www.facebook.com/marketplace/item/1161649783060637) — $300 — Vendedor: Pery Lopez
 - 2026-11-10 22:27 — [control Xbox series](https://www.facebook.com/marketplace/item/2377234826368066) — $450 — Vendedor: Alfonso Wrld
 - 2026-11-17 04:40 — [control xbox series x/s](https://www.facebook.com/marketplace/item/1689293406155020) — $650 — Vendedor: Marco Antonio Araya Lara
 - 2026-10-16 01:47 — [Control Xbox Series | GARANTÍA/CAMBIOS](https://www.facebook.com/marketplace/item/1599180251170381) — $700 — Vendedor: Carlos Carlon
 - 2026-11-17 18:08 — [Control de Xbox Game sir g7 se nuevo](https://www.facebook.com/marketplace/item/30113527374915963) — $900 — Vendedor: Alfonso Wrld
 - 2026-11-14 16:47 — [Control Xbox Series nuevo sellado](https://www.facebook.com/marketplace/item/2268620670747108) — $1.000 — Vendedor: Santiago Garcia
-- 2026-11-14 13:17 — [SELLADO CONTROL XBOX SERIES X/S](https://www.facebook.com/marketplace/item/2233537370851643) — $1.000 — Vendedor: Diego Valdez
 - 2026-11-13 19:13 — [CONTROLES XBOX SERIES S/X](https://www.facebook.com/marketplace/item/2124136108469490) — $1.299 — Vendedor: Jesus Valdez
 - 2026-11-15 16:09 — [Control Gamesir g7 pro edición zzz inalambrico para xbox pc y Android](https://www.facebook.com/marketplace/item/1674878364260279) — $2.200 — Vendedor: Victor Almaraz

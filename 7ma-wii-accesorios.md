@@ -6,10 +6,11 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 7 anuncios disponibles.
+Total: 8 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
+- 2026-08-31 21:52 — [Memoria usb para Nintendo wii](https://www.facebook.com/marketplace/item/1790605145702119) — GRATIS — Vendedor: Plays Hacks
 - 2026-08-27 08:09 — [Wii Fuente de poder original](https://www.facebook.com/marketplace/item/1541368583979099) — $100 — Vendedor: Sergio Castro Félix
 - 2026-08-25 07:25 — [Bat y Raquetas para Wii](https://www.facebook.com/marketplace/item/2895362347493881) — $100 — Vendedor: Sergio Castro Félix
 - 2026-07-27 15:32 — [Goma protector para Wii](https://www.facebook.com/marketplace/item/1036877165825149) — $100 — Vendedor: Ivan Lopez

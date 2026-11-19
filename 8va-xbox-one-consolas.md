@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 51 anuncios disponibles.
+Total: 53 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -55,9 +55,11 @@ Total: 51 anuncios disponibles.
 - 2026-11-17 16:18 — [venta de xbox one s](https://www.facebook.com/marketplace/item/1093752776998535) — $3.500 — Vendedor: Isa Gill
 - 2026-11-13 11:34 — [venta de xbox one s](https://www.facebook.com/marketplace/item/1612454666665925) — $3.500 — Vendedor: Isa Gill
 - 2026-08-11 17:17 — [Vendo Xbox one en buen estado tiene video de la entrada tiene dos controles cable hdmi.](https://www.facebook.com/marketplace/item/2265418454218318) — $3.500 — Vendedor: Guzman Yunnuel
+- 2026-11-18 16:06 — [Xbox One s](https://www.facebook.com/marketplace/item/1491375069533168) — $3.700 — Vendedor: Chikis Valencia
 - 2026-11-18 16:06 — [Xbox one S (con drift En la palanca izquierda)](https://www.facebook.com/marketplace/item/2972170173182634) — $3.700 — Vendedor: Chikis Valencia
 - 2026-11-18 16:06 — [Xbox one s](https://www.facebook.com/marketplace/item/1117284007784710) — $3.700 — Vendedor: Chikis Valencia
 - 2026-11-18 16:06 — [Xbox one s](https://www.facebook.com/marketplace/item/1682699633198787) — $3.700 — Vendedor: Chikis Valencia
 - 2026-08-02 22:51 — [Xbox One Series S Con 5 Juegos físicos  (Con La drift en la Palanca Izquierda(](https://www.facebook.com/marketplace/item/1387256196711316) — $3.700 — Vendedor: Chikis Valencia
 - 2026-11-09 22:51 — [Xbox One con accesorios con cuenta de game pass por un año](https://www.facebook.com/marketplace/item/2710384966085234) — $5.500 — Vendedor: Daniel Ricardo Meza Soto
 - 2026-11-18 10:29 — [Xbox one con gta en físico](https://www.facebook.com/marketplace/item/1962029201442473) — $9.999 — Vendedor: Chappy Chappy
+- 2026-11-18 20:24 — [Videojuego Xbox- One](https://www.facebook.com/marketplace/item/1500109238684039) — $999.999 — Vendedor: Jesus Daniel Valenzuela
