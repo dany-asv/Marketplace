@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 195 anuncios disponibles.
+Total: 197 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -31,7 +31,7 @@ Total: 195 anuncios disponibles.
 - 2026-05-01 16:05 — [Juegos ps4-ps5](https://www.facebook.com/marketplace/item/961200043061215) — $1 — Vendedor: Felix Guadalupe
 - 2026-03-16 21:46 — [Juegos](https://www.facebook.com/marketplace/item/1249308707164012) — $1 — Vendedor: Luis Ricardo Peraza
 - 2026-02-01 18:15 — [Juegos de Nintendo](https://www.facebook.com/marketplace/item/853742464199575) — $1 — Vendedor: Alma Renteria Acosta
-- 2026-01-15 23:49 — [Discos de juego Pley 3 Uno de pley 50 pesos cada 1 al que venga por el  BATMAN y WOLFENSTEIN VENDIDO](https://www.facebook.com/marketplace/item/1813741709587226) — $50 — Vendedor: Aaron Guzman
+- 2026-01-15 23:49 — [Discos de juego Pley 3 Uno de pley 50 pesos cada 1 al que venga por el BATMAN y WOLFENSTEIN VENDIDO](https://www.facebook.com/marketplace/item/1813741709587226) — $50 — Vendedor: Aaron Guzman
 - 2026-08-03 09:09 — [Juegos Xbox](https://www.facebook.com/marketplace/item/928215276367720) — $99 — Vendedor: Carlos Hernandez
 - 2026-11-15 10:47 — [Madden 20 xbox one y series s/x](https://www.facebook.com/marketplace/item/2197299967882415) — $100 — Vendedor: Ernesto Ayala Piña
 - 2026-09-20 16:51 — [Juegos Xbox y Nintendo switch](https://www.facebook.com/marketplace/item/1386611049770510) — $100 — Vendedor: Eduardo Garduño Bojorquez
@@ -42,6 +42,7 @@ Total: 195 anuncios disponibles.
 - 2026-04-20 09:07 — [Video juegos](https://www.facebook.com/marketplace/item/929714203165807) — $100 — Vendedor: Luiz Castro Quiñones
 - 2026-09-16 10:07 — [Juego Nintendo 3ds manual, juego de Xbox one y PS3](https://www.facebook.com/marketplace/item/1571863904394106) — $111 — Vendedor: José Miguel
 - 2026-09-09 16:03 — [Juego Mario](https://www.facebook.com/marketplace/item/1048291228029638) — $111 — Vendedor: Poka Luz
+- 2026-07-27 15:32 — [Juegos para xbox baratos](https://www.facebook.com/marketplace/item/1417975456840122) — $111 — Vendedor: Ivan Lopez
 - 2026-07-27 15:32 — [Juegos diferentes precios](https://www.facebook.com/marketplace/item/1085349680819048) — $111 — Vendedor: Ivan Lopez
 - 2026-07-27 15:32 — [Juegos para Playstation baratos](https://www.facebook.com/marketplace/item/1883767236342701) — $111 — Vendedor: Ivan Lopez
 - 2026-07-27 15:32 — [Juegos para Nintendo 3ds y ds](https://www.facebook.com/marketplace/item/1005436722321581) — $111 — Vendedor: Ivan Lopez
@@ -68,7 +69,7 @@ Total: 195 anuncios disponibles.
 - 2026-11-10 21:04 — [Juegos para XBOX](https://www.facebook.com/marketplace/item/28894008290225612) — $250 — Vendedor: Awa De Horchata
 - 2026-10-16 10:40 — [Vendo discos de juego God of Wars,FIFA 18, FC23,the last of us 250c/u](https://www.facebook.com/marketplace/item/1661986658794511) — $250 — Vendedor: Felic Berrelleza
 - 2026-08-19 15:21 — [FIFA 23](https://www.facebook.com/marketplace/item/2087656532123331) — $250 — Vendedor: Ulises Valenzuela Ochoa
-- 2026-08-17 14:25 — [Video juegos el precio es por  pieza](https://www.facebook.com/marketplace/item/27922304210731601) — $250 — Vendedor: Julio Cesar Ibarra Rodríguez
+- 2026-08-17 14:25 — [Video juegos el precio es por pieza](https://www.facebook.com/marketplace/item/27922304210731601) — $250 — Vendedor: Julio Cesar Ibarra Rodríguez
 - 2026-07-22 10:23 — [juegos Xbox en disco](https://www.facebook.com/marketplace/item/1333173395163018) — $250 — Vendedor: Leonardo Arredondo
 - 2026-06-11 08:57 — [Rainbow six siege](https://www.facebook.com/marketplace/item/1985771682070748) — $250 — Vendedor: Cesar Gamez Cruz
 - 2024-12-07 19:33 — [Assassin crid](https://www.facebook.com/marketplace/item/1113036633788571) — $250 — Vendedor: Aldo Ceballos Cubedo
@@ -137,12 +138,12 @@ Total: 195 anuncios disponibles.
 - 2026-08-05 22:38 — [Minecraft edicion Mario Bros Nintendo Switch Nuevo sellado compatible Switch 2](https://www.facebook.com/marketplace/item/1692369952062867) — $599 — Vendedor: Vicente Munguia
 - 2026-06-08 21:23 — [Juegos Ps4-Ps5](https://www.facebook.com/marketplace/item/3061640007364823) — $599 — Vendedor: Maria CL
 - 2026-11-18 09:37 — [Videojuegos nintendo Switch play y wii](https://www.facebook.com/marketplace/item/1666511391778822) — $600 — Vendedor: Rafaela Gastelo Torres
+- 2026-11-17 09:01 — [Zombies ate my neighbors](https://www.facebook.com/marketplace/item/4792973204264727) — $600 — Vendedor: Sebastián Nozato
 - 2026-11-15 13:30 — [Videojuegos nintendo Switch play y wii](https://www.facebook.com/marketplace/item/1039832102455774) — $600 — Vendedor: Rafaela Gastelo Torres
 - 2026-11-08 14:32 — [Videojuegos 🎮 PS5 y Nintendo switch](https://www.facebook.com/marketplace/item/1678842957089134) — $600 — Vendedor: Karla Rodriguez
 - 2026-10-21 10:45 — [Mortal Kombat 1](https://www.facebook.com/marketplace/item/1423279409961562) — $600 — Vendedor: Manuel Borquez
 - 2026-09-21 19:52 — [Súper Mario maker2](https://www.facebook.com/marketplace/item/937524275637505) — $600 — Vendedor: Franklin Gamez Rocha
 - 2026-08-22 16:33 — [Juegos PS4-PS5](https://www.facebook.com/marketplace/item/1378227907769303) — $600 — Vendedor: Ulises Valenzuela Ochoa
-- 2026-08-11 12:10 — [JUEGOS PS4-PS5](https://www.facebook.com/marketplace/item/4327230754088479) — $600 — Vendedor: Ulises Valenzuela Ochoa
 - 2026-06-01 16:07 — [Super mario maker 2](https://www.facebook.com/marketplace/item/26737475489288736) — $600 — Vendedor: Lupita Morales
 - 2026-05-19 20:04 — [SUPER MARIO ODYSSEY](https://www.facebook.com/marketplace/item/1964384157780377) — $600 — Vendedor: Efrén Olivas Domínguez
 - 2026-05-04 08:57 — [Bideojuego de nintendo siuchw](https://www.facebook.com/marketplace/item/817317547703446) — $600 — Vendedor: Lorenia Leon
@@ -170,6 +171,7 @@ Total: 195 anuncios disponibles.
 - 2026-09-12 00:15 — [Mario kart8 deluxe](https://www.facebook.com/marketplace/item/2089036908652380) — $850 — Vendedor: Carolina Burgos
 - 2026-06-27 07:31 — [Zelda BOTW](https://www.facebook.com/marketplace/item/1851653635815332) — $850 — Vendedor: Raul Bonifant
 - 2026-07-22 17:22 — [Videojuego](https://www.facebook.com/marketplace/item/1346620207536454) — $900 — Vendedor: Daniel Osuna
+- 2026-11-19 17:05 — [FIFA 2026 Xbox](https://www.facebook.com/marketplace/item/2713135122474918) — $1.000 — Vendedor: Saul Osuna
 - 2026-11-09 11:43 — [Starfox remake](https://www.facebook.com/marketplace/item/983785638119233) — $1.000 — Vendedor: Eduardo Infante
 - 2026-11-09 08:35 — [Videojuegos de PS5 y PS4](https://www.facebook.com/marketplace/item/1024110227346826) — $1.000 — Vendedor: Sebastián Valdez
 - 2026-08-08 14:54 — [Juego de nintento](https://www.facebook.com/marketplace/item/1051821510585594) — $1.000 — Vendedor: Elvira Palazuelos
@@ -204,4 +206,4 @@ Total: 195 anuncios disponibles.
 - 2025-11-08 16:39 — [Venta juegos](https://www.facebook.com/marketplace/item/1326001235663928) — $5.888 — Vendedor: Sebastian Souza
 - 2026-08-03 13:17 — [Luigi Mansión 3, resident evil sellado, ff12](https://www.facebook.com/marketplace/item/1956747341673471) — $6.000 — Vendedor: Sebastian Souza
 - 2025-11-26 13:16 — [Variedad de videojuegos](https://www.facebook.com/marketplace/item/1231910995478061) — $7.200 — Vendedor: Yessika Hurtado
-- 2025-11-24 17:00 — [Juegos de ps5  y ps4](https://www.facebook.com/marketplace/item/844127654668962) — $44.444 — Vendedor: Sebastian Souza
+- 2025-11-24 17:00 — [Juegos de ps5 y ps4](https://www.facebook.com/marketplace/item/844127654668962) — $44.444 — Vendedor: Sebastian Souza

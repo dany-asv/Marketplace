@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 30 anuncios disponibles.
+Total: 36 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -16,6 +16,8 @@ Total: 30 anuncios disponibles.
 - 2026-08-16 10:44 — [Botones PS5 Blancos con palancas](https://www.facebook.com/marketplace/item/1612959057208963) — $80 — Vendedor: Sergio Castro Félix
 - 2026-08-16 10:41 — [PS5 Bateria DualSense 5 orginal](https://www.facebook.com/marketplace/item/1528188762654857) — $100 — Vendedor: Sergio Castro Félix
 - 2026-11-11 13:02 — [Control, audífonos y cargador para psp5](https://www.facebook.com/marketplace/item/1692329202679567) — $111 — Vendedor: Mauro Torres
+- 2026-11-19 12:08 — [Control ps5 gta6](https://www.facebook.com/marketplace/item/4096984463940693) — $123 — Vendedor: Daniel Gaspar
+- 2026-08-06 06:38 — [Organizador Porta Juegos PS5 | Diseño Práctico Y Funcional](https://www.facebook.com/marketplace/item/1834723287906238) — $150 — Vendedor: Maximiliano Araya
 - 2026-08-06 06:38 — [Base Doble Para Controles PS5 | Diseño Práctico Y Elegante](https://www.facebook.com/marketplace/item/1082317347654828) — $190 — Vendedor: Maximiliano Araya
 - 2026-11-17 11:37 — [mando para ps5](https://www.facebook.com/marketplace/item/1457343103182997) — $450 — Vendedor: Isabella Dejesus
 - 2026-10-19 16:59 — [Estuche y accesorios p/control PS5 DualSense Edge](https://www.facebook.com/marketplace/item/1608244566878716) — $550 — Vendedor: Julio Hernández
@@ -24,15 +26,19 @@ Total: 30 anuncios disponibles.
 - 2026-10-19 18:48 — [Base de Carga Rápida Original para Dualsense, Ps5](https://www.facebook.com/marketplace/item/1081749371345142) — $699 — Vendedor: Charo Buelna
 - 2026-11-10 15:19 — [Control ps5 nuevo](https://www.facebook.com/marketplace/item/29338801355740917) — $900 — Vendedor: Carlos Orduño
 - 2026-07-26 12:15 — [Control original de ps5 sin detalle](https://www.facebook.com/marketplace/item/2582784302155031) — $900 — Vendedor: Rodriguez Cl
+- 2026-11-19 12:09 — [Control de PlayStation 5 NUEVO](https://www.facebook.com/marketplace/item/1680074233818089) — $999 — Vendedor: Az servicios de cómputo LM
 - 2026-11-11 12:26 — [DualSense Camuflaje Original PS5 + Funda Rígida Magnética](https://www.facebook.com/marketplace/item/1342161464594247) — $1.050 — Vendedor: Plays Hacks
 - 2026-10-19 18:38 — [Control para ps5 ¡Ambos joysticks magnéticos TMR con garantía de 5 meses! Imposible que les de drift](https://www.facebook.com/marketplace/item/1113047377756266) — $1.199 — Vendedor: Charo Buelna
 - 2026-11-14 11:51 — [CONTROLES PLAYSTATION 5](https://www.facebook.com/marketplace/item/1394762279138347) — $1.269 — Vendedor: Jesus Valdez
+- 2026-07-25 17:44 — [Control PS5 azul NUEVO 🔥🎮 Playstation 5](https://www.facebook.com/marketplace/item/1078152097869167) — $1.290 — Vendedor: Jose Manuel Lopez
 - 2026-07-25 17:44 — [Control PS5 azul NUEVO 🔥🎮 Playstation 5](https://www.facebook.com/marketplace/item/1087487077020943) — $1.290 — Vendedor: Jose Manuel Lopez
-- 2026-11-17 12:39 — [Control original de ps5 inalámbrico  en caja sellado nuevo $1300 cada uno rosa y blanco](https://www.facebook.com/marketplace/item/29472578472374642) — $1.300 — Vendedor: Paulina Flores Reparatech
+- 2026-11-17 12:39 — [Control original de ps5 inalámbrico en caja sellado nuevo $1300 cada uno rosa y blanco](https://www.facebook.com/marketplace/item/29472578472374642) — $1.300 — Vendedor: Paulina Flores Reparatech
 - 2026-11-16 16:22 — [Control ps5](https://www.facebook.com/marketplace/item/1479660944124694) — $1.300 — Vendedor: Lily Lopez
 - 2026-11-12 10:56 — [Control PS5 DualSense Inalámbrico Original | Nuevo Sellado | 4 colores](https://www.facebook.com/marketplace/item/2404407236970463) — $1.300 — Vendedor: Vicente Munguia
+- 2026-11-19 17:56 — [Control inalámbrico Ps5](https://www.facebook.com/marketplace/item/1565625582249899) — $1.600 — Vendedor: Gabriel Contreras
 - 2026-07-25 17:44 — [Control PS5 God of War Edición Limitada NUEVO Sellado 🔥🎮 Playstation 5](https://www.facebook.com/marketplace/item/1720357735955190) — $1.699 — Vendedor: Jose Manuel Lopez
 - 2026-11-12 17:06 — [Auriculares play station 5](https://www.facebook.com/marketplace/item/1081426001591618) — $2.000 — Vendedor: هوبر راموس
+- 2026-11-19 14:03 — [Controles PS5 GTA 6 Edicion Nuevos”](https://www.facebook.com/marketplace/item/4344304945863133) — $2.499 — Vendedor: Alexis Vasquez
 - 2026-11-18 10:56 — [Control ps5 Edicion limitada Gta6](https://www.facebook.com/marketplace/item/2334713130596000) — $2.500 — Vendedor: Alexis Vasquez
 - 2026-10-25 11:44 — [Ps Portal](https://www.facebook.com/marketplace/item/1437359874541976) — $2.500 — Vendedor: Angel Meza
 - 2026-11-08 00:31 — [Simulador ps5 pc](https://www.facebook.com/marketplace/item/1673047067786336) — $3.400 — Vendedor: Carlos Orduño

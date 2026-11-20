@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 137 anuncios disponibles.
+Total: 136 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -15,7 +15,7 @@ Total: 137 anuncios disponibles.
 - 2026-10-12 10:50 — [Juegos+de+psp4](https://www.facebook.com/marketplace/item/1110698565263173) — GRATIS — Vendedor: David Alvarez
 - 2026-09-07 23:30 — [Vendo juegos de ps4](https://www.facebook.com/marketplace/item/1230412742584764) — GRATIS — Vendedor: Ivan Aguero
 - 2026-09-01 21:24 — [Juegos para Playstation](https://www.facebook.com/marketplace/item/1003688652686728) — GRATIS — Vendedor: Maria CL
-- 2026-08-25 05:26 — [Venta o cambio  juegos ps4](https://www.facebook.com/marketplace/item/1730929081285059) — GRATIS — Vendedor: Daniel Torres
+- 2026-08-25 05:26 — [Venta o cambio juegos ps4](https://www.facebook.com/marketplace/item/1730929081285059) — GRATIS — Vendedor: Daniel Torres
 - 2026-08-16 18:22 — [Juegos de Ps4 Bioshock, Batman y Lego](https://www.facebook.com/marketplace/item/27568235359546089) — GRATIS — Vendedor: Francisco Mercado
 - 2026-08-05 14:39 — [Juegos de ps4](https://www.facebook.com/marketplace/item/1363757785222216) — GRATIS — Vendedor: Daniel Vs
 - 2026-07-30 00:48 — [Juego de ps4](https://www.facebook.com/marketplace/item/1747339253059141) — GRATIS — Vendedor: Daniel Vs
@@ -105,7 +105,7 @@ Total: 137 anuncios disponibles.
 - 2026-11-17 14:42 — [GTA 5 PS4](https://www.facebook.com/marketplace/item/2940529192988139) — $350 — Vendedor: Ulises Valenzuela Ochoa
 - 2026-10-15 21:29 — [Juegos Ps4](https://www.facebook.com/marketplace/item/2165243631035916) — $350 — Vendedor: Ulises Valenzuela Ochoa
 - 2026-10-10 10:45 — [Spiderman Miles Morales PS4](https://www.facebook.com/marketplace/item/1918874599093253) — $350 — Vendedor: Bosthon R. Vázquez
-- 2026-09-15 09:26 — [Juego de play 4   CTR Crash Team Racing Nitro Fueled](https://www.facebook.com/marketplace/item/1392548875800951) — $350 — Vendedor: Alma Gonzalez
+- 2026-09-15 09:26 — [Juego de play 4 CTR Crash Team Racing Nitro Fueled](https://www.facebook.com/marketplace/item/1392548875800951) — $350 — Vendedor: Alma Gonzalez
 - 2026-07-13 12:14 — [The Order: 1886 PS4 / Cambio o Venta. Leer descripcion...](https://www.facebook.com/marketplace/item/28040289068922053) — $350 — Vendedor: Jose Luis Bravo
 - 2026-06-03 01:37 — [Juegos de ps4 se van en 350 cada uno](https://www.facebook.com/marketplace/item/1541568207356489) — $350 — Vendedor: Antonio Lopez
 - 2026-05-17 10:07 — [Juegos de playstation 4](https://www.facebook.com/marketplace/item/1550838933052869) — $350 — Vendedor: Dylan Vega
@@ -113,7 +113,6 @@ Total: 137 anuncios disponibles.
 - 2026-04-20 09:38 — [Disco de God of war ps4](https://www.facebook.com/marketplace/item/1268275625394369) — $350 — Vendedor: Juega Con Migo
 - 2026-01-26 20:51 — [Vemdo Skyrim para ps4](https://www.facebook.com/marketplace/item/1255082943133259) — $350 — Vendedor: Omar Reyes
 - 2026-01-03 15:20 — [The Witcher 3 PS4](https://www.facebook.com/marketplace/item/26022837057404186) — $350 — Vendedor: Manuel Ed
-- 2026-08-24 12:19 — [GTA 5 PS4](https://www.facebook.com/marketplace/item/938201935992605) — $400 — Vendedor: Ulises Valenzuela Ochoa
 - 2026-08-19 10:37 — [Juegos de ps4](https://www.facebook.com/marketplace/item/3184174201776468) — $400 — Vendedor: Efren Verdugo
 - 2026-05-05 16:15 — [Juegos de play 4](https://www.facebook.com/marketplace/item/854796064319250) — $400 — Vendedor: Maria Lopez
 - 2026-02-01 09:04 — [Juegos PS4 en caja](https://www.facebook.com/marketplace/item/1615722469471502) — $400 — Vendedor: Oswaldo Orduño

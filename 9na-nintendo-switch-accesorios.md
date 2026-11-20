@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 70 anuncios disponibles.
+Total: 75 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -22,6 +22,7 @@ Total: 70 anuncios disponibles.
 - 2026-08-05 17:59 — [Dock blanco para nintendo switch](https://www.facebook.com/marketplace/item/1443267880945157) — $111 — Vendedor: Chappy Chappy
 - 2026-08-02 11:28 — [Dock para Nintendo](https://www.facebook.com/marketplace/item/2088648235192630) — $111 — Vendedor: Ivan Lopez
 - 2026-07-27 15:36 — [Accesorios para cargar Nintendo switch](https://www.facebook.com/marketplace/item/1049915067433242) — $111 — Vendedor: Ivan Lopez
+- 2026-09-02 01:00 — [Funda para nintendo switch normal, oled y lite](https://www.facebook.com/marketplace/item/1048618724709558) — $150 — Vendedor: Ana Julia Ahumada
 - 2026-08-20 11:42 — [Par de correas para joycons/controles nintendo Switch - Joycons](https://www.facebook.com/marketplace/item/1610268643846929) — $150 — Vendedor: Roberto Vega
 - 2026-10-23 20:09 — [Funda para Nintendo Switch Lite](https://www.facebook.com/marketplace/item/996232606852477) — $200 — Vendedor: Jose Zuniga
 - 2026-08-28 18:16 — [Control de nintento](https://www.facebook.com/marketplace/item/2533099033779714) — $200 — Vendedor: Elvira Palazuelos
@@ -52,8 +53,10 @@ Total: 70 anuncios disponibles.
 - 2026-09-05 21:11 — [Pro Controller Edición Super Smash Bros](https://www.facebook.com/marketplace/item/1043240421865349) — $400 — Vendedor: Alan Roberto Quiroz
 - 2026-07-13 15:43 — [Control nintendo Switch](https://www.facebook.com/marketplace/item/2440017549829342) — $400 — Vendedor: Jorge Trs
 - 2026-06-03 01:37 — [Dock, cargador y grips originales para Nintendo switch, 400 Dock o cargador y 100 los grips](https://www.facebook.com/marketplace/item/26314380001570791) — $400 — Vendedor: Antonio Lopez
+- 2026-08-02 12:23 — [Control para Nintendo switch](https://www.facebook.com/marketplace/item/1605132834564040) — $444 — Vendedor: Chappy Chappy
 - 2026-10-31 17:25 — [Dock para Nintendo Switch v1](https://www.facebook.com/marketplace/item/1113138388237829) — $500 — Vendedor: Bryan Luna
 - 2026-10-09 21:29 — [Controles de nintendo switch de Mario alambrico](https://www.facebook.com/marketplace/item/1846566753367970) — $500 — Vendedor: Viri Rivera
+- 2026-09-16 14:45 — [Joycons para nintendo switch marca nyxi](https://www.facebook.com/marketplace/item/1020584107676648) — $500 — Vendedor: Ele Gand
 - 2026-09-06 14:59 — [Juegos Nintendo Switch, control y micro sd.](https://www.facebook.com/marketplace/item/1371307245215369) — $500 — Vendedor: Andrea Angulo
 - 2026-08-30 10:45 — [Sruche de nintendo Swich 1](https://www.facebook.com/marketplace/item/2063506827805805) — $500 — Vendedor: Daniel Robles
 - 2026-06-03 01:37 — [Dock Nintendo switch está como nuevo sin ningún detalle](https://www.facebook.com/marketplace/item/1336366645087190) — $550 — Vendedor: Antonio Lopez
@@ -62,6 +65,7 @@ Total: 70 anuncios disponibles.
 - 2026-10-17 01:08 — [Control+de+nintendo+switch](https://www.facebook.com/marketplace/item/2187288591862246) — $600 — Vendedor: Yunibia Solis Yiyita
 - 2026-03-17 11:11 — [Juego y accesorios Nintendo switch](https://www.facebook.com/marketplace/item/4446315345657843) — $600 — Vendedor: Ángel Peralta
 - 2026-09-24 09:34 — [🎮 JOYCONS PARA NINTENDO SWITCH CON LUZ RGB 🎮](https://www.facebook.com/marketplace/item/1123543230240129) — $650 — Vendedor: Ashly Shyadani
+- 2026-09-01 16:21 — [🎮 JOYCONS PARA NINTENDO SWITCH CON LUZ RGB 🎮](https://www.facebook.com/marketplace/item/1095820839549780) — $650 — Vendedor: Ashly Shyadani
 - 2026-06-29 22:52 — [Joycons originales de Nintendo switch en perfectas condiciones 700 el par](https://www.facebook.com/marketplace/item/1933318124047519) — $650 — Vendedor: Antoni Tony
 - 2026-11-18 18:30 — [Joycons Originales Nintendo Switch](https://www.facebook.com/marketplace/item/2082068112446045) — $700 — Vendedor: Ricardo Beltrán
 - 2026-10-29 14:17 — [Control switch 1/2/oled /lite original de Nintendo $700](https://www.facebook.com/marketplace/item/1128422099638414) — $700 — Vendedor: Juan Alonso Aragon Aviles
@@ -70,6 +74,7 @@ Total: 70 anuncios disponibles.
 - 2026-10-16 18:50 — [Control gamer para PC, Android, iOS y Nintendo switch (precio negociable)](https://www.facebook.com/marketplace/item/1151989644059603) — $800 — Vendedor: Armando Armenta
 - 2026-06-29 22:52 — [Joycons Nintendo switch oled en 800 el par están en muy buenas condiciones](https://www.facebook.com/marketplace/item/1731097157887307) — $800 — Vendedor: Antoni Tony
 - 2026-06-09 16:19 — [Dock, cargador y control para Nintendo switch todo original y en buenas condiciones en $800$ todo](https://www.facebook.com/marketplace/item/1373130771358437) — $800 — Vendedor: Antoni Tony
+- 2026-11-17 07:36 — [Base para tele Nintendo swicht](https://www.facebook.com/marketplace/item/1657275099135694) — $900 — Vendedor: Perla Urquidy
 - 2026-08-16 14:04 — [Par de joycon 900 par rosa y verde $800](https://www.facebook.com/marketplace/item/1982253825773260) — $900 — Vendedor: Stargames Valenzuela
 - 2026-09-06 00:27 — [Joy cons para Nintendo swict](https://www.facebook.com/marketplace/item/1962822177741143) — $1.100 — Vendedor: Karlita Martinez
 - 2024-08-05 16:56 — [Control pro Nintendo switch](https://www.facebook.com/marketplace/item/2173331779714464) — $1.400 — Vendedor: Sergio Sandoval'v

@@ -6,18 +6,16 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 18 anuncios disponibles.
+Total: 17 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
 - 2026-07-04 05:28 — [Ps5](https://www.facebook.com/marketplace/item/875638918463914) — GRATIS — Vendedor: Emir Bcn
 - 2026-08-19 15:28 — [PlayStation 5](https://www.facebook.com/marketplace/item/1728037538499285) — $6.000 — Vendedor: Julio Castro
 - 2026-08-19 09:53 — [PlayStation 5](https://www.facebook.com/marketplace/item/2261418584653193) — $6.700 — Vendedor: Julio Castro
-- 2026-08-31 20:35 — [PlayStation 5 como nuevo excelentes condiciones 10/10 ✅ Control God Of War y Cables ✅ PS5 ✅](https://www.facebook.com/marketplace/item/1766216087830515) — $6.990 — Vendedor: Ana Escalante
 - 2026-08-31 20:35 — [PlayStation 5 como nuevo excelentes condiciones 10/10 ✅ Control God Of War y Cables ✅ PS5 ✅](https://www.facebook.com/marketplace/item/2115694922352307) — $6.990 — Vendedor: Ana Escalante
 - 2026-08-31 20:35 — [PlayStation 5 como nuevo excelentes condiciones 10/10 ✅ Control God Of War y Cables ✅ PS5 ✅](https://www.facebook.com/marketplace/item/1866917897812930) — $6.990 — Vendedor: Ana Escalante
 - 2026-08-31 20:35 — [PlayStation 5 como nuevo excelentes condiciones 10/10 ✅ Control God Of War y Cables ✅ PS5 ✅](https://www.facebook.com/marketplace/item/2677248039362059) — $6.990 — Vendedor: Ana Escalante
-- 2026-08-31 20:35 — [PlayStation 5 como nuevo excelentes condiciones 10/10 ✅ Control God Of War y Cables ✅ PS5 ✅](https://www.facebook.com/marketplace/item/1533419358100689) — $6.990 — Vendedor: Ana Escalante
 - 2026-09-08 18:49 — [PlayStation 5 + cargador](https://www.facebook.com/marketplace/item/1595380362052410) — $7.500 — Vendedor: Julio Castro
 - 2026-08-28 14:22 — [PlayStation 5 slim de disco + 2 juegos](https://www.facebook.com/marketplace/item/1891783745537683) — $7.500 — Vendedor: Julio Castro
 - 2026-09-28 20:44 — [PlayStation 5 slim + FC26](https://www.facebook.com/marketplace/item/2228000091101823) — $7.600 — Vendedor: Julio Castro
@@ -26,5 +24,6 @@ Total: 18 anuncios disponibles.
 - 2026-11-18 19:57 — [Playstation 5](https://www.facebook.com/marketplace/item/1141110318316005) — $8.500 — Vendedor: Josue Iras
 - 2026-11-11 06:35 — [Ps5 pro 4tb SSD](https://www.facebook.com/marketplace/item/2353400685405589) — $14.000 — Vendedor: Jose Nava
 - 2026-11-16 16:10 — [Ps5 slim edición 30 aniversario](https://www.facebook.com/marketplace/item/2032969994063475) — $16.000 — Vendedor: Helen Lopezgax
+- 2026-11-19 22:28 — [Ps5 pro 2 con lector de discos](https://www.facebook.com/marketplace/item/1603635338475188) — $19.000 — Vendedor: Luis Enrique
 - 2026-11-13 19:38 — [Ps5 pro con lectora de discos 2 teras](https://www.facebook.com/marketplace/item/2676071876155360) — $19.000 — Vendedor: Luis Enrique
 - 2026-07-17 17:05 — [PS5](https://www.facebook.com/marketplace/item/1748307049846660) — $111.111 — Vendedor: Aidali Armentta

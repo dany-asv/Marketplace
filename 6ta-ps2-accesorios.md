@@ -14,4 +14,4 @@ Total: 5 anuncios disponibles.
 - 2026-08-14 12:34 — [Control inalámbrico para PlayStation 2 PS2](https://www.facebook.com/marketplace/item/1395381845825042) — $300 — Vendedor: Plays Hacks
 - 2026-04-19 16:30 — [Memory card Ps2✅](https://www.facebook.com/marketplace/item/930388689873246) — $300 — Vendedor: Juan Villa Jr.
 - 2026-08-12 18:05 — [Fuente de poder para Playstation 2](https://www.facebook.com/marketplace/item/1083304077580494) — $350 — Vendedor: Ivan Lopez
-- 2026-07-02 01:49 — [Volante y pedales para Playstation 2  aceptó cambio x cel.](https://www.facebook.com/marketplace/item/1338182754427737) — $450 — Vendedor: Gm Rram
+- 2026-07-02 01:49 — [Volante y pedales para Playstation 2 aceptó cambio x cel.](https://www.facebook.com/marketplace/item/1338182754427737) — $450 — Vendedor: Gm Rram

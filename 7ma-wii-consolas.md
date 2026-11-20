@@ -17,7 +17,7 @@ Total: 19 anuncios disponibles.
 - 2026-11-17 15:25 — [Nintendo wii con todos sus accesorios originales todo funcionando y también 1 juego en disco](https://www.facebook.com/marketplace/item/1932282934401871) — $700 — Vendedor: Antoni Tony
 - 2026-11-10 12:12 — [Wii sin control](https://www.facebook.com/marketplace/item/1417993857082585) — $800 — Vendedor: Francisco Bojorquez
 - 2026-06-19 16:43 — [Nintendo wii](https://www.facebook.com/marketplace/item/1692454718540875) — $800 — Vendedor: Carlos Felix
-- 2026-09-06 13:05 — [Nintendo wii chipeado 3 controles y juegos  900](https://www.facebook.com/marketplace/item/2452405058580065) — $900 — Vendedor: Jamaicas Las Jamaicas
+- 2026-09-06 13:05 — [Nintendo wii chipeado 3 controles y juegos 900](https://www.facebook.com/marketplace/item/2452405058580065) — $900 — Vendedor: Jamaicas Las Jamaicas
 - 2026-06-03 16:54 — [Nintendo wii con smash](https://www.facebook.com/marketplace/item/28381494694770744) — $900 — Vendedor: Jamaicas Las Jamaicas
 - 2026-11-18 12:03 — [Nintendo wii](https://www.facebook.com/marketplace/item/1125854936894619) — $1.300 — Vendedor: May Sand
 - 2026-08-31 19:30 — [Nintendo Wii con 10 juegos](https://www.facebook.com/marketplace/item/2598012340637095) — $1.300 — Vendedor: Dulce Palma
