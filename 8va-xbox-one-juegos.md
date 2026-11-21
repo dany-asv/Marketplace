@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 12 anuncios disponibles.
+Total: 14 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -21,4 +21,6 @@ Total: 12 anuncios disponibles.
 - 2026-06-07 07:24 — [Juegos Xbox One OFERTA DEL DÍA](https://www.facebook.com/marketplace/item/1922664531776839) — $80 — Vendedor: Dey GE
 - 2026-08-15 09:49 — [Juegos de Xbox one](https://www.facebook.com/marketplace/item/1759601785277078) — $111 — Vendedor: Angel Eden
 - 2026-07-27 15:32 — [Juegos para xbox one diferente precio](https://www.facebook.com/marketplace/item/1577052047332724) — $111 — Vendedor: Ivan Lopez
+- 2026-10-09 14:09 — [Se vende farcry animal Xbox One 💿](https://www.facebook.com/marketplace/item/1568137417949824) — $250 — Vendedor: Ariel Montoya
 - 2026-11-10 16:24 — [Calle of duty modern warfer xbox one](https://www.facebook.com/marketplace/item/1159726583190634) — $350 — Vendedor: JV Cases Mochis
+- 2026-08-01 15:28 — [Juegos para XBOX ONE](https://www.facebook.com/marketplace/item/894443396611840) — $350 — Vendedor: Paula Valenzuela

@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 96 anuncios disponibles.
+Total: 102 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -19,6 +19,7 @@ Total: 96 anuncios disponibles.
 - 2026-10-27 23:32 — [Plumas para consolas DS, Dsi, Dsi XL, 3ds, 3ds XL, New 3dsxl y 2ds, New 2ds XL , Wii u](https://www.facebook.com/marketplace/item/1144531488090080) — $50 — Vendedor: Stargames Valenzuela
 - 2026-10-25 10:44 — [Gomas grip para control ps5, ps4, xbox one, series](https://www.facebook.com/marketplace/item/1474881397867918) — $50 — Vendedor: Stargames Valenzuela
 - 2026-09-02 01:00 — [Stylus 3ds , Ds Lite Y Xl y gomas para controles](https://www.facebook.com/marketplace/item/1054109230864191) — $50 — Vendedor: Ana Julia Ahumada
+- 2026-09-25 17:07 — [Llaveros personalizados de musica y videojuegos](https://www.facebook.com/marketplace/item/1361404909098425) — $80 — Vendedor: Franco Torres Fco
 - 2026-10-22 10:10 — [Cable hdmi](https://www.facebook.com/marketplace/item/1439885281614868) — $100 — Vendedor: Jesus Cota
 - 2026-08-01 16:27 — [Carcasas para controles PS2, PS3 GameCube y Wii](https://www.facebook.com/marketplace/item/1047254101334600) — $100 — Vendedor: Sergio Castro Félix
 - 2026-07-22 21:50 — [Cable Hdmi Nintendo original speed 360hz](https://www.facebook.com/marketplace/item/1782433266115664) — $100 — Vendedor: Novio De Guadalupe
@@ -29,6 +30,7 @@ Total: 96 anuncios disponibles.
 - 2026-08-04 11:50 — [Funda para nintendo switch y 3ds barato](https://www.facebook.com/marketplace/item/939919522470089) — $120 — Vendedor: Chappy Chappy
 - 2026-11-14 14:16 — [Kontrol freek xbox, playstation 4/5](https://www.facebook.com/marketplace/item/1143103431437282) — $135 — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-11-11 21:33 — [Aproveche: audífonos KZ IEM desde $150](https://www.facebook.com/marketplace/item/1599851971425493) — $150 — Vendedor: Lilia Vazquez
+- 2026-11-05 11:59 — [Audífonos Gamer Binden Hp010](https://www.facebook.com/marketplace/item/3037993946533601) — $150 — Vendedor: Max Galaviz
 - 2026-09-26 17:00 — [Aproveche: audífonos KZ EDX PRO $150](https://www.facebook.com/marketplace/item/2534046970423470) — $150 — Vendedor: Lilia Vazquez
 - 2026-09-15 18:14 — [Aproveche: Audífonos In-Ear KZ desde $150](https://www.facebook.com/marketplace/item/1097997392786020) — $150 — Vendedor: Lilia Vazquez
 - 2026-08-28 10:46 — [Carcasa protectora para nintendo DS Lite, 3ds oled, 3ds XL y new 3ds xl](https://www.facebook.com/marketplace/item/1002826516097805) — $150 — Vendedor: Stargames Valenzuela
@@ -36,7 +38,9 @@ Total: 96 anuncios disponibles.
 - 2026-08-06 06:38 — [Organizadores Porta Juegos Para Consolas | PS5, PS4, Xbox, Nintendo Y Más](https://www.facebook.com/marketplace/item/1783919466300223) — $150 — Vendedor: Maximiliano Araya
 - 2026-07-16 16:56 — [Aproveche: audífonos KZ EDX PRO solo $150](https://www.facebook.com/marketplace/item/2262415564553375) — $150 — Vendedor: Lilia Vazquez
 - 2026-05-29 19:56 — [Cable rca ps2 ps3 n64 game cube x360](https://www.facebook.com/marketplace/item/3154935308026262) — $150 — Vendedor: Alma Valdez
+- 2026-08-20 11:03 — [Cargador para Ds Lite, Dsi, 2ds y 3ds, psp, Game boy](https://www.facebook.com/marketplace/item/1728343671701370) — $180 — Vendedor: Stargames Valenzuela
 - 2026-08-05 13:05 — [Control joystick 🕹️ ps4, Xbox, ps5 y joycon](https://www.facebook.com/marketplace/item/1554609499652759) — $200 — Vendedor: Stargames Valenzuela
+- 2026-08-11 19:45 — [🎮 Soporte para 2 controles y audífonos gamer 🎧](https://www.facebook.com/marketplace/item/2047322689217529) — $210 — Vendedor: Maximiliano Araya
 - 2026-09-02 01:00 — [Cargador snes nes genesis](https://www.facebook.com/marketplace/item/1049767744524767) — $250 — Vendedor: Ana Julia Ahumada
 - 2026-08-02 12:46 — [Nuevos audífonos KZ GALE gaming](https://www.facebook.com/marketplace/item/1360724642194406) — $250 — Vendedor: Lilia Vazquez
 - 2026-07-27 15:32 — [Cargador para consola Nintendo](https://www.facebook.com/marketplace/item/2589144904871344) — $250 — Vendedor: Ivan Lopez
@@ -60,6 +64,7 @@ Total: 96 anuncios disponibles.
 - 2026-09-01 21:21 — [Control Gamesir nova Lite](https://www.facebook.com/marketplace/item/1066271605894320) — $400 — Vendedor: Miguel Valdez
 - 2026-11-06 08:19 — [2 baterias y vase para control xbox](https://www.facebook.com/marketplace/item/4624585494437973) — $450 — Vendedor: Daniel Baez
 - 2026-09-06 00:20 — [Maletín para guardar Nintendo y sus accesorios](https://www.facebook.com/marketplace/item/2117470195646406) — $450 — Vendedor: Karlita Martinez
+- 2026-08-03 09:10 — [Control Playstation 4 / Playstation 3 / PC Ps3,ps4,pc, gamepad, inalámbrico](https://www.facebook.com/marketplace/item/1852207016188941) — $450 — Vendedor: Jesus Vega Mendoza
 - 2026-08-03 09:09 — [Control inalámbrico para Playstation 4, PS 3 y PC](https://www.facebook.com/marketplace/item/1542507743450075) — $450 — Vendedor: Irving Vega
 - 2026-11-13 14:04 — [Control gamer Retro 8BitDo Pro 2](https://www.facebook.com/marketplace/item/29753004494291760) — $470 — Vendedor: Julio Hernández
 - 2026-11-12 21:00 — [COTROL CON HALL EFFECT, DE ALTA CALIDAD DISEÑO RETRO](https://www.facebook.com/marketplace/item/1402202558651976) — $470 — Vendedor: HM Smart Home
@@ -77,6 +82,7 @@ Total: 96 anuncios disponibles.
 - 2026-08-23 21:39 — [Cargador Nintendo](https://www.facebook.com/marketplace/item/3021081854894810) — $555 — Vendedor: Chappy Chappy
 - 2026-07-28 11:02 — [AUDIFONOS DE DIADEMA CON MICROFONO PROFESSIONAL PRO GAMING HEADSET LED AZUL V3 HUNTERSPIDER](https://www.facebook.com/marketplace/item/1532784651314842) — $589 — Vendedor: Karla Lopez
 - 2026-11-16 15:24 — [Control de xbox con base recargable](https://www.facebook.com/marketplace/item/1510469461141035) — $600 — Vendedor: Angel Sauceda
+- 2026-11-13 19:58 — [CONTROL QRD FERROX M5](https://www.facebook.com/marketplace/item/1121381627172905) — $600 — Vendedor: Matio Perez
 - 2026-11-16 13:03 — [Aproveche. Audifonos IEM KZ VADER PRO con Switches a solo $650](https://www.facebook.com/marketplace/item/1533400768843860) — $650 — Vendedor: Lilia Vazquez
 - 2026-11-19 14:09 — [Control Xbox one series todo le funciona sin detalles ni drift](https://www.facebook.com/marketplace/item/30225252963742368) — $699 — Vendedor: Antoni Tony
 - 2026-11-10 11:38 — [Control inalambrico para xbox one / series S X](https://www.facebook.com/marketplace/item/982711948242170) — $800 — Vendedor: Ana Julia Ahumada
@@ -87,9 +93,9 @@ Total: 96 anuncios disponibles.
 - 2026-06-22 19:56 — [Controles hori split pad pro](https://www.facebook.com/marketplace/item/1773597353808712) — $900 — Vendedor: Bianey Alejandra Muñoz Herrera
 - 2026-11-17 16:53 — [Xbox control](https://www.facebook.com/marketplace/item/1130274739924215) — $1.000 — Vendedor: Vinicio Serrano
 - 2026-07-27 15:33 — [Receptor para control Xbox clásico barato](https://www.facebook.com/marketplace/item/1052591637291796) — $1.111 — Vendedor: Ivan Lopez
+- 2026-11-20 12:44 — [Nuevos SSD m2 Nvme 500 Gb Ultra Fast ⚡ Para PC, Smart TV, XBOX PS4 y PS5 Disco externo 📍FRIKI PC 💯](https://www.facebook.com/marketplace/item/1786023586453109) — $1.200 — Vendedor: Fuko Alejos
 - 2026-11-10 16:27 — [Volante para videojuegos](https://www.facebook.com/marketplace/item/1465493755011389) — $1.200 — Vendedor: Fer Laurean
 - 2026-10-15 17:30 — [Control Xbox pro](https://www.facebook.com/marketplace/item/2624830337945887) — $1.200 — Vendedor: Jesus Valenzuela
-- 2026-10-05 17:45 — [Control xbox doom](https://www.facebook.com/marketplace/item/1109738754915372) — $1.400 — Vendedor: Rafael Aguilar
 - 2026-11-18 12:32 — [Control Xbox Elite Series](https://www.facebook.com/marketplace/item/1151460890680998) — $2.000 — Vendedor: Jesus Miguel Montoya Machado
 - 2026-10-30 12:01 — [Control Xbox Elite Core 2](https://www.facebook.com/marketplace/item/1103033145935488) — $2.000 — Vendedor: Miguel Armenta
 - 2026-11-12 17:55 — [Volante para xbox y computadora](https://www.facebook.com/marketplace/item/28738335302533636) — $2.200 — Vendedor: Luis Vergara Rojo

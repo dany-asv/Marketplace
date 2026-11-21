@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 128 anuncios disponibles.
+Total: 131 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -47,6 +47,7 @@ Total: 128 anuncios disponibles.
 - 2026-04-05 20:28 — [Se venden varias cosas](https://www.facebook.com/marketplace/item/1669384617402559) — $1 — Vendedor: Carla Lopez
 - 2026-09-30 09:27 — [Varios venta](https://www.facebook.com/marketplace/item/2426023891136626) — $5 — Vendedor: Daniela Lopez
 - 2025-11-29 10:59 — [Vendo o cambio por algo mejor ofrezcan por lo que sea](https://www.facebook.com/marketplace/item/833801036171724) — $7 — Vendedor: Lupita Felix
+- 2026-08-23 10:50 — [CONSOLA DE VIDEOJUEGOS 📲🍀](https://www.facebook.com/marketplace/item/1607819811004889) — $11 — Vendedor: Javier Robles
 - 2026-09-12 11:29 — [Videojuegos ya sea para colección o jugarlos en su consola](https://www.facebook.com/marketplace/item/858561213908353) — $50 — Vendedor: Jesus Ferrer
 - 2026-10-25 11:27 — [Consola retro con 620 juegos](https://www.facebook.com/marketplace/item/1265526825759911) — $100 — Vendedor: Juan Sergio Hernandez Araujo
 - 2026-11-07 15:11 — [Consola sup 400 juegos](https://www.facebook.com/marketplace/item/2129461857691504) — $150 — Vendedor: Diana Soto
@@ -60,18 +61,19 @@ Total: 128 anuncios disponibles.
 - 2026-11-09 18:20 — [Mini Consola Retro con 620 Juegos](https://www.facebook.com/marketplace/item/1736654974693805) — $250 — Vendedor: Ariagna Armenta
 - 2026-11-02 21:06 — [🕹️🔥 ¡TABLERO ARCADE! REVIVE LA ÉPOCA DE LOS VIDEOJUEGOS](https://www.facebook.com/marketplace/item/2319670242187170) — $250 — Vendedor: Oscar Gonzales
 - 2026-09-30 00:25 — [Mantenimiento consolas xbox](https://www.facebook.com/marketplace/item/872203189210802) — $250 — Vendedor: Sportclothing LM
+- 2026-11-19 17:14 — [MINI NINTENDO RETRO](https://www.facebook.com/marketplace/item/2179784799278938) — $270 — Vendedor: Jose Reyes
 - 2026-06-03 11:17 — [Consolas de videojuegos desde $299, portatil y para tv](https://www.facebook.com/marketplace/item/1737797677239236) — $299 — Vendedor: Angel SG
 - 2026-08-16 19:37 — [Consola Game Joystick clásica Oferta🛑 $400](https://www.facebook.com/marketplace/item/1444465094399505) — $300 — Vendedor: Javier Barraza
 - 2026-07-23 15:40 — [MAGIA para Playstation 5 y Playstation 4](https://www.facebook.com/marketplace/item/895752070259719) — $300 — Vendedor: Jose Carlos Ohashi
 - 2026-07-09 11:35 — [chipeo psp y pongo juegos de diferentes consolas (también de switch)](https://www.facebook.com/marketplace/item/2090132611586269) — $300 — Vendedor: Adrian Corrales Vega
 - 2026-10-27 07:55 — [Mákina con muchos juegos clásicos y modernos..miles..$3500 tel.6681993508](https://www.facebook.com/marketplace/item/1584985079561237) — $350 — Vendedor: Daniel López
-- 2026-08-22 18:44 — [Consola retro game stick](https://www.facebook.com/marketplace/item/1653171876379569) — $450 — Vendedor: Josue Navarro
 - 2026-06-21 10:14 — [Consola arcade con 21 juegos, nuevo.](https://www.facebook.com/marketplace/item/981602491339807) — $450 — Vendedor: José Miguel
 - 2026-11-02 11:57 — [busco Nintendo 3ds, 2ds, XL, new.](https://www.facebook.com/marketplace/item/1874642674160395) — $500 — Vendedor: Miguel Ruiz Chavez
 - 2026-11-02 11:56 — [Busco Gameboy SP, Color, dvvance, Clasic](https://www.facebook.com/marketplace/item/1916760772816326) — $500 — Vendedor: Miguel Ruiz Chavez
 - 2026-10-19 14:27 — [🔴GAME STICK PRO🔴 ✅️25 MIL JUEGOS ✅️2 CONTROLES ✅️RESOLUCION 4K ✅️ENVIOS A DOMICILIO🏡🛵💨](https://www.facebook.com/marketplace/item/4613212418961115) — $500 — Vendedor: Nutrijugos LA Selva
 - 2026-10-19 14:21 — [‼️GAME STICK 25 MIL JUEGOS‼️ ✅️2 CONTROLES TIPO PS ✅️RESOLUCION 4K ✅️3 MESES GARANTIA ✅️ENVIOS🏡🛵💨](https://www.facebook.com/marketplace/item/1412871073805374) — $500 — Vendedor: Nutrijugos LA Selva
 - 2026-10-19 14:20 — [GAME STICK PRO🔴HD 25 MIL JUEGOS 2 CONTROLES TIPO PS🎮 PUEDES AGREGAR JUEGOS DE TU PREFERENCIA‼️](https://www.facebook.com/marketplace/item/1575406110556871) — $500 — Vendedor: Nutrijugos LA Selva
+- 2026-10-07 15:15 — [Videojuegos 🎮🎮](https://www.facebook.com/marketplace/item/1131792462760854) — $500 — Vendedor: Dayanna Fuentes Lara
 - 2026-10-03 20:18 — [2+xbox](https://www.facebook.com/marketplace/item/2484481448709884) — $500 — Vendedor: Asis Romaas
 - 2026-08-10 15:53 — [🎮CONSOLA GAMESTICK 4K, 2 MANDOS INALAMBRICOS, 20000 JUEGOS🎮](https://www.facebook.com/marketplace/item/977985645264954) — $500 — Vendedor: Ashly Shyadani
 - 2026-11-10 16:34 — [Videojuegos 🎮🎮 Nuevos Disponibles](https://www.facebook.com/marketplace/item/4551287355140693) — $550 — Vendedor: Dayanna Fuentes Lara
@@ -93,7 +95,7 @@ Total: 128 anuncios disponibles.
 - 2026-07-21 16:15 — [Consola r36](https://www.facebook.com/marketplace/item/4456327934586375) — $999 — Vendedor: Marlen Polanco
 - 2026-11-15 20:45 — [Consola de videojuegos retro KS36🎮](https://www.facebook.com/marketplace/item/2230485104236354) — $1.000 — Vendedor: Leonor Elii
 - 2026-11-09 15:17 — [Magia para Xbox Series S y X , juegos de nintendo en Xbox Series S y X](https://www.facebook.com/marketplace/item/2228101624756533) — $1.000 — Vendedor: Persival Carlos Aguilar Mondragon
-- 2026-10-17 23:25 — [Teclado Gaming 75%, Mause AOC y Atack Shark L60(Incluye el Mausepad)](https://www.facebook.com/marketplace/item/2442549629864107) — $1.200 — Vendedor: Sebastian C. Falomir
+- 2026-11-20 10:16 — [A la venta consola con juegos](https://www.facebook.com/marketplace/item/1136673442680399) — $1.500 — Vendedor: Chito Hernandez
 - 2026-11-17 07:03 — [‼️Tablero Uso Rudo‼️Retro Arcade Uso Rudo✅️30 Mil Juegos🎮 Sega,Nintendo,Atari,Xbox,Game,Boy Etc😃✅️](https://www.facebook.com/marketplace/item/2696641717511016) — $1.500 — Vendedor: Manuel Rojo
 - 2026-11-11 17:10 — [📛CONSOLA X80📛60 MIL JUEGOS✅️ ADAPTABLE A TV💥 HD 💥 ENVIOS A DOMICILIO‼️GARANTIA DE 1 AÑO👌](https://www.facebook.com/marketplace/item/4685549918397577) — $1.500 — Vendedor: Nutrijugos LA Selva
 - 2026-11-07 18:15 — [Consola M27 NUEVAS](https://www.facebook.com/marketplace/item/1659378839044542) — $1.500 — Vendedor: Zamver Zamver
@@ -111,6 +113,7 @@ Total: 128 anuncios disponibles.
 - 2026-11-02 20:16 — [Tablero Maquinita Pandora💥70 Mil Juegos Clasicos,Consola Retro‼️Emuladores Top✅️Videojuegos Top✅️🎮](https://www.facebook.com/marketplace/item/1785551825864826) — $2.100 — Vendedor: Nutrijugos LA Selva
 - 2026-11-02 20:15 — [Tableros Arcade‼️Consola 70 Mil Juegos Retro💥Tipo Maquinitas Emuladores Variados Top‼️🤩🏡🛵💨](https://www.facebook.com/marketplace/item/1655309465997120) — $2.100 — Vendedor: Nutrijugos LA Selva
 - 2026-11-02 20:13 — [Tablero Pandora Pro Plus👾🕹CONSOLA Árcade Retro 70 Mil Juegos🎮‼️Videojuegos Top 4K🏡🛵💨](https://www.facebook.com/marketplace/item/1679688227165301) — $2.100 — Vendedor: Nutrijugos LA Selva
+- 2026-11-10 22:19 — [Xbox se va calado incluye todo lo de imagen](https://www.facebook.com/marketplace/item/1113405767994910) — $2.200 — Vendedor: Salma Beltran
 - 2026-11-16 14:45 — [PlayStation](https://www.facebook.com/marketplace/item/1756912518750357) — $2.300 — Vendedor: Axel Camacho
 - 2026-08-16 19:51 — [Tablero Arcade / Consola Arcade Pandora Box con 28,890 Videojuegos en 1 3D PANDORA PRO](https://www.facebook.com/marketplace/item/4122671664689790) — $2.499 — Vendedor: Dulcilandia Dulcería
 - 2026-07-18 10:34 — [Tablero Arcade / Consola Arcade Pandora Box con 28,890 Videojuegos en 1 3D PANDORA PRO](https://www.facebook.com/marketplace/item/2304930030249124) — $2.499 — Vendedor: Victoria MX

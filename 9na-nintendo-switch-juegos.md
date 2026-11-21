@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 259 anuncios disponibles.
+Total: 257 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -88,7 +88,6 @@ Total: 259 anuncios disponibles.
 - 2026-10-15 09:05 — [Juego Minecraft de Nintendo switch](https://www.facebook.com/marketplace/item/1372675438022186) — $400 — Vendedor: Daniela Gutierrez
 - 2026-10-10 18:06 — [Persona 5 Royal nintendo switch](https://www.facebook.com/marketplace/item/2312117519555499) — $400 — Vendedor: Adilene Dimas Rodriguez
 - 2026-10-07 18:06 — [Juegos switch solo son el cartucho sin caja en 400$ cada uno](https://www.facebook.com/marketplace/item/1672394670909520) — $400 — Vendedor: Antonio Lopez
-- 2026-10-06 12:00 — [BUSCO Pokémon Perla Brillante Nintendo Switch](https://www.facebook.com/marketplace/item/1429739015814163) — $400 — Vendedor: Rigo Mora
 - 2026-10-01 19:02 — [Monster hunter rise [venta o cambio]](https://www.facebook.com/marketplace/item/1724342732013497) — $400 — Vendedor: Jose Antonio Beltran
 - 2026-09-13 17:33 — [Se vende o se cambia por videojuegos de switch 1 y 2](https://www.facebook.com/marketplace/item/1096578389686317) — $400 — Vendedor: Jose Rios
 - 2026-09-12 10:42 — [Juegos de Nintendo switch](https://www.facebook.com/marketplace/item/1076396768655574) — $400 — Vendedor: Francisco González
@@ -124,7 +123,6 @@ Total: 259 anuncios disponibles.
 - 2026-09-14 16:51 — [Juegos de Nintendo Switch](https://www.facebook.com/marketplace/item/38497887106523967) — $500 — Vendedor: Mayra Pelayo Uribe
 - 2026-09-07 18:36 — [Juegos de switch solo cartuchos en 500 cada uno](https://www.facebook.com/marketplace/item/1116747290779961) — $500 — Vendedor: Antonio Lopez
 - 2026-09-07 07:14 — [Howarts legacy deluxe edition](https://www.facebook.com/marketplace/item/1117989594221404) — $500 — Vendedor: Adrian K-ztro
-- 2026-09-05 21:15 — [FIFA 23 Legacy Nintendo Switch](https://www.facebook.com/marketplace/item/2340236606831195) — $500 — Vendedor: Alan Roberto Quiroz
 - 2026-08-26 12:02 — [Mortal kombat 1 de nintendo switch](https://www.facebook.com/marketplace/item/910444001688869) — $500 — Vendedor: Pedro Escalante
 - 2026-08-13 14:38 — [Mario vs Donkey Kong Nintendo switch](https://www.facebook.com/marketplace/item/1029108453443066) — $500 — Vendedor: Alejo Lopez
 - 2026-07-30 22:27 — [Juegos nintendo switch smash mario kart sonic minecraft dragon ball](https://www.facebook.com/marketplace/item/2569850623461614) — $500 — Vendedor: Vicente Munguia

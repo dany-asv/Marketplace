@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 17 anuncios disponibles.
+Total: 18 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -22,8 +22,9 @@ Total: 17 anuncios disponibles.
 - 2026-10-09 14:23 — [PlayStation 5 + Juego + base de carga](https://www.facebook.com/marketplace/item/1570437731521786) — $8.000 — Vendedor: Julio Castro
 - 2026-06-21 23:06 — [Ps5 salimos digital y discp](https://www.facebook.com/marketplace/item/1535600208167358) — $8.000 — Vendedor: Abraham Peralta Sr.
 - 2026-11-18 19:57 — [Playstation 5](https://www.facebook.com/marketplace/item/1141110318316005) — $8.500 — Vendedor: Josue Iras
+- 2026-11-20 15:34 — [Ps5](https://www.facebook.com/marketplace/item/2634005337044663) — $12.000 — Vendedor: Ivan Ungson
+- 2026-11-19 23:59 — [Play station 5 NUEVA SELLADA✨](https://www.facebook.com/marketplace/item/1432969915657150) — $12.500 — Vendedor: Nick Valladares
 - 2026-11-11 06:35 — [Ps5 pro 4tb SSD](https://www.facebook.com/marketplace/item/2353400685405589) — $14.000 — Vendedor: Jose Nava
 - 2026-11-16 16:10 — [Ps5 slim edición 30 aniversario](https://www.facebook.com/marketplace/item/2032969994063475) — $16.000 — Vendedor: Helen Lopezgax
 - 2026-11-19 22:28 — [Ps5 pro 2 con lector de discos](https://www.facebook.com/marketplace/item/1603635338475188) — $19.000 — Vendedor: Luis Enrique
-- 2026-11-13 19:38 — [Ps5 pro con lectora de discos 2 teras](https://www.facebook.com/marketplace/item/2676071876155360) — $19.000 — Vendedor: Luis Enrique
 - 2026-07-17 17:05 — [PS5](https://www.facebook.com/marketplace/item/1748307049846660) — $111.111 — Vendedor: Aidali Armentta

@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 11 anuncios disponibles.
+Total: 12 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -15,6 +15,7 @@ Total: 11 anuncios disponibles.
 - 2026-11-02 11:54 — [Busco Nintendo 64](https://www.facebook.com/marketplace/item/2491543011375366) — $500 — Vendedor: Miguel Ruiz Chavez
 - 2026-10-25 08:36 — [Nintendo 64 con un juego](https://www.facebook.com/marketplace/item/4449534072041838) — $800 — Vendedor: Jurguen Camacho
 - 2026-03-31 15:53 — [Nitendo 64 completo](https://www.facebook.com/marketplace/item/3131399780382611) — $1.199 — Vendedor: Juan Velazquez
+- 2026-11-20 10:41 — [Nintendo 64 a tratar](https://www.facebook.com/marketplace/item/2144867972803617) — $1.500 — Vendedor: Ivan Lopez
 - 2026-11-14 14:20 — [Nintendo 64 a la venta completo y sin detalles.](https://www.facebook.com/marketplace/item/1156528463533325) — $1.500 — Vendedor: Juan Sergio Hernandez Araujo
 - 2026-11-07 04:55 — [Nintendo 64 o cambio por Nintendo NES](https://www.facebook.com/marketplace/item/1151707693869630) — $1.500 — Vendedor: Chito Hernandez
 - 2026-10-23 13:36 — [Nintendo 64 todos sus cables un control un juego en físico](https://www.facebook.com/marketplace/item/1789927362129536) — $1.500 — Vendedor: Chappy Chappy

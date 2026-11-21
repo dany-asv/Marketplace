@@ -6,10 +6,11 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 2 anuncios disponibles.
+Total: 3 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
 
 - 2026-10-05 23:06 — [UMDs de psp](https://www.facebook.com/marketplace/item/1115040768128778) — $3 — Vendedor: Ryu Hayabusa
 - 2026-05-25 16:20 — [Discos psp y memoria 1gb](https://www.facebook.com/marketplace/item/866509575822974) — $350 — Vendedor: Mario Garcia
+- 2026-08-24 18:00 — [Juegos para psp](https://www.facebook.com/marketplace/item/1556737642107247) — $555 — Vendedor: Chappy Chappy

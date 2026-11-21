@@ -6,16 +6,17 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 197 anuncios disponibles.
+Total: 200 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
+- 2026-11-20 17:08 — [Juegos de Xbox](https://www.facebook.com/marketplace/item/1833210607798432) — GRATIS — Vendedor: Yerak Valdez
 - 2026-11-16 14:16 — [Videojuegos usados](https://www.facebook.com/marketplace/item/2461039508034702) — GRATIS — Vendedor: Mario Olivas
 - 2026-11-12 23:59 — [Juegos de nintendo](https://www.facebook.com/marketplace/item/1446917647564716) — GRATIS — Vendedor: Mariel Haydee Castro Castro
 - 2026-11-05 19:37 — [Sonic 2 y ni no kuni](https://www.facebook.com/marketplace/item/2149935728978567) — GRATIS — Vendedor: Antonio Rodriguez
 - 2026-09-16 20:23 — [Juegos xbox, Playstation](https://www.facebook.com/marketplace/item/2094708207916171) — GRATIS — Vendedor: Eros Celis
 - 2026-09-12 20:56 — [Juegos digitales para ps4/ps5](https://www.facebook.com/marketplace/item/2276280719873426) — GRATIS — Vendedor: Zahir Quintero
-- 2026-08-27 16:04 — [Juegos de switch, ps5 y xbox](https://www.facebook.com/marketplace/item/1422661659727518) — GRATIS — Vendedor: Ivan Delval
+- 2026-08-30 19:17 — [Videojuegos+](https://www.facebook.com/marketplace/item/1590364968924731) — GRATIS — Vendedor: Ivan Gortarez
 - 2026-07-15 16:55 — [Juegos Xbox](https://www.facebook.com/marketplace/item/1773085997030145) — GRATIS — Vendedor: Darey Roberto
 - 2026-04-27 17:17 — [Juegos de Nintendo](https://www.facebook.com/marketplace/item/1342065097975792) — GRATIS — Vendedor: Iris Martinez
 - 2026-04-27 13:57 — [Juegos de ps4 y ps5🔥](https://www.facebook.com/marketplace/item/803629019153954) — GRATIS — Vendedor: Andres Acosta
@@ -94,6 +95,7 @@ Total: 197 anuncios disponibles.
 - 2026-07-03 17:44 — [Juego para play](https://www.facebook.com/marketplace/item/27024987773864236) — $350 — Vendedor: Javier Vlza Cota
 - 2026-04-02 13:25 — [FIFA 16](https://www.facebook.com/marketplace/item/966556406321627) — $350 — Vendedor: Pedro Soto
 - 2025-12-29 17:48 — [Juegos PlayStation](https://www.facebook.com/marketplace/item/1914264792632225) — $350 — Vendedor: Angel Valenzuela Peña
+- 2026-11-18 15:27 — [Mario Oddysey ( sin caja )](https://www.facebook.com/marketplace/item/2325268674698395) — $400 — Vendedor: Jorge A Armenta Payan
 - 2026-11-06 14:20 — [Days Gone](https://www.facebook.com/marketplace/item/1583914160207078) — $400 — Vendedor: Ulises Valenzuela Ochoa
 - 2026-09-06 18:40 — [Spiderman miles morales](https://www.facebook.com/marketplace/item/3446274895539708) — $400 — Vendedor: Ivan Aguero
 - 2026-06-18 10:55 — [Mario Rabbids](https://www.facebook.com/marketplace/item/2469117890261097) — $400 — Vendedor: Jorge Luis Ramirez
@@ -112,6 +114,7 @@ Total: 197 anuncios disponibles.
 - 2026-11-10 16:20 — [Se venden videojuegos](https://www.facebook.com/marketplace/item/1483446283640714) — $500 — Vendedor: Jazmin Invitaciones Digitales
 - 2026-11-10 16:19 — [Se venden videojuegos](https://www.facebook.com/marketplace/item/1484740447169677) — $500 — Vendedor: Jazmin Invitaciones Digitales
 - 2026-10-26 16:18 — [Crash insane trilogy](https://www.facebook.com/marketplace/item/1834198177918370) — $500 — Vendedor: Enrique Garcia
+- 2026-10-16 15:22 — [GTA 5 para xbox](https://www.facebook.com/marketplace/item/1472382521408942) — $500 — Vendedor: Miguelito Shelby
 - 2026-09-27 18:14 — [Venta juegos usados](https://www.facebook.com/marketplace/item/1384779526693061) — $500 — Vendedor: Hector Padilla
 - 2026-09-27 14:53 — [Se venden videojuegos](https://www.facebook.com/marketplace/item/1755332999076334) — $500 — Vendedor: Jazmin Invitaciones Digitales
 - 2026-09-10 00:18 — [Juegos](https://www.facebook.com/marketplace/item/1598658118333400) — $500 — Vendedor: Karlita Martinez

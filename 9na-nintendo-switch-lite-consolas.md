@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 35 anuncios disponibles.
+Total: 37 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -18,6 +18,7 @@ Total: 35 anuncios disponibles.
 - 2026-10-31 13:19 — [NINTENDO SWITCH LITE](https://www.facebook.com/marketplace/item/4550554371825482) — $3 — Vendedor: Viry Montiel
 - 2026-11-16 21:31 — [Nintendo Switch Lite](https://www.facebook.com/marketplace/item/1162023380119934) — $123 — Vendedor: Emi CM
 - 2026-11-15 10:56 — [Nintendo Switch Lite con varios juegos](https://www.facebook.com/marketplace/item/2257621274798511) — $123 — Vendedor: Emi CM
+- 2026-11-18 13:31 — [Switch lite solo consola, ningún detalle se entrega ya cargada](https://www.facebook.com/marketplace/item/1314452584145703) — $1.700 — Vendedor: Antoni Tony
 - 2026-09-28 11:58 — [Nintendo switch lite](https://www.facebook.com/marketplace/item/1077738021743766) — $1.700 — Vendedor: César Gutiérrez
 - 2026-10-27 02:57 — [NINTENDO SWITCH LITE](https://www.facebook.com/marketplace/item/1110392755114203) — $2.000 — Vendedor: Licenciado Luis Antonio
 - 2026-10-09 13:54 — [Nintendo Switch Lite Rosa](https://www.facebook.com/marketplace/item/1836019150883947) — $2.000 — Vendedor: Alexa Yamileth
@@ -32,6 +33,7 @@ Total: 35 anuncios disponibles.
 - 2026-11-15 09:46 — [NINTENDO SWITCH LIFE](https://www.facebook.com/marketplace/item/4048191658823179) — $2.500 — Vendedor: Marbella Medina
 - 2026-09-07 10:04 — [En venta!! Nintendo Switch Lite](https://www.facebook.com/marketplace/item/1572663807991431) — $2.500 — Vendedor: Ingrid Curiel Noriega
 - 2026-09-23 08:38 — [Nintendo switch lite](https://www.facebook.com/marketplace/item/917225891181552) — $2.600 — Vendedor: Marte Verdugo Gil
+- 2026-11-20 08:56 — [Nintendo Switch Lite](https://www.facebook.com/marketplace/item/1191409653233693) — $2.800 — Vendedor: Yahel Sánchez
 - 2026-11-16 22:49 — [NINTENDO SWITCH LITE](https://www.facebook.com/marketplace/item/1495869382441961) — $2.800 — Vendedor: Ulises Valenzuela Ochoa
 - 2026-06-07 18:32 — [Nintendo Switch Lite Turquesa + Luigi's Mansion 3](https://www.facebook.com/marketplace/item/1231794408901770) — $2.800 — Vendedor: Paulina Montiel
 - 2026-06-10 10:36 — [Nintendo Switch Lite](https://www.facebook.com/marketplace/item/1917042085651344) — $2.850 — Vendedor: Yomara Guerrero

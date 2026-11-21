@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 30 anuncios disponibles.
+Total: 32 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -17,6 +17,7 @@ Total: 30 anuncios disponibles.
 - 2026-11-17 18:03 — [FC26 Play 5. Nuevo Sellado](https://www.facebook.com/marketplace/item/1847420963126189) — $350 — Vendedor: Dulce Rodriguez
 - 2026-11-12 00:26 — [FIFA 23 ps5](https://www.facebook.com/marketplace/item/29676039208646385) — $400 — Vendedor: Dante Esquer
 - 2026-10-25 13:34 — [Spiderman Miles Morales PS5 🕹️✅](https://www.facebook.com/marketplace/item/2119430528932771) — $400 — Vendedor: Ricardo Beltrán
+- 2026-10-04 14:46 — [Madden NFL 25 PS5 NUEVO-SELLADO](https://www.facebook.com/marketplace/item/1608358747508500) — $400 — Vendedor: Rigo Mora
 - 2026-11-17 15:47 — [$450 Nuevo Sellado Envío Gratis✅ FC26 Ps5](https://www.facebook.com/marketplace/item/1138980868492976) — $450 — Vendedor: Jassiel Laurean
 - 2026-11-13 12:47 — [Ratchet ps5](https://www.facebook.com/marketplace/item/27397924776572205) — $450 — Vendedor: Iram A. Payan
 - 2026-11-12 00:27 — [FC 24 ps5 $450](https://www.facebook.com/marketplace/item/4062880204006391) — $450 — Vendedor: Dante Esquer
@@ -28,6 +29,7 @@ Total: 30 anuncios disponibles.
 - 2026-07-08 21:40 — [🎮"UFC 5 (PS5) o Cambio "🎮 leer descripción.....](https://www.facebook.com/marketplace/item/1674624370288619) — $500 — Vendedor: Jose Luis Bravo
 - 2026-06-01 10:12 — [Juegos ps5 en buenas condiciones se van en $500$ cada uno](https://www.facebook.com/marketplace/item/2937953079883311) — $500 — Vendedor: Antonio Lopez
 - 2026-01-16 15:35 — [Se vende o se cambia juego digital call of duty ops 6 para ps5](https://www.facebook.com/marketplace/item/903463258883582) — $500 — Vendedor: Andy Rubio
+- 2026-07-25 17:44 — [Call of Duty Black Ops 6 para Ps5 Nuevo Barato 🔥🎮 Playstation 5](https://www.facebook.com/marketplace/item/1048879148096607) — $599 — Vendedor: Jose Manuel Lopez
 - 2026-11-17 09:19 — [Gran Turismo 7 y Astro Bot PS5 - Códigos de descarga](https://www.facebook.com/marketplace/item/1667846451391737) — $600 — Vendedor: Eduardo Alarcon
 - 2026-10-11 12:03 — [Sillent hill Townfall PS5](https://www.facebook.com/marketplace/item/1115472197556304) — $600 — Vendedor: Roberto Ortega
 - 2026-10-03 19:27 — [Juegos de playstation 5 ps5](https://www.facebook.com/marketplace/item/2166624194267260) — $600 — Vendedor: Jesus Antonio Gonzalez Alvarez

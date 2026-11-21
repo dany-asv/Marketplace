@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 5 anuncios disponibles.
+Total: 6 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -15,3 +15,4 @@ Total: 5 anuncios disponibles.
 - 2026-10-04 11:05 — [NINTENDO NESS ORIGINAL](https://www.facebook.com/marketplace/item/1735730497503674) — $1.500 — Vendedor: Eduardo Leyva
 - 2026-08-16 12:49 — [Nintendo Nes Classic Edition](https://www.facebook.com/marketplace/item/1387632986656312) — $1.600 — Vendedor: Gabriel Ortega
 - 2026-10-28 23:06 — [Vendo Nintendo Nes original japones el primer clásico de Mario bros.](https://www.facebook.com/marketplace/item/1100735932874841) — $2.500 — Vendedor: Omar Marquez
+- 2026-11-20 18:14 — [Nintendo Mini Nes Classic Edition Orginal Calidad 100% Colección Gris/blanco](https://www.facebook.com/marketplace/item/1151929617359510) — $2.753 — Vendedor: Allan Borboa Estefan
