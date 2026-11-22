@@ -6,10 +6,11 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 200 anuncios disponibles.
+Total: 203 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
+- 2026-11-21 19:06 — [Venta de videojuegos nuevos y sellados . Diferentes precios. Precio mejorable 3 o + piezas](https://www.facebook.com/marketplace/item/2500296367162757) — GRATIS — Vendedor: Iram A. Payan
 - 2026-11-20 17:08 — [Juegos de Xbox](https://www.facebook.com/marketplace/item/1833210607798432) — GRATIS — Vendedor: Yerak Valdez
 - 2026-11-16 14:16 — [Videojuegos usados](https://www.facebook.com/marketplace/item/2461039508034702) — GRATIS — Vendedor: Mario Olivas
 - 2026-11-12 23:59 — [Juegos de nintendo](https://www.facebook.com/marketplace/item/1446917647564716) — GRATIS — Vendedor: Mariel Haydee Castro Castro
@@ -54,6 +55,7 @@ Total: 200 anuncios disponibles.
 - 2026-07-24 13:14 — [Juegos de PS4 , PS5 Y XBOX ONE](https://www.facebook.com/marketplace/item/2619162841874186) — $150 — Vendedor: Ulises Valenzuela Ochoa
 - 2026-03-15 17:04 — [Juegos de ps4 y ps5](https://www.facebook.com/marketplace/item/2395477627568502) — $150 — Vendedor: LC JG
 - 2025-11-16 23:18 — [Videojuegos](https://www.facebook.com/marketplace/item/1491506838754471) — $150 — Vendedor: Carmen Bernardo
+- 2026-11-21 19:00 — [Videojuegos nuevos nintendo switch 2 Nintendo switch y play station 5](https://www.facebook.com/marketplace/item/1133627782620304) — $200 — Vendedor: Iram A. Payan
 - 2026-10-25 15:59 — [Juegos varios](https://www.facebook.com/marketplace/item/2048418189196396) — $200 — Vendedor: Daniel Nieblas
 - 2026-09-04 23:07 — [Assassins cred unity](https://www.facebook.com/marketplace/item/2609561686180826) — $200 — Vendedor: Ivan Aguero
 - 2026-09-04 23:06 — [FIFA 21](https://www.facebook.com/marketplace/item/38087170387598334) — $200 — Vendedor: Ivan Aguero
@@ -153,6 +155,7 @@ Total: 200 anuncios disponibles.
 - 2026-01-11 19:28 — [Mortal Kombat XL](https://www.facebook.com/marketplace/item/1624070775254403) — $600 — Vendedor: Martha Elena Baez
 - 2026-05-24 17:09 — [Juegos de Nintendo en 650 cada uno](https://www.facebook.com/marketplace/item/1442491020983996) — $650 — Vendedor: Serrano Guadalupe
 - 2026-03-19 00:23 — [Bloodstained ,no Mario no Zelda no Pokémon](https://www.facebook.com/marketplace/item/1409793727131506) — $650 — Vendedor: Orlando Alfredo Souza
+- 2026-11-20 12:21 — [Mario Party SuperStars](https://www.facebook.com/marketplace/item/1797380411482610) — $700 — Vendedor: Luis Angel IR
 - 2026-09-07 18:44 — [Juegos de Nintendo ds y 3ds 700 por los 3](https://www.facebook.com/marketplace/item/1086436467247358) — $700 — Vendedor: Antonio Lopez
 - 2026-07-07 22:01 — [Juego PlayStation Call of Duty WW2](https://www.facebook.com/marketplace/item/1990993595116282) — $700 — Vendedor: Semilla Césped Bermuda Pasto
 - 2026-07-07 21:59 — [Juego PlayStation Spiderman Miles Morales](https://www.facebook.com/marketplace/item/3128693940673835) — $700 — Vendedor: Semilla Césped Bermuda Pasto

@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 137 anuncios disponibles.
+Total: 138 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -146,4 +146,5 @@ Total: 137 anuncios disponibles.
 - 2025-12-31 17:09 — [Video juego PS4](https://www.facebook.com/marketplace/item/2128414791028815) — $3.500 — Vendedor: Luis Sanchez
 - 2026-04-10 22:03 — [Sekiro](https://www.facebook.com/marketplace/item/4430478487278849) — $4.000 — Vendedor: Luis Sanchez
 - 2026-07-08 17:39 — [Juegos de PS4](https://www.facebook.com/marketplace/item/940986858715826) — $5.499 — Vendedor: HR Boss
+- 2026-11-15 17:19 — [NieR Automata Black Box Edition PS4 Completa, con detalles de empaque](https://www.facebook.com/marketplace/item/1393874372598489) — $5.500 — Vendedor: Francisco Arturo
 - 2026-01-09 00:22 — [Juegos ps4](https://www.facebook.com/marketplace/item/1399396975121317) — $150.300 — Vendedor: Yamiro Rabago

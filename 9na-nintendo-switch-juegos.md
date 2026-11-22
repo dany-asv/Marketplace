@@ -74,6 +74,7 @@ Total: 257 anuncios disponibles.
 - 2026-06-29 22:45 — [Juegos Nintendo switch sin caja en 350 cada uno](https://www.facebook.com/marketplace/item/1331141795266315) — $350 — Vendedor: Antonio Lopez
 - 2026-04-11 20:53 — [Rayman leyends para switch cambio](https://www.facebook.com/marketplace/item/1193365979404054) — $350 — Vendedor: Rafael Aguilar
 - 2026-03-25 20:47 — [Mortal kombat switch](https://www.facebook.com/marketplace/item/1454866936340286) — $350 — Vendedor: Marco Antonio
+- 2026-11-18 10:14 — [Switch 1-2 juego](https://www.facebook.com/marketplace/item/1160996483057217) — $400 — Vendedor: Vent Vent
 - 2026-11-17 15:20 — [Juegos de Nintendo switch sin caja en 400 cada uno](https://www.facebook.com/marketplace/item/1624202036175180) — $400 — Vendedor: Antoni Tony
 - 2026-11-12 11:36 — [Minecraft para nintendo switch $500](https://www.facebook.com/marketplace/item/1582863160263385) — $400 — Vendedor: Axel Luna
 - 2026-11-12 11:34 — [Minecratf juego para nintendo switch](https://www.facebook.com/marketplace/item/1682902680059135) — $400 — Vendedor: Axel Luna
@@ -99,7 +100,6 @@ Total: 257 anuncios disponibles.
 - 2026-06-15 14:36 — [Dragon Ball FighterZ para Switch](https://www.facebook.com/marketplace/item/958898993905269) — $400 — Vendedor: Maria Beatriz Valenzuela
 - 2026-03-14 15:11 — [Bluey para switch](https://www.facebook.com/marketplace/item/963284813309184) — $400 — Vendedor: Jesus Eduardo
 - 2026-11-17 15:23 — [Juegos de Nintendo switch 450 cada uno](https://www.facebook.com/marketplace/item/1710249967378891) — $450 — Vendedor: Antoni Tony
-- 2026-11-16 01:41 — [FC 25 para Nintendo Switch](https://www.facebook.com/marketplace/item/1147982394798178) — $450 — Vendedor: Gustavo Flores
 - 2026-11-10 18:58 — [Juegos switch 450 cada uno](https://www.facebook.com/marketplace/item/2349709749159061) — $450 — Vendedor: Antonio Lopez
 - 2026-10-14 11:18 — [Juego para nintendo switch Minecraft](https://www.facebook.com/marketplace/item/1828072735199656) — $450 — Vendedor: Jose Cass
 - 2026-10-11 13:05 — [Sonic Forces para nintendo switch](https://www.facebook.com/marketplace/item/1647524947084183) — $450 — Vendedor: Jose Cass

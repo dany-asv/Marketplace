@@ -6,9 +6,10 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 2 anuncios disponibles.
+Total: 3 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
 - 2026-07-27 15:32 — [Fuente para Nintendo 64](https://www.facebook.com/marketplace/item/1358223929614953) — $111 — Vendedor: Ivan Lopez
 - 2026-06-24 12:29 — [Control para Nintendo 64 N64](https://www.facebook.com/marketplace/item/1005371965696739) — $250 — Vendedor: Plays Hacks
+- 2026-06-17 05:36 — [Cable de corriente para N64](https://www.facebook.com/marketplace/item/1689131632121202) — $280 — Vendedor: Plays Hacks

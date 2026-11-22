@@ -6,11 +6,13 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 8 anuncios disponibles.
+Total: 10 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
 - 2026-11-14 14:14 — [Cajita para baterías xbox 360](https://www.facebook.com/marketplace/item/2355208668632638) — $70 — Vendedor: Juan Sergio Hernandez Araujo
+- 2026-09-25 20:09 — [Tapa para batería control Xbox 360](https://www.facebook.com/marketplace/item/1099720955792658) — $70 — Vendedor: Alma Valdez
+- 2026-07-27 15:32 — [Rca componente xbox 360 y accesorios](https://www.facebook.com/marketplace/item/2196658771129317) — $111 — Vendedor: Ivan Lopez
 - 2026-08-06 20:10 — [Kit Carga y Juega Xbox 360](https://www.facebook.com/marketplace/item/1975529036497930) — $120 — Vendedor: Joshua Álvarez Ortiz
 - 2026-08-31 22:23 — [Control Xbox 360 Alámbrico 2.5 metros](https://www.facebook.com/marketplace/item/1051631364510742) — $239 — Vendedor: Joshua Álvarez Ortiz
 - 2026-09-24 00:19 — [Control xbox 360](https://www.facebook.com/marketplace/item/1840542203774373) — $250 — Vendedor: Cota Alberto

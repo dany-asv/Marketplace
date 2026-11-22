@@ -18,7 +18,7 @@ Total: 32 anuncios disponibles.
 - 2026-11-12 00:26 — [FIFA 23 ps5](https://www.facebook.com/marketplace/item/29676039208646385) — $400 — Vendedor: Dante Esquer
 - 2026-10-25 13:34 — [Spiderman Miles Morales PS5 🕹️✅](https://www.facebook.com/marketplace/item/2119430528932771) — $400 — Vendedor: Ricardo Beltrán
 - 2026-10-04 14:46 — [Madden NFL 25 PS5 NUEVO-SELLADO](https://www.facebook.com/marketplace/item/1608358747508500) — $400 — Vendedor: Rigo Mora
-- 2026-11-17 15:47 — [$450 Nuevo Sellado Envío Gratis✅ FC26 Ps5](https://www.facebook.com/marketplace/item/1138980868492976) — $450 — Vendedor: Jassiel Laurean
+- 2026-11-21 12:03 — [Vendo juego WAY OF THE HUNTER COMO NUEVO PARA PS5 !INTACTO SIN RAYONES¡ negociabl e intercambiable](https://www.facebook.com/marketplace/item/2250282039253633) — $450 — Vendedor: Diego Ventura
 - 2026-11-13 12:47 — [Ratchet ps5](https://www.facebook.com/marketplace/item/27397924776572205) — $450 — Vendedor: Iram A. Payan
 - 2026-11-12 00:27 — [FC 24 ps5 $450](https://www.facebook.com/marketplace/item/4062880204006391) — $450 — Vendedor: Dante Esquer
 - 2026-11-18 13:28 — [Juegos ps5 diferentes precios](https://www.facebook.com/marketplace/item/2316959242391360) — $500 — Vendedor: Antoni Tony

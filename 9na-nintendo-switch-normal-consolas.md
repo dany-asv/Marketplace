@@ -35,7 +35,6 @@ Total: 136 anuncios disponibles.
 - 2026-10-17 12:18 — [Nintendo switch](https://www.facebook.com/marketplace/item/1844710606692153) — $2.200 — Vendedor: Empeña Facil Canteras
 - 2026-08-24 13:01 — [Nintendo switc](https://www.facebook.com/marketplace/item/1860533582523040) — $2.200 — Vendedor: KGeovanna Ante
 - 2026-05-11 23:48 — [Nintendo Switch](https://www.facebook.com/marketplace/item/1970031997211288) — $2.400 — Vendedor: Santiago Ruiz
-- 2026-09-19 10:04 — [🎮 Nintendo Switch](https://www.facebook.com/marketplace/item/1113693594348024) — $2.500 — Vendedor: Walter Lopez
 - 2026-08-23 11:59 — [Nintendo Switch](https://www.facebook.com/marketplace/item/2054582121931555) — $2.500 — Vendedor: Jorge Kevin Contreras
 - 2026-07-12 15:42 — [Nintendo switch](https://www.facebook.com/marketplace/item/1444467884185413) — $2.500 — Vendedor: Joaquin L Beltran
 - 2026-07-06 14:17 — [Nintendo SWITCH](https://www.facebook.com/marketplace/item/1314242077492479) — $2.500 — Vendedor: Paul de la Herrán
@@ -46,6 +45,7 @@ Total: 136 anuncios disponibles.
 - 2026-10-20 19:35 — [Nintendo switch](https://www.facebook.com/marketplace/item/978817785304236) — $2.700 — Vendedor: David Cañedo
 - 2026-08-07 16:49 — [Nintendo switch 2da generación](https://www.facebook.com/marketplace/item/1237042355183411) — $2.700 — Vendedor: Empeña Facil Pedro Anaya
 - 2026-06-29 22:45 — [Nintendo switch con todos sus accesorios](https://www.facebook.com/marketplace/item/2514538425684497) — $2.700 — Vendedor: Antonio Lopez
+- 2026-11-21 19:14 — [Nintendo Switch](https://www.facebook.com/marketplace/item/1712989033491916) — $2.800 — Vendedor: Axel Rodriguez
 - 2026-11-11 10:49 — [Vendo Nintendo Switch (detalles por uso)](https://www.facebook.com/marketplace/item/1595279695620271) — $2.800 — Vendedor: Luis Quintero Villegas
 - 2026-11-06 12:46 — [NINTENDO SWITCH](https://www.facebook.com/marketplace/item/1172179005378802) — $2.800 — Vendedor: Eduardo Lamphar Jr.
 - 2026-08-23 18:53 — [Nintendo switch](https://www.facebook.com/marketplace/item/937368092068367) — $2.800
