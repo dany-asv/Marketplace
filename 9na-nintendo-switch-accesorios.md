@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 74 anuncios disponibles.
+Total: 75 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -22,6 +22,7 @@ Total: 74 anuncios disponibles.
 - 2026-08-05 17:59 — [Dock blanco para nintendo switch](https://www.facebook.com/marketplace/item/1443267880945157) — $111 — Vendedor: Chappy Chappy
 - 2026-08-02 11:28 — [Dock para Nintendo](https://www.facebook.com/marketplace/item/2088648235192630) — $111 — Vendedor: Ivan Lopez
 - 2026-07-27 15:36 — [Accesorios para cargar Nintendo switch](https://www.facebook.com/marketplace/item/1049915067433242) — $111 — Vendedor: Ivan Lopez
+- 2026-07-27 15:32 — [Doc para nintendo switch](https://www.facebook.com/marketplace/item/2510350166148024) — $111 — Vendedor: Ivan Lopez
 - 2026-11-16 22:10 — [Control Nyxi wizard 1 para switch 1 y 2 Memoria 128 gb compatible para switch 1](https://www.facebook.com/marketplace/item/1055893444189247) — $123 — Vendedor: Lizeth Manzanarez
 - 2026-09-02 01:00 — [Funda para nintendo switch normal, oled y lite](https://www.facebook.com/marketplace/item/1048618724709558) — $150 — Vendedor: Ana Julia Ahumada
 - 2026-08-20 11:42 — [Par de correas para joycons/controles nintendo Switch - Joycons](https://www.facebook.com/marketplace/item/1610268643846929) — $150 — Vendedor: Roberto Vega

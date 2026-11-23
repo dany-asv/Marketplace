@@ -13,7 +13,6 @@ Total: 17 anuncios disponibles.
 - 2026-11-21 21:42 — [Vendo juegos para Xbox one](https://www.facebook.com/marketplace/item/29373356165665420) — GRATIS — Vendedor: Pery Lopez
 - 2026-11-18 09:58 — [Juegos para Xbox One S](https://www.facebook.com/marketplace/item/1153335560886174) — GRATIS — Vendedor: Jesus Villanueva
 - 2026-11-16 13:14 — [Juegos de Xbox One](https://www.facebook.com/marketplace/item/29028589746808531) — GRATIS — Vendedor: Luis Humberto Rios
-- 2026-11-13 15:03 — [Vendo juegos de Xbox one y control gamesir kalei flux](https://www.facebook.com/marketplace/item/1122923617202322) — GRATIS — Vendedor: Pery Lopez
 - 2026-11-13 14:52 — [Vendo o cambio juegos de Xbox one y control gamesir](https://www.facebook.com/marketplace/item/1579355263949685) — GRATIS — Vendedor: Pedro Carrazco
 - 2026-10-30 12:25 — [Juegos Xbox one](https://www.facebook.com/marketplace/item/28755313227430548) — GRATIS — Vendedor: Brian Quintero
 - 2026-08-20 23:57 — [Vendo lote de 4 juegos FIFA para Xbox One, todo jalando al 100, sin rayones, caja y disco. - FIFA 1](https://www.facebook.com/marketplace/item/1755370969213209) — GRATIS — Vendedor: Nahum Olea
@@ -25,5 +24,6 @@ Total: 17 anuncios disponibles.
 - 2026-08-12 18:01 — [Juego para xbox one](https://www.facebook.com/marketplace/item/1376316431358948) — $111 — Vendedor: Ivan Lopez
 - 2026-07-27 15:32 — [Juegos para xbox one diferente precio](https://www.facebook.com/marketplace/item/1577052047332724) — $111 — Vendedor: Ivan Lopez
 - 2026-10-09 14:09 — [Se vende farcry animal Xbox One 💿](https://www.facebook.com/marketplace/item/1568137417949824) — $250 — Vendedor: Ariel Montoya
+- 2026-11-22 23:01 — [Juegos XBOX ONE](https://www.facebook.com/marketplace/item/2188523995076488) — $350 — Vendedor: Juan Alonso Valdés
 - 2026-11-10 16:24 — [Calle of duty modern warfer xbox one](https://www.facebook.com/marketplace/item/1159726583190634) — $350 — Vendedor: JV Cases Mochis
 - 2026-08-01 15:28 — [Juegos para XBOX ONE](https://www.facebook.com/marketplace/item/894443396611840) — $350 — Vendedor: Paula Valenzuela

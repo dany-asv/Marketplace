@@ -6,10 +6,11 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 203 anuncios disponibles.
+Total: 206 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
+- 2026-11-22 18:37 — [Videojuegos](https://www.facebook.com/marketplace/item/1507917231246206) — GRATIS — Vendedor: Mario de la Peña
 - 2026-11-21 19:06 — [Venta de videojuegos nuevos y sellados . Diferentes precios. Precio mejorable 3 o + piezas](https://www.facebook.com/marketplace/item/2500296367162757) — GRATIS — Vendedor: Iram A. Payan
 - 2026-11-20 17:08 — [Juegos de Xbox](https://www.facebook.com/marketplace/item/1833210607798432) — GRATIS — Vendedor: Yerak Valdez
 - 2026-11-16 14:16 — [Videojuegos usados](https://www.facebook.com/marketplace/item/2461039508034702) — GRATIS — Vendedor: Mario Olivas
@@ -49,6 +50,7 @@ Total: 203 anuncios disponibles.
 - 2026-07-27 15:32 — [Juegos para Playstation baratos](https://www.facebook.com/marketplace/item/1883767236342701) — $111 — Vendedor: Ivan Lopez
 - 2026-07-27 15:32 — [Juegos para Nintendo 3ds y ds](https://www.facebook.com/marketplace/item/1005436722321581) — $111 — Vendedor: Ivan Lopez
 - 2026-11-12 10:26 — [Vendo juegos para consola](https://www.facebook.com/marketplace/item/2915703652120828) — $120 — Vendedor: Cazares Maricela
+- 2026-11-21 11:43 — [Juegos xbox](https://www.facebook.com/marketplace/item/1138704491903266) — $123 — Vendedor: Zahir Quintero
 - 2026-11-14 00:20 — [🕹️ Videojuegos arcade para revivir la nostalgia](https://www.facebook.com/marketplace/item/1145671781197073) — $123 — Vendedor: Manuel Cardoza
 - 2026-09-25 13:59 — [Juegos para xboxby PlayStation 3](https://www.facebook.com/marketplace/item/1995884721119317) — $150 — Vendedor: Hermes Erbey Castro
 - 2026-09-09 14:51 — [Juegos PS1 PS2 PS3 PS4 NDS](https://www.facebook.com/marketplace/item/1813364033343254) — $150 — Vendedor: Bogard Santos Zazueta
@@ -85,6 +87,7 @@ Total: 203 anuncios disponibles.
 - 2026-09-04 23:05 — [Call of duty mordern warfare](https://www.facebook.com/marketplace/item/1389074929329932) — $300 — Vendedor: Ivan Aguero
 - 2026-09-04 23:02 — [Battlefield 2042](https://www.facebook.com/marketplace/item/1965405371513322) — $300 — Vendedor: Ivan Aguero
 - 2026-09-01 09:12 — [Horizon zero dawn](https://www.facebook.com/marketplace/item/4639015783035457) — $300 — Vendedor: Armando Martinez
+- 2026-08-16 12:25 — [Juegos Xbox](https://www.facebook.com/marketplace/item/1739073023676087) — $300 — Vendedor: Luis Rojo
 - 2026-03-04 14:06 — [Videojuegos](https://www.facebook.com/marketplace/item/5009893595904143) — $300 — Vendedor: Kevin Rodriges
 - 2026-02-24 15:47 — [Gta v](https://www.facebook.com/marketplace/item/1977082312886759) — $300 — Vendedor: Santiago Leal
 - 2025-10-07 15:43 — [Juegos de ps4 y 1 de ps5](https://www.facebook.com/marketplace/item/687787003766194) — $300 — Vendedor: Joss Etzo

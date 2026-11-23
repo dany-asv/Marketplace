@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 16 anuncios disponibles.
+Total: 15 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -17,7 +17,6 @@ Total: 16 anuncios disponibles.
 - 2026-09-15 11:55 — [Ps2](https://www.facebook.com/marketplace/item/1480791590476865) — $180 — Vendedor: Fer Miranda
 - 2026-08-15 17:45 — [Vendo Playstation 2](https://www.facebook.com/marketplace/item/1345646364449755) — $300 — Vendedor: Carlos Romero
 - 2026-11-09 11:07 — [PLAY STATION 2 PARA REPARAR O PIEZAS](https://www.facebook.com/marketplace/item/1175953528272945) — $400 — Vendedor: Mario Aguilar
-- 2026-11-20 20:13 — [Playstation 2](https://www.facebook.com/marketplace/item/1916599373080395) — $500 — Vendedor: Ismael Vazquez
 - 2026-10-17 17:55 — [Play station 2](https://www.facebook.com/marketplace/item/1631177562120985) — $500 — Vendedor: Daniel Venegas
 - 2026-09-15 19:39 — [Ps2](https://www.facebook.com/marketplace/item/3611176619056495) — $500 — Vendedor: Jose Vazquez
 - 2026-11-08 16:02 — [PLAY STATION 2](https://www.facebook.com/marketplace/item/2980759965657039) — $600 — Vendedor: Mario Aguilar

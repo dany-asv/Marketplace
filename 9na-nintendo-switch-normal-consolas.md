@@ -24,6 +24,7 @@ Total: 136 anuncios disponibles.
 - 2026-09-11 13:41 — [Nintendo switch](https://www.facebook.com/marketplace/item/1083502440934361) — $400 — Vendedor: Bryan Alexis Soto Villela
 - 2026-08-08 17:30 — [Nintendo](https://www.facebook.com/marketplace/item/4492243184388217) — $1.200 — Vendedor: Marlen Polanco
 - 2026-07-28 23:38 — [Nintendo](https://www.facebook.com/marketplace/item/1095344166218595) — $1.500 — Vendedor: Marlen Polanco
+- 2026-11-22 20:10 — [Nintendo Swith](https://www.facebook.com/marketplace/item/1145797151536288) — $1.700 — Vendedor: Pablo Angel Xzl
 - 2026-11-16 13:56 — [Nintendo Switch](https://www.facebook.com/marketplace/item/2738777403191620) — $1.700 — Vendedor: Cindy Cota
 - 2026-11-18 20:42 — [Nintendo Switch ( detalles estéticos por uso ) funciona al 100% se entrega con protector y estuche](https://www.facebook.com/marketplace/item/2060904268066036) — $1.800 — Vendedor: Jorge A Armenta Payan
 - 2026-11-17 10:38 — [Nintendo switch](https://www.facebook.com/marketplace/item/4227843517513075) — $1.900 — Vendedor: Angel Ibarra
@@ -132,7 +133,6 @@ Total: 136 anuncios disponibles.
 - 2026-07-09 12:45 — [Nintendo switch](https://www.facebook.com/marketplace/item/1754000019087818) — $5.000 — Vendedor: Jazandy Castro
 - 2026-02-07 00:06 — [Nintendo Switch](https://www.facebook.com/marketplace/item/1286066770242483) — $5.000 — Vendedor: Emmanuel Figueroa
 - 2026-01-28 12:51 — [🎮Se vende Nintendo Switch EN CAJA + estuche, accesorios 🎮](https://www.facebook.com/marketplace/item/1443981450606997) — $5.000 — Vendedor: Miriam Barajas
-- 2026-11-17 21:38 — [Nintendo Switch: 4 juegos, 3 controles e incluye Dock](https://www.facebook.com/marketplace/item/1416295277335449) — $5.500 — Vendedor: Drake Castillo
 - 2026-07-22 17:06 — [Nintendo switch](https://www.facebook.com/marketplace/item/27531407469877975) — $5.500 — Vendedor: Yosheline Santos
 - 2026-06-27 18:23 — [Nintendo](https://www.facebook.com/marketplace/item/1526709461724715) — $5.500 — Vendedor: Fredy Lopez
 - 2026-11-14 11:10 — [NINTENDO SWITCH](https://www.facebook.com/marketplace/item/1167406185626020) — $5.599 — Vendedor: Jesus Valdez

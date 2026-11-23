@@ -13,11 +13,11 @@ Total: 14 anuncios disponibles.
 - 2026-11-20 16:12 — [Nintendo 3ds xl](https://www.facebook.com/marketplace/item/1948818022768980) — $2.000 — Vendedor: Sergio Lopez
 - 2026-11-14 14:55 — [Nintendo 3DS Color Negro en buen estado](https://www.facebook.com/marketplace/item/1892843775469861) — $2.000 — Vendedor: Jurguen Camacho
 - 2026-06-16 21:26 — [Compro 3ds](https://www.facebook.com/marketplace/item/872921785254753) — $2.000 — Vendedor: Sergio Lopez
+- 2026-11-22 23:41 — [Nintendo 3ds XL](https://www.facebook.com/marketplace/item/1972357320797774) — $2.500 — Vendedor: José Alberto Ceceña
 - 2026-10-15 13:21 — [Nintendo 3ds Original 1era edicion color negro](https://www.facebook.com/marketplace/item/1415749340084706) — $2.500 — Vendedor: Flip Jjr
 - 2026-07-03 18:10 — [3DS](https://www.facebook.com/marketplace/item/1616755913348464) — $2.500 — Vendedor: Luis López
 - 2026-11-10 07:40 — [Nintendo 3Ds Aqua Azul](https://www.facebook.com/marketplace/item/2192892814966499) — $2.800 — Vendedor: Akeem Espinoza
 - 2026-10-04 19:01 — [Old 3ds chipeada](https://www.facebook.com/marketplace/item/949429991086967) — $2.800 — Vendedor: David David
-- 2026-11-17 19:45 — [Nintendo 3DS XL](https://www.facebook.com/marketplace/item/1085150561235846) — $3.000 — Vendedor: Becker Gerardo
 - 2026-10-23 14:16 — [Nintendo 3DS 1ra edición](https://www.facebook.com/marketplace/item/1136186772688671) — $3.000 — Vendedor: Alejandro Alonso Aguilasocho
 - 2026-07-29 14:02 — [New Nintendo 3ds chipeada](https://www.facebook.com/marketplace/item/2826161461087736) — $3.000 — Vendedor: Jose Parra
 - 2026-11-18 13:26 — [3ds xl chipeada con varios juegos descargados y cargador original, solo detalles estéticos](https://www.facebook.com/marketplace/item/1113448758139341) — $3.100 — Vendedor: Antoni Tony

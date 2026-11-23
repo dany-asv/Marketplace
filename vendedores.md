@@ -1,22 +1,22 @@
 # Vendedores por número de publicaciones — Marketplace Los Mochis (videojuegos)
-Vendedores ordenados de mayor a menor número de publicaciones disponibles de videojuegos en Los Mochis, según la lista del repositorio (README.md, al 22 de noviembre de 2026).
+Vendedores ordenados de mayor a menor número de publicaciones disponibles de videojuegos en Los Mochis, según la lista del repositorio (README.md, al 23 de noviembre de 2026).
 - El nombre de cada vendedor es una liga a su perfil de Marketplace.
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
-Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
+Total: 1161 vendedores, 2057 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
 ## Vendedores (de mayor a menor número de publicaciones)
 - [Antonio Lopez](https://www.facebook.com/marketplace/profile/100040731070103) — 41 publicaciones ✓
 - [Antoni Tony](https://www.facebook.com/marketplace/profile/61557491476801) — 30 publicaciones ✓
-- [Ivan Lopez](https://www.facebook.com/marketplace/profile/100021428154020) — 29 publicaciones ✓
+- [Ivan Lopez](https://www.facebook.com/marketplace/profile/100021428154020) — 30 publicaciones ✓
 - [Carlos Jiménez](https://www.facebook.com/marketplace/profile/100007976233056) — 26 publicaciones
-- [Iram A. Payan](https://www.facebook.com/marketplace/profile/628453454) — 25 publicaciones
+- [Iram A. Payan](https://www.facebook.com/marketplace/profile/628453454) — 26 publicaciones
 - [Chappy Chappy](https://www.facebook.com/marketplace/profile/100026883520340) — 24 publicaciones ✓
 - [Sebastian Souza](https://www.facebook.com/marketplace/profile/100002607805317) — 23 publicaciones ✓
-- [Eduardo Llamas](https://www.facebook.com/marketplace/profile/100082976675996) — 20 publicaciones
-- [Stargames Valenzuela](https://www.facebook.com/marketplace/profile/61553128845022) — 19 publicaciones ✓
+- [Eduardo Llamas](https://www.facebook.com/marketplace/profile/100082976675996) — 21 publicaciones
+- [Stargames Valenzuela](https://www.facebook.com/marketplace/profile/61553128845022) — 21 publicaciones ✓
+- [Vicente Munguia](https://www.facebook.com/marketplace/profile/509548546) — 17 publicaciones ✓
 - [Plays Hacks](https://www.facebook.com/marketplace/profile/100007175611717) — 16 publicaciones
-- [Vicente Munguia](https://www.facebook.com/marketplace/profile/509548546) — 16 publicaciones ✓
-- [Axel Luna](https://www.facebook.com/marketplace/profile/100041876418121) — 12 publicaciones
+- [Axel Luna](https://www.facebook.com/marketplace/profile/100041876418121) — 13 publicaciones
 - [Carla Lopez](https://www.facebook.com/marketplace/profile/100009128428674) — 12 publicaciones
 - [Ivan Aguero](https://www.facebook.com/marketplace/profile/61591098105339) — 12 publicaciones
 - [Jesus Gilberto Alvarez Vega](https://www.facebook.com/marketplace/profile/100000465903128) — 12 publicaciones
@@ -24,18 +24,19 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Ulises Valenzuela Ochoa](https://www.facebook.com/marketplace/profile/100076629746475) — 11 publicaciones ✓
 - [Alma Valdez](https://www.facebook.com/marketplace/profile/100000462968670) — 10 publicaciones
 - [Gwendoline Palafox Almanza](https://www.facebook.com/marketplace/profile/61552019004427) — 10 publicaciones
-- [Lilia Vazquez](https://www.facebook.com/marketplace/profile/100000312936072) — 9 publicaciones
-- [Sergio Castro Félix](https://www.facebook.com/marketplace/profile/100055020152693) — 9 publicaciones ✓
-- [Alonso Vlz](https://www.facebook.com/marketplace/profile/100063709718714) — 8 publicaciones
+- [Lilia Vazquez](https://www.facebook.com/marketplace/profile/100000312936072) — 10 publicaciones
+- [Alonso Vlz](https://www.facebook.com/marketplace/profile/100063709718714) — 9 publicaciones
 - [Jano Sarabia](https://www.facebook.com/marketplace/profile/100002128719711) — 8 publicaciones
-- [Juan Sergio Hernandez Araujo](https://www.facebook.com/marketplace/profile/100000461024234) — 8 publicaciones
 - [Julio Castro](https://www.facebook.com/marketplace/profile/61584684992334) — 8 publicaciones
 - [KA CE](https://www.facebook.com/marketplace/profile/100001282347549) — 8 publicaciones
 - [Miguel Armenta](https://www.facebook.com/marketplace/profile/100012389525954) — 8 publicaciones ✓
+- [Sergio Castro Félix](https://www.facebook.com/marketplace/profile/100055020152693) — 8 publicaciones ✓
+- [Victor Juárez](https://www.facebook.com/marketplace/profile/100013053750385) — 8 publicaciones
 - [Bianey Alejandra Muñoz Herrera](https://www.facebook.com/marketplace/profile/832647899) — 7 publicaciones
 - [Chito Hernandez](https://www.facebook.com/marketplace/profile/61573311437329) — 7 publicaciones ✓
 - [Eduardo Infante](https://www.facebook.com/marketplace/profile/562531441) — 7 publicaciones
 - [Fer Miranda](https://www.facebook.com/marketplace/profile/61584162783011) — 7 publicaciones ✓
+- [Juan Sergio Hernandez Araujo](https://www.facebook.com/marketplace/profile/100000461024234) — 7 publicaciones
 - [Ana Julia Ahumada](https://www.facebook.com/marketplace/profile/100000272357504) — 6 publicaciones
 - [Briann A Morales](https://www.facebook.com/marketplace/profile/61573406002365) — 6 publicaciones
 - [Dante Esquer](https://www.facebook.com/marketplace/profile/100005897265236) — 6 publicaciones
@@ -48,6 +49,7 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Orlando Alfredo Souza](https://www.facebook.com/marketplace/profile/620991199) — 6 publicaciones ✓
 - [Xhavi Manzanarez](https://www.facebook.com/marketplace/profile/100007264414367) — 6 publicaciones
 - [Abimael Lopez](https://www.facebook.com/marketplace/profile/61582526799462) — 5 publicaciones
+- [Alberto Heredia](https://www.facebook.com/marketplace/profile/61563405983057) — 5 publicaciones
 - [Alexis Vasquez](https://www.facebook.com/marketplace/profile/100007801806564) — 5 publicaciones
 - [Almazan Mireya](https://www.facebook.com/marketplace/profile/61595220577284) — 5 publicaciones
 - [Chikis Valencia](https://www.facebook.com/marketplace/profile/61586207985700) — 5 publicaciones
@@ -64,42 +66,41 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Miguel Ruiz Chavez](https://www.facebook.com/marketplace/profile/100038206219003) — 5 publicaciones
 - [Pau Almada](https://www.facebook.com/marketplace/profile/100004785169007) — 5 publicaciones
 - [Ryu Hayabusa](https://www.facebook.com/marketplace/profile/61594526679821) — 5 publicaciones
-- [Victor Juárez](https://www.facebook.com/marketplace/profile/100013053750385) — 5 publicaciones
-- [Alberto Heredia](https://www.facebook.com/marketplace/profile/61563405983057) — 4 publicaciones
 - [Andrea Lopez](https://www.facebook.com/marketplace/profile/61553485727563) — 4 publicaciones
 - [Angel SG](https://www.facebook.com/marketplace/profile/100002237047895) — 4 publicaciones
 - [Antonio Rodriguez](https://www.facebook.com/marketplace/profile/61581509220352) — 4 publicaciones
 - [Ashly Shyadani](https://www.facebook.com/marketplace/profile/100001693908705) — 4 publicaciones
+- [Brian Woodill](https://www.facebook.com/marketplace/profile/100004451856781) — 4 publicaciones ✓
 - [Carlos Miranda](https://www.facebook.com/marketplace/profile/724088303) — 4 publicaciones
 - [Carlos Orduño](https://www.facebook.com/marketplace/profile/100005645436364) — 4 publicaciones
 - [Cinthya Olguin](https://www.facebook.com/marketplace/profile/100014333196532) — 4 publicaciones
 - [Electronicajr Mochis](https://www.facebook.com/marketplace/profile/61552512420827) — 4 publicaciones
 - [Emi CM](https://www.facebook.com/marketplace/profile/100012840994557) — 4 publicaciones
+- [Gerardo Romero](https://www.facebook.com/marketplace/profile/100090382418370) — 4 publicaciones
 - [Ivan Delval](https://www.facebook.com/marketplace/profile/722256551) — 4 publicaciones ✓
 - [Jazmin Fuentes](https://www.facebook.com/marketplace/profile/61591816410848) — 4 publicaciones
 - [Jazmin Invitaciones Digitales](https://www.facebook.com/marketplace/profile/61557676108085) — 4 publicaciones
 - [Jorge A Armenta Payan](https://www.facebook.com/marketplace/profile/100003813694311) — 4 publicaciones
 - [Jose Villegas](https://www.facebook.com/marketplace/profile/61577744993648) — 4 publicaciones
 - [José Miguel](https://www.facebook.com/marketplace/profile/61580739323219) — 4 publicaciones
+- [Juan Flores](https://www.facebook.com/marketplace/profile/100090547951750) — 4 publicaciones
 - [Juan Velazquez](https://www.facebook.com/marketplace/profile/61583165840161) — 4 publicaciones
 - [Maximiliano Araya](https://www.facebook.com/marketplace/profile/100030312133946) — 4 publicaciones
 - [Miguel Vinsmoke](https://www.facebook.com/marketplace/profile/100048029201959) — 4 publicaciones
 - [Paul Arenivas](https://www.facebook.com/marketplace/profile/100002980960365) — 4 publicaciones
 - [Paulina Flores](https://www.facebook.com/marketplace/profile/100085636571583) — 4 publicaciones ✓
-- [Pery Lopez](https://www.facebook.com/marketplace/profile/61558387123669) — 4 publicaciones
 - [Semilla Césped Bermuda Pasto](https://www.facebook.com/marketplace/profile/100041839343590) — 4 publicaciones
 - [Abraham Berrelleza](https://www.facebook.com/marketplace/profile/61568481278454) — 3 publicaciones
 - [Abraham Peralta Sr.](https://www.facebook.com/marketplace/profile/61576342450778) — 3 publicaciones
 - [Acosta Fierro](https://www.facebook.com/marketplace/profile/61594296872867) — 3 publicaciones
 - [Aldo Ceballos Cubedo](https://www.facebook.com/marketplace/profile/100049672665133) — 3 publicaciones
 - [Alejandra Mochis](https://www.facebook.com/marketplace/profile/100033516701492) — 3 publicaciones
-- [Ana Escalante](https://www.facebook.com/marketplace/profile/1828939814) — 3 publicaciones
 - [Angel Eden](https://www.facebook.com/marketplace/profile/100008814001812) — 3 publicaciones
 - [Apodaca Karla Marisol](https://www.facebook.com/marketplace/profile/100002019103527) — 3 publicaciones
 - [Armando López](https://www.facebook.com/marketplace/profile/100002067307616) — 3 publicaciones
-- [Brian Woodill](https://www.facebook.com/marketplace/profile/100004451856781) — 3 publicaciones ✓
 - [Carlos Moreno Lopez](https://www.facebook.com/marketplace/profile/534189741) — 3 publicaciones
 - [Carlos Tabarez](https://www.facebook.com/marketplace/profile/100028066693973) — 3 publicaciones
+- [Daniel Ricardo Meza Soto](https://www.facebook.com/marketplace/profile/100001552360452) — 3 publicaciones
 - [Daniel Soto](https://www.facebook.com/marketplace/profile/100013097498883) — 3 publicaciones
 - [Daniela Gutierrez](https://www.facebook.com/marketplace/profile/61559926702451) — 3 publicaciones
 - [Daniela Trejo](https://www.facebook.com/marketplace/profile/100069539765355) — 3 publicaciones
@@ -122,7 +123,6 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Jose Garcia](https://www.facebook.com/marketplace/profile/61556971504783) — 3 publicaciones
 - [Jose Rios](https://www.facebook.com/marketplace/profile/100002286361346) — 3 publicaciones
 - [Jose Soto](https://www.facebook.com/marketplace/profile/61565064581529) — 3 publicaciones
-- [Juan Flores](https://www.facebook.com/marketplace/profile/100090547951750) — 3 publicaciones
 - [Karely DK](https://www.facebook.com/marketplace/profile/100054816138004) — 3 publicaciones
 - [Karinn Taylor](https://www.facebook.com/marketplace/profile/100000581718463) — 3 publicaciones
 - [Karyme Baldenebro](https://www.facebook.com/marketplace/profile/61591692364519) — 3 publicaciones
@@ -134,18 +134,20 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Maria Herrera](https://www.facebook.com/marketplace/profile/61587292870684) — 3 publicaciones
 - [Mario Aguilar](https://www.facebook.com/marketplace/profile/100033555030423) — 3 publicaciones
 - [Marlen Polanco](https://www.facebook.com/marketplace/profile/100001539308276) — 3 publicaciones
+- [Marmoleria Verdugo](https://www.facebook.com/marketplace/profile/61586302552928) — 3 publicaciones
 - [Montesito Indep](https://www.facebook.com/marketplace/profile/100065637668167) — 3 publicaciones
 - [Pablo Orrantia Soto](https://www.facebook.com/marketplace/profile/61587083582823) — 3 publicaciones
 - [Pedro Carrazco](https://www.facebook.com/marketplace/profile/100078272504239) — 3 publicaciones
 - [Persival Carlos Aguilar Mondragon](https://www.facebook.com/marketplace/profile/61561150063723) — 3 publicaciones
+- [Pery Lopez](https://www.facebook.com/marketplace/profile/61558387123669) — 3 publicaciones
 - [Rafael Aguilar](https://www.facebook.com/marketplace/profile/100000272730913) — 3 publicaciones ✓
-- [Ricardo Beltrán](https://www.facebook.com/marketplace/profile/100036793715241) — 3 publicaciones ✓
 - [Robles Jazive](https://www.facebook.com/marketplace/profile/100008407186541) — 3 publicaciones
 - [Tadeo Borq](https://www.facebook.com/marketplace/profile/61565758652844) — 3 publicaciones
 - [Teo Teodorovich](https://www.facebook.com/marketplace/profile/100018891193780) — 3 publicaciones
 - [Victor Lamphar](https://www.facebook.com/marketplace/profile/100002998982816) — 3 publicaciones
 - [Abel Galindo](https://www.facebook.com/marketplace/profile/61579144591707) — 2 publicaciones
 - [Adrian K-ztro](https://www.facebook.com/marketplace/profile/657367464) — 2 publicaciones
+- [Akeem Espinoza](https://www.facebook.com/marketplace/profile/100001059458937) — 2 publicaciones ✓
 - [Aldair Villa](https://www.facebook.com/marketplace/profile/1409900151) — 2 publicaciones
 - [Alejo Lopez](https://www.facebook.com/marketplace/profile/61555832970129) — 2 publicaciones
 - [Alex Rome](https://www.facebook.com/marketplace/profile/61570699708178) — 2 publicaciones
@@ -153,12 +155,14 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Alfonso Wrld](https://www.facebook.com/marketplace/profile/100040752772653) — 2 publicaciones
 - [Alfredo Chávez](https://www.facebook.com/marketplace/profile/61576148046670) — 2 publicaciones
 - [Alicia García](https://www.facebook.com/marketplace/profile/100009676094768) — 2 publicaciones
+- [Ana Escalante](https://www.facebook.com/marketplace/profile/1828939814) — 2 publicaciones
 - [Andrea Angulo](https://www.facebook.com/marketplace/profile/1322871189) — 2 publicaciones
 - [Andres Apodaca](https://www.facebook.com/marketplace/profile/1085048009) — 2 publicaciones
 - [Angel Navarrete](https://www.facebook.com/marketplace/profile/100011675181726) — 2 publicaciones
 - [Angel Sauceda](https://www.facebook.com/marketplace/profile/61585832033136) — 2 publicaciones
 - [Antonio Padilla](https://www.facebook.com/marketplace/profile/100053058420271) — 2 publicaciones
 - [Antonio Palafox](https://www.facebook.com/marketplace/profile/100007476368668) — 2 publicaciones
+- [Antonio Vazquez](https://www.facebook.com/marketplace/profile/61555241694583) — 2 publicaciones
 - [Asis Romaas](https://www.facebook.com/marketplace/profile/61589036703482) — 2 publicaciones
 - [Audrey Baillet](https://www.facebook.com/marketplace/profile/100002332093939) — 2 publicaciones
 - [Awa De Horchata](https://www.facebook.com/marketplace/profile/61588710432487) — 2 publicaciones
@@ -168,7 +172,9 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Bogard Santos Zazueta](https://www.facebook.com/marketplace/profile/100093076062097) — 2 publicaciones ✓
 - [Bosthon R. Vázquez](https://www.facebook.com/marketplace/profile/100005178510098) — 2 publicaciones
 - [Brayan Chacon](https://www.facebook.com/marketplace/profile/100001701886015) — 2 publicaciones
+- [Brayan Montenegro](https://www.facebook.com/marketplace/profile/61553680660532) — 2 publicaciones
 - [Bryan Alexis Soto Villela](https://www.facebook.com/marketplace/profile/1423056238) — 2 publicaciones
+- [Carlos AG](https://www.facebook.com/marketplace/profile/100084183317759) — 2 publicaciones
 - [Carlos Carlon](https://www.facebook.com/marketplace/profile/100003591595969) — 2 publicaciones
 - [Cas Hym](https://www.facebook.com/marketplace/profile/100042253533833) — 2 publicaciones
 - [Casa Mazatlán Matriz](https://www.facebook.com/marketplace/profile/100021744032231) — 2 publicaciones
@@ -179,12 +185,12 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Clau Valen](https://www.facebook.com/marketplace/profile/61584919496798) — 2 publicaciones
 - [César López](https://www.facebook.com/marketplace/profile/100024825966700) — 2 publicaciones
 - [Daniel Eg](https://www.facebook.com/marketplace/profile/61593087527667) — 2 publicaciones
-- [Daniel Ricardo Meza Soto](https://www.facebook.com/marketplace/profile/100001552360452) — 2 publicaciones
 - [Daniel Tarin](https://www.facebook.com/marketplace/profile/100008871121818) — 2 publicaciones
 - [Daniel Torres](https://www.facebook.com/marketplace/profile/100001481330655) — 2 publicaciones
 - [Daniel Vs](https://www.facebook.com/marketplace/profile/61590502478173) — 2 publicaciones
 - [Daniela Hernández](https://www.facebook.com/marketplace/profile/61566490391063) — 2 publicaciones
 - [Danielito Soto](https://www.facebook.com/marketplace/profile/100013009621645) — 2 publicaciones
+- [David Gerardo](https://www.facebook.com/marketplace/profile/100054901747405) — 2 publicaciones
 - [Dey GE](https://www.facebook.com/marketplace/profile/545992807) — 2 publicaciones
 - [Diego A. Beytia](https://www.facebook.com/marketplace/profile/100024521677704) — 2 publicaciones
 - [Diego Moreno](https://www.facebook.com/marketplace/profile/100050310905759) — 2 publicaciones
@@ -204,7 +210,6 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Gerardo Medina](https://www.facebook.com/marketplace/profile/100070035796925) — 2 publicaciones
 - [HR Boss](https://www.facebook.com/marketplace/profile/61555029269189) — 2 publicaciones
 - [Hermes Valenzuela](https://www.facebook.com/marketplace/profile/61575307886831) — 2 publicaciones
-- [Ismael Vazquez](https://www.facebook.com/marketplace/profile/100036640869935) — 2 publicaciones
 - [Israel Arellanes Flores](https://www.facebook.com/marketplace/profile/100003978503013) — 2 publicaciones
 - [Ivan Gortarez](https://www.facebook.com/marketplace/profile/100066195090539) — 2 publicaciones
 - [Jamaicas Las Jamaicas](https://www.facebook.com/marketplace/profile/100047465181790) — 2 publicaciones
@@ -218,7 +223,6 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Jose Guadalupe Guerrero Bojorquez](https://www.facebook.com/marketplace/profile/100000239664069) — 2 publicaciones ✓
 - [Jose Luis Bravo](https://www.facebook.com/marketplace/profile/100009035350706) — 2 publicaciones
 - [Jose Martinez Rivera](https://www.facebook.com/marketplace/profile/1105247177) — 2 publicaciones
-- [Jose Reyes](https://www.facebook.com/marketplace/profile/61585103520588) — 2 publicaciones
 - [Jose Zuniga](https://www.facebook.com/marketplace/profile/100072209443224) — 2 publicaciones
 - [Josemiguel Vizcarra](https://www.facebook.com/marketplace/profile/61586280028301) — 2 publicaciones
 - [Joshua Álvarez Ortiz](https://www.facebook.com/marketplace/profile/100080535871122) — 2 publicaciones
@@ -245,7 +249,7 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Maria Beatriz Valenzuela](https://www.facebook.com/marketplace/profile/100003620419743) — 2 publicaciones
 - [Maribel Acosta](https://www.facebook.com/marketplace/profile/100066115832764) — 2 publicaciones
 - [Mariel Haydee Castro Castro](https://www.facebook.com/marketplace/profile/100055084779085) — 2 publicaciones
-- [Marmoleria Verdugo](https://www.facebook.com/marketplace/profile/100086946927352) — 2 publicaciones
+- [Mario de la Peña](https://www.facebook.com/marketplace/profile/100009119822893) — 2 publicaciones
 - [Marte Verdugo Gil](https://www.facebook.com/marketplace/profile/100001064365509) — 2 publicaciones ✓
 - [Mauricio Verduzco](https://www.facebook.com/marketplace/profile/100009850293218) — 2 publicaciones
 - [Mi Ge Ru](https://www.facebook.com/marketplace/profile/100000384801900) — 2 publicaciones
@@ -269,11 +273,14 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Rafaela Gastelo Torres](https://www.facebook.com/marketplace/profile/100052660340699) — 2 publicaciones
 - [Ramiro Ramirez](https://www.facebook.com/marketplace/profile/61579490158804) — 2 publicaciones
 - [Raul Bonifant](https://www.facebook.com/marketplace/profile/100000540482847) — 2 publicaciones
+- [Ricardo Beltrán](https://www.facebook.com/marketplace/profile/100036793715241) — 2 publicaciones ✓
+- [Ricardo Per](https://www.facebook.com/marketplace/profile/100006314917336) — 2 publicaciones
 - [Rodrigo Camacho Montes](https://www.facebook.com/marketplace/profile/61563736384493) — 2 publicaciones
 - [Rodriguez Cl](https://www.facebook.com/marketplace/profile/100002797480027) — 2 publicaciones
 - [Rosa Cota](https://www.facebook.com/marketplace/profile/100020249146155) — 2 publicaciones
 - [Ruben Lopez Flores](https://www.facebook.com/marketplace/profile/642866339) — 2 publicaciones
 - [Saneli Daniel](https://www.facebook.com/marketplace/profile/100000106531345) — 2 publicaciones
+- [Saul Hernandez](https://www.facebook.com/marketplace/profile/100000662213229) — 2 publicaciones
 - [Sergio Lopez](https://www.facebook.com/marketplace/profile/61590571441668) — 2 publicaciones
 - [Serrano Guadalupe](https://www.facebook.com/marketplace/profile/100014233456048) — 2 publicaciones
 - [Silver Slv](https://www.facebook.com/marketplace/profile/61590257034447) — 2 publicaciones
@@ -281,11 +288,13 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Tarará Pappa Tarará](https://www.facebook.com/marketplace/profile/61586822120515) — 2 publicaciones
 - [Vent Vent](https://www.facebook.com/marketplace/profile/100091813151493) — 2 publicaciones
 - [Ventura Miranda Gomez](https://www.facebook.com/marketplace/profile/100004689638022) — 2 publicaciones
+- [Yadira Felix](https://www.facebook.com/marketplace/profile/100092076862913) — 2 publicaciones
 - [Yahir Sanchez](https://www.facebook.com/marketplace/profile/100006952056214) — 2 publicaciones
 - [Yankarlo Gi](https://www.facebook.com/marketplace/profile/100088915606738) — 2 publicaciones
 - [Yerak Valdez](https://www.facebook.com/marketplace/profile/100025549816625) — 2 publicaciones
 - [Yessica Astrid Lopez Galaviz](https://www.facebook.com/marketplace/profile/556050265) — 2 publicaciones
 - [Yis Leyva](https://www.facebook.com/marketplace/profile/100023420531398) — 2 publicaciones
+- [Zahir Quintero](https://www.facebook.com/marketplace/profile/100045250086785) — 2 publicaciones
 - [A Usiel A Palafox](https://www.facebook.com/marketplace/profile/100088914757602) — 1 publicaciones
 - [Aaron Guzman](https://www.facebook.com/marketplace/profile/100000543765190) — 1 publicaciones
 - [Aaron Medina](https://www.facebook.com/marketplace/profile/100013961595727) — 1 publicaciones
@@ -306,7 +315,6 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Adriel D. Aguirre Lopez](https://www.facebook.com/marketplace/profile/100002957881045) — 1 publicaciones
 - [Agustin Jaime Izaguirre Valdez](https://www.facebook.com/marketplace/profile/100005685423658) — 1 publicaciones
 - [Aidali Armentta](https://www.facebook.com/marketplace/profile/774508124) — 1 publicaciones
-- [Akeem Espinoza](https://www.facebook.com/marketplace/profile/100001059458937) — 1 publicaciones ✓
 - [Alan FS](https://www.facebook.com/marketplace/profile/61550937537362) — 1 publicaciones
 - [Alan Figueroa](https://www.facebook.com/marketplace/profile/100032041957889) — 1 publicaciones
 - [Alan Inzunza](https://www.facebook.com/marketplace/profile/100003601546879) — 1 publicaciones
@@ -325,13 +333,13 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Alejandro Cabrera](https://www.facebook.com/marketplace/profile/566902847) — 1 publicaciones
 - [Alejandro Cital Garcia](https://www.facebook.com/marketplace/profile/100034740890343) — 1 publicaciones
 - [Alejandro Lopez](https://www.facebook.com/marketplace/profile/61581741194085) — 1 publicaciones
-- [Alejandro Lopez Ceceña](https://www.facebook.com/marketplace/profile/100000363086375) — 1 publicaciones
 - [Alejandro Moreno](https://www.facebook.com/marketplace/profile/61556850391184) — 1 publicaciones
 - [Aleks Figueroa](https://www.facebook.com/marketplace/profile/100003828572950) — 1 publicaciones
 - [Alex Almeida](https://www.facebook.com/marketplace/profile/61583336804494) — 1 publicaciones
 - [Alex Elias](https://www.facebook.com/marketplace/profile/100002311283904) — 1 publicaciones
 - [Alex Murrieta](https://www.facebook.com/marketplace/profile/657517344) — 1 publicaciones
 - [Alex Ruelas](https://www.facebook.com/marketplace/profile/100080089135217) — 1 publicaciones
+- [Alex Uribe](https://www.facebook.com/marketplace/profile/61588534402115) — 1 publicaciones
 - [Alexa Yamileth](https://www.facebook.com/marketplace/profile/100002692014331) — 1 publicaciones
 - [Alexander López](https://www.facebook.com/marketplace/profile/100016835530223) — 1 publicaciones
 - [Alexander Montes](https://www.facebook.com/marketplace/profile/61570113005214) — 1 publicaciones
@@ -357,7 +365,9 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Amahirani Quiñonez](https://www.facebook.com/marketplace/profile/100001363091229) — 1 publicaciones
 - [Amamiya Yuki](https://www.facebook.com/marketplace/profile/100037917971629) — 1 publicaciones
 - [America Ruiz](https://www.facebook.com/marketplace/profile/100014544731964) — 1 publicaciones
+- [Amin Gutiérrez](https://www.facebook.com/marketplace/profile/61562038353434) — 1 publicaciones
 - [Amy Perez](https://www.facebook.com/marketplace/profile/100017711771367) — 1 publicaciones
+- [Ana Free](https://www.facebook.com/marketplace/profile/100002254821914) — 1 publicaciones
 - [Ana Jaquelin](https://www.facebook.com/marketplace/profile/100003366772574) — 1 publicaciones
 - [Ana Lopez](https://www.facebook.com/marketplace/profile/61589270474987) — 1 publicaciones
 - [Ana Sofía](https://www.facebook.com/marketplace/profile/100006292812236) — 1 publicaciones
@@ -385,6 +395,7 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Ao Quintero](https://www.facebook.com/marketplace/profile/100052395681931) — 1 publicaciones
 - [Aracely Moreno](https://www.facebook.com/marketplace/profile/100050613761784) — 1 publicaciones
 - [Aranza Joselyn](https://www.facebook.com/marketplace/profile/100003355851415) — 1 publicaciones
+- [Arely Edith Araujo Araujo](https://www.facebook.com/marketplace/profile/100002889291021) — 1 publicaciones
 - [Aremi Valdez](https://www.facebook.com/marketplace/profile/100015805591612) — 1 publicaciones
 - [Ariagna Armenta](https://www.facebook.com/marketplace/profile/100033806685900) — 1 publicaciones
 - [Ariel Montoya](https://www.facebook.com/marketplace/profile/100005890393779) — 1 publicaciones
@@ -405,26 +416,26 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Axel Rodriguez](https://www.facebook.com/marketplace/profile/100039189304068) — 1 publicaciones
 - [Axl Soto](https://www.facebook.com/marketplace/profile/100005615072935) — 1 publicaciones
 - [Az servicios de cómputo LM](https://www.facebook.com/marketplace/profile/61577155686891) — 1 publicaciones
-- [Becker Gerardo](https://www.facebook.com/marketplace/profile/100046645655775) — 1 publicaciones
 - [Beltran Luis](https://www.facebook.com/marketplace/profile/61584058688895) — 1 publicaciones
 - [Berenays Luque](https://www.facebook.com/marketplace/profile/100005371157370) — 1 publicaciones
 - [Beto Cota](https://www.facebook.com/marketplace/profile/100009869438529) — 1 publicaciones
 - [Beto LM](https://www.facebook.com/marketplace/profile/100030519766210) — 1 publicaciones
+- [Betthy Lopez](https://www.facebook.com/marketplace/profile/100001120620026) — 1 publicaciones
 - [Bianca Espinoza](https://www.facebook.com/marketplace/profile/100001938918219) — 1 publicaciones
 - [Bladimir Bermudez](https://www.facebook.com/marketplace/profile/100015568541795) — 1 publicaciones
 - [Blanca Rita Cervantes Armenta](https://www.facebook.com/marketplace/profile/100007816895844) — 1 publicaciones
+- [Blas Quintero Leyva](https://www.facebook.com/marketplace/profile/100008821158900) — 1 publicaciones
 - [Brandon Salazar](https://www.facebook.com/marketplace/profile/61571406005417) — 1 publicaciones
 - [Brayan Acuña](https://www.facebook.com/marketplace/profile/100008989418249) — 1 publicaciones
 - [Brayan Aguilar](https://www.facebook.com/marketplace/profile/100054615647564) — 1 publicaciones
-- [Brayan Montenegro](https://www.facebook.com/marketplace/profile/61553680660532) — 1 publicaciones
 - [Brayan Urias](https://www.facebook.com/marketplace/profile/100001950581005) — 1 publicaciones
+- [Brenda Luque Gastelum](https://www.facebook.com/marketplace/profile/100000656283888) — 1 publicaciones
 - [Brian Quintero](https://www.facebook.com/marketplace/profile/100008969973922) — 1 publicaciones
 - [Briventas Vz](https://www.facebook.com/marketplace/profile/100011001040711) — 1 publicaciones
 - [Bruno Astorga](https://www.facebook.com/marketplace/profile/100014655374106) — 1 publicaciones
 - [Bryan Luna](https://www.facebook.com/marketplace/profile/61552594193816) — 1 publicaciones
 - [Buena Vida](https://www.facebook.com/marketplace/profile/100085636308997) — 1 publicaciones
 - [Candi Land](https://www.facebook.com/marketplace/profile/61556795802915) — 1 publicaciones
-- [Carlos AG](https://www.facebook.com/marketplace/profile/100084183317759) — 1 publicaciones
 - [Carlos Avila](https://www.facebook.com/marketplace/profile/100072576524780) — 1 publicaciones
 - [Carlos Barrera](https://www.facebook.com/marketplace/profile/100068821984623) — 1 publicaciones
 - [Carlos Beltrán](https://www.facebook.com/marketplace/profile/1553000790) — 1 publicaciones
@@ -438,8 +449,8 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Carlos Ramos](https://www.facebook.com/marketplace/profile/100008352405904) — 1 publicaciones
 - [Carlos Romero](https://www.facebook.com/marketplace/profile/100029812809042) — 1 publicaciones
 - [Carlos Sotomayor](https://www.facebook.com/marketplace/profile/100092707981165) — 1 publicaciones
-- [Carlos Trejo](https://www.facebook.com/marketplace/profile/61586523096845) — 1 publicaciones
 - [Carmen Bernardo](https://www.facebook.com/marketplace/profile/1054977318) — 1 publicaciones
+- [Carol Vega](https://www.facebook.com/marketplace/profile/100034188944166) — 1 publicaciones
 - [Carolina Burgos](https://www.facebook.com/marketplace/profile/100077335513543) — 1 publicaciones
 - [Castro Miguel](https://www.facebook.com/marketplace/profile/100009946360447) — 1 publicaciones
 - [Catalina Rodrigez](https://www.facebook.com/marketplace/profile/61589802200815) — 1 publicaciones
@@ -468,6 +479,7 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Claudia Gastelum](https://www.facebook.com/marketplace/profile/100001619084932) — 1 publicaciones
 - [Claudia Reyes](https://www.facebook.com/marketplace/profile/100010652319897) — 1 publicaciones
 - [Cocoss Sanchez](https://www.facebook.com/marketplace/profile/100065932931398) — 1 publicaciones
+- [Cornelio Rodriguez](https://www.facebook.com/marketplace/profile/100095392091152) — 1 publicaciones
 - [Cortes Audeves Jose Guadalupe](https://www.facebook.com/marketplace/profile/100051583412812) — 1 publicaciones
 - [Cota Alberto](https://www.facebook.com/marketplace/profile/100051979681867) — 1 publicaciones
 - [Cristian Ahumada](https://www.facebook.com/marketplace/profile/61581995116677) — 1 publicaciones
@@ -476,6 +488,7 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Cristina Sauceda](https://www.facebook.com/marketplace/profile/100000613296701) — 1 publicaciones
 - [Cristopher Valdez](https://www.facebook.com/marketplace/profile/100021829431860) — 1 publicaciones
 - [César Gutiérrez](https://www.facebook.com/marketplace/profile/100002930749091) — 1 publicaciones
+- [César Juárez](https://www.facebook.com/marketplace/profile/61582768150369) — 1 publicaciones
 - [Dani HR](https://www.facebook.com/marketplace/profile/793630392) — 1 publicaciones
 - [Daniel Baez](https://www.facebook.com/marketplace/profile/100049506630525) — 1 publicaciones
 - [Daniel Cabrera](https://www.facebook.com/marketplace/profile/100000699173842) — 1 publicaciones
@@ -502,13 +515,13 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Daniela Lopez](https://www.facebook.com/marketplace/profile/100053218984443) — 1 publicaciones
 - [Daniela Veg](https://www.facebook.com/marketplace/profile/61557523748496) — 1 publicaciones
 - [Danitza Vallejo](https://www.facebook.com/marketplace/profile/596900467) — 1 publicaciones
+- [Danna Hernandez](https://www.facebook.com/marketplace/profile/100004157941078) — 1 publicaciones
 - [Dany Herrera Fong](https://www.facebook.com/marketplace/profile/100000519702141) — 1 publicaciones
 - [Darey Roberto](https://www.facebook.com/marketplace/profile/100050532456016) — 1 publicaciones
 - [David Alvarez](https://www.facebook.com/marketplace/profile/61594886297192) — 1 publicaciones
 - [David Arvizu](https://www.facebook.com/marketplace/profile/61569346553378) — 1 publicaciones
 - [David David](https://www.facebook.com/marketplace/profile/100086995713872) — 1 publicaciones
 - [David Gael](https://www.facebook.com/marketplace/profile/100014234260140) — 1 publicaciones
-- [David Gerardo](https://www.facebook.com/marketplace/profile/100054901747405) — 1 publicaciones
 - [David Preciado](https://www.facebook.com/marketplace/profile/61569295613687) — 1 publicaciones
 - [Day Tec](https://www.facebook.com/marketplace/profile/61574261827252) — 1 publicaciones
 - [Denisse Vargas](https://www.facebook.com/marketplace/profile/1317891242) — 1 publicaciones
@@ -529,13 +542,12 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Dominguez Acel](https://www.facebook.com/marketplace/profile/61582215035457) — 1 publicaciones
 - [Dorys Valle](https://www.facebook.com/marketplace/profile/763819514) — 1 publicaciones
 - [Dosc Sc](https://www.facebook.com/marketplace/profile/100018260476358) — 1 publicaciones
-- [Drake Castillo](https://www.facebook.com/marketplace/profile/61570351300226) — 1 publicaciones
 - [Dulce Patiño Lizarraga](https://www.facebook.com/marketplace/profile/100000132052240) — 1 publicaciones
-- [Dulce Rodriguez](https://www.facebook.com/marketplace/profile/100002284317183) — 1 publicaciones
 - [Dulcilandia Dulcería](https://www.facebook.com/marketplace/profile/100013122935333) — 1 publicaciones
 - [Dylan Vega](https://www.facebook.com/marketplace/profile/100074114528151) — 1 publicaciones
 - [Edel Muñoz Combs](https://www.facebook.com/marketplace/profile/511703308) — 1 publicaciones
 - [Edgar Jamil Galaviz](https://www.facebook.com/marketplace/profile/100065180105267) — 1 publicaciones
+- [Edith Valencia](https://www.facebook.com/marketplace/profile/100005790392218) — 1 publicaciones
 - [Eduardo Alarcon](https://www.facebook.com/marketplace/profile/1265135581) — 1 publicaciones
 - [Eduardo Baldenebro](https://www.facebook.com/marketplace/profile/1843607018) — 1 publicaciones
 - [Eduardo Chavarria](https://www.facebook.com/marketplace/profile/100011106883941) — 1 publicaciones
@@ -567,6 +579,7 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Erik Tmnya](https://www.facebook.com/marketplace/profile/61559127402449) — 1 publicaciones
 - [Erika Guadalupe Martínez](https://www.facebook.com/marketplace/profile/100030295282452) — 1 publicaciones
 - [Ernesto Lugo](https://www.facebook.com/marketplace/profile/1147987995) — 1 publicaciones
+- [Ernesto Soto Juárez](https://www.facebook.com/marketplace/profile/100001779462614) — 1 publicaciones
 - [Erubiel Garcia Parra](https://www.facebook.com/marketplace/profile/100067716323669) — 1 publicaciones
 - [Esmy C. Hernandez](https://www.facebook.com/marketplace/profile/100030093941537) — 1 publicaciones
 - [Espinoza Alejandro](https://www.facebook.com/marketplace/profile/100081184554668) — 1 publicaciones ✓
@@ -625,14 +638,13 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Geovany Cuevas](https://www.facebook.com/marketplace/profile/100002922101739) — 1 publicaciones
 - [Gerardo Lopez](https://www.facebook.com/marketplace/profile/100095136035955) — 1 publicaciones
 - [Gerardo Recio](https://www.facebook.com/marketplace/profile/1247332247) — 1 publicaciones ✓
-- [Gerardo Romero](https://www.facebook.com/marketplace/profile/100090382418370) — 1 publicaciones
 - [German Nuñez](https://www.facebook.com/marketplace/profile/61555663527293) — 1 publicaciones
 - [Gerson Asael](https://www.facebook.com/marketplace/profile/100005552294135) — 1 publicaciones
 - [Gm Rram](https://www.facebook.com/marketplace/profile/100004805078744) — 1 publicaciones
 - [Gnivri Lugo](https://www.facebook.com/marketplace/profile/710241797) — 1 publicaciones
 - [Gomez Gamboa](https://www.facebook.com/marketplace/profile/61559849614840) — 1 publicaciones
-- [Gonzalez Ch](https://www.facebook.com/marketplace/profile/100037074221328) — 1 publicaciones
 - [Guadalupe Reyes](https://www.facebook.com/marketplace/profile/100090931061561) — 1 publicaciones
+- [Guerrero Raul](https://www.facebook.com/marketplace/profile/61553313602148) — 1 publicaciones
 - [Guillermo Rosas](https://www.facebook.com/marketplace/profile/61596403166555) — 1 publicaciones
 - [Gustavo A. Araujo Bleizeffer](https://www.facebook.com/marketplace/profile/100000644298294) — 1 publicaciones
 - [Guy Miranda](https://www.facebook.com/marketplace/profile/100002206335975) — 1 publicaciones
@@ -651,6 +663,7 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Humberto Acuña](https://www.facebook.com/marketplace/profile/100004100976100) — 1 publicaciones
 - [Héctor Peñuelas](https://www.facebook.com/marketplace/profile/100024774464445) — 1 publicaciones
 - [Idhaly Aranzubia](https://www.facebook.com/marketplace/profile/100001159119827) — 1 publicaciones
+- [Iker Torres](https://www.facebook.com/marketplace/profile/100028088945314) — 1 publicaciones
 - [Ingrid Curiel Noriega](https://www.facebook.com/marketplace/profile/100001006597466) — 1 publicaciones
 - [Ingrid Daniela Osorio Carreon](https://www.facebook.com/marketplace/profile/100002982726243) — 1 publicaciones
 - [Irene ZT](https://www.facebook.com/marketplace/profile/1109959603) — 1 publicaciones
@@ -666,6 +679,7 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Isabella Rojas Diaz](https://www.facebook.com/marketplace/profile/100003827285166) — 1 publicaciones
 - [Isis Luna](https://www.facebook.com/marketplace/profile/100021764854698) — 1 publicaciones
 - [Ismael Ruiz](https://www.facebook.com/marketplace/profile/100019826603241) — 1 publicaciones
+- [Ismael Vazquez](https://www.facebook.com/marketplace/profile/100036640869935) — 1 publicaciones
 - [Ivan Esteban Moreno Cota](https://www.facebook.com/marketplace/profile/100001030830866) — 1 publicaciones
 - [Ivan Perez](https://www.facebook.com/marketplace/profile/100042424548701) — 1 publicaciones
 - [Ivan Quintero](https://www.facebook.com/marketplace/profile/100000140240531) — 1 publicaciones
@@ -692,6 +706,7 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Javier Adrián Bátiz Zamudio](https://www.facebook.com/marketplace/profile/100001358443496) — 1 publicaciones
 - [Javier Alan Plcs](https://www.facebook.com/marketplace/profile/100057415774098) — 1 publicaciones
 - [Javier Barraza](https://www.facebook.com/marketplace/profile/100089358854542) — 1 publicaciones
+- [Javier Ibarra](https://www.facebook.com/marketplace/profile/100001340947289) — 1 publicaciones
 - [Javier Lara](https://www.facebook.com/marketplace/profile/100021158000226) — 1 publicaciones
 - [Javier Lopez](https://www.facebook.com/marketplace/profile/61563794339507) — 1 publicaciones
 - [Javier Robles](https://www.facebook.com/marketplace/profile/100003577951065) — 1 publicaciones
@@ -728,6 +743,7 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Jisus Escalante](https://www.facebook.com/marketplace/profile/61584245725286) — 1 publicaciones
 - [Jo Maste](https://www.facebook.com/marketplace/profile/61551070116768) — 1 publicaciones
 - [Joaquin L Beltran](https://www.facebook.com/marketplace/profile/100007023091753) — 1 publicaciones
+- [Johan Leal](https://www.facebook.com/marketplace/profile/100025949808378) — 1 publicaciones
 - [Johann Orduño](https://www.facebook.com/marketplace/profile/100002486306749) — 1 publicaciones
 - [Jorge Apodaca](https://www.facebook.com/marketplace/profile/100006663516927) — 1 publicaciones
 - [Jorge Enrique Lauren](https://www.facebook.com/marketplace/profile/100021074567807) — 1 publicaciones
@@ -755,15 +771,20 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Jose Nose](https://www.facebook.com/marketplace/profile/61593459086933) — 1 publicaciones
 - [Jose Parra](https://www.facebook.com/marketplace/profile/100016548394068) — 1 publicaciones
 - [Jose Perez](https://www.facebook.com/marketplace/profile/100001225317536) — 1 publicaciones
+- [Jose Reyes](https://www.facebook.com/marketplace/profile/61585103520588) — 1 publicaciones
 - [Jose Rivera](https://www.facebook.com/marketplace/profile/61577496621548) — 1 publicaciones
 - [Jose Salas](https://www.facebook.com/marketplace/profile/61580891845796) — 1 publicaciones
 - [Jose Torres](https://www.facebook.com/marketplace/profile/100025033964919) — 1 publicaciones
+- [Jose Valdez](https://www.facebook.com/marketplace/profile/100006826502393) — 1 publicaciones
 - [Jose Vazquez](https://www.facebook.com/marketplace/profile/100007442382972) — 1 publicaciones
 - [Joseph Apodaca](https://www.facebook.com/marketplace/profile/100000871975002) — 1 publicaciones
 - [Joss Etzo](https://www.facebook.com/marketplace/profile/61580174618480) — 1 publicaciones
+- [José Alberto Ceceña](https://www.facebook.com/marketplace/profile/100002494947105) — 1 publicaciones
 - [José Santos](https://www.facebook.com/marketplace/profile/61595185118724) — 1 publicaciones
 - [Jovany Vázquez](https://www.facebook.com/marketplace/profile/61566755402192) — 1 publicaciones
 - [Juan Alonso Aragon Aviles](https://www.facebook.com/marketplace/profile/100002566890569) — 1 publicaciones
+- [Juan Alonso Valdés](https://www.facebook.com/marketplace/profile/100000002559513) — 1 publicaciones
+- [Juan Bassoco](https://www.facebook.com/marketplace/profile/100061907492641) — 1 publicaciones
 - [Juan Carlos Fong](https://www.facebook.com/marketplace/profile/643612302) — 1 publicaciones
 - [Juan Carlos Vega](https://www.facebook.com/marketplace/profile/100006277787419) — 1 publicaciones
 - [Juan Emmanuel](https://www.facebook.com/marketplace/profile/61569214288602) — 1 publicaciones
@@ -794,6 +815,7 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Karen Mayen](https://www.facebook.com/marketplace/profile/100034936305377) — 1 publicaciones
 - [Karen Muñoz](https://www.facebook.com/marketplace/profile/100001280942578) — 1 publicaciones
 - [Karen Tapia](https://www.facebook.com/marketplace/profile/100000530109657) — 1 publicaciones
+- [Karina Carlon](https://www.facebook.com/marketplace/profile/696307586) — 1 publicaciones
 - [Karla Delgado Valdez](https://www.facebook.com/marketplace/profile/100010099260749) — 1 publicaciones
 - [Karla Espinoza](https://www.facebook.com/marketplace/profile/100005176927148) — 1 publicaciones
 - [Karla Lopez](https://www.facebook.com/marketplace/profile/100069626262928) — 1 publicaciones
@@ -803,6 +825,7 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Karla Villaseñor](https://www.facebook.com/marketplace/profile/669995686) — 1 publicaciones
 - [Karla Yisel Chavira](https://www.facebook.com/marketplace/profile/100004473131470) — 1 publicaciones
 - [Karla Yocupicio](https://www.facebook.com/marketplace/profile/100051637037578) — 1 publicaciones
+- [Karloz Espinoza](https://www.facebook.com/marketplace/profile/1308661634) — 1 publicaciones
 - [Karyme Medina](https://www.facebook.com/marketplace/profile/100002247497549) — 1 publicaciones
 - [Katia Jacqueline Betancourt](https://www.facebook.com/marketplace/profile/100035680627584) — 1 publicaciones
 - [Kdidjdufj Kxixjxukf](https://www.facebook.com/marketplace/profile/61590969272930) — 1 publicaciones
@@ -825,6 +848,7 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Liam Collote](https://www.facebook.com/marketplace/profile/61571286046454) — 1 publicaciones
 - [Licenciado Luis Antonio](https://www.facebook.com/marketplace/profile/100005915312380) — 1 publicaciones
 - [Lili Ramirez](https://www.facebook.com/marketplace/profile/61565577222313) — 1 publicaciones
+- [Lily  Rom Av](https://www.facebook.com/marketplace/profile/520087919) — 1 publicaciones
 - [Lily Lopez](https://www.facebook.com/marketplace/profile/100028559174291) — 1 publicaciones
 - [Lizeth Perez](https://www.facebook.com/marketplace/profile/100093523717323) — 1 publicaciones
 - [Lizeth Romero](https://www.facebook.com/marketplace/profile/61550109563417) — 1 publicaciones
@@ -834,6 +858,8 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Lopez Victor](https://www.facebook.com/marketplace/profile/61594118565172) — 1 publicaciones
 - [Lucia Perez](https://www.facebook.com/marketplace/profile/100017085585588) — 1 publicaciones
 - [Lugo Cloting](https://www.facebook.com/marketplace/profile/61585330655644) — 1 publicaciones
+- [Luigi Perez](https://www.facebook.com/marketplace/profile/61594123254296) — 1 publicaciones
+- [Luis BF](https://www.facebook.com/marketplace/profile/100006691026777) — 1 publicaciones
 - [Luis Camargo](https://www.facebook.com/marketplace/profile/100000775821108) — 1 publicaciones
 - [Luis Carlos Ayala Miranda](https://www.facebook.com/marketplace/profile/100010068162958) — 1 publicaciones
 - [Luis Carlos Briceño](https://www.facebook.com/marketplace/profile/519846410) — 1 publicaciones
@@ -853,6 +879,8 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Luis Ricardo](https://www.facebook.com/marketplace/profile/61582805368129) — 1 publicaciones
 - [Luis Ricardo Peraza](https://www.facebook.com/marketplace/profile/631039718) — 1 publicaciones
 - [Luis Rodriguez](https://www.facebook.com/marketplace/profile/100036539220928) — 1 publicaciones
+- [Luis Rojo](https://www.facebook.com/marketplace/profile/100000511895312) — 1 publicaciones
+- [Luis Trueba](https://www.facebook.com/marketplace/profile/61573814949260) — 1 publicaciones
 - [Luis Vergara Rojo](https://www.facebook.com/marketplace/profile/541681473) — 1 publicaciones
 - [Luiz Castro Quiñones](https://www.facebook.com/marketplace/profile/755643667) — 1 publicaciones
 - [Luiz Lopez](https://www.facebook.com/marketplace/profile/61566740446219) — 1 publicaciones
@@ -885,6 +913,7 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Mario Garcia](https://www.facebook.com/marketplace/profile/100053172131425) — 1 publicaciones
 - [Mario Olivas](https://www.facebook.com/marketplace/profile/61585643583702) — 1 publicaciones
 - [Mario Ricardo Carbajal](https://www.facebook.com/marketplace/profile/100000607752801) — 1 publicaciones
+- [Mario Ruelas](https://www.facebook.com/marketplace/profile/100010713823752) — 1 publicaciones
 - [Mario S Cota Gutierrez](https://www.facebook.com/marketplace/profile/100000269726952) — 1 publicaciones
 - [Mario Vasquez](https://www.facebook.com/marketplace/profile/100000893265390) — 1 publicaciones
 - [Marisela Verdugo](https://www.facebook.com/marketplace/profile/100069977423997) — 1 publicaciones
@@ -920,6 +949,7 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Miguel Angel Ochoa](https://www.facebook.com/marketplace/profile/100001339531130) — 1 publicaciones
 - [Miguel Escobosa](https://www.facebook.com/marketplace/profile/61591493216248) — 1 publicaciones
 - [Miguel Lozano](https://www.facebook.com/marketplace/profile/61593880876971) — 1 publicaciones
+- [Miguel Oc](https://www.facebook.com/marketplace/profile/631224878) — 1 publicaciones
 - [Miguel Ramos](https://www.facebook.com/marketplace/profile/100003636234109) — 1 publicaciones
 - [Miguel Retes Navarro](https://www.facebook.com/marketplace/profile/61581455633485) — 1 publicaciones
 - [Miguel Serrano](https://www.facebook.com/marketplace/profile/61584843571896) — 1 publicaciones
@@ -948,6 +978,7 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Neyzer Lachica](https://www.facebook.com/marketplace/profile/100039461050711) — 1 publicaciones
 - [Nh Ponce](https://www.facebook.com/marketplace/profile/61556301934600) — 1 publicaciones
 - [Nick Valladares](https://www.facebook.com/marketplace/profile/61575152944886) — 1 publicaciones
+- [Noe Vazquez](https://www.facebook.com/marketplace/profile/100028413310275) — 1 publicaciones
 - [Noeli Grajeda](https://www.facebook.com/marketplace/profile/100085436882243) — 1 publicaciones
 - [Novio De Guadalupe](https://www.facebook.com/marketplace/profile/61573918672470) — 1 publicaciones
 - [Nubia Cervantes Gastélum](https://www.facebook.com/marketplace/profile/100023831733569) — 1 publicaciones
@@ -964,6 +995,7 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Oscar Montoya](https://www.facebook.com/marketplace/profile/100003104600033) — 1 publicaciones
 - [Oscar Palma Navarrete](https://www.facebook.com/marketplace/profile/100001143011554) — 1 publicaciones
 - [Oswaldo Orduño](https://www.facebook.com/marketplace/profile/100026507860245) — 1 publicaciones
+- [Pablo Angel Xzl](https://www.facebook.com/marketplace/profile/100049632771295) — 1 publicaciones
 - [Pablo Garzon](https://www.facebook.com/marketplace/profile/61596540401221) — 1 publicaciones
 - [Pacheco Eric](https://www.facebook.com/marketplace/profile/100000773765058) — 1 publicaciones
 - [Paloma JP](https://www.facebook.com/marketplace/profile/100006723938085) — 1 publicaciones
@@ -1030,7 +1062,6 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Samuel LB](https://www.facebook.com/marketplace/profile/100064168791556) — 1 publicaciones
 - [Samuel Payan](https://www.facebook.com/marketplace/profile/628196912) — 1 publicaciones
 - [Santi Diaz](https://www.facebook.com/marketplace/profile/61594339747912) — 1 publicaciones
-- [Santiago Garcia](https://www.facebook.com/marketplace/profile/100041886420838) — 1 publicaciones
 - [Santiago Leal](https://www.facebook.com/marketplace/profile/61571950091057) — 1 publicaciones
 - [Santiago Leyvasoto](https://www.facebook.com/marketplace/profile/61550126429144) — 1 publicaciones
 - [Santiago Ruiz](https://www.facebook.com/marketplace/profile/100006273992419) — 1 publicaciones
@@ -1069,6 +1100,7 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Tecnohybrid Autis](https://www.facebook.com/marketplace/profile/61586910721896) — 1 publicaciones
 - [Teresa Rojas](https://www.facebook.com/marketplace/profile/100007648607983) — 1 publicaciones
 - [Thelma Armenta](https://www.facebook.com/marketplace/profile/61574093379480) — 1 publicaciones
+- [Thiago Herndz](https://www.facebook.com/marketplace/profile/61596980815483) — 1 publicaciones
 - [Tiny Gastelum](https://www.facebook.com/marketplace/profile/100003405426995) — 1 publicaciones
 - [Tito Trevedan](https://www.facebook.com/marketplace/profile/100043121925646) — 1 publicaciones
 - [Toros Mochis CF Atletico Celaya](https://www.facebook.com/marketplace/profile/100075057660372) — 1 publicaciones
@@ -1084,6 +1116,7 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Verduras Power](https://www.facebook.com/marketplace/profile/100030884730382) — 1 publicaciones
 - [Verónika GarAgu](https://www.facebook.com/marketplace/profile/1165974451) — 1 publicaciones
 - [Victor Almaraz](https://www.facebook.com/marketplace/profile/61570027910292) — 1 publicaciones
+- [Victor Ciax](https://www.facebook.com/marketplace/profile/100063832595001) — 1 publicaciones
 - [Victor Dejesus](https://www.facebook.com/marketplace/profile/61572258155660) — 1 publicaciones
 - [Victor Echevarria](https://www.facebook.com/marketplace/profile/100052059224214) — 1 publicaciones
 - [Victor EspFe](https://www.facebook.com/marketplace/profile/61579360689954) — 1 publicaciones
@@ -1105,7 +1138,6 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Walter Lopez](https://www.facebook.com/marketplace/profile/100003143462808) — 1 publicaciones
 - [Wonk Walker](https://www.facebook.com/marketplace/profile/61592531082669) — 1 publicaciones
 - [Ya Manciillass](https://www.facebook.com/marketplace/profile/1047668093) — 1 publicaciones
-- [Yadira Felix](https://www.facebook.com/marketplace/profile/100092076862913) — 1 publicaciones
 - [Yahel Sánchez](https://www.facebook.com/marketplace/profile/100009607660590) — 1 publicaciones
 - [Yajahira Torres Soto](https://www.facebook.com/marketplace/profile/100002955429340) — 1 publicaciones
 - [Yamil Aceves](https://www.facebook.com/marketplace/profile/100001427235068) — 1 publicaciones
@@ -1125,11 +1157,12 @@ Total: 1128 vendedores, 2001 anuncios con vendedor identificado (3 anuncios de l
 - [Yunibia Solis Yiyita](https://www.facebook.com/marketplace/profile/100003568165510) — 1 publicaciones
 - [Yunive Gastelum](https://www.facebook.com/marketplace/profile/100015068897315) — 1 publicaciones
 - [Zahamar EA](https://www.facebook.com/marketplace/profile/100006292714303) — 1 publicaciones
-- [Zahir Quintero](https://www.facebook.com/marketplace/profile/100045250086785) — 1 publicaciones
 - [Zaid Sebastián](https://www.facebook.com/marketplace/profile/100010181237155) — 1 publicaciones
 - [Zamver Zamver](https://www.facebook.com/marketplace/profile/100004525335955) — 1 publicaciones
 - [Zayda Osuna](https://www.facebook.com/marketplace/profile/100006920298211) — 1 publicaciones
+- [Águeda Violeta Armenta Pillado](https://www.facebook.com/marketplace/profile/100045332316136) — 1 publicaciones
 - [Ángel Peralta](https://www.facebook.com/marketplace/profile/100055752944466) — 1 publicaciones
+- [جاستيلوم دانيال](https://www.facebook.com/marketplace/profile/100004134192117) — 1 publicaciones
 - [هوبر راموس](https://www.facebook.com/marketplace/profile/100007946320841) — 1 publicaciones
 - [レルマ イエス](https://www.facebook.com/marketplace/profile/100068583320097) — 1 publicaciones
 - [茨カコ コカ茨](https://www.facebook.com/marketplace/profile/100051792786139) — 1 publicaciones
