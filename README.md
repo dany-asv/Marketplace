@@ -7,7 +7,7 @@ Lista completa de anuncios disponibles de videojuegos en Facebook Marketplace, L
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 - Vendedores ordenados por número de publicaciones: [vendedores.md](vendedores.md).
 
-Total: 2087 anuncios disponibles.
+Total: 2086 anuncios disponibles.
 
 ## Anuncios por plataforma
 
@@ -109,7 +109,7 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
   - PlayStation 5 (PS5):
     - [Consolas](9na-ps5-consolas.md) — 20 anuncios
     - [Juegos](9na-ps5-juegos.md) — 39 anuncios
-    - [Accesorios](9na-ps5-accesorios.md) — 46 anuncios
+    - [Accesorios](9na-ps5-accesorios.md) — 45 anuncios
   - Xbox Series X/S:
     - [Consolas](9na-xbox-series-consolas.md) — 48 anuncios
     - [Juegos](9na-xbox-series-juegos.md) — 3 anuncios
@@ -147,7 +147,6 @@ Cada anuncio está clasificado en un solo archivo según la plataforma que nombr
 - 2026-11-23 13:58 — [Juegos de Nintendo Switch en promocion$$](https://www.facebook.com/marketplace/item/1644776977131888) — GRATIS — Usado - Como nuevo — Los Mochis — vendedor en Whitelist de Daniel: Paulina Flores
 - 2026-11-23 13:55 — [Xbox series S & X](https://www.facebook.com/marketplace/item/1914150992904709) — $800 — Nuevo — Los Mochis — vendedor en Whitelist de Daniel: Yonoki Joestar
 - 2026-11-23 13:53 — [Magia Nintendo switch 🪄](https://www.facebook.com/marketplace/item/1456969253215228) — $1 — Nuevo — Los Mochis — vendedor en Whitelist de Daniel: Yonoki Joestar
-- 2026-11-23 13:43 — [Control para ps5 GTA VI](https://www.facebook.com/marketplace/item/1460130568854708) — $2.000 — Nuevo — Los Mochis — Vendedor: Brandon Flores
 - 2026-11-23 13:39 — [Consola de videojuegos 🎮](https://www.facebook.com/marketplace/item/1772381840974251) — GRATIS — Nuevo — Los Mochis — Vendedor: Mario de la Peña
 - 2026-11-23 13:33 — [Videojuegos](https://www.facebook.com/marketplace/item/29056191363989535) — GRATIS — Nuevo — Los Mochis — Vendedor: Mario de la Peña
 - 2026-11-23 12:02 — [Nintendo switch oled](https://www.facebook.com/marketplace/item/3910470189095227) — $3.800 — Usado - Como nuevo — Los Mochis — Vendedor: Saul Osuna

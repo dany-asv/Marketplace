@@ -3,7 +3,7 @@ Vendedores ordenados de mayor a menor número de publicaciones disponibles de vi
 - El nombre de cada vendedor es una liga a su perfil de Marketplace.
 - La palomita ✓ marca a los vendedores de la Whitelist de Daniel.
 - Los nombres son los que muestra Facebook.
-Total: 1183 vendedores, 2084 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
+Total: 1182 vendedores, 2083 anuncios con vendedor identificado (3 anuncios de la lista no tienen vendedor identificado).
 ## Vendedores (de mayor a menor número de publicaciones)
 - [Antonio Lopez](https://www.facebook.com/marketplace/profile/100040731070103) — 41 publicaciones ✓
 - [Ivan Lopez](https://www.facebook.com/marketplace/profile/100021428154020) — 31 publicaciones ✓
@@ -430,7 +430,6 @@ Total: 1183 vendedores, 2084 anuncios con vendedor identificado (3 anuncios de l
 - [Bladimir Bermudez](https://www.facebook.com/marketplace/profile/100015568541795) — 1 publicaciones
 - [Blanca Rita Cervantes Armenta](https://www.facebook.com/marketplace/profile/100007816895844) — 1 publicaciones
 - [Blas Quintero Leyva](https://www.facebook.com/marketplace/profile/100008821158900) — 1 publicaciones
-- [Brandon Flores](https://www.facebook.com/marketplace/profile/61558310319782) — 1 publicaciones
 - [Brandon Salazar](https://www.facebook.com/marketplace/profile/61571406005417) — 1 publicaciones
 - [Brayan Acuña](https://www.facebook.com/marketplace/profile/100008989418249) — 1 publicaciones
 - [Brayan Aguilar](https://www.facebook.com/marketplace/profile/100054615647564) — 1 publicaciones

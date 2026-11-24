@@ -42,7 +42,6 @@ Total: 46 anuncios disponibles.
 - 2026-11-12 10:56 — [Control PS5 DualSense Inalámbrico Original | Nuevo Sellado | 4 colores](https://www.facebook.com/marketplace/item/2404407236970463) — $1.300 — Vendedor: Vicente Munguia
 - 2026-11-19 17:56 — [Control inalámbrico Ps5](https://www.facebook.com/marketplace/item/1565625582249899) — $1.600 — Vendedor: Gabriel Contreras
 - 2026-07-25 17:44 — [Control PS5 God of War Edición Limitada NUEVO Sellado 🔥🎮 Playstation 5](https://www.facebook.com/marketplace/item/1720357735955190) — $1.699 — Vendedor: Jose Manuel Lopez
-- 2026-11-23 13:43 — [Control para ps5 GTA VI](https://www.facebook.com/marketplace/item/1460130568854708) — $2.000 — Vendedor: Brandon Flores
 - 2026-11-12 17:06 — [Auriculares play station 5](https://www.facebook.com/marketplace/item/1081426001591618) — $2.000 — Vendedor: هوبر راموس
 - 2026-11-21 21:08 — [Gta6 Edicion limitada control ps5)](https://www.facebook.com/marketplace/item/3689569881218519) — $2.299 — Vendedor: Alexis Vasquez
 - 2026-11-21 21:05 — [PS5 CONTROL EDICION GTA6](https://www.facebook.com/marketplace/item/1608474897249643) — $2.299 — Vendedor: Alexis Vasquez
