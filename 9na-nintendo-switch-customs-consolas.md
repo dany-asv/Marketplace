@@ -15,6 +15,7 @@ Total: 38 anuncios disponibles.
 - 2026-05-16 11:10 — [NINTENDO SWITCH Libera su potencial Juegos Android y mucho mas](https://www.facebook.com/marketplace/item/2912777539059903) — GRATIS — Vendedor: Vicente Munguia
 - 2026-04-21 13:08 — [Magia para nintendo switch garantizado local establecido](https://www.facebook.com/marketplace/item/5296821210542171) — GRATIS — Vendedor: Vicente Munguia
 - 2026-04-10 17:29 — [CHIPEO NINTENDO SWITCH!!! JUEGOS POPULARES!!!](https://www.facebook.com/marketplace/item/1434723114454125) — GRATIS — Vendedor: Andrea Lopez
+- 2026-11-23 13:53 — [Magia Nintendo switch 🪄](https://www.facebook.com/marketplace/item/1456969253215228) — $1 — Vendedor: Yonoki Joestar
 - 2026-08-05 22:38 — [Liberacion Nintendo Switch todas las versiones 1.0, 1.1, Oled, Lite](https://www.facebook.com/marketplace/item/1778614326817433) — $1 — Vendedor: Vicente Munguia
 - 2026-06-27 00:20 — [Liberacion para Nintendo Switch todas las versiones](https://www.facebook.com/marketplace/item/4594398920831420) — $1 — Vendedor: Juan Sergio Hernandez Araujo
 - 2026-06-27 00:20 — [Liberacion Nintendo Switch todas las versiones 1.0, 1.1, Oled, Lite](https://www.facebook.com/marketplace/item/999437069523859) — $1 — Vendedor: Juan Sergio Hernandez Araujo
@@ -27,7 +28,6 @@ Total: 38 anuncios disponibles.
 - 2026-07-14 17:52 — [Nintendo Switch Chipeo](https://www.facebook.com/marketplace/item/2270532780372382) — $1.600 — Vendedor: Chendez Alonso
 - 2026-11-22 00:21 — [Nintendo Switch Lite Magica](https://www.facebook.com/marketplace/item/2239517456629256) — $2.500 — Vendedor: Javier Alan Plcs
 - 2026-11-19 20:08 — [Nintendo switch oled](https://www.facebook.com/marketplace/item/4371831376294610) — $3.000 — Vendedor: Jose Carlos Meza Ochoa
-- 2026-11-19 08:36 — [Nintendo Switch 1 con magia](https://www.facebook.com/marketplace/item/1211784358465318) — $3.000 — Vendedor: Uriel Gleez
 - 2026-11-23 05:51 — [Nintendi switch](https://www.facebook.com/marketplace/item/1526997599239289) — $3.200 — Vendedor: Thiago Herndz
 - 2026-08-28 15:39 — [Nintendo switch chipeado con más de 10 juegos ya descargados con dock, cargador y estuche](https://www.facebook.com/marketplace/item/1339921581642228) — $3.300 — Vendedor: Antoni Tony
 - 2026-04-03 19:54 — [Nintendo switch chipiada](https://www.facebook.com/marketplace/item/817030934197130) — $3.500 — Vendedor: Manuel Loez

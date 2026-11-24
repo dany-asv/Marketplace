@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 138 anuncios disponibles.
+Total: 136 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -81,7 +81,6 @@ Total: 138 anuncios disponibles.
 - 2025-09-07 16:52 — [Videojuegos de PS4](https://www.facebook.com/marketplace/item/1136389518367398) — $250 — Vendedor: Sami Lopez Martinez
 - 2025-05-28 08:31 — [Juegos para ps4](https://www.facebook.com/marketplace/item/1340596260371339) — $250 — Vendedor: Saúl Plata
 - 2024-12-07 19:32 — [Viernes 13](https://www.facebook.com/marketplace/item/942217030654708) — $250 — Vendedor: Aldo Ceballos Cubedo
-- 2026-10-25 13:36 — [Read Dead Redeption 2 PS4 ✅🕹️](https://www.facebook.com/marketplace/item/1455937176461320) — $300 — Vendedor: Ricardo Beltrán
 - 2026-10-25 10:27 — [Drive Club PS4](https://www.facebook.com/marketplace/item/2489714314893629) — $300 — Vendedor: Chito Hernandez
 - 2026-10-15 20:46 — [JUEGOS PS4 PLAYSTATION 4](https://www.facebook.com/marketplace/item/1656820959286192) — $300 — Vendedor: Zaid Sebastián
 - 2026-09-29 14:17 — [Juegos ps4 $300c/u](https://www.facebook.com/marketplace/item/1566677207947233) — $300 — Vendedor: Dulce Palma
@@ -104,7 +103,6 @@ Total: 138 anuncios disponibles.
 - 2026-01-06 13:56 — [Vendo INJUSTICE 2](https://www.facebook.com/marketplace/item/1427416099010088) — $315 — Vendedor: Luis Higuera
 - 2026-07-27 15:32 — [Discos ps4](https://www.facebook.com/marketplace/item/2026368941582435) — $333 — Vendedor: Ivan Lopez
 - 2026-11-17 14:42 — [GTA 5 PS4](https://www.facebook.com/marketplace/item/2940529192988139) — $350 — Vendedor: Ulises Valenzuela Ochoa
-- 2026-10-15 21:29 — [Juegos Ps4](https://www.facebook.com/marketplace/item/2165243631035916) — $350 — Vendedor: Ulises Valenzuela Ochoa
 - 2026-10-10 10:45 — [Spiderman Miles Morales PS4](https://www.facebook.com/marketplace/item/1918874599093253) — $350 — Vendedor: Bosthon R. Vázquez
 - 2026-09-15 09:26 — [Juego de play 4 CTR Crash Team Racing Nitro Fueled](https://www.facebook.com/marketplace/item/1392548875800951) — $350 — Vendedor: Alma Gonzalez
 - 2026-07-13 12:14 — [The Order: 1886 PS4 / Cambio o Venta. Leer descripcion...](https://www.facebook.com/marketplace/item/28040289068922053) — $350 — Vendedor: Jose Luis Bravo

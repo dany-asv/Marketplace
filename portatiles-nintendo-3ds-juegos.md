@@ -6,11 +6,12 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 12 anuncios disponibles.
+Total: 13 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
 - 2026-09-01 10:12 — [Juegos 3DS](https://www.facebook.com/marketplace/item/3782648501878205) — GRATIS — Vendedor: Miguel Vinsmoke
+- 2026-07-27 15:32 — [Juego para Nintendo 3ds barato](https://www.facebook.com/marketplace/item/1347935447447807) — $200 — Vendedor: Ivan Lopez
 - 2026-08-11 13:21 — [Juegos para nintendo 3ds](https://www.facebook.com/marketplace/item/3427056917499842) — $222 — Vendedor: Chappy Chappy
 - 2026-10-29 21:51 — [Pokemon X y Kirby Triple Deluxe 3ds Original (calalo sin compromiso)](https://www.facebook.com/marketplace/item/1852472529520904) — $250 — Vendedor: Persival Carlos Aguilar Mondragon
 - 2026-03-24 18:52 — [3Ds juegos](https://www.facebook.com/marketplace/item/1657070638769692) — $300 — Vendedor: Mauricio Verduzco

@@ -6,10 +6,11 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 206 anuncios disponibles.
+Total: 202 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
+- 2026-11-23 13:33 — [Videojuegos](https://www.facebook.com/marketplace/item/29056191363989535) — GRATIS — Vendedor: Mario de la Peña
 - 2026-11-22 18:37 — [Videojuegos](https://www.facebook.com/marketplace/item/1507917231246206) — GRATIS — Vendedor: Mario de la Peña
 - 2026-11-21 19:06 — [Venta de videojuegos nuevos y sellados . Diferentes precios. Precio mejorable 3 o + piezas](https://www.facebook.com/marketplace/item/2500296367162757) — GRATIS — Vendedor: Iram A. Payan
 - 2026-11-20 17:08 — [Juegos de Xbox](https://www.facebook.com/marketplace/item/1833210607798432) — GRATIS — Vendedor: Yerak Valdez
@@ -54,7 +55,6 @@ Total: 206 anuncios disponibles.
 - 2026-11-14 00:20 — [🕹️ Videojuegos arcade para revivir la nostalgia](https://www.facebook.com/marketplace/item/1145671781197073) — $123 — Vendedor: Manuel Cardoza
 - 2026-09-25 13:59 — [Juegos para xboxby PlayStation 3](https://www.facebook.com/marketplace/item/1995884721119317) — $150 — Vendedor: Hermes Erbey Castro
 - 2026-09-09 14:51 — [Juegos PS1 PS2 PS3 PS4 NDS](https://www.facebook.com/marketplace/item/1813364033343254) — $150 — Vendedor: Bogard Santos Zazueta
-- 2026-07-24 13:14 — [Juegos de PS4 , PS5 Y XBOX ONE](https://www.facebook.com/marketplace/item/2619162841874186) — $150 — Vendedor: Ulises Valenzuela Ochoa
 - 2026-03-15 17:04 — [Juegos de ps4 y ps5](https://www.facebook.com/marketplace/item/2395477627568502) — $150 — Vendedor: LC JG
 - 2025-11-16 23:18 — [Videojuegos](https://www.facebook.com/marketplace/item/1491506838754471) — $150 — Vendedor: Carmen Bernardo
 - 2026-11-21 19:00 — [Videojuegos nuevos nintendo switch 2 Nintendo switch y play station 5](https://www.facebook.com/marketplace/item/1133627782620304) — $200 — Vendedor: Iram A. Payan
@@ -73,7 +73,6 @@ Total: 206 anuncios disponibles.
 - 2026-11-14 09:29 — [Juegos xbox nuevos](https://www.facebook.com/marketplace/item/1659577642380869) — $250 — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-11-10 21:04 — [Juegos para XBOX](https://www.facebook.com/marketplace/item/28894008290225612) — $250 — Vendedor: Awa De Horchata
 - 2026-10-16 10:40 — [Vendo discos de juego God of Wars,FIFA 18, FC23,the last of us 250c/u](https://www.facebook.com/marketplace/item/1661986658794511) — $250 — Vendedor: Felic Berrelleza
-- 2026-08-19 15:21 — [FIFA 23](https://www.facebook.com/marketplace/item/2087656532123331) — $250 — Vendedor: Ulises Valenzuela Ochoa
 - 2026-08-17 14:25 — [Video juegos el precio es por pieza](https://www.facebook.com/marketplace/item/27922304210731601) — $250 — Vendedor: Julio Cesar Ibarra Rodríguez
 - 2026-07-22 10:23 — [juegos Xbox en disco](https://www.facebook.com/marketplace/item/1333173395163018) — $250 — Vendedor: Leonardo Arredondo
 - 2026-06-11 08:57 — [Rainbow six siege](https://www.facebook.com/marketplace/item/1985771682070748) — $250 — Vendedor: Cesar Gamez Cruz
@@ -101,7 +100,6 @@ Total: 206 anuncios disponibles.
 - 2026-04-02 13:25 — [FIFA 16](https://www.facebook.com/marketplace/item/966556406321627) — $350 — Vendedor: Pedro Soto
 - 2025-12-29 17:48 — [Juegos PlayStation](https://www.facebook.com/marketplace/item/1914264792632225) — $350 — Vendedor: Angel Valenzuela Peña
 - 2026-11-18 15:27 — [Mario Oddysey ( sin caja )](https://www.facebook.com/marketplace/item/2325268674698395) — $400 — Vendedor: Jorge A Armenta Payan
-- 2026-11-06 14:20 — [Days Gone](https://www.facebook.com/marketplace/item/1583914160207078) — $400 — Vendedor: Ulises Valenzuela Ochoa
 - 2026-09-06 18:40 — [Spiderman miles morales](https://www.facebook.com/marketplace/item/3446274895539708) — $400 — Vendedor: Ivan Aguero
 - 2026-06-18 10:55 — [Mario Rabbids](https://www.facebook.com/marketplace/item/2469117890261097) — $400 — Vendedor: Jorge Luis Ramirez
 - 2026-05-31 13:41 — [Televisor Panasonic](https://www.facebook.com/marketplace/item/27245231865096143) — $400 — Vendedor: Lizeth Perez
@@ -146,12 +144,10 @@ Total: 206 anuncios disponibles.
 - 2026-08-05 22:38 — [Minecraft edicion Mario Bros Nintendo Switch Nuevo sellado compatible Switch 2](https://www.facebook.com/marketplace/item/1692369952062867) — $599 — Vendedor: Vicente Munguia
 - 2026-06-08 21:23 — [Juegos Ps4-Ps5](https://www.facebook.com/marketplace/item/3061640007364823) — $599 — Vendedor: Maria CL
 - 2026-11-18 09:37 — [Videojuegos nintendo Switch play y wii](https://www.facebook.com/marketplace/item/1666511391778822) — $600 — Vendedor: Rafaela Gastelo Torres
-- 2026-11-17 09:01 — [Zombies ate my neighbors](https://www.facebook.com/marketplace/item/4792973204264727) — $600 — Vendedor: Sebastián Nozato
 - 2026-11-15 13:30 — [Videojuegos nintendo Switch play y wii](https://www.facebook.com/marketplace/item/1039832102455774) — $600 — Vendedor: Rafaela Gastelo Torres
 - 2026-11-08 14:32 — [Videojuegos 🎮 PS5 y Nintendo switch](https://www.facebook.com/marketplace/item/1678842957089134) — $600 — Vendedor: Karla Rodriguez
 - 2026-10-21 10:45 — [Mortal Kombat 1](https://www.facebook.com/marketplace/item/1423279409961562) — $600 — Vendedor: Manuel Borquez
 - 2026-09-21 19:52 — [Súper Mario maker2](https://www.facebook.com/marketplace/item/937524275637505) — $600 — Vendedor: Franklin Gamez Rocha
-- 2026-08-22 16:33 — [Juegos PS4-PS5](https://www.facebook.com/marketplace/item/1378227907769303) — $600 — Vendedor: Ulises Valenzuela Ochoa
 - 2026-06-01 16:07 — [Super mario maker 2](https://www.facebook.com/marketplace/item/26737475489288736) — $600 — Vendedor: Lupita Morales
 - 2026-05-19 20:04 — [SUPER MARIO ODYSSEY](https://www.facebook.com/marketplace/item/1964384157780377) — $600 — Vendedor: Efrén Olivas Domínguez
 - 2026-05-04 08:57 — [Bideojuego de nintendo siuchw](https://www.facebook.com/marketplace/item/817317547703446) — $600 — Vendedor: Lorenia Leon

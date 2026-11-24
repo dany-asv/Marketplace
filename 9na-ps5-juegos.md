@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 36 anuncios disponibles.
+Total: 39 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -27,6 +27,7 @@ Total: 36 anuncios disponibles.
 - 2026-11-12 00:23 — [FC2025 PS5](https://www.facebook.com/marketplace/item/1662883065372491) — $500 — Vendedor: Dante Esquer
 - 2026-11-08 21:30 — [Fc24 ps5 nuevo](https://www.facebook.com/marketplace/item/1064257223332785) — $500 — Vendedor: Jose Nose
 - 2026-10-26 17:58 — [Juegos ps5 diferentes precios](https://www.facebook.com/marketplace/item/2130992907521483) — $500 — Vendedor: Antonio Lopez
+- 2026-08-11 21:49 — [Discos de PlayStation 5](https://www.facebook.com/marketplace/item/1021185537191836) — $500 — Vendedor: Johana Sotelo
 - 2026-07-08 21:40 — [🎮"UFC 5 (PS5) o Cambio "🎮 leer descripción.....](https://www.facebook.com/marketplace/item/1674624370288619) — $500 — Vendedor: Jose Luis Bravo
 - 2026-06-01 10:12 — [Juegos ps5 en buenas condiciones se van en $500$ cada uno](https://www.facebook.com/marketplace/item/2937953079883311) — $500 — Vendedor: Antonio Lopez
 - 2026-01-16 15:35 — [Se vende o se cambia juego digital call of duty ops 6 para ps5](https://www.facebook.com/marketplace/item/903463258883582) — $500 — Vendedor: Andy Rubio
@@ -35,9 +36,11 @@ Total: 36 anuncios disponibles.
 - 2026-10-11 12:03 — [Sillent hill Townfall PS5](https://www.facebook.com/marketplace/item/1115472197556304) — $600 — Vendedor: Roberto Ortega
 - 2026-10-03 19:27 — [Juegos de playstation 5 ps5](https://www.facebook.com/marketplace/item/2166624194267260) — $600 — Vendedor: Jesus Antonio Gonzalez Alvarez
 - 2026-11-15 11:40 — [Juegos PS5](https://www.facebook.com/marketplace/item/1141286178871583) — $650 — Vendedor: Edel Muñoz Combs
+- 2026-11-23 21:19 — [FIFA 26 PS5](https://www.facebook.com/marketplace/item/1896075301747261) — $700 — Vendedor: Viviana Quintero
 - 2026-11-18 10:07 — [Gran turismo 7 ps5](https://www.facebook.com/marketplace/item/2698286537275148) — $700 — Vendedor: Brayan Chacon
 - 2026-11-12 00:24 — [Hogwarts legacy PS5](https://www.facebook.com/marketplace/item/1625533765489329) — $700 — Vendedor: Dante Esquer
 - 2026-06-26 17:15 — [Juegos ps5](https://www.facebook.com/marketplace/item/1324225039260240) — $700 — Vendedor: Jose Valdez
+- 2026-08-31 20:31 — [SPARKING ZERO PS5](https://www.facebook.com/marketplace/item/4616738001891468) — $750 — Vendedor: Isaac Rivera
 - 2026-10-14 12:39 — [Paquete de juegos para PS5 por $1000](https://www.facebook.com/marketplace/item/1100358862736889) — $999 — Vendedor: Iván Castro León
 - 2026-11-23 02:05 — [Juegos PS5 semi-nuevos](https://www.facebook.com/marketplace/item/1679104833880714) — $1,200 — Vendedor: Gerardo Romero
 - 2026-02-10 09:51 — [Juegos ps5](https://www.facebook.com/marketplace/item/777754828104379) — $1.222 — Vendedor: Sebastian Souza

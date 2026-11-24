@@ -16,7 +16,6 @@ Total: 36 anuncios disponibles.
 - 2026-07-12 16:54 — [Vendo](https://www.facebook.com/marketplace/item/4478280349059659) — GRATIS — Vendedor: Gwendoline Palafox Almanza
 - 2026-05-26 14:47 — [Nintendo switch lite](https://www.facebook.com/marketplace/item/863142633494091) — GRATIS — Vendedor: Frida Carolina M. Berrelleza
 - 2026-10-31 13:19 — [NINTENDO SWITCH LITE](https://www.facebook.com/marketplace/item/4550554371825482) — $3 — Vendedor: Viry Montiel
-- 2026-11-16 21:31 — [Nintendo Switch Lite](https://www.facebook.com/marketplace/item/1162023380119934) — $123 — Vendedor: Emi CM
 - 2026-11-15 10:56 — [Nintendo Switch Lite con varios juegos](https://www.facebook.com/marketplace/item/2257621274798511) — $123 — Vendedor: Emi CM
 - 2026-11-18 13:31 — [Switch lite solo consola, ningún detalle se entrega ya cargada](https://www.facebook.com/marketplace/item/1314452584145703) — $1.700 — Vendedor: Antoni Tony
 - 2026-09-28 11:58 — [Nintendo switch lite](https://www.facebook.com/marketplace/item/1077738021743766) — $1.700 — Vendedor: César Gutiérrez
@@ -46,3 +45,4 @@ Total: 36 anuncios disponibles.
 - 2026-08-04 01:34 — [Vendo o cambio](https://www.facebook.com/marketplace/item/3367653220061910) — $3.500 — Vendedor: Ventura Miranda Gomez
 - 2026-07-07 22:15 — [Nintendo swich lite](https://www.facebook.com/marketplace/item/1692009911886688) — $3.500 — Vendedor: Geovany Cuevas
 - 2026-01-29 16:39 — [Nintendo Switch Lite](https://www.facebook.com/marketplace/item/1531037537953590) — $4.000 — Vendedor: Maryled Rubio
+- 2026-11-23 14:57 — [nintendo switch lite](https://www.facebook.com/marketplace/item/1084865584575011) — $123.456 — Vendedor: Jona Lopez

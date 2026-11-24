@@ -6,10 +6,11 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 259 anuncios disponibles.
+Total: 262 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
+- 2026-11-23 13:58 — [Juegos de Nintendo Switch en promocion$$](https://www.facebook.com/marketplace/item/1644776977131888) — GRATIS — Vendedor: Paulina Flores
 - 2026-11-07 19:12 — [Tomodachi life](https://www.facebook.com/marketplace/item/1122831433790999) — GRATIS — Vendedor: Mike Chichario
 - 2026-11-02 10:26 — [JoyCons Switch 1 y juego splatoon 2](https://www.facebook.com/marketplace/item/1700171221716150) — GRATIS — Vendedor: Hector Michelle Zuñiga Valle
 - 2026-10-30 13:48 — [Juegos de switch disponibles $$](https://www.facebook.com/marketplace/item/1768389297548637) — GRATIS — Vendedor: Andrea Lopez
@@ -110,6 +111,7 @@ Total: 259 anuncios disponibles.
 - 2026-04-18 10:51 — [Mortal Kombat 11 Nintendo Switch.](https://www.facebook.com/marketplace/item/1004236295504613) — $450 — Vendedor: Andres Apodaca
 - 2025-10-23 07:11 — [Juegos Nintendo switch](https://www.facebook.com/marketplace/item/1143880284380678) — $450 — Vendedor: Abel Galindo
 - 2026-10-15 14:59 — [Juegos nintendo swich](https://www.facebook.com/marketplace/item/1091363723742296) — $499 — Vendedor: Jesus Cota
+- 2026-11-21 16:47 — [Luigi’s Mansion 3- Switch](https://www.facebook.com/marketplace/item/1462047612018162) — $500 — Vendedor: Yahir Lerma
 - 2026-11-17 15:19 — [Juegos de Nintendo switch sin caja en 500 cada uno, el de sin carátula es el pokémon let's go evee](https://www.facebook.com/marketplace/item/1292669206359621) — $500 — Vendedor: Antoni Tony
 - 2026-11-11 14:28 — [Juegos Nintendo switch solo cartucho en $500$ cada uno](https://www.facebook.com/marketplace/item/1149055554337650) — $500 — Vendedor: Antonio Lopez
 - 2026-11-09 22:02 — [Pokémon sword](https://www.facebook.com/marketplace/item/2583687232099404) — $500 — Vendedor: Alejandro Cital Garcia
@@ -137,6 +139,7 @@ Total: 259 anuncios disponibles.
 - 2026-03-19 12:43 — [Juegos para Nintendo switch](https://www.facebook.com/marketplace/item/918194384458454) — $500 — Vendedor: Lupytha Leyva Boutiq
 - 2026-03-19 12:43 — [Juegos de nintendo switch](https://www.facebook.com/marketplace/item/943877698437181) — $500 — Vendedor: Lupytha Leyva Boutiq
 - 2026-01-03 12:45 — [Joycons y juegos switch](https://www.facebook.com/marketplace/item/2092581798162307) — $500 — Vendedor: Daniel Soto
+- 2026-11-23 11:02 — [Smash Bros Nintendo Switch](https://www.facebook.com/marketplace/item/2124740295583767) — $550 — Vendedor: Sebastián Nozato
 - 2026-11-17 15:22 — [Juegos de Nintendo switch 550 cada uno](https://www.facebook.com/marketplace/item/2341940919966012) — $550 — Vendedor: Antoni Tony
 - 2026-11-17 09:03 — [Mario Party Switch](https://www.facebook.com/marketplace/item/5648875265338658) — $550 — Vendedor: Sebastián Nozato
 - 2026-11-16 12:25 — [Juegos de Switch](https://www.facebook.com/marketplace/item/28902284826120953) — $550 — Vendedor: Ulises Valenzuela Ochoa
