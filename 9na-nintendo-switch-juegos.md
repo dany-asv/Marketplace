@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 262 anuncios disponibles.
+Total: 265 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -49,9 +49,11 @@ Total: 262 anuncios disponibles.
 - 2026-07-05 22:10 — [Juego Nintendo Switch](https://www.facebook.com/marketplace/item/3155387814659816) — $1 — Vendedor: JA Neth
 - 2026-05-09 13:38 — [Videojyego](https://www.facebook.com/marketplace/item/1291355856309439) — $1 — Vendedor: Carla Lopez
 - 2026-10-09 15:11 — [Juegos Nintendo switch!](https://www.facebook.com/marketplace/item/1423383919121188) — $5 — Vendedor: Heber Barraza
+- 2026-11-17 20:43 — [🟡videojuego FIFA 26 / FC 26 Nintendo switch](https://www.facebook.com/marketplace/item/1569869451600272) — $99 — Vendedor: Juan Vazz
 - 2026-08-04 11:50 — [Juego para nintendo switch barato](https://www.facebook.com/marketplace/item/1312614357612432) — $111 — Vendedor: Chappy Chappy
 - 2026-03-18 20:23 — [Juego Mario + Rabbids para Nintendo SWITCH 1,2](https://www.facebook.com/marketplace/item/2273773806479903) — $123 — Vendedor: Berenays Luque
 - 2026-03-02 12:32 — [Juegos de Nintendo switch](https://www.facebook.com/marketplace/item/1228216336175686) — $123 — Vendedor: Cinthya Olguin
+- 2026-11-25 01:59 — [Juego De Lego Para La Nintendo Switch](https://www.facebook.com/marketplace/item/2151999975402603) — $200 — Vendedor: Juan Espinoza
 - 2026-11-13 12:39 — [Dragon quest teasures Nintendo switch](https://www.facebook.com/marketplace/item/3037086919980228) — $200 — Vendedor: Iram A. Payan
 - 2025-12-23 11:47 — [- HUMAN FALL FLAT](https://www.facebook.com/marketplace/item/1412438200297784) — $200 — Vendedor: Víctor Iván Araujo
 - 2026-10-08 17:19 — [Bluey the videogame - Nintendo switch](https://www.facebook.com/marketplace/item/1818656475989332) — $250 — Vendedor: Gerardo Romero
@@ -209,8 +211,9 @@ Total: 262 anuncios disponibles.
 - 2026-10-28 17:54 — [Omori juego Nintendo switch](https://www.facebook.com/marketplace/item/1098333916379914) — $750 — Vendedor: Janeth Gutierrez
 - 2026-10-16 17:03 — [Super Mario 3D world + Bowser fury](https://www.facebook.com/marketplace/item/1769880007424268) — $750 — Vendedor: Miguel Serrano
 - 2026-07-13 15:44 — [Mario Kart 8 Deluxe y Súper Mario Oddysey](https://www.facebook.com/marketplace/item/1305094178279725) — $750 — Vendedor: Jorge Trs
+- 2026-11-25 00:32 — [Vendo o Cambio Pokémon Z-A Para Nintendo Switch](https://www.facebook.com/marketplace/item/1473143197478060) — $800 — Vendedor: Bogard Santos Zazueta
+- 2026-11-24 22:11 — [Juegos para Nintendo Switch](https://www.facebook.com/marketplace/item/1489252920080475) — $800 — Vendedor: Maybeth Lopez
 - 2026-11-15 09:07 — [Dragon Ball sparking zero juego Nintendo switch](https://www.facebook.com/marketplace/item/2341833969908938) — $800 — Vendedor: Iram A. Payan
-- 2026-11-05 19:38 — [Legends of zelda tears of the kingdom](https://www.facebook.com/marketplace/item/1932708384376872) — $800 — Vendedor: Mony TO
 - 2026-11-04 17:00 — [Se venden Juegos para Nintendo switch](https://www.facebook.com/marketplace/item/1956339339080429) — $800 — Vendedor: Pau Almada
 - 2026-11-04 16:50 — [Juegos para Nintendo switch](https://www.facebook.com/marketplace/item/1491051216291993) — $800 — Vendedor: Pau Almada
 - 2026-10-31 20:28 — [Dragon quest 1,2 y 3 Dragon quest monsters switch Nintendo](https://www.facebook.com/marketplace/item/993081613199277) — $800 — Vendedor: Iram A. Payan

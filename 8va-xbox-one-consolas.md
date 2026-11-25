@@ -25,6 +25,7 @@ Total: 79 anuncios disponibles.
 - 2026-11-11 09:44 — [Xbox one fat solo le falta la tapa](https://www.facebook.com/marketplace/item/1591358789677713) — $1.400 — Vendedor: Juan Flores
 - 2026-11-09 13:59 — [Xbox one solo le falta la tapa al control](https://www.facebook.com/marketplace/item/2039733050022808) — $1.400 — Vendedor: Juan Flores
 - 2026-11-08 08:08 — [Xbox one](https://www.facebook.com/marketplace/item/1145090754611229) — $1.400 — Vendedor: Eidan Aviles
+- 2026-11-24 10:40 — [Xbox One Fat 500 gb Con Control](https://www.facebook.com/marketplace/item/1083610088061910) — $1.500 — Vendedor: Juan Lebron
 - 2026-11-20 16:08 — [Xbox one](https://www.facebook.com/marketplace/item/29256779290647956) — $1.500 — Vendedor: Josemiguel Vizcarra
 - 2026-11-10 18:50 — [Vendo Xbox one S](https://www.facebook.com/marketplace/item/1070644342694050) — $1.500 — Vendedor: Javier Lopez
 - 2026-10-10 22:26 — [Xbox one](https://www.facebook.com/marketplace/item/1768424834433514) — $1.500 — Vendedor: Lopez Victor
@@ -39,7 +40,6 @@ Total: 79 anuncios disponibles.
 - 2026-10-17 10:06 — [Xbox one fat](https://www.facebook.com/marketplace/item/2200525530899259) — $1.800 — Vendedor: Jesus Bojorquez
 - 2026-07-23 20:20 — [Xbox one s de 1tb con 1 control inalámbrico y sus cables, todo funciona bien solo tiene detallitos e](https://www.facebook.com/marketplace/item/1820119675454237) — $1.800 — Vendedor: Antoni Tony
 - 2026-11-06 15:14 — [Xbox One](https://www.facebook.com/marketplace/item/1001660172998720) — $1.900 — Vendedor: Jisus Escalante
-- 2026-11-04 21:26 — [Xbox One Fat 1Tb c/Mantenimiento| GARANTIA/CAMBIOS](https://www.facebook.com/marketplace/item/2176788592938081) — $1.900 — Vendedor: Carlos Carlon
 - 2026-11-12 17:37 — [Xbox one s de 512](https://www.facebook.com/marketplace/item/1789933245612703) — $2.000 — Vendedor: Bianca Espinoza
 - 2026-11-06 11:44 — [Xbox one s](https://www.facebook.com/marketplace/item/2584061911999134) — $2.000 — Vendedor: Valdez Luis
 - 2026-10-28 19:09 — [Xbox one s](https://www.facebook.com/marketplace/item/1885967915902149) — $2.000 — Vendedor: Jaciel Mar

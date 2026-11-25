@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 136 anuncios disponibles.
+Total: 137 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -140,6 +140,7 @@ Total: 136 anuncios disponibles.
 - 2026-11-17 13:24 — [Juegos PlayStation 4](https://www.facebook.com/marketplace/item/2303458527173215) — $1.500 — Vendedor: Jorge Apodaca
 - 2026-02-10 09:50 — [Juegos ps4](https://www.facebook.com/marketplace/item/3394160537415025) — $2.000 — Vendedor: Sebastian Souza
 - 2026-11-05 22:14 — [Final Fantasy XII Zodiac Age Collector’s Edition PS4 completa](https://www.facebook.com/marketplace/item/1106295665549699) — $2.400 — Vendedor: Francisco Arturo
+- 2026-11-16 18:48 — [Horizon Zero Dawn Collector’s Edition PS4, completa](https://www.facebook.com/marketplace/item/1123815020359819) — $2.900 — Vendedor: Francisco Arturo
 - 2026-08-13 20:07 — [Juegos ps4](https://www.facebook.com/marketplace/item/1014127154771351) — $3.000 — Vendedor: Juan Garcia
 - 2025-12-31 17:09 — [Video juego PS4](https://www.facebook.com/marketplace/item/2128414791028815) — $3.500 — Vendedor: Luis Sanchez
 - 2026-04-10 22:03 — [Sekiro](https://www.facebook.com/marketplace/item/4430478487278849) — $4.000 — Vendedor: Luis Sanchez

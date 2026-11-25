@@ -6,11 +6,12 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 147 anuncios disponibles.
+Total: 151 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
 - 2026-11-24 03:41 — [PlayStation 4 + Nintendo Switch | Combo a buen precio 🎮](https://www.facebook.com/marketplace/item/1138081312517117) — GRATIS — Vendedor: Emiliano Rico
+- 2026-11-23 13:40 — [Maquinita de videojuegos](https://www.facebook.com/marketplace/item/1147542724740399) — GRATIS — Vendedor: Mario de la Peña
 - 2026-11-23 13:39 — [Consola de videojuegos 🎮](https://www.facebook.com/marketplace/item/1772381840974251) — GRATIS — Vendedor: Mario de la Peña
 - 2026-11-22 18:36 — [Consola 🎮 de videojuegos 🎮](https://www.facebook.com/marketplace/item/1136122882606724) — GRATIS — Vendedor: Mario de la Peña
 - 2026-11-19 08:29 — [Maquina de videojuegos](https://www.facebook.com/marketplace/item/1182392691126212) — GRATIS — Vendedor: Jose Soto
@@ -69,6 +70,8 @@ Total: 147 anuncios disponibles.
 - 2026-07-09 11:35 — [chipeo psp y pongo juegos de diferentes consolas (también de switch)](https://www.facebook.com/marketplace/item/2090132611586269) — $300 — Vendedor: Adrian Corrales Vega
 - 2026-10-27 07:55 — [Mákina con muchos juegos clásicos y modernos..miles..$3500 tel.6681993508](https://www.facebook.com/marketplace/item/1584985079561237) — $350 — Vendedor: Daniel López
 - 2026-06-21 10:14 — [Consola arcade con 21 juegos, nuevo.](https://www.facebook.com/marketplace/item/981602491339807) — $450 — Vendedor: José Miguel
+- 2026-11-23 22:10 — [Venta de videojuegos Game stick incluye memoria y controles inalámbricos](https://www.facebook.com/marketplace/item/1139424605399012) — $500 — Vendedor: Dayanna Fuentes Lara
+- 2026-11-23 20:09 — [🎮 Consola Gamestick m8 (20,000 juegos)](https://www.facebook.com/marketplace/item/2349273742300705) — $500 — Vendedor: Antonio Vazquez
 - 2026-11-02 11:57 — [busco Nintendo 3ds, 2ds, XL, new.](https://www.facebook.com/marketplace/item/1874642674160395) — $500 — Vendedor: Miguel Ruiz Chavez
 - 2026-11-02 11:56 — [Busco Gameboy SP, Color, dvvance, Clasic](https://www.facebook.com/marketplace/item/1916760772816326) — $500 — Vendedor: Miguel Ruiz Chavez
 - 2026-10-19 14:27 — [🔴GAME STICK PRO🔴 ✅️25 MIL JUEGOS ✅️2 CONTROLES ✅️RESOLUCION 4K ✅️ENVIOS A DOMICILIO🏡🛵💨](https://www.facebook.com/marketplace/item/4613212418961115) — $500 — Vendedor: Eduardo Llamas
@@ -151,6 +154,7 @@ Total: 147 anuncios disponibles.
 - 2026-10-21 11:32 — [Kit Simracing Logitech G29 (Volante + Pedales + Palanca Shifter + Freno de Mano USB + Soporte)](https://www.facebook.com/marketplace/item/28718905404424957) — $6.000 — Vendedor: TechNova LM
 - 2026-10-11 18:24 — [Asus Rog Ally z1 Extreme / PC Gamer portatil, COMPLETO TODO O SEPARADO](https://www.facebook.com/marketplace/item/1750907475961346) — $7.000 — Vendedor: Luis Guerrero
 - 2026-07-01 17:00 — [PC GAMER CALIDAD-PRECIO | RYZEN 5 3500X + RX 590 8GB + 16GB RAM | LISTA PARA JUGAR 🎮🔥](https://www.facebook.com/marketplace/item/1741885486804215) — $7.500 — Vendedor: Saul Hernandez
+- 2026-11-23 22:22 — [VENDO O CAMBIO PC GAMER POR PS5 O XBOX SERIES X](https://www.facebook.com/marketplace/item/30273257988943555) — $8.000 — Vendedor: Luisjo Ruiz
 - 2026-11-05 12:28 — [Asus Rog Ally Z1 Extreme con SteamOS](https://www.facebook.com/marketplace/item/29231060263172063) — $8.000 — Vendedor: Miguel Vinsmoke
 - 2026-10-12 16:31 — [PC GAMER](https://www.facebook.com/marketplace/item/1103375522448272) — $9.000 — Vendedor: Jesus VC
 - 2026-07-22 13:03 — [Computadora gamer ryzen 7 rtx 5060ti gamer y edición renderizado 🔶solo venta🔶](https://www.facebook.com/marketplace/item/1080625824634473) — $28.499 — Vendedor: Saul Hernandez
