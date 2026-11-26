@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 39 anuncios disponibles.
+Total: 41 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -30,6 +30,7 @@ Total: 39 anuncios disponibles.
 - 2026-11-19 20:08 — [Nintendo switch oled](https://www.facebook.com/marketplace/item/4371831376294610) — $3.000 — Vendedor: Jose Carlos Meza Ochoa
 - 2026-11-23 05:51 — [Nintendi switch](https://www.facebook.com/marketplace/item/1526997599239289) — $3.200 — Vendedor: Thiago Herndz
 - 2026-08-28 15:39 — [Nintendo switch chipeado con más de 10 juegos ya descargados con dock, cargador y estuche](https://www.facebook.com/marketplace/item/1339921581642228) — $3.300 — Vendedor: Antoni Tony
+- 2026-11-25 12:57 — [Nintendo switch lite chipeada con 20 juegos $3500](https://www.facebook.com/marketplace/item/2054937518512526) — $3.500 — Vendedor: Rodriguez Cl
 - 2026-04-03 19:54 — [Nintendo switch chipiada](https://www.facebook.com/marketplace/item/817030934197130) — $3.500 — Vendedor: Manuel Loez
 - 2026-02-18 15:38 — [Switch con magia](https://www.facebook.com/marketplace/item/1869427640382285) — $3.500 — Vendedor: Flaco Donde Estas
 - 2026-09-10 19:00 — [Vendo nintendo switch hack](https://www.facebook.com/marketplace/item/2509919082863406) — $3.700 — Vendedor: Pedro Escalante
@@ -47,5 +48,6 @@ Total: 39 anuncios disponibles.
 - 2026-11-19 16:49 — [Switch con magia de 1250gb llena de juegos y ports.](https://www.facebook.com/marketplace/item/2048785065834304) — $5.300 — Vendedor: Jac Vega
 - 2026-08-02 13:28 — [Nintendo Switch oled con magia de 10 a 15 juegos a tu gusto](https://www.facebook.com/marketplace/item/1052219884241969) — $5.900 — Vendedor: Stargames Valenzuela
 - 2026-08-20 00:02 — [Nintendo switch oled chipeada con 30 juegos incluidos en caja y accesorios originales](https://www.facebook.com/marketplace/item/1978215582896210) — $5.999 — Vendedor: Vicente Munguia
+- 2026-11-25 12:16 — [Nintendo switch oled chipeada con 49 juegos con emulaladores en caja y accesorios](https://www.facebook.com/marketplace/item/1132960282672345) — $6.500 — Vendedor: Rodriguez Cl
 - 2026-11-24 11:58 — [Nintendo switch oled edición Pokémon](https://www.facebook.com/marketplace/item/30487081660892530) — $6.500 — Vendedor: Marte Verdugo Gil
 - 2026-11-05 17:07 — [Nintendo switch oled chipeada con 33 juegos incluidos en caja con accesorios originales $6500](https://www.facebook.com/marketplace/item/1017064471417768) — $6.500 — Vendedor: Rodriguez Cl

@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 137 anuncios disponibles.
+Total: 138 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -127,6 +127,7 @@ Total: 137 anuncios disponibles.
 - 2026-03-18 18:48 — [Ni no Kuni 2 Revenant Kibgdom PS4](https://www.facebook.com/marketplace/item/803071805628526) — $500 — Vendedor: Lizarraga Maria
 - 2025-12-15 20:23 — [Juegos PS4](https://www.facebook.com/marketplace/item/1391538265658447) — $500 — Vendedor: Georgina Heredia Rodriguez
 - 2024-12-12 10:40 — [JUEGO PS4 DAYS GONE](https://www.facebook.com/marketplace/item/1154359336269091) — $500 — Vendedor: Alex Ruelas
+- 2026-11-25 18:00 — [Juegos para Playstation 4](https://www.facebook.com/marketplace/item/1680564286890951) — $600 — Vendedor: Stargames Valenzuela
 - 2026-10-16 12:34 — [Juegos ps4 nuevo y seminuevos](https://www.facebook.com/marketplace/item/2241172466440453) — $600 — Vendedor: Miguel Armenta
 - 2026-07-27 23:01 — [Juego para ps4](https://www.facebook.com/marketplace/item/1363198162616069) — $650 — Vendedor: Adrian Meraz
 - 2026-03-10 09:13 — [9 Juegos de Ps4](https://www.facebook.com/marketplace/item/914966994565494) — $800 — Vendedor: Juega Con Migo

@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 265 anuncios disponibles.
+Total: 263 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -53,6 +53,7 @@ Total: 265 anuncios disponibles.
 - 2026-08-04 11:50 — [Juego para nintendo switch barato](https://www.facebook.com/marketplace/item/1312614357612432) — $111 — Vendedor: Chappy Chappy
 - 2026-03-18 20:23 — [Juego Mario + Rabbids para Nintendo SWITCH 1,2](https://www.facebook.com/marketplace/item/2273773806479903) — $123 — Vendedor: Berenays Luque
 - 2026-03-02 12:32 — [Juegos de Nintendo switch](https://www.facebook.com/marketplace/item/1228216336175686) — $123 — Vendedor: Cinthya Olguin
+- 2026-11-26 01:53 — [Nintendo switch caja](https://www.facebook.com/marketplace/item/2648708602267408) — $200 — Vendedor: Francisco Javier Leyva Duran
 - 2026-11-25 01:59 — [Juego De Lego Para La Nintendo Switch](https://www.facebook.com/marketplace/item/2151999975402603) — $200 — Vendedor: Juan Espinoza
 - 2026-11-13 12:39 — [Dragon quest teasures Nintendo switch](https://www.facebook.com/marketplace/item/3037086919980228) — $200 — Vendedor: Iram A. Payan
 - 2025-12-23 11:47 — [- HUMAN FALL FLAT](https://www.facebook.com/marketplace/item/1412438200297784) — $200 — Vendedor: Víctor Iván Araujo
@@ -73,7 +74,6 @@ Total: 265 anuncios disponibles.
 - 2026-11-15 12:52 — [Minecraft para nintendo switch](https://www.facebook.com/marketplace/item/1685357253098224) — $350 — Vendedor: Axel Luna
 - 2026-11-12 11:36 — [Juego Sonic Forces Para Nintendo Switch $450 con Caja](https://www.facebook.com/marketplace/item/962177506660699) — $350 — Vendedor: Axel Luna
 - 2026-11-08 16:06 — [Se venden o se cambian por videojuegos de switch 1 o 2](https://www.facebook.com/marketplace/item/4566639680214982) — $350 — Vendedor: Jose Rios
-- 2026-10-21 15:30 — [Team Sonic Racing Switch](https://www.facebook.com/marketplace/item/1801917924332191) — $350 — Vendedor: Teo Teodorovich
 - 2026-10-15 09:09 — [Juego de Jumanji para Nintendo switch](https://www.facebook.com/marketplace/item/2178005906474107) — $350 — Vendedor: Daniela Gutierrez
 - 2026-10-07 18:07 — [Juegos switch solo son el cartucho sin caja en 350$ cada uno](https://www.facebook.com/marketplace/item/1102496795855387) — $350 — Vendedor: Antonio Lopez
 - 2026-06-29 22:45 — [Juegos Nintendo switch sin caja en 350 cada uno](https://www.facebook.com/marketplace/item/1331141795266315) — $350 — Vendedor: Antonio Lopez
@@ -134,14 +134,12 @@ Total: 265 anuncios disponibles.
 - 2026-07-30 22:27 — [Juegos nintendo switch smash mario kart sonic minecraft dragon ball](https://www.facebook.com/marketplace/item/2569850623461614) — $500 — Vendedor: Vicente Munguia
 - 2026-07-14 16:08 — [Juegos de Nintendo Switch](https://www.facebook.com/marketplace/item/2250259419072660) — $500 — Vendedor: Sebastián Nozato
 - 2026-07-04 05:53 — [Juegos de Nintendo Switch ver precios en la descripción](https://www.facebook.com/marketplace/item/803090172841172) — $500 — Vendedor: Daniel Arturo Salinas Verduzco
-- 2026-06-22 14:57 — [Juego Nintendo switch](https://www.facebook.com/marketplace/item/2108914403172661) — $500 — Vendedor: Cesar Rosas
 - 2026-06-16 11:22 — [Splatoon 2 Nintendo Switch (buen estado)](https://www.facebook.com/marketplace/item/1504494864710611) — $500 — Vendedor: Miguel Armenta
 - 2026-06-01 10:12 — [Juegos switch 500 cada uno](https://www.facebook.com/marketplace/item/1296534809261594) — $500 — Vendedor: Antonio Lopez
 - 2026-05-01 13:36 — [Juegos switch](https://www.facebook.com/marketplace/item/2533837753697848) — $500 — Vendedor: Arodi Arau Gutierrez
 - 2026-03-19 12:43 — [Juegos para Nintendo switch](https://www.facebook.com/marketplace/item/918194384458454) — $500 — Vendedor: Lupytha Leyva Boutiq
 - 2026-03-19 12:43 — [Juegos de nintendo switch](https://www.facebook.com/marketplace/item/943877698437181) — $500 — Vendedor: Lupytha Leyva Boutiq
 - 2026-01-03 12:45 — [Joycons y juegos switch](https://www.facebook.com/marketplace/item/2092581798162307) — $500 — Vendedor: Daniel Soto
-- 2026-11-23 11:02 — [Smash Bros Nintendo Switch](https://www.facebook.com/marketplace/item/2124740295583767) — $550 — Vendedor: Sebastián Nozato
 - 2026-11-17 15:22 — [Juegos de Nintendo switch 550 cada uno](https://www.facebook.com/marketplace/item/2341940919966012) — $550 — Vendedor: Antoni Tony
 - 2026-11-17 09:03 — [Mario Party Switch](https://www.facebook.com/marketplace/item/5648875265338658) — $550 — Vendedor: Sebastián Nozato
 - 2026-11-16 12:25 — [Juegos de Switch](https://www.facebook.com/marketplace/item/28902284826120953) — $550 — Vendedor: Ulises Valenzuela Ochoa

@@ -16,7 +16,6 @@ Total: 37 anuncios disponibles.
 - 2026-07-12 16:54 — [Vendo](https://www.facebook.com/marketplace/item/4478280349059659) — GRATIS — Vendedor: Gwendoline Palafox Almanza
 - 2026-05-26 14:47 — [Nintendo switch lite](https://www.facebook.com/marketplace/item/863142633494091) — GRATIS — Vendedor: Frida Carolina M. Berrelleza
 - 2026-10-31 13:19 — [NINTENDO SWITCH LITE](https://www.facebook.com/marketplace/item/4550554371825482) — $3 — Vendedor: Viry Montiel
-- 2026-11-15 10:56 — [Nintendo Switch Lite con varios juegos](https://www.facebook.com/marketplace/item/2257621274798511) — $123 — Vendedor: Emi CM
 - 2026-11-18 13:31 — [Switch lite solo consola, ningún detalle se entrega ya cargada](https://www.facebook.com/marketplace/item/1314452584145703) — $1.700 — Vendedor: Antoni Tony
 - 2026-09-28 11:58 — [Nintendo switch lite](https://www.facebook.com/marketplace/item/1077738021743766) — $1.700 — Vendedor: César Gutiérrez
 - 2026-11-24 23:02 — [Nintendo Switch Lite con accesorios](https://www.facebook.com/marketplace/item/2066588627332769) — $1.900 — Vendedor: Alexa Yamileth
@@ -29,6 +28,7 @@ Total: 37 anuncios disponibles.
 - 2026-10-22 21:36 — [Vendo Nintendo swich Lite](https://www.facebook.com/marketplace/item/1606709510765405) — $2.200 — Vendedor: Beto Cota
 - 2026-07-25 21:30 — [Nintendo Switch Lite negociable o cambio](https://www.facebook.com/marketplace/item/1768485384330874) — $2.300 — Vendedor: Gerardo Medina
 - 2026-03-30 14:17 — [🩷 Nintendo Switch Lite 🩷](https://www.facebook.com/marketplace/item/954313717049218) — $2.300 — Vendedor: Idhaly Aranzubia
+- 2026-11-25 18:49 — [Nintendo switch lite](https://www.facebook.com/marketplace/item/1134678012538285) — $2.400 — Vendedor: Irving Alvarez Velazquez
 - 2026-11-15 09:46 — [NINTENDO SWITCH LIFE](https://www.facebook.com/marketplace/item/4048191658823179) — $2.500 — Vendedor: Marbella Medina
 - 2026-09-07 10:04 — [En venta!! Nintendo Switch Lite](https://www.facebook.com/marketplace/item/1572663807991431) — $2.500 — Vendedor: Ingrid Curiel Noriega
 - 2026-09-23 08:38 — [Nintendo switch lite](https://www.facebook.com/marketplace/item/917225891181552) — $2.600 — Vendedor: Marte Verdugo Gil

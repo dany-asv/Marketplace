@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 151 anuncios disponibles.
+Total: 156 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -25,6 +25,7 @@ Total: 151 anuncios disponibles.
 - 2026-09-12 00:37 — [Instalacion de juegos consolas](https://www.facebook.com/marketplace/item/943945678142729) — GRATIS — Vendedor: Michele Forni
 - 2026-08-31 21:52 — [Nintendo 3DS/2DS](https://www.facebook.com/marketplace/item/28105958682395646) — GRATIS — Vendedor: Plays Hacks
 - 2026-08-14 11:31 — [CHIP3O de PSP y PS VITA](https://www.facebook.com/marketplace/item/2520325538390198) — GRATIS — Vendedor: Plays Hacks
+- 2026-08-03 17:15 — [Consolas](https://www.facebook.com/marketplace/item/4121966154603437) — GRATIS — Vendedor: Alexa Solis
 - 2026-07-19 07:25 — [Vendo](https://www.facebook.com/marketplace/item/2148884595672768) — GRATIS — Vendedor: Gwendoline Palafox Almanza
 - 2026-07-12 12:16 — [Vendi](https://www.facebook.com/marketplace/item/1024432466842912) — GRATIS — Vendedor: Gwendoline Palafox Almanza
 - 2026-07-12 11:12 — [Vendo](https://www.facebook.com/marketplace/item/2093952844550588) — GRATIS — Vendedor: Gwendoline Palafox Almanza
@@ -72,6 +73,7 @@ Total: 151 anuncios disponibles.
 - 2026-06-21 10:14 — [Consola arcade con 21 juegos, nuevo.](https://www.facebook.com/marketplace/item/981602491339807) — $450 — Vendedor: José Miguel
 - 2026-11-23 22:10 — [Venta de videojuegos Game stick incluye memoria y controles inalámbricos](https://www.facebook.com/marketplace/item/1139424605399012) — $500 — Vendedor: Dayanna Fuentes Lara
 - 2026-11-23 20:09 — [🎮 Consola Gamestick m8 (20,000 juegos)](https://www.facebook.com/marketplace/item/2349273742300705) — $500 — Vendedor: Antonio Vazquez
+- 2026-11-04 16:30 — [Venta de videojuegos Game stick más de 10mil juegos retro](https://www.facebook.com/marketplace/item/1439119825077545) — $500 — Vendedor: Oscar Ivan Aguilar Arredondo
 - 2026-11-02 11:57 — [busco Nintendo 3ds, 2ds, XL, new.](https://www.facebook.com/marketplace/item/1874642674160395) — $500 — Vendedor: Miguel Ruiz Chavez
 - 2026-11-02 11:56 — [Busco Gameboy SP, Color, dvvance, Clasic](https://www.facebook.com/marketplace/item/1916760772816326) — $500 — Vendedor: Miguel Ruiz Chavez
 - 2026-10-19 14:27 — [🔴GAME STICK PRO🔴 ✅️25 MIL JUEGOS ✅️2 CONTROLES ✅️RESOLUCION 4K ✅️ENVIOS A DOMICILIO🏡🛵💨](https://www.facebook.com/marketplace/item/4613212418961115) — $500 — Vendedor: Eduardo Llamas
@@ -132,7 +134,9 @@ Total: 151 anuncios disponibles.
 - 2026-11-10 22:19 — [Xbox se va calado incluye todo lo de imagen](https://www.facebook.com/marketplace/item/1113405767994910) — $2.200 — Vendedor: Salma Beltran
 - 2026-11-16 14:45 — [PlayStation](https://www.facebook.com/marketplace/item/1756912518750357) — $2.300 — Vendedor: Axel Camacho
 - 2026-08-16 19:51 — [Tablero Arcade / Consola Arcade Pandora Box con 28,890 Videojuegos en 1 3D PANDORA PRO](https://www.facebook.com/marketplace/item/4122671664689790) — $2.499 — Vendedor: Dulcilandia Dulcería
+- 2026-08-10 20:06 — [Tablero Arcade / Consola Arcade Pandora Box con 28,890 Videojuegos en 1 3D PANDORA PRO](https://www.facebook.com/marketplace/item/3930007853971324) — $2.499 — Vendedor: Deled MX
 - 2026-07-18 10:34 — [Tablero Arcade / Consola Arcade Pandora Box con 28,890 Videojuegos en 1 3D PANDORA PRO](https://www.facebook.com/marketplace/item/2304930030249124) — $2.499 — Vendedor: Victoria MX
+- 2026-05-28 16:57 — [Tablero Arcade / Consola Arcade Pandora Box con 28,890 Videojuegos en 1 3D PANDORA PRO](https://www.facebook.com/marketplace/item/2038548433749962) — $2.499 — Vendedor: Sara Jeisel Castro
 - 2026-11-14 14:58 — [Máquina Arcade Retro Doble Palanca | 36,800 Juegos Clásicos](https://www.facebook.com/marketplace/item/1610802756924102) — $2.500 — Vendedor: Juan Manuel Tapia
 - 2026-11-13 22:27 — [Tablero de videojuegos retro 🛑✨](https://www.facebook.com/marketplace/item/1130514773191913) — $2.500 — Vendedor: Almazan Mireya
 - 2026-11-13 22:22 — [Tablero de videojuegos retro 🛑](https://www.facebook.com/marketplace/item/1671971580995590) — $2.500 — Vendedor: Almazan Mireya
@@ -157,6 +161,7 @@ Total: 151 anuncios disponibles.
 - 2026-11-23 22:22 — [VENDO O CAMBIO PC GAMER POR PS5 O XBOX SERIES X](https://www.facebook.com/marketplace/item/30273257988943555) — $8.000 — Vendedor: Luisjo Ruiz
 - 2026-11-05 12:28 — [Asus Rog Ally Z1 Extreme con SteamOS](https://www.facebook.com/marketplace/item/29231060263172063) — $8.000 — Vendedor: Miguel Vinsmoke
 - 2026-10-12 16:31 — [PC GAMER](https://www.facebook.com/marketplace/item/1103375522448272) — $9.000 — Vendedor: Jesus VC
+- 2026-11-08 10:18 — [Pc gamer](https://www.facebook.com/marketplace/item/4599814786962739) — $10.000 — Vendedor: Santiago Corrales Esquer
 - 2026-07-22 13:03 — [Computadora gamer ryzen 7 rtx 5060ti gamer y edición renderizado 🔶solo venta🔶](https://www.facebook.com/marketplace/item/1080625824634473) — $28.499 — Vendedor: Saul Hernandez
 - 2026-11-13 08:39 — [Inf.6681162962](https://www.facebook.com/marketplace/item/1548899253765704) — $123.456 — Vendedor: Pablo Altamirano
 - 2025-12-25 11:59 — [Venta PostNavideña 25Dic2025](https://www.facebook.com/marketplace/item/886274910461386) — $5.555.555 — Vendedor: Mi Ge Ru

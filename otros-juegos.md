@@ -6,10 +6,11 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 202 anuncios disponibles.
+Total: 210 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
+- 2026-11-25 13:34 — [Juegos de Wii, Wii U, Switch, Nintendo 3DS, PS4](https://www.facebook.com/marketplace/item/2742073399587011) — GRATIS — Vendedor: Jesus Antonio Escobedo
 - 2026-11-23 13:33 — [Videojuegos](https://www.facebook.com/marketplace/item/29056191363989535) — GRATIS — Vendedor: Mario de la Peña
 - 2026-11-22 18:37 — [Videojuegos](https://www.facebook.com/marketplace/item/1507917231246206) — GRATIS — Vendedor: Mario de la Peña
 - 2026-11-21 19:06 — [Venta de videojuegos nuevos y sellados . Diferentes precios. Precio mejorable 3 o + piezas](https://www.facebook.com/marketplace/item/2500296367162757) — GRATIS — Vendedor: Iram A. Payan
@@ -19,6 +20,7 @@ Total: 202 anuncios disponibles.
 - 2026-11-05 19:37 — [Sonic 2 y ni no kuni](https://www.facebook.com/marketplace/item/2149935728978567) — GRATIS — Vendedor: Antonio Rodriguez
 - 2026-09-16 20:23 — [Juegos xbox, Playstation](https://www.facebook.com/marketplace/item/2094708207916171) — GRATIS — Vendedor: Eros Celis
 - 2026-09-12 20:56 — [Juegos digitales para ps4/ps5](https://www.facebook.com/marketplace/item/2276280719873426) — GRATIS — Vendedor: Zahir Quintero
+- 2026-09-01 10:12 — [Juegos Sonic](https://www.facebook.com/marketplace/item/1795957924930351) — GRATIS — Vendedor: Miguel Vinsmoke
 - 2026-08-30 19:17 — [Videojuegos+](https://www.facebook.com/marketplace/item/1590364968924731) — GRATIS — Vendedor: Ivan Gortarez
 - 2026-07-15 16:55 — [Juegos Xbox](https://www.facebook.com/marketplace/item/1773085997030145) — GRATIS — Vendedor: Darey Roberto
 - 2026-04-27 17:17 — [Juegos de Nintendo](https://www.facebook.com/marketplace/item/1342065097975792) — GRATIS — Vendedor: Iris Martinez
@@ -31,6 +33,8 @@ Total: 202 anuncios disponibles.
 - 2026-10-29 16:42 — [Juegos](https://www.facebook.com/marketplace/item/1762895271426187) — $1 — Vendedor: Yahir Sanchez
 - 2026-09-09 11:05 — [Nintendo Arcade](https://www.facebook.com/marketplace/item/938921988706693) — $1 — Vendedor: Arturo Quiñonez
 - 2026-07-28 16:51 — [Juegos de switch y play 5](https://www.facebook.com/marketplace/item/1041335918502925) — $1 — Vendedor: Arthur Morgan
+- 2026-07-11 13:49 — [Juegos de xbox, retrocompatibles para nuevas generaciones](https://www.facebook.com/marketplace/item/1361185696117472) — $1 — Vendedor: Marla Osorio Alvarado
+- 2026-06-02 14:45 — [GTA 5 MK11 BLACK OPS 3 FALLOUT](https://www.facebook.com/marketplace/item/27017564307908018) — $1 — Vendedor: Antonio Morales
 - 2026-05-08 05:57 — [Video juego](https://www.facebook.com/marketplace/item/989772040370020) — $1 — Vendedor: Carla Lopez
 - 2026-05-01 16:05 — [Juegos ps4-ps5](https://www.facebook.com/marketplace/item/961200043061215) — $1 — Vendedor: Felix Guadalupe
 - 2026-03-16 21:46 — [Juegos](https://www.facebook.com/marketplace/item/1249308707164012) — $1 — Vendedor: Luis Ricardo Peraza
@@ -112,6 +116,8 @@ Total: 202 anuncios disponibles.
 - 2023-08-19 20:50 — [RED DEAD REDEMPTION II](https://www.facebook.com/marketplace/item/634168878515828) — $450 — Vendedor: Marcela M Galaviz
 - 2026-01-07 16:14 — [Vendo God of War](https://www.facebook.com/marketplace/item/1522729392329848) — $453 — Vendedor: Luis Higuera
 - 2026-06-12 18:01 — [Juegos Ps4-Ps5](https://www.facebook.com/marketplace/item/1552417576245577) — $499 — Vendedor: Maria CL
+- 2026-11-25 20:17 — [Se venden videojuegos](https://www.facebook.com/marketplace/item/2208636650082985) — $500 — Vendedor: Jazmin Invitaciones Digitales
+- 2026-11-25 20:16 — [Se venden videojuegos](https://www.facebook.com/marketplace/item/1489949003232417) — $500 — Vendedor: Jazmin Invitaciones Digitales
 - 2026-11-12 00:28 — [JUEGOS PS5 PS4](https://www.facebook.com/marketplace/item/4150726945058000) — $500 — Vendedor: Dante Esquer
 - 2026-11-10 16:22 — [Se vende videojuegos](https://www.facebook.com/marketplace/item/998895912926631) — $500 — Vendedor: Jazmin Invitaciones Digitales
 - 2026-11-10 16:20 — [Se venden videojuegos](https://www.facebook.com/marketplace/item/1483446283640714) — $500 — Vendedor: Jazmin Invitaciones Digitales
@@ -137,6 +143,7 @@ Total: 202 anuncios disponibles.
 - 2026-11-03 18:55 — [Videojuegos play station 5 ps4 split fiction , elden ring, the división 2 , sonic , Naruto resident](https://www.facebook.com/marketplace/item/1455200049881264) — $550 — Vendedor: Iram A. Payan
 - 2026-11-02 18:59 — [Videojuegos🎮🎮](https://www.facebook.com/marketplace/item/1434685782067024) — $550 — Vendedor: Dayanna Fuentes Lara
 - 2026-11-01 21:44 — [Videojuegos🎮🎮](https://www.facebook.com/marketplace/item/1121497877366747) — $550 — Vendedor: Jazmin Fuentes
+- 2026-09-25 18:55 — [Videojuegos🎮🎮 Nuevoss $550](https://www.facebook.com/marketplace/item/1118806870568753) — $550 — Vendedor: Jazmin Fuentes
 - 2026-07-14 16:10 — [Mario Rabbids Kingdom Battle](https://www.facebook.com/marketplace/item/3386168638222761) — $550 — Vendedor: Mauricio Bismarck Murillo Valle
 - 2026-02-20 14:42 — [Mario & Sonic - At The Olympic Games](https://www.facebook.com/marketplace/item/1992731911650295) — $550 — Vendedor: Maria Herrera
 - 2026-01-15 17:46 — [Super Mario RPG](https://www.facebook.com/marketplace/item/1379155663656073) — $550 — Vendedor: Eduardo Infante
@@ -168,6 +175,7 @@ Total: 202 anuncios disponibles.
 - 2026-08-29 14:06 — [Resident Evil 4 nuevecito](https://www.facebook.com/marketplace/item/2279037292948739) — $750 — Vendedor: Jose Luis Luna
 - 2026-08-10 10:45 — [Juegos para PS4 y PS5](https://www.facebook.com/marketplace/item/1057886853444073) — $750 — Vendedor: Yessenia Villaseñor
 - 2026-07-06 18:25 — [Juego de Mario odyseey](https://www.facebook.com/marketplace/item/1905271443498326) — $750 — Vendedor: Abimael Lopez
+- 2026-11-24 10:00 — [Animal crossing y Just dance](https://www.facebook.com/marketplace/item/2230062350924326) — $800 — Vendedor: Karyme Medina
 - 2026-11-09 10:33 — [Pokemon rojo](https://www.facebook.com/marketplace/item/1440300110943806) — $800 — Vendedor: Pf Clothin
 - 2026-09-08 22:09 — [Juegos de ps5 y PS4](https://www.facebook.com/marketplace/item/1011386768579014) — $800 — Vendedor: Cristopher Valdez
 - 2026-07-18 21:36 — [Mario & Luigi Brothership](https://www.facebook.com/marketplace/item/2208349300021464) — $800 — Vendedor: Adrian K-ztro

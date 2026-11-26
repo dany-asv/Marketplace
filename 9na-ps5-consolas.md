@@ -11,9 +11,9 @@ Total: 20 anuncios disponibles.
 ## Disponibles (de menor a mayor precio)
 
 - 2026-07-04 05:28 — [Ps5](https://www.facebook.com/marketplace/item/875638918463914) — GRATIS — Vendedor: Emir Bcn
+- 2026-11-25 10:16 — [PlayStation 5 Slim](https://www.facebook.com/marketplace/item/29058223927133716) — $123 — Vendedor: Emi CM
 - 2026-08-19 15:28 — [PlayStation 5](https://www.facebook.com/marketplace/item/1728037538499285) — $6.000 — Vendedor: Julio Castro
 - 2026-08-19 09:53 — [PlayStation 5](https://www.facebook.com/marketplace/item/2261418584653193) — $6.700 — Vendedor: Julio Castro
-- 2026-08-31 20:35 — [PlayStation 5 como nuevo excelentes condiciones 10/10 ✅ Control God Of War y Cables ✅ PS5 ✅](https://www.facebook.com/marketplace/item/2677248039362059) — $6.990 — Vendedor: Ana Escalante
 - 2026-09-08 18:49 — [PlayStation 5 + cargador](https://www.facebook.com/marketplace/item/1595380362052410) — $7.500 — Vendedor: Julio Castro
 - 2026-08-28 14:22 — [PlayStation 5 slim de disco + 2 juegos](https://www.facebook.com/marketplace/item/1891783745537683) — $7.500 — Vendedor: Julio Castro
 - 2026-09-28 20:44 — [PlayStation 5 slim + FC26](https://www.facebook.com/marketplace/item/2228000091101823) — $7.600 — Vendedor: Julio Castro

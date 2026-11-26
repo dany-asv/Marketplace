@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 21 anuncios disponibles.
+Total: 23 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -19,6 +19,7 @@ Total: 21 anuncios disponibles.
 - 2026-11-11 17:32 — [Xbox 360 slim](https://www.facebook.com/marketplace/item/1704020704613803) — $1.000 — Vendedor: Arturo Ramos
 - 2026-08-11 22:29 — [Xbox 360](https://www.facebook.com/marketplace/item/1063581566537864) — $1.100 — Vendedor: Ernesto Fontes
 - 2026-11-19 19:04 — [Se vende Xbox slim e liberado](https://www.facebook.com/marketplace/item/1344414274404144) — $1.200 — Vendedor: Carlos AG
+- 2026-08-05 23:38 — [XBox 360](https://www.facebook.com/marketplace/item/2221495335364392) — $1.200 — Vendedor: Víctor Gabriel
 - 2026-08-30 17:16 — [💯XBOX 360E JALANDO BIEN💯 1400 tratables](https://www.facebook.com/marketplace/item/1396021449147663) — $1.400 — Vendedor: Jovany Vázquez
 - 2026-11-22 21:17 — [Xbox 360 funciona %100 con GTA y forza y más juegos en USB](https://www.facebook.com/marketplace/item/1017946837298764) — $1.500 — Vendedor: César Juárez
 - 2026-11-16 12:18 — [Xbox 360 con 3 controles](https://www.facebook.com/marketplace/item/1480927774236617) — $1.500 — Vendedor: Javier Solano Limon
@@ -29,5 +30,6 @@ Total: 21 anuncios disponibles.
 - 2026-11-03 03:04 — [Xbox 360 chipeado](https://www.facebook.com/marketplace/item/802610282947465) — $1.600 — Vendedor: America Ruiz
 - 2026-07-21 14:10 — [XBOX+360](https://www.facebook.com/marketplace/item/1042378982061920) — $1.700 — Vendedor: Ramiro Armenta
 - 2026-11-15 17:17 — [Xbox 360 Chipeado](https://www.facebook.com/marketplace/item/1115499034450210) — $2.500 — Vendedor: Angel Almuina
+- 2026-09-18 16:37 — [Xbox360](https://www.facebook.com/marketplace/item/1019733364418473) — $2.500 — Vendedor: Alberto Limon Espinoza
 - 2026-08-14 16:04 — [Xbox360 Slim E con 80 juegos listo para jugar](https://www.facebook.com/marketplace/item/1024912287214466) — $2.700 — Vendedor: Stargames Valenzuela
 - 2026-10-26 19:53 — [Xbox 360 con 11 discos y 1 control](https://www.facebook.com/marketplace/item/1622484689358419) — $3.500 — Vendedor: Siluet Slim

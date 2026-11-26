@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 15 anuncios disponibles.
+Total: 16 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -17,6 +17,7 @@ Total: 15 anuncios disponibles.
 - 2026-05-19 19:59 — [Videojuegos para ps4/venta/cambio por control en buen estado](https://www.facebook.com/marketplace/item/854196450437974) — $300 — Vendedor: Francisco Ct
 - 2026-11-19 09:48 — [Control PS4](https://www.facebook.com/marketplace/item/1874630527238810) — $350 — Vendedor: Lalo Almada
 - 2026-11-11 02:21 — [Controles inalambricos para Playstation4](https://www.facebook.com/marketplace/item/1167456929275365) — $400 — Vendedor: Miguel Lozano
+- 2026-10-23 09:50 — [Control ps4](https://www.facebook.com/marketplace/item/1732290314529767) — $449 — Vendedor: Jesus Cota
 - 2026-11-19 11:01 — [Cargador control PS4](https://www.facebook.com/marketplace/item/972103155622225) — $500 — Vendedor: Oscar Acosta
 - 2026-11-05 19:27 — [Control ps4](https://www.facebook.com/marketplace/item/29251037347853144) — $500 — Vendedor: Carlos Orduño
 - 2026-11-02 10:25 — [Base Enfriadora y Cargador de Controles DOBE para PS4 / Slim / Pro](https://www.facebook.com/marketplace/item/1430520839295160) — $500 — Vendedor: Gustavo A. Araujo Bleizeffer

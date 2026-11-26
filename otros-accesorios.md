@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 142 anuncios disponibles.
+Total: 147 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -53,6 +53,7 @@ Total: 142 anuncios disponibles.
 - 2026-07-27 15:32 — [Cargador para consola Nintendo](https://www.facebook.com/marketplace/item/2589144904871344) — $250 — Vendedor: Ivan Lopez
 - 2026-06-20 09:26 — [Nuevos KZ In-Ear para Gaming solo $250](https://www.facebook.com/marketplace/item/1576613974139934) — $250 — Vendedor: Lilia Vazquez
 - 2026-06-19 23:14 — [Nuevo KZ Gale - Auriculares HiFi In-Ear para Gaming](https://www.facebook.com/marketplace/item/1528078338942562) — $250 — Vendedor: Lilia Vazquez
+- 2026-11-25 22:07 — [Control Xbox (Sin RB y LB)](https://www.facebook.com/marketplace/item/1250307577326568) — $300 — Vendedor: Pedro Soto
 - 2026-11-23 11:33 — [Bateria Recargable para control Xbox X|S](https://www.facebook.com/marketplace/item/1468363385498744) — $300 — Vendedor: Jose Bojorquez
 - 2026-11-20 18:40 — [Control 🎮 MOBILE 🎮](https://www.facebook.com/marketplace/item/1656130732622954) — $300 — Vendedor: Johan Leal
 - 2026-11-15 13:12 — [Control Xbox con drift](https://www.facebook.com/marketplace/item/1702698078119720) — $300 — Vendedor: Emilio Cossio
@@ -85,7 +86,9 @@ Total: 142 anuncios disponibles.
 - 2026-08-03 09:09 — [Control inalámbrico para Playstation 4, PS 3 y PC](https://www.facebook.com/marketplace/item/1542507743450075) — $450 — Vendedor: Irving Vega
 - 2026-11-13 14:04 — [Control gamer Retro 8BitDo Pro 2](https://www.facebook.com/marketplace/item/29753004494291760) — $470 — Vendedor: Julio Hernández
 - 2026-11-12 21:00 — [COTROL CON HALL EFFECT, DE ALTA CALIDAD DISEÑO RETRO](https://www.facebook.com/marketplace/item/1402202558651976) — $470 — Vendedor: HM Smart Home
+- 2026-11-12 20:13 — [CONTROL GAMER CON HALL EFFECT, DE ALTA CALIDAD DISEÑO RETRO](https://www.facebook.com/marketplace/item/1607909690535889) — $470 — Vendedor: Paulette Montoya
 - 2026-09-28 00:31 — [Soporte recargable para controles](https://www.facebook.com/marketplace/item/1745053106791450) — $499 — Vendedor: Diego Ruiz
+- 2026-11-25 21:56 — [Control Xbox](https://www.facebook.com/marketplace/item/997198082970264) — $500 — Vendedor: Pedro Soto
 - 2026-11-25 00:14 — [control de xbox](https://www.facebook.com/marketplace/item/29738391282518700) — $500 — Vendedor: Sebastian Zuñiga
 - 2026-11-21 18:43 — [🔥🎮 ¡PREPARA TU XBOX SERIES S PARA EL GTA 6! 🎮🔥 No esperes a que tu consola falle.](https://www.facebook.com/marketplace/item/2087560951898385) — $500 — Vendedor: Joel Efrain Aguayo
 - 2026-10-22 10:45 — [audifonos logitech G335](https://www.facebook.com/marketplace/item/1200757622608059) — $500 — Vendedor: Natanael Verdugo
@@ -103,10 +106,12 @@ Total: 142 anuncios disponibles.
 - 2026-07-28 11:02 — [AUDIFONOS DE DIADEMA CON MICROFONO PROFESSIONAL PRO GAMING HEADSET LED AZUL V3 HUNTERSPIDER](https://www.facebook.com/marketplace/item/1532784651314842) — $589 — Vendedor: Karla Lopez
 - 2026-11-16 15:24 — [Control de xbox con base recargable](https://www.facebook.com/marketplace/item/1510469461141035) — $600 — Vendedor: Angel Sauceda
 - 2026-11-13 19:58 — [CONTROL QRD FERROX M5](https://www.facebook.com/marketplace/item/1121381627172905) — $600 — Vendedor: Matio Perez
+- 2026-10-22 20:21 — [800 pesos control de xbox acepto cambios](https://www.facebook.com/marketplace/item/1925127148501408) — $600 — Vendedor: Manuel Ochoa
 - 2026-11-16 13:03 — [Aproveche. Audifonos IEM KZ VADER PRO con Switches a solo $650](https://www.facebook.com/marketplace/item/1533400768843860) — $650 — Vendedor: Lilia Vazquez
 - 2026-11-19 14:09 — [Control Xbox one series todo le funciona sin detalles ni drift](https://www.facebook.com/marketplace/item/30225252963742368) — $699 — Vendedor: Antoni Tony
+- 2026-11-25 12:43 — [Control para Xbox](https://www.facebook.com/marketplace/item/1692957779139006) — $700 — Vendedor: Ricardo Gastélum
+- 2026-11-25 07:17 — [Control de xbox rojo](https://www.facebook.com/marketplace/item/1455322366651752) — $700 — Vendedor: Carlos Aviles
 - 2026-11-22 09:48 — [Control Series S/X Edición GoldShadow](https://www.facebook.com/marketplace/item/3316673408517615) — $700 — Vendedor: Daniel Ricardo Meza Soto
-- 2026-11-23 16:18 — [Control De xbox, sin drift](https://www.facebook.com/marketplace/item/29954708277459390) — $800 — Vendedor: Giordano Puga
 - 2026-11-16 18:31 — [Mouse Gamer Logitech G305](https://www.facebook.com/marketplace/item/2686251115159721) — $800 — Vendedor: Victor Ciax
 - 2026-11-10 11:38 — [Control inalambrico para xbox one / series S X](https://www.facebook.com/marketplace/item/982711948242170) — $800 — Vendedor: Ana Julia Ahumada
 - 2026-10-07 16:28 — [Headset Xbox](https://www.facebook.com/marketplace/item/1127461089937295) — $800 — Vendedor: Alejandro Roiz

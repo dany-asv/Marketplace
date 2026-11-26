@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 78 anuncios disponibles.
+Total: 82 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -14,16 +14,17 @@ Total: 78 anuncios disponibles.
 - 2026-02-23 13:37 — [Control para Switch](https://www.facebook.com/marketplace/item/1130578819101816) — GRATIS — Vendedor: Maria Herrera
 - 2025-05-17 00:40 — [Estuche de Nintendo](https://www.facebook.com/marketplace/item/696382659444016) — GRATIS — Vendedor: Tiny Gastelum
 - 2026-04-05 15:37 — [Se vende Dock de nintendo Switch OLED y Mario Party superstars](https://www.facebook.com/marketplace/item/2696903357354176) — $1 — Vendedor: Carla Lopez
-- 2026-11-23 22:58 — [Cargado switch](https://www.facebook.com/marketplace/item/1836791530801507) — $2 — Vendedor: Juan Aceves
 - 2026-07-08 21:40 — [Accesorios para Nintendo switch](https://www.facebook.com/marketplace/item/1344661641154844) — $9 — Vendedor: Alma Valdez
 - 2026-07-04 05:53 — [Par de gomas para JoyCon](https://www.facebook.com/marketplace/item/1360612995998081) — $50 — Vendedor: Daniel Arturo Salinas Verduzco
 - 2026-07-04 05:53 — [Par de tapas de repuesto para palanca de JoyCon](https://www.facebook.com/marketplace/item/1006873118863907) — $50 — Vendedor: Daniel Arturo Salinas Verduzco
 - 2026-10-24 13:00 — [Nintendo switch Kirby goma palanca](https://www.facebook.com/marketplace/item/1665644361625108) — $60 — Vendedor: Jesus Gilberto Alvarez Vega
+- 2026-11-26 02:10 — [Nintendo switch cajas de joycons](https://www.facebook.com/marketplace/item/3716694211824444) — $100 — Vendedor: Francisco Javier Leyva Duran
 - 2026-10-26 09:31 — [Accesorios para nintendo swich](https://www.facebook.com/marketplace/item/1441577298107304) — $111 — Vendedor: Ivan Lopez
 - 2026-08-05 17:59 — [Dock blanco para nintendo switch](https://www.facebook.com/marketplace/item/1443267880945157) — $111 — Vendedor: Chappy Chappy
 - 2026-08-02 11:28 — [Dock para Nintendo](https://www.facebook.com/marketplace/item/2088648235192630) — $111 — Vendedor: Ivan Lopez
 - 2026-07-27 15:36 — [Accesorios para cargar Nintendo switch](https://www.facebook.com/marketplace/item/1049915067433242) — $111 — Vendedor: Ivan Lopez
 - 2026-07-27 15:32 — [Doc para nintendo switch](https://www.facebook.com/marketplace/item/2510350166148024) — $111 — Vendedor: Ivan Lopez
+- 2026-11-26 02:07 — [Nintendo switch correas joycons](https://www.facebook.com/marketplace/item/1783770166253056) — $120 — Vendedor: Francisco Javier Leyva Duran
 - 2026-11-16 22:10 — [Control Nyxi wizard 1 para switch 1 y 2 Memoria 128 gb compatible para switch 1](https://www.facebook.com/marketplace/item/1055893444189247) — $123 — Vendedor: Lizeth Manzanarez
 - 2026-11-15 13:14 — [Control para switch inalámbrico](https://www.facebook.com/marketplace/item/2219951648605744) — $150 — Vendedor: Rafael Aguilar
 - 2026-09-02 01:00 — [Funda para nintendo switch normal, oled y lite](https://www.facebook.com/marketplace/item/1048618724709558) — $150 — Vendedor: Ana Julia Ahumada
@@ -52,11 +53,14 @@ Total: 78 anuncios disponibles.
 - 2026-08-28 15:50 — [Memoria de 128gb micro SD original para Nintendo switch](https://www.facebook.com/marketplace/item/1128289490198218) — $350 — Vendedor: Antoni Tony
 - 2026-11-21 09:08 — [Estuche Zelda nintendo switch](https://www.facebook.com/marketplace/item/1536518151695893) — $360 — Vendedor: Jesus Gilberto Alvarez Vega
 - 2026-10-09 20:26 — [Cargador nintendo Swich generico](https://www.facebook.com/marketplace/item/4478131282398391) — $390 — Vendedor: Alma Valdez
+- 2026-11-26 02:12 — [Nintendo switch joycons rgb](https://www.facebook.com/marketplace/item/1469461731966539) — $400 — Vendedor: Francisco Javier Leyva Duran
+- 2026-11-26 01:52 — [Bateria nueva Nintendo switch 1](https://www.facebook.com/marketplace/item/1466489252262815) — $400 — Vendedor: Francisco Javier Leyva Duran
 - 2026-11-11 20:53 — [Estuche Nintendo Switch](https://www.facebook.com/marketplace/item/966784922827906) — $400 — Vendedor: Robles Jazive
 - 2026-09-25 13:22 — [Control Nintendo Switch Mario](https://www.facebook.com/marketplace/item/1117920197232501) — $400 — Vendedor: Ricardo Lopez
 - 2026-07-13 15:43 — [Control nintendo Switch](https://www.facebook.com/marketplace/item/2440017549829342) — $400 — Vendedor: Jorge Trs
 - 2026-06-03 01:37 — [Dock, cargador y grips originales para Nintendo switch, 400 Dock o cargador y 100 los grips](https://www.facebook.com/marketplace/item/26314380001570791) — $400 — Vendedor: Antonio Lopez
 - 2026-08-02 12:23 — [Control para Nintendo switch](https://www.facebook.com/marketplace/item/1605132834564040) — $444 — Vendedor: Chappy Chappy
+- 2026-11-26 02:09 — [Nintendo switch joycons par](https://www.facebook.com/marketplace/item/2194574581195718) — $500 — Vendedor: Francisco Javier Leyva Duran
 - 2026-10-31 17:25 — [Dock para Nintendo Switch v1](https://www.facebook.com/marketplace/item/1113138388237829) — $500 — Vendedor: Bryan Luna
 - 2026-10-09 21:29 — [Controles de nintendo switch de Mario alambrico](https://www.facebook.com/marketplace/item/1846566753367970) — $500 — Vendedor: Viri Rivera
 - 2026-09-16 14:45 — [Joycons para nintendo switch marca nyxi](https://www.facebook.com/marketplace/item/1020584107676648) — $500 — Vendedor: Ele Gand
