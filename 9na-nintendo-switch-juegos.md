@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 263 anuncios disponibles.
+Total: 265 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -104,6 +104,7 @@ Total: 263 anuncios disponibles.
 - 2026-06-15 14:40 — [Dragon Ball FighterZ para Switch](https://www.facebook.com/marketplace/item/985266987598836) — $400 — Vendedor: Maria Beatriz Valenzuela
 - 2026-06-15 14:36 — [Dragon Ball FighterZ para Switch](https://www.facebook.com/marketplace/item/958898993905269) — $400 — Vendedor: Maria Beatriz Valenzuela
 - 2026-03-14 15:11 — [Bluey para switch](https://www.facebook.com/marketplace/item/963284813309184) — $400 — Vendedor: Jesus Eduardo
+- 2026-11-26 23:47 — [Pokémon Violeta Nintendo Switch](https://www.facebook.com/marketplace/item/1819463039321757) — $450 — Vendedor: Alexis Valdez
 - 2026-11-17 15:23 — [Juegos de Nintendo switch 450 cada uno](https://www.facebook.com/marketplace/item/1710249967378891) — $450 — Vendedor: Antoni Tony
 - 2026-11-10 18:58 — [Juegos switch 450 cada uno](https://www.facebook.com/marketplace/item/2349709749159061) — $450 — Vendedor: Antonio Lopez
 - 2026-10-14 11:18 — [Juego para nintendo switch Minecraft](https://www.facebook.com/marketplace/item/1828072735199656) — $450 — Vendedor: Jose Cass
@@ -113,6 +114,7 @@ Total: 263 anuncios disponibles.
 - 2026-04-18 10:51 — [Mortal Kombat 11 Nintendo Switch.](https://www.facebook.com/marketplace/item/1004236295504613) — $450 — Vendedor: Andres Apodaca
 - 2025-10-23 07:11 — [Juegos Nintendo switch](https://www.facebook.com/marketplace/item/1143880284380678) — $450 — Vendedor: Abel Galindo
 - 2026-10-15 14:59 — [Juegos nintendo swich](https://www.facebook.com/marketplace/item/1091363723742296) — $499 — Vendedor: Jesus Cota
+- 2026-11-25 14:15 — [Pokémon violeta](https://www.facebook.com/marketplace/item/1705295431128530) — $500 — Vendedor: Julio Romero
 - 2026-11-21 16:47 — [Luigi’s Mansion 3- Switch](https://www.facebook.com/marketplace/item/1462047612018162) — $500 — Vendedor: Yahir Lerma
 - 2026-11-17 15:19 — [Juegos de Nintendo switch sin caja en 500 cada uno, el de sin carátula es el pokémon let's go evee](https://www.facebook.com/marketplace/item/1292669206359621) — $500 — Vendedor: Antoni Tony
 - 2026-11-11 14:28 — [Juegos Nintendo switch solo cartucho en $500$ cada uno](https://www.facebook.com/marketplace/item/1149055554337650) — $500 — Vendedor: Antonio Lopez

@@ -6,13 +6,14 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 147 anuncios disponibles.
+Total: 151 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
 - 2026-11-23 18:17 — [Es un Logitech G920 Driving Force para Xbox y PC. Por lo que se ve en las fotos, tienes el paquete c](https://www.facebook.com/marketplace/item/1193682233603400) — GRATIS — Vendedor: Zeus Ignacio Araujo Acuña
 - 2026-11-13 16:46 — [Control xbox rojo](https://www.facebook.com/marketplace/item/1830430891846220) — GRATIS — Vendedor: Gael Leyva
 - 2026-09-21 15:20 — [Vendo control GAMESIR](https://www.facebook.com/marketplace/item/1064412869734787) — GRATIS — Vendedor: Erik Tmnya
+- 2026-06-22 14:49 — [Memoria USB de 128GB con juegos](https://www.facebook.com/marketplace/item/981834491414916) — GRATIS — Vendedor: Plays Hacks
 - 2026-11-22 19:39 — [Control Xbox](https://www.facebook.com/marketplace/item/1507626777895912) — $1 — Vendedor: Ricardo Per
 - 2026-11-22 11:28 — [Control Xbox](https://www.facebook.com/marketplace/item/1865349854601273) — $1 — Vendedor: Ricardo Per
 - 2026-11-18 10:03 — [Reparación de Xbox clasico diferentes errores](https://www.facebook.com/marketplace/item/2786060991797301) — $1 — Vendedor: Chito Hernandez
@@ -48,6 +49,7 @@ Total: 147 anuncios disponibles.
 - 2026-08-20 11:03 — [Cargador para Ds Lite, Dsi, 2ds y 3ds, psp, Game boy](https://www.facebook.com/marketplace/item/1728343671701370) — $180 — Vendedor: Stargames Valenzuela
 - 2026-08-05 13:05 — [Control joystick 🕹️ ps4, Xbox, ps5 y joycon](https://www.facebook.com/marketplace/item/1554609499652759) — $200 — Vendedor: Stargames Valenzuela
 - 2026-08-11 19:45 — [🎮 Soporte para 2 controles y audífonos gamer 🎧](https://www.facebook.com/marketplace/item/2047322689217529) — $210 — Vendedor: Maximiliano Araya
+- 2026-10-25 18:26 — [Control para Play4 y pc](https://www.facebook.com/marketplace/item/1429710162001366) — $250 — Vendedor: German Nuñez
 - 2026-09-02 01:00 — [Cargador snes nes genesis](https://www.facebook.com/marketplace/item/1049767744524767) — $250 — Vendedor: Ana Julia Ahumada
 - 2026-08-02 12:46 — [Nuevos audífonos KZ GALE gaming](https://www.facebook.com/marketplace/item/1360724642194406) — $250 — Vendedor: Lilia Vazquez
 - 2026-07-27 15:32 — [Cargador para consola Nintendo](https://www.facebook.com/marketplace/item/2589144904871344) — $250 — Vendedor: Ivan Lopez
@@ -111,16 +113,17 @@ Total: 147 anuncios disponibles.
 - 2026-11-19 14:09 — [Control Xbox one series todo le funciona sin detalles ni drift](https://www.facebook.com/marketplace/item/30225252963742368) — $699 — Vendedor: Antoni Tony
 - 2026-11-25 12:43 — [Control para Xbox](https://www.facebook.com/marketplace/item/1692957779139006) — $700 — Vendedor: Ricardo Gastélum
 - 2026-11-25 07:17 — [Control de xbox rojo](https://www.facebook.com/marketplace/item/1455322366651752) — $700 — Vendedor: Carlos Aviles
-- 2026-11-22 09:48 — [Control Series S/X Edición GoldShadow](https://www.facebook.com/marketplace/item/3316673408517615) — $700 — Vendedor: Daniel Ricardo Meza Soto
 - 2026-11-16 18:31 — [Mouse Gamer Logitech G305](https://www.facebook.com/marketplace/item/2686251115159721) — $800 — Vendedor: Victor Ciax
 - 2026-11-10 11:38 — [Control inalambrico para xbox one / series S X](https://www.facebook.com/marketplace/item/982711948242170) — $800 — Vendedor: Ana Julia Ahumada
 - 2026-10-07 16:28 — [Headset Xbox](https://www.facebook.com/marketplace/item/1127461089937295) — $800 — Vendedor: Alejandro Roiz
 - 2026-11-16 10:42 — [Audífonos steelseries](https://www.facebook.com/marketplace/item/1841916543807852) — $850 — Vendedor: Carlos AG
 - 2026-06-23 19:42 — [Control de play para iphone](https://www.facebook.com/marketplace/item/938369315875687) — $850 — Vendedor: Nayely Guadalupe Elizalde Sauceda
+- 2026-11-26 22:37 — [Control Xbox al 100](https://www.facebook.com/marketplace/item/1458497413136879) — $900 — Vendedor: Daniel Gonzalez
 - 2026-11-19 09:05 — [Control Xbox series, one y pc](https://www.facebook.com/marketplace/item/2378773422935665) — $900 — Vendedor: KA CE
 - 2026-11-18 10:27 — [Controles Xbox series, one, pc](https://www.facebook.com/marketplace/item/2120556252163009) — $900 — Vendedor: KA CE
 - 2026-06-26 12:28 — [Control Xbox series S, X, One Pc y celular](https://www.facebook.com/marketplace/item/1044873627896442) — $900 — Vendedor: KA CE
 - 2026-06-22 19:56 — [Controles hori split pad pro](https://www.facebook.com/marketplace/item/1773597353808712) — $900 — Vendedor: Bianey Alejandra Muñoz Herrera
+- 2026-11-25 19:10 — [Control para Xbox](https://www.facebook.com/marketplace/item/1752809079598163) — $1.000 — Vendedor: Ramiro Acosta
 - 2026-11-17 16:53 — [Xbox control](https://www.facebook.com/marketplace/item/1130274739924215) — $1.000 — Vendedor: Vinicio Serrano
 - 2026-07-27 15:33 — [Receptor para control Xbox clásico barato](https://www.facebook.com/marketplace/item/1052591637291796) — $1.111 — Vendedor: Ivan Lopez
 - 2026-11-21 21:26 — [Control Gamesir Supernova](https://www.facebook.com/marketplace/item/29282917544663328) — $1.200 — Vendedor: Sebastian Valenzuela
@@ -144,6 +147,7 @@ Total: 147 anuncios disponibles.
 - 2026-11-24 19:29 — [Volante Logitech g29 PC, PS5 y anteriores ,4 y 3](https://www.facebook.com/marketplace/item/1841509426980200) — $3.500 — Vendedor: Christian M. Velázquez Barajas
 - 2026-11-10 11:58 — [Volante en perfecto estado](https://www.facebook.com/marketplace/item/2531681124281118) — $3.500 — Vendedor: Edith Valencia
 - 2026-08-15 15:44 — [Todos los cables originales info al 6681732757](https://www.facebook.com/marketplace/item/1052687540955432) — $3.500 — Vendedor: Mari Luna
+- 2026-08-10 14:42 — [Tablero Pro Sanwa 🕹️🎮🏰](https://www.facebook.com/marketplace/item/1597028745366617) — $3.500 — Vendedor: Minders Yogui
 - 2026-10-14 15:10 — [Volante de Carreras HORI RWA (Racing Wheel Apex) para PlayStation 5, PlayStation 4 y PC](https://www.facebook.com/marketplace/item/1781708116470573) — $3.700 — Vendedor: Maribel Acosta
 - 2026-11-19 17:34 — [Volante logitech g29 con palanca en H](https://www.facebook.com/marketplace/item/2101808163804250) — $4.000 — Vendedor: Roberto Castañeda Valdez
 - 2026-11-05 07:36 — [Volante Logitech G920](https://www.facebook.com/marketplace/item/1893501318563958) — $4.000 — Vendedor: Juan Carlos Fong

@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 156 anuncios disponibles.
+Total: 155 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -66,7 +66,6 @@ Total: 156 anuncios disponibles.
 - 2026-11-02 21:06 — [🕹️🔥 ¡TABLERO ARCADE! REVIVE LA ÉPOCA DE LOS VIDEOJUEGOS](https://www.facebook.com/marketplace/item/2319670242187170) — $250 — Vendedor: Oscar Gonzales
 - 2026-09-30 00:25 — [Mantenimiento consolas xbox](https://www.facebook.com/marketplace/item/872203189210802) — $250 — Vendedor: Sportclothing LM
 - 2026-06-03 11:17 — [Consolas de videojuegos desde $299, portatil y para tv](https://www.facebook.com/marketplace/item/1737797677239236) — $299 — Vendedor: Angel SG
-- 2026-08-16 19:37 — [Consola Game Joystick clásica Oferta🛑 $400](https://www.facebook.com/marketplace/item/1444465094399505) — $300 — Vendedor: Javier Barraza
 - 2026-07-23 15:40 — [MAGIA para Playstation 5 y Playstation 4](https://www.facebook.com/marketplace/item/895752070259719) — $300 — Vendedor: Jose Carlos Ohashi
 - 2026-07-09 11:35 — [chipeo psp y pongo juegos de diferentes consolas (también de switch)](https://www.facebook.com/marketplace/item/2090132611586269) — $300 — Vendedor: Adrian Corrales Vega
 - 2026-10-27 07:55 — [Mákina con muchos juegos clásicos y modernos..miles..$3500 tel.6681993508](https://www.facebook.com/marketplace/item/1584985079561237) — $350 — Vendedor: Daniel López
@@ -102,6 +101,7 @@ Total: 156 anuncios disponibles.
 - 2026-11-11 16:24 — [CONSOLA R36S❗️👾🕹🎰♦️15 MIL JUEGOS TOP✅️ASSASINS CREED♦️GTA VICE CITY♦️FIFA STREET♦️KOF♦️NFS♦️](https://www.facebook.com/marketplace/item/1512695580919688) — $950 — Vendedor: Eduardo Llamas
 - 2026-09-05 17:30 — [🔴Consola R36S🔴15 Mil Juegos Tendencia En El Mercado‼️Videojuegos Top Arcade Viral👾🕹🎰♦️](https://www.facebook.com/marketplace/item/1439047448084719) — $950 — Vendedor: Eduardo Llamas
 - 2026-09-01 06:20 — [Consola portátil x12](https://www.facebook.com/marketplace/item/1716506049627095) — $950 — Vendedor: Brayan Montenegro
+- 2026-11-26 18:35 — [Nintendo x12 🎁✨juegos precargados de sistemas clásicos como NES, SNES, Game Boy, Sega y arcade📦](https://www.facebook.com/marketplace/item/3515786131933110) — $999 — Vendedor: Marlen Polanco
 - 2026-09-01 06:21 — [Consola R36S Retro Portátil con +15,000 Juegos – Tipo GameBoy](https://www.facebook.com/marketplace/item/27300860549587752) — $999 — Vendedor: Brayan Montenegro
 - 2026-08-17 11:34 — [R36S Consola Retro Portátil | Miles de Juegos Clásicos](https://www.facebook.com/marketplace/item/1035054319237492) — $999 — Vendedor: Brayan Aguilar
 - 2026-08-07 15:35 — [Consolas r36s](https://www.facebook.com/marketplace/item/1402820525084409) — $999 — Vendedor: Brayan Montenegro
@@ -149,7 +149,6 @@ Total: 156 anuncios disponibles.
 - 2026-10-19 17:59 — [Tablero Arcade Avanzado: 98 Consolas Retro, WiFi, Bluetooth, Botones LED [MOC]](https://www.facebook.com/marketplace/item/1447201087477284) — $2.500 — Vendedor: Beltran Luis
 - 2026-10-19 17:11 — [Tablero Arcade Avanzado: 98 Consolas Retro, WiFi, Bluetooth, Botones LED [MOC]](https://www.facebook.com/marketplace/item/28809285002075234) — $2.500 — Vendedor: Jorge Lopez
 - 2026-06-30 09:11 — [Consola Xbox C/Controles](https://www.facebook.com/marketplace/item/1014939507565770) — $2.500 — Vendedor: Montesito Empeños
-- 2026-11-03 22:11 — [PS Portal, vendo o cambio por switch oled](https://www.facebook.com/marketplace/item/1883063236211418) — $3.500 — Vendedor: Diego Edel
 - 2026-08-18 14:35 — [Xbox](https://www.facebook.com/marketplace/item/1993012311399597) — $3.500 — Vendedor: Miriam Lizarraga
 - 2026-02-17 12:03 — [Xbox one fat y ps4](https://www.facebook.com/marketplace/item/1968159517448551) — $3.500 — Vendedor: Alan Figueroa
 - 2026-10-13 00:45 — [Sega cdx](https://www.facebook.com/marketplace/item/1721243378942564) — $4.500 — Vendedor: Jose Ramon Gonzalez Rivera

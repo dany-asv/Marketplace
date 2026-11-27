@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 16 anuncios disponibles.
+Total: 22 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -14,11 +14,17 @@ Total: 16 anuncios disponibles.
 - 2026-07-29 13:23 — [Juegos para Xbox 360 original de 50 y 100 c/u](https://www.facebook.com/marketplace/item/4401802750136699) — $50 — Vendedor: Stargames Valenzuela
 - 2026-07-14 11:05 — [Juegos Xbox 360 OFERTA ESPECIAL](https://www.facebook.com/marketplace/item/980731861632568) — $70 — Vendedor: Dey GE
 - 2026-08-30 21:04 — [Juegos Para Xbox 360 Retro](https://www.facebook.com/marketplace/item/28618831474469936) — $100 — Vendedor: Alejandra Flores
+- 2026-11-26 18:35 — [Juegos para Xbox 360](https://www.facebook.com/marketplace/item/1759996791729017) — $150 — Vendedor: Diego Sampognia
 - 2026-10-08 12:04 — [JUEGOS XBOX 360](https://www.facebook.com/marketplace/item/28766057249657692) — $150 — Vendedor: Luis Carlos Ayala Miranda
+- 2026-11-26 13:57 — [¡Gears of War Xbox 360!](https://www.facebook.com/marketplace/item/1691263539254123) — $170 — Vendedor: Marmoleria Verdugo
+- 2026-11-26 13:46 — [¡Gears of War Xbox 360!](https://www.facebook.com/marketplace/item/1130275273102722) — $170 — Vendedor: Marmolería Verdugo
 - 2026-10-09 17:02 — [Videojuegos para Xbox 360 recién pulidos y calados](https://www.facebook.com/marketplace/item/2280767365799605) — $200 — Vendedor: Stargames Valenzuela
+- 2026-11-26 09:59 — [Juegos 360 Xbox](https://www.facebook.com/marketplace/item/1118256567712241) — $250 — Vendedor: Tafolla Sglt
+- 2026-11-26 09:58 — [Minecraft Xbox 360](https://www.facebook.com/marketplace/item/1825030921758013) — $250 — Vendedor: Tafolla Sglt
 - 2026-10-08 20:20 — [Lote juegos Xbox 360 en 300](https://www.facebook.com/marketplace/item/2175703623290886) — $300 — Vendedor: Jurguen Camacho
 - 2026-11-22 16:24 — [Halo4 xbox 360](https://www.facebook.com/marketplace/item/1180735588240096) — $350 — Vendedor: Noe Vazquez
 - 2026-11-16 16:56 — [Cambio o vendo estos discos de Xbox 360](https://www.facebook.com/marketplace/item/28912692658431428) — $600 — Vendedor: Diego Ventura
+- 2026-11-15 12:05 — [5 juegos Xbox 360 todos por $600](https://www.facebook.com/marketplace/item/28826415920394213) — $600 — Vendedor: Xhavi Manzanarez
 - 2026-11-15 12:05 — [5 juegos Xbox 360 todos por $600](https://www.facebook.com/marketplace/item/2682936752139673) — $600 — Vendedor: Xhavi Manzanarez
 - 2026-11-15 12:05 — [5 juegos Xbox 360 todos por $600](https://www.facebook.com/marketplace/item/2017179318979573) — $600 — Vendedor: Xhavi Manzanarez
 - 2026-11-15 12:05 — [5 juegos Xbox 360 todos por $600](https://www.facebook.com/marketplace/item/1143397324816586) — $600 — Vendedor: Xhavi Manzanarez

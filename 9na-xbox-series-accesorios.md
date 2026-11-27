@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 16 anuncios disponibles.
+Total: 18 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -19,7 +19,9 @@ Total: 16 anuncios disponibles.
 - 2026-10-01 21:42 — [Control Xbox series S/X](https://www.facebook.com/marketplace/item/4571267013117011) — $700 — Vendedor: Rodrigo Herrera
 - 2026-08-14 13:54 — [Control de Xbox series X/S](https://www.facebook.com/marketplace/item/1790133102125041) — $700 — Vendedor: Luis Ochoa
 - 2026-09-07 21:02 — [Control Xbox Series S Azul Tornasol](https://www.facebook.com/marketplace/item/949423074321585) — $750 — Vendedor: Victor Juárez
+- 2026-11-26 17:36 — [Control inalámbrico Xbox series S X 100% funcional garantía 1 mes](https://www.facebook.com/marketplace/item/1956174728694664) — $800 — Vendedor: Stargames Valenzuela
 - 2026-07-03 12:08 — [Control XBOX SERIES](https://www.facebook.com/marketplace/item/1659292208705585) — $800 — Vendedor: Geovanny Cota
+- 2026-11-26 23:05 — [Control de Xbox Series S](https://www.facebook.com/marketplace/item/1542270847959813) — $900 — Vendedor: Valentín González Parra
 - 2026-11-17 18:08 — [Control de Xbox Game sir g7 se nuevo](https://www.facebook.com/marketplace/item/30113527374915963) — $900 — Vendedor: Alfonso Wrld
 - 2026-11-13 19:13 — [CONTROLES XBOX SERIES S/X](https://www.facebook.com/marketplace/item/2124136108469490) — $1.299 — Vendedor: Jesus Valdez
 - 2026-11-20 10:49 — [Control para xbox series](https://www.facebook.com/marketplace/item/3011846315862792) — $1.400 — Vendedor: Manuel Ochoa

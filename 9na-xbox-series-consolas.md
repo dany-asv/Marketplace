@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 55 anuncios disponibles.
+Total: 58 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -45,6 +45,7 @@ Total: 55 anuncios disponibles.
 - 2026-11-19 20:32 — [Xbox Series S](https://www.facebook.com/marketplace/item/2633433353838557) — $5.500 — Vendedor: Victor Juárez
 - 2026-10-27 15:36 — [Xbox series S](https://www.facebook.com/marketplace/item/1652499659814866) — $5.500 — Vendedor: Cecilia Carrillo
 - 2026-06-30 11:01 — [Xbox series S 512 Gb](https://www.facebook.com/marketplace/item/1725399321934816) — $5.500 — Vendedor: Antonio Sapien
+- 2026-11-26 22:40 — [🎮 XBOX SERIES S Y SERIES X | VENTA DE MAYOREO Y MENUDEO 🔥](https://www.facebook.com/marketplace/item/2207776137289541) — $6.000 — Vendedor: Eduardo Baldenebro
 - 2026-11-20 13:13 — [XBOX SERIES S](https://www.facebook.com/marketplace/item/1140320275563578) — $6.000 — Vendedor: Carlos Ramos
 - 2026-10-30 16:06 — [Xbox Series S + Juegos](https://www.facebook.com/marketplace/item/1814677796341479) — $6.000 — Vendedor: Fernando Velasquez
 - 2026-05-28 22:12 — [Xbox series s y un volante, un control](https://www.facebook.com/marketplace/item/926068780465822) — $6.000 — Vendedor: Santiago Leyvasoto
@@ -61,7 +62,9 @@ Total: 55 anuncios disponibles.
 - 2026-11-21 21:06 — [Xbox serie s](https://www.facebook.com/marketplace/item/1335017895354640) — $7.500 — Vendedor: Eduardo Baldenebro
 - 2026-10-12 15:57 — [Xbox series](https://www.facebook.com/marketplace/item/1665410331904428) — $7.500 — Vendedor: Treler Anahis
 - 2026-11-13 22:55 — [XBOX SERIES S](https://www.facebook.com/marketplace/item/1126326743588910) — $8.999 — Vendedor: Jesus Valdez
-- 2026-05-29 08:15 — [✨️✨️Consola Xbox Series S 512 GB Blanca✨️✨️🎮NUEVA SELLADA](https://www.facebook.com/marketplace/item/984801464478242) — $8.999 — Vendedor: Abraham Berrelleza
+- 2026-11-24 23:59 — [XBOX SERIES X envío gratis](https://www.facebook.com/marketplace/item/1133570609524684) — $11.900 — Vendedor: Jesús Montes
+- 2026-11-26 18:44 — [Xbox series x](https://www.facebook.com/marketplace/item/2203062733962638) — $13.000 — Vendedor: جاستيلوم دانيال
 - 2026-11-24 16:14 — [Xbox series x digital](https://www.facebook.com/marketplace/item/1870126144012182) — $14.000 — Vendedor: Pepe Pancho
+- 2026-11-26 19:58 — [Xbox x 1Tb](https://www.facebook.com/marketplace/item/1140589075519363) — $14.500 — Vendedor: Lucia Perez
 - 2026-11-23 23:01 — [VENTA DE X-BOX SERIES S🎮🕹️](https://www.facebook.com/marketplace/item/1663120128931877) — $1.000.000 — Vendedor: Jorge Meza
 - 2026-11-23 23:14 — [Se venden XBOX SERIES S](https://www.facebook.com/marketplace/item/1756994138732736) — $2.323.232 — Vendedor: Jesús Montes

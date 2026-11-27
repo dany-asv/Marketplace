@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 51 anuncios disponibles.
+Total: 53 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -22,6 +22,7 @@ Total: 51 anuncios disponibles.
 - 2026-08-06 06:38 — [Organizador Porta Juegos PS5 | Diseño Práctico Y Funcional](https://www.facebook.com/marketplace/item/1834723287906238) — $150 — Vendedor: Maximiliano Araya
 - 2026-08-06 06:38 — [Base Doble Para Controles PS5 | Diseño Práctico Y Elegante](https://www.facebook.com/marketplace/item/1082317347654828) — $190 — Vendedor: Maximiliano Araya
 - 2026-11-01 17:13 — [Dock de carga para control ps5](https://www.facebook.com/marketplace/item/1837533680896463) — $200 — Vendedor: Antonio Vazquez
+- 2026-08-11 12:59 — [Base de carga dual para controles de ps5](https://www.facebook.com/marketplace/item/1534512198451479) — $250 — Vendedor: Antonio Vazquez
 - 2026-11-17 11:37 — [mando para ps5](https://www.facebook.com/marketplace/item/1457343103182997) — $450 — Vendedor: Isabella Dejesus
 - 2026-10-19 16:59 — [Estuche y accesorios p/control PS5 DualSense Edge](https://www.facebook.com/marketplace/item/1608244566878716) — $550 — Vendedor: Julio Hernández
 - 2026-11-02 11:46 — [Enfriador y cargado de ps5](https://www.facebook.com/marketplace/item/1656019812825880) — $600 — Vendedor: Manuel Ochoa
@@ -33,6 +34,7 @@ Total: 51 anuncios disponibles.
 - 2026-07-26 12:15 — [Control original de ps5 sin detalle](https://www.facebook.com/marketplace/item/2582784302155031) — $900 — Vendedor: Rodriguez Cl
 - 2026-07-09 12:05 — [Control PS5](https://www.facebook.com/marketplace/item/1773193670352859) — $900 — Vendedor: Geovanny Cota
 - 2026-11-19 12:09 — [Control de PlayStation 5 NUEVO](https://www.facebook.com/marketplace/item/1680074233818089) — $999 — Vendedor: Az servicios de cómputo LM
+- 2026-11-26 17:54 — [PS5 CONTROL](https://www.facebook.com/marketplace/item/1958852772156233) — $1.000 — Vendedor: Raúl Ibarra Rosas
 - 2026-11-20 15:34 — [CONTROL DE PLAY 5 "NUEVO" - $1,000 PESOS](https://www.facebook.com/marketplace/item/1449572910035164) — $1.000 — Vendedor: Jezuz A Almaraz
 - 2026-10-19 18:38 — [Control para ps5 ¡Ambos joysticks magnéticos TMR con garantía de 5 meses! Imposible que les de drift](https://www.facebook.com/marketplace/item/1113047377756266) — $1.199 — Vendedor: Charo Buelna
 - 2026-11-14 11:51 — [CONTROLES PLAYSTATION 5](https://www.facebook.com/marketplace/item/1394762279138347) — $1.269 — Vendedor: Jesus Valdez

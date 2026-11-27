@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 10 anuncios disponibles.
+Total: 11 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -19,5 +19,6 @@ Total: 10 anuncios disponibles.
 - 2026-11-24 05:59 — ["Fuente de poder de Xbox one fat original"](https://www.facebook.com/marketplace/item/1841317873882335) — $600 — Vendedor: Saul Pacheco
 - 2026-08-05 12:19 — [Fuente de poder para xbox one](https://www.facebook.com/marketplace/item/1792410942117406) — $666 — Vendedor: Chappy Chappy
 - 2026-07-09 21:57 — [Vendo control Xbox One original. Sin drift, sticks bien macizos. Jala al 100. Incluye cable USB. Lis](https://www.facebook.com/marketplace/item/1388071006566488) — $699 — Vendedor: Nahum Olea
+- 2026-11-26 17:35 — [Control inalámbrico para Xbox one s 100% funcional un mes de garantía](https://www.facebook.com/marketplace/item/1154956713593114) — $700 — Vendedor: Stargames Valenzuela
 - 2026-11-15 19:00 — [Vendo combo para Xbox one](https://www.facebook.com/marketplace/item/985112850861928) — $800 — Vendedor: Pedro Carrazco
 

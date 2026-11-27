@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 19 anuncios disponibles.
+Total: 21 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -26,6 +26,8 @@ Total: 19 anuncios disponibles.
 - 2026-11-21 13:03 — [Juego de xbox one, FIFA 23](https://www.facebook.com/marketplace/item/1887395348938014) — $250 — Vendedor: Javier Marquez
 - 2026-10-09 14:09 — [Se vende farcry animal Xbox One 💿](https://www.facebook.com/marketplace/item/1568137417949824) — $250 — Vendedor: Ariel Montoya
 - 2026-09-01 10:35 — [Juegos de XBOX ONE](https://www.facebook.com/marketplace/item/1763190121682751) — $250 — Vendedor: Gilberto Lopez
+- 2026-11-26 13:43 — [FIFA 15 Xbox one](https://www.facebook.com/marketplace/item/1819230415802598) — $300 — Vendedor: Karla Castro
+- 2026-11-26 18:21 — [Caja Original Xbox One](https://www.facebook.com/marketplace/item/4365151053776385) — $350 — Vendedor: Pedro Soto
 - 2026-11-22 23:01 — [Juegos XBOX ONE](https://www.facebook.com/marketplace/item/2188523995076488) — $350 — Vendedor: Juan Alonso Valdés
 - 2026-11-10 16:24 — [Calle of duty modern warfer xbox one](https://www.facebook.com/marketplace/item/1159726583190634) — $350 — Vendedor: JV Cases Mochis
 - 2026-08-01 15:28 — [Juegos para XBOX ONE](https://www.facebook.com/marketplace/item/894443396611840) — $350 — Vendedor: Paula Valenzuela

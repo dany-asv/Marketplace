@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 82 anuncios disponibles.
+Total: 83 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -48,6 +48,7 @@ Total: 82 anuncios disponibles.
 - 2026-10-24 13:25 — [Control de videojuegos compatible con Nintendo switch y computadora](https://www.facebook.com/marketplace/item/1049255571505794) — $300 — Vendedor: Alan S. C. Sanchez
 - 2026-09-30 16:41 — [Control inalámbrico tipo pro para nintendo Switch](https://www.facebook.com/marketplace/item/1623093326497904) — $300 — Vendedor: Stargames Valenzuela
 - 2026-08-20 11:03 — [Protector para nintendo switch oled más gomas](https://www.facebook.com/marketplace/item/1971066360948565) — $300 — Vendedor: Stargames Valenzuela
+- 2026-11-26 20:28 — [Control Switch Inalámbrico](https://www.facebook.com/marketplace/item/1144523141696732) — $320 — Vendedor: Joshua Álvarez Ortiz
 - 2026-10-29 13:49 — [Pro controller para switch y PC de la línea evolutiva de gengar](https://www.facebook.com/marketplace/item/1475254827808560) — $350 — Vendedor: Jonh Lopez
 - 2026-09-17 21:20 — [Funda uso rudo nintendo Swich](https://www.facebook.com/marketplace/item/1870834753885268) — $350 — Vendedor: Alma Valdez
 - 2026-08-28 15:50 — [Memoria de 128gb micro SD original para Nintendo switch](https://www.facebook.com/marketplace/item/1128289490198218) — $350 — Vendedor: Antoni Tony

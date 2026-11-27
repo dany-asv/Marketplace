@@ -6,7 +6,7 @@ Anuncios disponibles de videojuegos en Facebook Marketplace, Los Mochis, Sinaloa
 - Ordenados de menor a mayor precio.
 - Estado "disponible" según Facebook al momento de la consulta. Los precios que parecen errores (GRATIS, $1, $4, etc.) se dejan tal cual, hay que confirmarlos con el vendedor.
 
-Total: 20 anuncios disponibles.
+Total: 21 anuncios disponibles.
 
 ## Disponibles (de menor a mayor precio)
 
@@ -14,17 +14,18 @@ Total: 20 anuncios disponibles.
 - 2026-11-25 10:16 — [PlayStation 5 Slim](https://www.facebook.com/marketplace/item/29058223927133716) — $123 — Vendedor: Emi CM
 - 2026-08-19 15:28 — [PlayStation 5](https://www.facebook.com/marketplace/item/1728037538499285) — $6.000 — Vendedor: Julio Castro
 - 2026-08-19 09:53 — [PlayStation 5](https://www.facebook.com/marketplace/item/2261418584653193) — $6.700 — Vendedor: Julio Castro
+- 2026-08-29 13:53 — [PlayStation 5](https://www.facebook.com/marketplace/item/886747690982549) — $7.000 — Vendedor: Julio Castro
 - 2026-09-08 18:49 — [PlayStation 5 + cargador](https://www.facebook.com/marketplace/item/1595380362052410) — $7.500 — Vendedor: Julio Castro
 - 2026-08-28 14:22 — [PlayStation 5 slim de disco + 2 juegos](https://www.facebook.com/marketplace/item/1891783745537683) — $7.500 — Vendedor: Julio Castro
 - 2026-09-28 20:44 — [PlayStation 5 slim + FC26](https://www.facebook.com/marketplace/item/2228000091101823) — $7.600 — Vendedor: Julio Castro
 - 2026-10-09 14:23 — [PlayStation 5 + Juego + base de carga](https://www.facebook.com/marketplace/item/1570437731521786) — $8.000 — Vendedor: Julio Castro
 - 2026-06-21 23:06 — [Ps5 salimos digital y discp](https://www.facebook.com/marketplace/item/1535600208167358) — $8.000 — Vendedor: Abraham Peralta Sr.
-- 2026-11-24 22:57 — [Ps5](https://www.facebook.com/marketplace/item/973103685603666) — $8.500 — Vendedor: Héctor Peñuelas
 - 2026-11-18 19:57 — [Playstation 5](https://www.facebook.com/marketplace/item/1141110318316005) — $8.500 — Vendedor: Josue Iras
 - 2026-11-22 17:51 — [Ps5 Slim 1 tb](https://www.facebook.com/marketplace/item/1157492806916523) — $10.500 — Vendedor: Guerrero Raul
 - 2026-11-23 15:30 — [Ps5 fat con lector](https://www.facebook.com/marketplace/item/1143054698431579) — $11.000 — Vendedor: Pepe Pancho
 - 2026-11-20 15:34 — [Ps5](https://www.facebook.com/marketplace/item/2634005337044663) — $12.000 — Vendedor: Ivan Ungson
 - 2026-11-19 23:59 — [Play station 5 NUEVA SELLADA✨](https://www.facebook.com/marketplace/item/1432969915657150) — $12.500 — Vendedor: Nick Valladares
+- 2026-11-24 09:48 — [Play station 5 NUEVA SELLADA✨](https://www.facebook.com/marketplace/item/2335656693923241) — $12.999 — Vendedor: Alexander Ayala
 - 2026-11-22 11:05 — [Play station 5 NUEVA SELLADA ✨](https://www.facebook.com/marketplace/item/994587923212744) — $12.999 — Vendedor: Alexander Ayala
 - 2026-11-22 11:01 — [Play station 5 TOTALMENTE NUEVA](https://www.facebook.com/marketplace/item/1124199823563526) — $12.999 — Vendedor: Nick Valladares
 - 2026-11-11 06:35 — [Ps5 pro 4tb SSD](https://www.facebook.com/marketplace/item/2353400685405589) — $14.000 — Vendedor: Jose Nava
